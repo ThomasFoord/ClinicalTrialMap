@@ -1,0 +1,896 @@
+,merclng,merclat,locations,latitude,longitude,number,radius,HTML
+2,-181976.75458703414,7363080.99091819,Newcastle upon Tyne Hospitals NHS Foundation Trust,55.0062592,-1.634725,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16168569' target='_blank'><div>ISRCTN16168569</div></a></td>
+      <td>Nasal airway obstruction study - NAIROS</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>378</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN55284102' target='_blank'><div>ISRCTN55284102</div></a></td>
+      <td>The National Trial of Tonsillectomy in Adults</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>645</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN20582523' target='_blank'><div>ISRCTN20582523</div></a></td>
+      <td>Cognitive behavioural therapy (CBT) for dysphonia: a trial platform</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>62</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN47891548' target='_blank'><div>ISRCTN47891548</div></a></td>
+      <td>NESTAC: North of England Study of Tonsillectomy and Adeno-tonsillectomy in ...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>406</td>
+    </tr>
+  </tbody>
+</table>"
+4,-14921.27567787947,6714611.999375625,University College London,51.52455920000001,-0.1340401,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN34622173' target='_blank'><div>ISRCTN34622173</div></a></td>
+      <td>The effect of surgical approach on hearing preservation in cochlear implant...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>54</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN36962030' target='_blank'><div>ISRCTN36962030</div></a></td>
+      <td>Defining best management in adult chronic rhinosinusitis</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>600</td>
+    </tr>
+  </tbody>
+</table>"
+5,-19154.466482071603,6719549.4513150705,Royal Free London NHS Foundation Trust,51.5521469,-0.1720675,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN68055393' target='_blank'><div>ISRCTN68055393</div></a></td>
+      <td>Comparison of transnasal oesophagoscopy versus standard care for patients p...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+7,-173105.45946283842,7133628.765905515,University of Leeds,53.8066815,-1.5550328,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN69465849' target='_blank'><div>ISRCTN69465849</div></a></td>
+      <td>Hearing aids, mild hearing loss and tinnitus</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+12,-132804.10798857908,6971867.107989617,University of Nottingham,52.93978269999999,-1.1929996,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13575206' target='_blank'><div>ISRCTN13575206</div></a></td>
+      <td>Feasibility of an online rehabilitation program</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN61668996' target='_blank'><div>ISRCTN61668996</div></a></td>
+      <td>Cost-effectiveness of screening for permanent hearing loss in children at s...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>570</td>
+    </tr>
+  </tbody>
+</table>"
+15,-288495.2695133245,6709912.247835172,North Bristol NHS Trust,51.4982841,-2.5915971,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN02147658' target='_blank'><div>ISRCTN02147658</div></a></td>
+      <td>Balloon Eustachian Tuboplast (BET)</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN04939619' target='_blank'><div>ISRCTN04939619</div></a></td>
+      <td>Are topical antibiotics required for the treatment of otitis externa?</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>55</td>
+    </tr>
+  </tbody>
+</table>"
+18,-330095.57472980337,7058225.529810573,University of Liverpool,53.40478239999999,-2.965299,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN93008420' target='_blank'><div>ISRCTN93008420</div></a></td>
+      <td>Visual scanning training for loss of vision in half the visual field (hemia...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>142</td>
+    </tr>
+  </tbody>
+</table>"
+20,-155375.22567792505,6609823.30843706,University of Southampton,50.9351092,-1.3957594,6.0,12.132827525593784,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14644286' target='_blank'><div>ISRCTN14644286</div></a></td>
+      <td>Remote care of cochlear implant users</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN55208702' target='_blank'><div>ISRCTN55208702</div></a></td>
+      <td>Study of autoinflation in 4-11 year old school children with glue ear</td>
+      <td>Device</td>
+      <td>Child</td>
+      <td>294</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN88204146' target='_blank'><div>ISRCTN88204146</div></a></td>
+      <td>Steam inhalation and Nasal Irrigation For recurrent Sinusitis</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>316</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN71172551' target='_blank'><div>ISRCTN71172551</div></a></td>
+      <td>An evaluation of the self-use of bulb syringes for the self-treatment of ea...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>236</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN53286030' target='_blank'><div>ISRCTN53286030</div></a></td>
+      <td>A controlled trial of Probiotics in the prevention of episodes of otitis me...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN38988331' target='_blank'><div>ISRCTN38988331</div></a></td>
+      <td>A double-blind randomised placebo-controlled trial of topical nasal steroid...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>"
+27,-289762.31908948265,6702786.54140238,University of Bristol,51.4584172,-2.6029792,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12873692' target='_blank'><div>ISRCTN12873692</div></a></td>
+      <td>The Runny Ear STudy (REST)</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>399</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN09599764' target='_blank'><div>ISRCTN09599764</div></a></td>
+      <td>Children's drops for ear pain in acute otitis media: the CEDAR randomised c...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>1002</td>
+    </tr>
+  </tbody>
+</table>"
+31,-19466.828973237527,6710008.469052965,Imperial College London,51.49882220000001,-0.1748735,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN91943864' target='_blank'><div>ISRCTN91943864</div></a></td>
+      <td>A study investigating the possibility and practicality of assessing and tre...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>95</td>
+    </tr>
+  </tbody>
+</table>"
+32,-353869.5329130179,6707828.061418129,Cardiff University,51.48662710000001,-3.1788641,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN49798431' target='_blank'><div>ISRCTN49798431</div></a></td>
+      <td>Oral steroids for resolution of otitis media with effusion in children</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>380</td>
+    </tr>
+  </tbody>
+</table>"
+39,-129447.76968141648,6981081.701203768,Nottingham University Hospitals NHS Trust,52.9896393,-1.1628491,5.0,11.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14218416' target='_blank'><div>ISRCTN14218416</div></a></td>
+      <td>Hearing Aids for Tinnitus with Hearing Loss (HUSH)</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17692172' target='_blank'><div>ISRCTN17692172</div></a></td>
+      <td>m-health technologies for hearing aid users</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>77</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13059163' target='_blank'><div>ISRCTN13059163</div></a></td>
+      <td>Manualisation and feasibility study of audiologist-delivered counselling fo...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11486888' target='_blank'><div>ISRCTN11486888</div></a></td>
+      <td>Evaluation of interactive videos for hearing aid users</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN33301739' target='_blank'><div>ISRCTN33301739</div></a></td>
+      <td>Cochlear implantation in patients with single-sided deafness</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>10</td>
+    </tr>
+  </tbody>
+</table>"
+53,-199888.09405151912,7133518.919763908,Bradford Teaching Hospitals NHS Foundation Trust,53.8060988,-1.7956253,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN28090877' target='_blank'><div>ISRCTN28090877</div></a></td>
+      <td>Feasibility of a trial of the ACE programme for NHS patients with hearing i...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>112</td>
+    </tr>
+  </tbody>
+</table>"
+66,-330515.80580754793,7058929.899845879,Liverpool School of Tropical Medicine,53.40855440000001,-2.969074,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN85509051' target='_blank'><div>ISRCTN85509051</div></a></td>
+      <td>Nose and throat study</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>45</td>
+    </tr>
+  </tbody>
+</table>"
+68,-159707.9806346827,6609566.652367846,Southampton University Hospitals NHS Trust,50.93365619999999,-1.4346812,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN03307358' target='_blank'><div>ISRCTN03307358</div></a></td>
+      <td>Effect of early intervention for permanent childhood hearing impairment on ...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>144</td>
+    </tr>
+  </tbody>
+</table>"
+71,-117082.70120672479,7159956.564079147,University of York,53.9461089,-1.0517718,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN36452009' target='_blank'><div>ISRCTN36452009</div></a></td>
+      <td>Comparing mental well-being of people with hearing loss who have been partn...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>162</td>
+    </tr>
+  </tbody>
+</table>"
+99,-15299.205349122634,6714813.893758078,University College London Hospitals NHS Foundation Trust,51.5256876,-0.1374351,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN90201732' target='_blank'><div>ISRCTN90201732</div></a></td>
+      <td>Laryngeal reinnervation versus thyroplasty in patients with unilateral voca...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+135,-216069.76240000725,6882322.40535961,University Hospitals Birmingham NHS Foundation Trust,52.4522917,-1.9409877,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN62534664' target='_blank'><div>ISRCTN62534664</div></a></td>
+      <td>RAPIER: Can a new hearing referral pathway reduce the time taken to diagnos...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>1200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN98453768' target='_blank'><div>ISRCTN98453768</div></a></td>
+      <td>Human feasibility study of an implantable middle ear microphone</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>6</td>
+    </tr>
+  </tbody>
+</table>"
+144,-10435.022275266989,6704483.374082789,King's College Hospital NHS Foundation Trust,51.4679138,-0.0937394,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN66216819' target='_blank'><div>ISRCTN66216819</div></a></td>
+      <td>OCTOME study</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+160,-120620.79084650557,7164473.235862453,York Teaching Hospital NHS Foundation Trust,53.9699817,-1.083555,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN87077451' target='_blank'><div>ISRCTN87077451</div></a></td>
+      <td>Does Diamox have a significant effect on intraocular pressure after a Lucen...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>24</td>
+    </tr>
+  </tbody>
+</table>"
+176,-126341.62192981176,6914257.025768537,University Hospitals of Leicester NHS Trust,52.62677189999999,-1.1349461,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN61835374' target='_blank'><div>ISRCTN61835374</div></a></td>
+      <td>A study of the influence of pheromones on superosmia</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN50895907' target='_blank'><div>ISRCTN50895907</div></a></td>
+      <td>A double-blinded randomised controlled trial of the effects of sodium citra...</td>
+      <td>Drug</td>
+      <td>All</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+222,-389286.28531881014,7033341.626065807,Betsi Cadwaladr University Health Board,53.2713109,-3.4970182,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN31892374' target='_blank'><div>ISRCTN31892374</div></a></td>
+      <td>Live Voice Auditory Training RCT 1.1</td>
+      <td>Other</td>
+      <td>Senior</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+228,-13365.685981585186,6714388.318265595,Institute of Child Health,51.523309,-0.120066,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN39982239' target='_blank'><div>ISRCTN39982239</div></a></td>
+      <td>Gentamicin, genetic variation and deafness in preterm children</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>300</td>
+    </tr>
+  </tbody>
+</table>"
+249,-155054.02441919013,6609910.357822417,University of Southampton Auditory Implant Service,50.935602,-1.392874,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN51668922' target='_blank'><div>ISRCTN51668922</div></a></td>
+      <td>Cochlear implant home care</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>2750</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14882247' target='_blank'><div>ISRCTN14882247</div></a></td>
+      <td>Getting ready for cochlear implant assessment using online tools at home</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+323,548920.327547708,6864720.226688474,Audion Therapeutics BV,52.3558226,4.9310352,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN59733689' target='_blank'><div>ISRCTN59733689</div></a></td>
+      <td>A first-in-human study of the safety and efficacy of a new drug, a gamma se...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>62</td>
+    </tr>
+  </tbody>
+</table>"
+367,-11674304.061606806,4799564.523743085,Cochlear Ltd (Australia),39.5416955,-104.8720577,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13600782' target='_blank'><div>ISRCTN13600782</div></a></td>
+      <td>New tests for remote monitoring of cochlear implants</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+431,-13140.0525056963,6713423.546911105,Medical Research Council (MRC),51.5179163,-0.1180391,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN35793977' target='_blank'><div>ISRCTN35793977</div></a></td>
+      <td>Trial of alternative regimens in glue ear treatment - effectiveness of surg...</td>
+      <td>Other</td>
+      <td>Senior</td>
+      <td>590</td>
+    </tr>
+  </tbody>
+</table>"
+536,362.2892827867089,6724146.860561627,Whipps Cross University Hospital,51.5778196,0.0032545,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN40512708' target='_blank'><div>ISRCTN40512708</div></a></td>
+      <td>Corneal Glue Study: effect of corneal adhesive on preventing fluid ingress ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>"
+815,-39711.013082633566,6590992.67541023,Acorus Therapeutics Ltd,50.8283833,-0.3567301,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN38568489' target='_blank'><div>ISRCTN38568489</div></a></td>
+      <td>Gentamicin hydrocortisone formulations in Otitis Externa Study (GOES)</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>150</td>
+    </tr>
+  </tbody>
+</table>"
+882,17113.022868210075,6842778.026840508,Cambridge Hearing Trust; Health Enterprise East,52.2352724,0.1537289,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13818722' target='_blank'><div>ISRCTN13818722</div></a></td>
+      <td>Exploring interventions over the watchful waiting period for children with ...</td>
+      <td>Device</td>
+      <td>Child</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+883,-400619.3775860519,7533184.620989427,British Society of Audiology,55.8730486,-3.5988251,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13818722' target='_blank'><div>ISRCTN13818722</div></a></td>
+      <td>Exploring interventions over the watchful waiting period for children with ...</td>
+      <td>Device</td>
+      <td>Child</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+968,1368551.8789819775,7508552.424236595,Oticon A/S,55.74870860000001,12.2939107,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15178771' target='_blank'><div>ISRCTN15178771</div></a></td>
+      <td>Efficacy of a combination hearing aid and sound generator</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>80</td>
+    </tr>
+  </tbody>
+</table>"
+974,-128746.83537568756,6981545.164115471,"Nottingham University Hospitals NHS Trust, Research and Innovation",52.9921454,-1.1565525,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11296341' target='_blank'><div>ISRCTN11296341</div></a></td>
+      <td>Feasibility and effectiveness of Ida Telecare tools for audiology patients</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>56</td>
+    </tr>
+  </tbody>
+</table>"
+1121,-14899.701960563734,6714220.355716489,"Royal National Throat, Nose and Ear Hospital",51.5223702,-0.1338463,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN52870636' target='_blank'><div>ISRCTN52870636</div></a></td>
+      <td>The role of mitomycin C (MMC) in Endoscopic Sinus Surgery (ESS) to the fron...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>"
+1146,102577.83834805572,6786343.287849045,Health Education East of England (HEEoE),51.9237117,0.9214724000000001,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13818722' target='_blank'><div>ISRCTN13818722</div></a></td>
+      <td>Exploring interventions over the watchful waiting period for children with ...</td>
+      <td>Device</td>
+      <td>Child</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+1192,-14827.812031357762,6709852.226837003,Department of Health,51.49794844005473,-0.13320050177820006,7.0,13.090619551221675,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN86475012' target='_blank'><div>ISRCTN86475012</div></a></td>
+      <td>Advances in vestibular rehabilitation: use of videos and visual motion</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>75</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN84244658' target='_blank'><div>ISRCTN84244658</div></a></td>
+      <td>The use of Sambucus Comp. in the treatment of postnasal drip</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>376</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN82643736' target='_blank'><div>ISRCTN82643736</div></a></td>
+      <td>Optimising local anaesthesia for grommet insertion</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN26015483' target='_blank'><div>ISRCTN26015483</div></a></td>
+      <td>Morbidity associated with perioperative intravenous fluid in children under...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN44896217' target='_blank'><div>ISRCTN44896217</div></a></td>
+      <td>A randomised trial of Bascom's procedure versus cleft closure for the manag...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>55</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN27163398' target='_blank'><div>ISRCTN27163398</div></a></td>
+      <td>The effect of post-operative nasal packing on mucociliary activity</td>
+      <td>Procedure/Surgery</td>
+      <td>Not Specified</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN74171163' target='_blank'><div>ISRCTN74171163</div></a></td>
+      <td>Interventions for mild to moderate permanent childhood hearing impairments ...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>"

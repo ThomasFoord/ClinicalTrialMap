@@ -1,0 +1,3901 @@
+,merclng,merclat,locations,latitude,longitude,number,radius,HTML
+0,-139635.47344398804,6755913.94771293,University of Oxford,51.7548164,-1.2543668,9.0,14.652123889719707,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN40092247' target='_blank'><div>ISRCTN40092247</div></a></td>
+      <td>UKOSS: Pandemic COVID-19 in pregnancy</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10035244' target='_blank'><div>ISRCTN10035244</div></a></td>
+      <td>Self-weighing in pregnancy: experiences</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10268851' target='_blank'><div>ISRCTN10268851</div></a></td>
+      <td>A randomised controlled trial of frenotomy or breastfeeding support for bab...</td>
+      <td>Mixed</td>
+      <td>Neonate</td>
+      <td>870</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11166984' target='_blank'><div>ISRCTN11166984</div></a></td>
+      <td>ANODE: Prophylactic antibiotics for the prevention of infection following o...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>3424</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10838017' target='_blank'><div>ISRCTN10838017</div></a></td>
+      <td>The Pregnancy Physiology Pattern Prediction Study (4P Study)</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN76463425' target='_blank'><div>ISRCTN76463425</div></a></td>
+      <td>Speed of Increasing milk Feeds Trial</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>2800</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN35706297' target='_blank'><div>ISRCTN35706297</div></a></td>
+      <td>A study of position during the late stages of labour in women with an epidu...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>3000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN98680152' target='_blank'><div>ISRCTN98680152</div></a></td>
+      <td>A multicentre randomised controlled trial of an intelligent system to suppo...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>46000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16018898' target='_blank'><div>ISRCTN16018898</div></a></td>
+      <td>OPTIMUM: Optimising titration and monitoring of maternal blood pressure</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>160</td>
+    </tr>
+  </tbody>
+</table>"
+1,-67739.89163464309,6664057.162404566,Royal Surrey County Hospital NHS Foundation Trust,51.2411243,-0.6085178,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN23488518' target='_blank'><div>ISRCTN23488518</div></a></td>
+      <td>A randomised controlled trial to compare conception rates for preconception...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>140</td>
+    </tr>
+  </tbody>
+</table>"
+2,-181976.75458703414,7363080.99091819,Newcastle upon Tyne Hospitals NHS Foundation Trust,55.0062592,-1.634725,11.0,15.898961024049783,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN41944844' target='_blank'><div>ISRCTN41944844</div></a></td>
+      <td>Understanding the relationship between uterine artery Doppler measurements ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>294</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15509950' target='_blank'><div>ISRCTN15509950</div></a></td>
+      <td>A trial of egg recovery rates for IVF using a collection chamber that provi...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>749</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN87845776' target='_blank'><div>ISRCTN87845776</div></a></td>
+      <td>Dabigatran Presence in Breast Milk (DALMATION)</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17505466' target='_blank'><div>ISRCTN17505466</div></a></td>
+      <td>WEight Loss Looking for Baby And mum's BEtter outcomes (WELLBABE)</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN01058191' target='_blank'><div>ISRCTN01058191</div></a></td>
+      <td>EACH study: Evaluation of Array Comparative genomic Hibridisation in prenat...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>3000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14646651' target='_blank'><div>ISRCTN14646651</div></a></td>
+      <td>Optimising Baby to Breast Attachment (OBBA)</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>188</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17262711' target='_blank'><div>ISRCTN17262711</div></a></td>
+      <td>Medical versus surgical termination of pregnancy at 13 - 20 weeks</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>130</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN56847191' target='_blank'><div>ISRCTN56847191</div></a></td>
+      <td>Hyperemesis in Pregnancy study</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN03365778' target='_blank'><div>ISRCTN03365778</div></a></td>
+      <td>Bedding-in on the post-natal ward</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>90</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN62354584' target='_blank'><div>ISRCTN62354584</div></a></td>
+      <td>Support and Reassurance in Antenatal Care</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>764</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN76982667' target='_blank'><div>ISRCTN76982667</div></a></td>
+      <td>A cluster randomised controlled trial of selective consent for the second t...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1466</td>
+    </tr>
+  </tbody>
+</table>"
+4,-14921.27567787947,6714611.999375625,University College London,51.52455920000001,-0.1340401,6.0,12.132827525593784,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN86323684' target='_blank'><div>ISRCTN86323684</div></a></td>
+      <td>The EPICure2 Study: educational and health outcomes at 11 years of age foll...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>1040</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN83611527' target='_blank'><div>ISRCTN83611527</div></a></td>
+      <td>Screening programme for pre-eclampsia</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>16850</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10728897' target='_blank'><div>ISRCTN10728897</div></a></td>
+      <td>Organisation of Early Pregnancy Units and its effects on quality of care</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>6600</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN03259732' target='_blank'><div>ISRCTN03259732</div></a></td>
+      <td>Start At The Beginning: a nutrition and lifestyle digital intervention for ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN08678682' target='_blank'><div>ISRCTN08678682</div></a></td>
+      <td>Supporting young mothers (aged 14-25) in the first two years of life: a ran...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13633058' target='_blank'><div>ISRCTN13633058</div></a></td>
+      <td>First Trimester Aspirin Trial</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>1760</td>
+    </tr>
+  </tbody>
+</table>"
+7,-173105.45946283842,7133628.765905515,University of Leeds,53.8066815,-1.5550328,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN99214271' target='_blank'><div>ISRCTN99214271</div></a></td>
+      <td>HABSelect: a new sperm selection process for ICSI (Intracytoplasmic Sperm I...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>3730</td>
+    </tr>
+  </tbody>
+</table>"
+9,60285.994190870886,6688692.997519654,Medway NHS Foundation Trust,51.37946400000001,0.5415582999999999,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12216455' target='_blank'><div>ISRCTN12216455</div></a></td>
+      <td>Complications in pregnancies with big babies</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11893931' target='_blank'><div>ISRCTN11893931</div></a></td>
+      <td>Prevention of stillbirths from vasa praevia</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10984408' target='_blank'><div>ISRCTN10984408</div></a></td>
+      <td>Prediction of adverse pregnancy outcomes following induction of labour</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1000</td>
+    </tr>
+  </tbody>
+</table>"
+10,-125193.51722956625,6913224.121171489,University of Leicester,52.6211393,-1.1246325,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17299860' target='_blank'><div>ISRCTN17299860</div></a></td>
+      <td>Baby Steps- Walking Away from Gestational Diabetes</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>290</td>
+    </tr>
+  </tbody>
+</table>"
+11,-214903.77978954036,6882052.998582191,University of Birmingham,52.4508168,-1.9305135,16.0,18.227062322935723,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12792616' target='_blank'><div>ISRCTN12792616</div></a></td>
+      <td>The Giant PANDA study: which blood pressure medication is best for pregnant...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>2300</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17527512' target='_blank'><div>ISRCTN17527512</div></a></td>
+      <td>Antibiotic (cefuroxime) levels after caesarean section</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN26790237' target='_blank'><div>ISRCTN26790237</div></a></td>
+      <td>Place of birth choices for healthy low-risk women: A comparison of a standa...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>185</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN91556363' target='_blank'><div>ISRCTN91556363</div></a></td>
+      <td>Pilot antioxidant therapy of men in unexplained miscarriage: the pAToMiUM t...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN21828561' target='_blank'><div>ISRCTN21828561</div></a></td>
+      <td>Men living through multiple miscarriages: a qualitative exploration of expe...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15586426' target='_blank'><div>ISRCTN15586426</div></a></td>
+      <td>A pilot trial to evaluate the benefit of using ultrasound during surgical m...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>90</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17405024' target='_blank'><div>ISRCTN17405024</div></a></td>
+      <td>A trial to test if using a combination of drugs (mifepristone followed by m...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>710</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14760978' target='_blank'><div>ISRCTN14760978</div></a></td>
+      <td>ABA infant feeding study</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14163439' target='_blank'><div>ISRCTN14163439</div></a></td>
+      <td>PRISM: Progesterone in spontaneous miscarriage</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>4150</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN67427351' target='_blank'><div>ISRCTN67427351</div></a></td>
+      <td>Effectiveness of regular weighing and feedback by community midwives in pre...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>490</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN29654603' target='_blank'><div>ISRCTN29654603</div></a></td>
+      <td>Remifentanil intravenous patient controlled analgesia (PCA) versus intramus...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN81605162' target='_blank'><div>ISRCTN81605162</div></a></td>
+      <td>Preventing excessive weight gain in pregnant women</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>90</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15948785' target='_blank'><div>ISRCTN15948785</div></a></td>
+      <td>Thyroid AntiBodies and LEvoThyroxine study (TABLET)</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>900</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN35027323' target='_blank'><div>ISRCTN35027323</div></a></td>
+      <td>Evaluation of Lay Support In Pregnant women with Social risk</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1316</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN23847193' target='_blank'><div>ISRCTN23847193</div></a></td>
+      <td>High or Low Dose Syntocinon (Oxytocin) for delay in labour</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN89131885' target='_blank'><div>ISRCTN89131885</div></a></td>
+      <td>An evaluation of the relative effectiveness of interventions based on the t...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>918</td>
+    </tr>
+  </tbody>
+</table>"
+12,-132804.10798857908,6971867.107989617,University of Nottingham,52.93978269999999,-1.1929996,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN37730443' target='_blank'><div>ISRCTN37730443</div></a></td>
+      <td>Pilot study for obstetric cholestasis trial</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>125</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN07249128' target='_blank'><div>ISRCTN07249128</div></a></td>
+      <td>Double-blind, randomised, placebo-controlled trial of nicotine replacement ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1050</td>
+    </tr>
+  </tbody>
+</table>"
+14,-331970.6179688271,7650185.350090201,University of Dundee,56.45824469999999,-2.9821428,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN69736659' target='_blank'><div>ISRCTN69736659</div></a></td>
+      <td>Randomised controlled trial of restrictive versus routine use of episiotomy...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>"
+15,-288495.2695133245,6709912.247835172,North Bristol NHS Trust,51.4982841,-2.5915971,6.0,12.132827525593784,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18018389' target='_blank'><div>ISRCTN18018389</div></a></td>
+      <td>Antenatal Care Education (ACE): The co-design and piloting of interventions...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>611</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN38829082' target='_blank'><div>ISRCTN38829082</div></a></td>
+      <td>The BD Odon Device™ for assisted vaginal birth</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>104</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN70998989' target='_blank'><div>ISRCTN70998989</div></a></td>
+      <td>Training in assisted birth: the TAB study</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10203171' target='_blank'><div>ISRCTN10203171</div></a></td>
+      <td>The BD Odon Device for assisted vaginal birth</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>48</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11760611' target='_blank'><div>ISRCTN11760611</div></a></td>
+      <td>The Simulation Training for Operative vaginal Birth – Evaluation (STROBE) s...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>2400</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10232550' target='_blank'><div>ISRCTN10232550</div></a></td>
+      <td>A study comparing three medicines used for the active management of the thi...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>5712</td>
+    </tr>
+  </tbody>
+</table>"
+17,-173822.0898167692,6868991.812706135,University of Warwick,52.3792525,-1.5614704,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN49732312' target='_blank'><div>ISRCTN49732312</div></a></td>
+      <td>Pilot RCT of the use of VIG with preterm babies</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>78</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN78466363' target='_blank'><div>ISRCTN78466363</div></a></td>
+      <td>Heparin improves the lining of the womb's preparation for pregnancy</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+18,-330095.57472980337,7058225.529810573,University of Liverpool,53.40478239999999,-2.965299,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN58254381' target='_blank'><div>ISRCTN58254381</div></a></td>
+      <td>PLANES - placental growth factor led management of the small for gestationa...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16416766' target='_blank'><div>ISRCTN16416766</div></a></td>
+      <td>The carboprost or oxytocin postpartum haemorrhage effectiveness study</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>3948</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15452399' target='_blank'><div>ISRCTN15452399</div></a></td>
+      <td>Post-Partum Haemorrhage Butterfly study (II): clinical testing and commerci...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>118</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11186205' target='_blank'><div>ISRCTN11186205</div></a></td>
+      <td>Prevention of preterm birth</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>39</td>
+    </tr>
+  </tbody>
+</table>"
+19,-247990.80449616374,7068684.4314735355,Manchester University NHS Foundation Trust,53.4607569,-2.2277393,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12695929' target='_blank'><div>ISRCTN12695929</div></a></td>
+      <td>Chronic Hypertension and l-citrulline study</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>42</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN86503951' target='_blank'><div>ISRCTN86503951</div></a></td>
+      <td>Management of Mild Gestational Diabetes Mellitus (GDM)</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN07944306' target='_blank'><div>ISRCTN07944306</div></a></td>
+      <td>Reduced fetal Movements Intervention Trial</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN01121147' target='_blank'><div>ISRCTN01121147</div></a></td>
+      <td>Symptom QUestionnaire to Ameliorate Symptoms of Hyperemesis (SQUASH) trial</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>240</td>
+    </tr>
+  </tbody>
+</table>"
+21,-248674.7959753939,7069823.728924356,University of Manchester,53.4668498,-2.2338837,6.0,12.132827525593784,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17447733' target='_blank'><div>ISRCTN17447733</div></a></td>
+      <td>Better care pathways in pregnancies after stillbirth</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>115</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12067514' target='_blank'><div>ISRCTN12067514</div></a></td>
+      <td>Reduced Fetal Movement Intervention Trial (ReMIT-2)</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>225</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN98260309' target='_blank'><div>ISRCTN98260309</div></a></td>
+      <td>Neurodevelopment of babies born to mothers with epilepsy study</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>385</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN37373893' target='_blank'><div>ISRCTN37373893</div></a></td>
+      <td>The use of oil in baby skincare trial</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN09432573' target='_blank'><div>ISRCTN09432573</div></a></td>
+      <td>To evaluate the impact of attending The Lifestyle Course (TLC) on the healt...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>72</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN29860479' target='_blank'><div>ISRCTN29860479</div></a></td>
+      <td>A community lifestyle programme to improve the well-being of pregnant women...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+  </tbody>
+</table>"
+23,-12912.726973547356,6712273.366431493,King's College London,51.5114864,-0.115997,15.0,17.826061944859852,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN38470689' target='_blank'><div>ISRCTN38470689</div></a></td>
+      <td>How does breathing in extra oxygen during late pregnancy change fetal blood...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11339522' target='_blank'><div>ISRCTN11339522</div></a></td>
+      <td>Can a community-led intervention offering social support and health educati...</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>61</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN52675820' target='_blank'><div>ISRCTN52675820</div></a></td>
+      <td>The GestatiOnal Diabetes future DiabEteS prevention Study (GODDESS) - feasi...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN37733900' target='_blank'><div>ISRCTN37733900</div></a></td>
+      <td>POPPIE: Pilot study Of midwifery Practice in Preterm birth Including women'...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>350</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN91918806' target='_blank'><div>ISRCTN91918806</div></a></td>
+      <td>A trial investigating pregnancy and infant outcomes in women with intrahepa...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>580</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN83768230' target='_blank'><div>ISRCTN83768230</div></a></td>
+      <td>Depression: a trial of antenatal guided self help for women</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>110</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN33298015' target='_blank'><div>ISRCTN33298015</div></a></td>
+      <td>Does feeding during labour influence the outcome?</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1126</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN33404560' target='_blank'><div>ISRCTN33404560</div></a></td>
+      <td>A multicentre randomised controlled trial of transabdominal versus transvag...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>129</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN62368611' target='_blank'><div>ISRCTN62368611</div></a></td>
+      <td>A randomised controlled trial of vitamin C and E supplementation to prevent...</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>2400</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN85912420' target='_blank'><div>ISRCTN85912420</div></a></td>
+      <td>Does repeat placental growth factor blood sample testing reduce harm from p...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1280</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10809239' target='_blank'><div>ISRCTN10809239</div></a></td>
+      <td>Blood pressure in the postnatal period</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN77258279' target='_blank'><div>ISRCTN77258279</div></a></td>
+      <td>When to induce labour to limit risk in pregnancy hypertension</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>1080</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN01879376' target='_blank'><div>ISRCTN01879376</div></a></td>
+      <td>PHOENIX - Pre-eclampsia in HOspital: Early iNductIon or eXpectant managemen...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>900</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15068651' target='_blank'><div>ISRCTN15068651</div></a></td>
+      <td>An investigation into the role of previous in-labour caesarean section in f...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>2200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17846337' target='_blank'><div>ISRCTN17846337</div></a></td>
+      <td>The EQUIPTT Study: Evaluating whether clinicians using the QUIPP app make m...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>580</td>
+    </tr>
+  </tbody>
+</table>"
+24,15764.29818165693,6831813.114718777,Cambridge University Hospitals NHS Foundation Trust,52.1749083,0.1416131,6.0,12.132827525593784,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN65152174' target='_blank'><div>ISRCTN65152174</div></a></td>
+      <td>Dietary intervention in gestational diabetes</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN56204499' target='_blank'><div>ISRCTN56204499</div></a></td>
+      <td>Trial of Umbilical and Foetal Flow in Europe: TRUFFLE study</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN71510001' target='_blank'><div>ISRCTN71510001</div></a></td>
+      <td>Closed Loop in Pregnancy Overnight Home Feasibility Study (CLIP-03)</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN71510001' target='_blank'><div>ISRCTN71510001</div></a></td>
+      <td>Closed Loop in Pregnancy Overnight Home Feasibility Study (CLIP-03)</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12181427' target='_blank'><div>ISRCTN12181427</div></a></td>
+      <td>Pregnancy outcome prediction study 2</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>4500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN83316328' target='_blank'><div>ISRCTN83316328</div></a></td>
+      <td>Closed-loop in pregnancy day and night home feasibility study (CLIP 24/7)</td>
+      <td>Device</td>
+      <td>Other</td>
+      <td>16</td>
+    </tr>
+  </tbody>
+</table>"
+27,-289762.31908948265,6702786.54140238,University of Bristol,51.4584172,-2.6029792,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN44902048' target='_blank'><div>ISRCTN44902048</div></a></td>
+      <td>Cognitive therapy for antenatal depression</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>210</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN56341521' target='_blank'><div>ISRCTN56341521</div></a></td>
+      <td>The Preterm Infant Parenting Study</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>250</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN99732966' target='_blank'><div>ISRCTN99732966</div></a></td>
+      <td>The effectiveness and acceptability of using a topically applied local anae...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>170</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN84367722' target='_blank'><div>ISRCTN84367722</div></a></td>
+      <td>A randomised controlled trial of two decision aids for mode of delivery amo...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>660</td>
+    </tr>
+  </tbody>
+</table>"
+29,-436122.32467356534,7587553.341563439,University of Stirling,56.1460908,-3.9177535,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN00522952' target='_blank'><div>ISRCTN00522952</div></a></td>
+      <td>A cluster randomised trial to investigate the use of a decision aid for the...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>4800</td>
+    </tr>
+  </tbody>
+</table>"
+31,-19466.828973237527,6710008.469052965,Imperial College London,51.49882220000001,-0.1748735,5.0,11.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN76016200' target='_blank'><div>ISRCTN76016200</div></a></td>
+      <td>When to deliver small babies between 32 and 37 weeks</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1560</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN29665319' target='_blank'><div>ISRCTN29665319</div></a></td>
+      <td>Nutritional Evaluation and Optimisation in Neonates</td>
+      <td>Supplement</td>
+      <td>Neonate</td>
+      <td>160</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN08886155' target='_blank'><div>ISRCTN08886155</div></a></td>
+      <td>Neuroprotective effects of hypothermia combined with inhaled xenon followin...</td>
+      <td>Drug</td>
+      <td>Neonate</td>
+      <td>92</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN92644181' target='_blank'><div>ISRCTN92644181</div></a></td>
+      <td>Progesterone in recurrent miscarriages (PROMISE) study</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>790</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN89547571' target='_blank'><div>ISRCTN89547571</div></a></td>
+      <td>Whole body hypothermia for the treatment of perinatal asphyxial encephalopa...</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>325</td>
+    </tr>
+  </tbody>
+</table>"
+32,-353869.5329130179,6707828.061418129,Cardiff University,51.48662710000001,-3.1788641,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14733020' target='_blank'><div>ISRCTN14733020</div></a></td>
+      <td>The Plan-it Study: the acceptability and feasibility of a planned pre-pregn...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13315580' target='_blank'><div>ISRCTN13315580</div></a></td>
+      <td>The POOL study: establishing the safety of waterbirth for mothers and babie...</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>600000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN46295339' target='_blank'><div>ISRCTN46295339</div></a></td>
+      <td>Fibrinogen concentrate versus placebo for treatment of postpartum haemorrha...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1050</td>
+    </tr>
+  </tbody>
+</table>"
+35,-166122.46572901995,7053444.597670693,Sheffield Teaching Hospitals NHS Foundation Trust,53.379171,-1.4923035,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN23800982' target='_blank'><div>ISRCTN23800982</div></a></td>
+      <td>Endometrial scratch trial</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1044</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN27626961' target='_blank'><div>ISRCTN27626961</div></a></td>
+      <td>Does magnetic resonance imaging (MRI) improve the accuracy of diagnosis of ...</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>750</td>
+    </tr>
+  </tbody>
+</table>"
+38,-119174.39443873038,6594754.863302128,Portsmouth Hospitals NHS Trust,50.8497257,-1.0705618,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN92877235' target='_blank'><div>ISRCTN92877235</div></a></td>
+      <td>Comparing continuous glucose monitoring with self-monitoring of blood gluco...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+39,-129447.76968141648,6981081.701203768,Nottingham University Hospitals NHS Trust,52.9896393,-1.1628491,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN28960271' target='_blank'><div>ISRCTN28960271</div></a></td>
+      <td>Pilot randomised controlled trial of hysteroscopic septal resection</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN21456601' target='_blank'><div>ISRCTN21456601</div></a></td>
+      <td>Cord Pilot Trial</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>261</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11517275' target='_blank'><div>ISRCTN11517275</div></a></td>
+      <td>Induction of labour versus expectant management for women over 35 years</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>630</td>
+    </tr>
+  </tbody>
+</table>"
+43,-659946.2020520652,7285291.2192702135,University of Ulster,54.6035026,-5.928397599999999,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN19917787' target='_blank'><div>ISRCTN19917787</div></a></td>
+      <td>To determine whether taking folic acid during the later stages of pregnancy...</td>
+      <td>Supplement</td>
+      <td>Mixed</td>
+      <td>125</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN26607527' target='_blank'><div>ISRCTN26607527</div></a></td>
+      <td>Complementary and Alternative Medicine (CAM) for the management of low back...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>90</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN47056748' target='_blank'><div>ISRCTN47056748</div></a></td>
+      <td>Successful breastfeeding promotion: a motivational instructional model appl...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>144</td>
+    </tr>
+  </tbody>
+</table>"
+44,-211322.04177741954,6576048.441885881,Bournemouth University,50.7435102,-1.8983382,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN69770712' target='_blank'><div>ISRCTN69770712</div></a></td>
+      <td>The Let's Talk Early Labour (L-TEL) Trial</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>140</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10755909' target='_blank'><div>ISRCTN10755909</div></a></td>
+      <td>The Ball Assisted Latent Labour trial</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>332</td>
+    </tr>
+  </tbody>
+</table>"
+46,12791.555707818878,6837144.079148998,University of Cambridge,52.2042666,0.1149085,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12181427' target='_blank'><div>ISRCTN12181427</div></a></td>
+      <td>Pregnancy outcome prediction study 2</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>4500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN83316328' target='_blank'><div>ISRCTN83316328</div></a></td>
+      <td>Closed-loop in pregnancy day and night home feasibility study (CLIP 24/7)</td>
+      <td>Device</td>
+      <td>Other</td>
+      <td>16</td>
+    </tr>
+  </tbody>
+</table>"
+56,7242.969272617108,6711582.4310722845,University of East London,51.5076234,0.0650647,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN91977441' target='_blank'><div>ISRCTN91977441</div></a></td>
+      <td>REACH Pregnancy Circles Trial</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>1732</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN66925258' target='_blank'><div>ISRCTN66925258</div></a></td>
+      <td>REACH: Pregnancy circles pilot trial</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>72</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN63066975' target='_blank'><div>ISRCTN63066975</div></a></td>
+      <td>Community intervention to increase early uptake of antenatal care</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>440</td>
+    </tr>
+  </tbody>
+</table>"
+61,-13441.40549922277,6714129.541447256,Great Ormond Street Hospital for Children NHS Foundation Trust,51.5218626,-0.1207462,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN01700960' target='_blank'><div>ISRCTN01700960</div></a></td>
+      <td>Stoma or intestinal anastomosis for necrotising enterocolitis of the neonat...</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>80</td>
+    </tr>
+  </tbody>
+</table>"
+68,-159707.9806346827,6609566.652367846,Southampton University Hospitals NHS Trust,50.93365619999999,-1.4346812,5.0,11.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN89523555' target='_blank'><div>ISRCTN89523555</div></a></td>
+      <td>Assessing the effectiveness of a personalised lifestyle coaching phone appl...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>440</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN73037149' target='_blank'><div>ISRCTN73037149</div></a></td>
+      <td>PROMOTE: A prospective randomised trial comparing embryo development</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN43571276' target='_blank'><div>ISRCTN43571276</div></a></td>
+      <td>Feasibility study of a coping Intervention for recurrent miscarriage</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN50956936' target='_blank'><div>ISRCTN50956936</div></a></td>
+      <td>PREPARE (PREconcePtional diet in Assisted Reproductive tEchnology): Preconc...</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>220</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN07227232' target='_blank'><div>ISRCTN07227232</div></a></td>
+      <td>SPRING: Southampton pregnancy intervention for the next generation</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>900</td>
+    </tr>
+  </tbody>
+</table>"
+71,-117082.70120672479,7159956.564079147,University of York,53.9461089,-1.0517718,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16227678' target='_blank'><div>ISRCTN16227678</div></a></td>
+      <td>Interactional practices of decision making during childbirth in maternity u...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN19383681' target='_blank'><div>ISRCTN19383681</div></a></td>
+      <td>Assessing the efficacy of an intervention to improve mind-mindedness in tee...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>140</td>
+    </tr>
+  </tbody>
+</table>"
+76,-4494.468781033024,6714523.953950477,Queen Mary University of London,51.5240671,-0.0403745,8.0,13.920296742201792,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN40582975' target='_blank'><div>ISRCTN40582975</div></a></td>
+      <td>Mediterranean diet to prevent type 2 diabetes in mothers who had diabetes i...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>90</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12146519' target='_blank'><div>ISRCTN12146519</div></a></td>
+      <td>Administering cryoprecipitate in obstetric bleeding at an earlier time</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN20930880' target='_blank'><div>ISRCTN20930880</div></a></td>
+      <td>Preventing type 2 diabetes with metformin</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN48872100' target='_blank'><div>ISRCTN48872100</div></a></td>
+      <td>Preventing gestational diabetes with myo-inositol supplement</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN40384046' target='_blank'><div>ISRCTN40384046</div></a></td>
+      <td>Prediction of Risks in Early onset Pre-eclampsia (PREP)</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17792989' target='_blank'><div>ISRCTN17792989</div></a></td>
+      <td>Time Lapse Imaging Trial</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1575</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN74746075' target='_blank'><div>ISRCTN74746075</div></a></td>
+      <td>Accuracy of a rapid intrapartum test for maternal group B streptococcal col...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1720</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN66118656' target='_blank'><div>ISRCTN66118656</div></a></td>
+      <td>Cell SALVage in Obstetrics</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>3050</td>
+    </tr>
+  </tbody>
+</table>"
+84,-252923.78301532974,6983633.7531679515,Keele University,53.00343729999999,-2.272053000000001,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN49955124' target='_blank'><div>ISRCTN49955124</div></a></td>
+      <td>Evaluating acupuncture and standard care for pregnant women with back pain</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>180</td>
+    </tr>
+  </tbody>
+</table>"
+92,-288970.57034316455,6702900.955636583,University Hospitals Bristol NHS Foundation Trust,51.45905759999999,-2.5958668,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN40938673' target='_blank'><div>ISRCTN40938673</div></a></td>
+      <td>Prevention of cerebral palsy in pre-term labour</td>
+      <td>Other</td>
+      <td>Other</td>
+      <td>48</td>
+    </tr>
+  </tbody>
+</table>"
+93,-355024.71753287787,7547378.240693045,University of Edinburgh,55.9445158,-3.1892413,7.0,13.090619551221675,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN32652461' target='_blank'><div>ISRCTN32652461</div></a></td>
+      <td>Home or in-hospital cervical ripening for induction of labour</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>8533</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN70616901' target='_blank'><div>ISRCTN70616901</div></a></td>
+      <td>The effectiveness of bridging from emergency to regular contraception</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>737</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN88609453' target='_blank'><div>ISRCTN88609453</div></a></td>
+      <td>Glycerine Trinitrate for Retained Placenta (GOT-IT Trial)</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>75</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14568373' target='_blank'><div>ISRCTN14568373</div></a></td>
+      <td>Does progesterone prophylaxis to prevent preterm labour improve outcome?: a...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>1125</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN98835694' target='_blank'><div>ISRCTN98835694</div></a></td>
+      <td>A randomised trial in women with a twin pregnancy, using the Arabin pessary...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>2500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN82984919' target='_blank'><div>ISRCTN82984919</div></a></td>
+      <td>A feasibility study investigating pravastatin for the prevention of preterm...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12295730' target='_blank'><div>ISRCTN12295730</div></a></td>
+      <td>Feasibility and design of a trial to determine the optimal mode of delivery...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>525</td>
+    </tr>
+  </tbody>
+</table>"
+96,-233940.7708129778,7793869.012440783,University of Aberdeen,57.16475999999999,-2.1015257,7.0,13.090619551221675,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11640515' target='_blank'><div>ISRCTN11640515</div></a></td>
+      <td>Trial of Hands-on Interprofessional Simulation Training for Local Emergenci...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>15</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN27207603' target='_blank'><div>ISRCTN27207603</div></a></td>
+      <td>Proactive telephone support for breastfeeding women in disadvantaged areas ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN44857041' target='_blank'><div>ISRCTN44857041</div></a></td>
+      <td>A randomised controlled trial to evaluate the clinical and cost effectivene...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>14</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN93314892' target='_blank'><div>ISRCTN93314892</div></a></td>
+      <td>Cryopreservation of human embryos in a modified cryoprotectant solution</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN86466058' target='_blank'><div>ISRCTN86466058</div></a></td>
+      <td>Efficacy and Cost Effectiveness of Selective Single Embryo transfer</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>700</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN61225414' target='_blank'><div>ISRCTN61225414</div></a></td>
+      <td>E-Freeze: Freezing of embryos in assisted conception</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>1086</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN63268739' target='_blank'><div>ISRCTN63268739</div></a></td>
+      <td>Female urgency, trial of Urodynamics as routine evaluation</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1096</td>
+    </tr>
+  </tbody>
+</table>"
+99,-15299.205349122634,6714813.893758078,University College London Hospitals NHS Foundation Trust,51.5256876,-0.1374351,5.0,11.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14959004' target='_blank'><div>ISRCTN14959004</div></a></td>
+      <td>Study of correlation between the extent of spread of cerebro-spinal fluid m...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>31</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11281491' target='_blank'><div>ISRCTN11281491</div></a></td>
+      <td>EPIFEVER: elucidating molecular mechanisms underlying epidural-related mate...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>144</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN23410175' target='_blank'><div>ISRCTN23410175</div></a></td>
+      <td>Statins to Ameliorate early onset Pre-eclampsia</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>64</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN61737241' target='_blank'><div>ISRCTN61737241</div></a></td>
+      <td>The effect of vitamin C and E supplementation in women with a history of tw...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN68958618' target='_blank'><div>ISRCTN68958618</div></a></td>
+      <td>The effect of antioxidant supplementation on women with threatened miscarri...</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>580</td>
+    </tr>
+  </tbody>
+</table>"
+103,-135684.81150742923,6757635.9259120105,Oxford Radcliffe Hospitals NHS Trust,51.764391,-1.2188774,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN87470468' target='_blank'><div>ISRCTN87470468</div></a></td>
+      <td>Prediction of preeclampsia/eclampsia in pregnant women</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>366</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN43151584' target='_blank'><div>ISRCTN43151584</div></a></td>
+      <td>Alternative Labour Pain Strategies Study</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>90</td>
+    </tr>
+  </tbody>
+</table>"
+104,-126888.23402545397,6914819.672328286,De Montfort University,52.6298398,-1.1398564,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN84975637' target='_blank'><div>ISRCTN84975637</div></a></td>
+      <td>Development and preliminary evaluation of an intervention package to suppor...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>225</td>
+    </tr>
+  </tbody>
+</table>"
+107,-65619.09948774411,6664416.1057942845,University of Surrey,51.2431429,-0.5894664,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN37927591' target='_blank'><div>ISRCTN37927591</div></a></td>
+      <td>Selenium in pregnancy intervention</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>230</td>
+    </tr>
+  </tbody>
+</table>"
+113,-357660.29553300125,7544532.960093776,NHS Lothian,55.9301999,-3.2129171,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN98835694' target='_blank'><div>ISRCTN98835694</div></a></td>
+      <td>A randomised trial in women with a twin pregnancy, using the Arabin pessary...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>2500</td>
+    </tr>
+  </tbody>
+</table>"
+125,-19985.73364762129,6697193.457059231,St George’s University Hospitals NHS Foundation Trust,51.4271006,-0.1795349,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN22076461' target='_blank'><div>ISRCTN22076461</div></a></td>
+      <td>A study to improve our understanding of the genetic causes of swelling in b...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13835237' target='_blank'><div>ISRCTN13835237</div></a></td>
+      <td>Exposure to nicotine and tobacco products during pregnancy</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>204</td>
+    </tr>
+  </tbody>
+</table>"
+137,-459748.0832186868,7025566.362075045,Bangor University,53.2295205,-4.1299873,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN62055412' target='_blank'><div>ISRCTN62055412</div></a></td>
+      <td>Evaluation of the Incredible Years Infant programme</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>78</td>
+    </tr>
+  </tbody>
+</table>"
+139,-13795.022993676683,6713340.380156105,ukactive,51.51745140000001,-0.1239228,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10024963' target='_blank'><div>ISRCTN10024963</div></a></td>
+      <td>This Mum Moves: understanding the impact of an educational intervention sup...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1443</td>
+    </tr>
+  </tbody>
+</table>"
+140,-349417.3989343336,7542951.3872058885,ACCORD,55.92224,-3.1388699,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN67795930' target='_blank'><div>ISRCTN67795930</div></a></td>
+      <td>A trial designed to treat women with a diagnosis of ectopic pregnancy with ...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>338</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN41598423' target='_blank'><div>ISRCTN41598423</div></a></td>
+      <td>Can a test of preterm labour (quantitative fetal fibronectin) help diagnosi...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>3550</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN67795930' target='_blank'><div>ISRCTN67795930</div></a></td>
+      <td>A trial designed to treat women with a diagnosis of ectopic pregnancy with ...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>338</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN41598423' target='_blank'><div>ISRCTN41598423</div></a></td>
+      <td>Can a test of preterm labour (quantitative fetal fibronectin) help diagnosi...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>3550</td>
+    </tr>
+  </tbody>
+</table>"
+144,-10435.022275266989,6704483.374082789,King's College Hospital NHS Foundation Trust,51.4679138,-0.0937394,5.0,11.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN76836892' target='_blank'><div>ISRCTN76836892</div></a></td>
+      <td>Probability of viability estimation and anxiety levels in women with small ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>346</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN95625309' target='_blank'><div>ISRCTN95625309</div></a></td>
+      <td>The impact of providing post-abortion contraceptive support</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>569</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN01096902' target='_blank'><div>ISRCTN01096902</div></a></td>
+      <td>Randomised study of pessary vs standard management in women with increased ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1180</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN95698259' target='_blank'><div>ISRCTN95698259</div></a></td>
+      <td>Randomised double blind controlled trial of single dose methotrexate versus...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>70</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16123934' target='_blank'><div>ISRCTN16123934</div></a></td>
+      <td>Randomised controlled trial with pravastatin versus placebo for prevention ...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>1120</td>
+    </tr>
+  </tbody>
+</table>"
+149,-177353.03274524107,7362485.32925916,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,55.0031904,-1.5931894,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16924692' target='_blank'><div>ISRCTN16924692</div></a></td>
+      <td>Does Ondansetron vs placebo Ondansetron and Metoclopramide vs placebo Metoc...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>600</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN82607486' target='_blank'><div>ISRCTN82607486</div></a></td>
+      <td>Diagnostic accuracy in pre-eclampsia using proteinuria assessment</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>3000</td>
+    </tr>
+  </tbody>
+</table>"
+159,-660575.3464181816,7281622.521041222,Queen's University Belfast,54.5844087,-5.9340493,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN99459996' target='_blank'><div>ISRCTN99459996</div></a></td>
+      <td>The JACK Trial: Evaluation of an interactive film-based intervention to red...</td>
+      <td>Behavioural</td>
+      <td>Child</td>
+      <td>7920</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11632300' target='_blank'><div>ISRCTN11632300</div></a></td>
+      <td>The 'If I Were Jack' feasibility trial</td>
+      <td>Behavioural</td>
+      <td>Child</td>
+      <td>630</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN62685558' target='_blank'><div>ISRCTN62685558</div></a></td>
+      <td>Gestational Diabetes: Things you need to know (but maybe don't) - a DVD...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>150</td>
+    </tr>
+  </tbody>
+</table>"
+165,-240641.65869322798,7790655.39373056,NHS Grampian,57.1491035,-2.1617208,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN61225414' target='_blank'><div>ISRCTN61225414</div></a></td>
+      <td>E-Freeze: Freezing of embryos in assisted conception</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>1086</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN63268739' target='_blank'><div>ISRCTN63268739</div></a></td>
+      <td>Female urgency, trial of Urodynamics as routine evaluation</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1096</td>
+    </tr>
+  </tbody>
+</table>"
+167,-165690.47931304757,7053851.281417849,University of Sheffield,53.3813502,-1.4884229,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN44898617' target='_blank'><div>ISRCTN44898617</div></a></td>
+      <td>NOurishing Start for Health (NOSH)</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>1912</td>
+    </tr>
+  </tbody>
+</table>"
+168,-135503.29394574172,7275518.420243988,South Tees Hospitals NHS Foundation Trust,54.5526198,-1.2172468,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN22948433' target='_blank'><div>ISRCTN22948433</div></a></td>
+      <td>Can heart rate predict low blood pressure during Caesarean section?</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>111</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN85124072' target='_blank'><div>ISRCTN85124072</div></a></td>
+      <td>Oral versus vaginal misoprostol for medical management of early foetal demi...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>240</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15997073' target='_blank'><div>ISRCTN15997073</div></a></td>
+      <td>Continuous positive airway pressure (CPAP) or Synchronised intermittent pos...</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>130</td>
+    </tr>
+  </tbody>
+</table>"
+176,-126341.62192981176,6914257.025768537,University Hospitals of Leicester NHS Trust,52.62677189999999,-1.1349461,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN72346869' target='_blank'><div>ISRCTN72346869</div></a></td>
+      <td>Pregnancy and Wellbeing Study (PAWS)</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>300</td>
+    </tr>
+  </tbody>
+</table>"
+181,-5087.089222220096,6719298.333728903,Homerton University Hospital NHS Foundation Trust,51.5507442,-0.04569810000000001,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN78447218' target='_blank'><div>ISRCTN78447218</div></a></td>
+      <td>Does dehydroepiandrosterone (DHEA) improve IVF outcomes in poor responders?</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN43430382' target='_blank'><div>ISRCTN43430382</div></a></td>
+      <td>Controlled ovarian stimulation and intrauterine insemination or in vitro-fe...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>320</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN09447850' target='_blank'><div>ISRCTN09447850</div></a></td>
+      <td>Pre In vitro fertilisation (IVF) pipelle biopsy following a previous unsucc...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>128</td>
+    </tr>
+  </tbody>
+</table>"
+200,-6553.233707661985,6713415.407300916,Barts and The London NHS Trust,51.5178708,-0.0588687,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN83507686' target='_blank'><div>ISRCTN83507686</div></a></td>
+      <td>Comparing intervention levels for the support of blood pressure in extremel...</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN27214045' target='_blank'><div>ISRCTN27214045</div></a></td>
+      <td>A randomised controlled trial of vitamins C and E to prevent pre-eclampsia ...</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>756</td>
+    </tr>
+  </tbody>
+</table>"
+211,-8838316.925423292,5413116.088182444,University of Toronto,43.66090860000001,-79.39595179999999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN74420086' target='_blank'><div>ISRCTN74420086</div></a></td>
+      <td>The Twin Birth Study: planned caesarean section versus planned vaginal birt...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>2800</td>
+    </tr>
+  </tbody>
+</table>"
+222,-389286.28531881014,7033341.626065807,Betsi Cadwaladr University Health Board,53.2713109,-3.4970182,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14462256' target='_blank'><div>ISRCTN14462256</div></a></td>
+      <td>Lacking capacity to consent in emergencies related to child birth</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>590</td>
+    </tr>
+  </tbody>
+</table>"
+228,-13365.685981585186,6714388.318265595,Institute of Child Health,51.523309,-0.120066,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN87094922' target='_blank'><div>ISRCTN87094922</div></a></td>
+      <td>Comfortable Babies and Comforting Parents</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>160</td>
+    </tr>
+  </tbody>
+</table>"
+229,-219718.50361363654,6572151.6785112135,Poole Hospital NHS Foundation Trust,50.7213539,-1.9737649,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN01054711' target='_blank'><div>ISRCTN01054711</div></a></td>
+      <td>Measurement of epidural pressures in parturients</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14898678' target='_blank'><div>ISRCTN14898678</div></a></td>
+      <td>Pethidine versus Diamorphine Study</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>450</td>
+    </tr>
+  </tbody>
+</table>"
+230,-424589.458448146,6730584.303541024,Abertawe Bro Morgannwg University Health Board,51.613743,-3.814152,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16416602' target='_blank'><div>ISRCTN16416602</div></a></td>
+      <td>Proinsulin in gestational diabetes mellitus</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>"
+236,-175684.74319646767,7316387.616306924,Durham University,54.7649859,-1.5782029,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN72146206' target='_blank'><div>ISRCTN72146206</div></a></td>
+      <td>Postnatal Infant Care (PInC) Trial, version 1.1</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+  </tbody>
+</table>"
+238,-337638.20493968687,7651395.375952595,NHS Tayside,56.4642503,-3.0330556,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN40302163' target='_blank'><div>ISRCTN40302163</div></a></td>
+      <td>A randomised controlled trial of oxytocin 5 IU versus oxytocin 5 IU and 30 ...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+  </tbody>
+</table>"
+245,-696255.7256420703,7046845.334566046,Trinity College Dublin,53.3437935,-6.254571599999999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13295826' target='_blank'><div>ISRCTN13295826</div></a></td>
+      <td>Comparing second-line tests in labour to assess fetal well-being</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>3000</td>
+    </tr>
+  </tbody>
+</table>"
+265,-255275.07329986515,7055247.716972181,University Hospital of South Manchester NHS Foundation Trust,53.38883209999999,-2.293175,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15091500' target='_blank'><div>ISRCTN15091500</div></a></td>
+      <td>Trans­venous occlusion of pelvic vein incompetence</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+274,-329470.4044695083,7057130.743059783,Liverpool Women's NHS Foundation Trust,53.398919,-2.959683,7.0,13.090619551221675,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN39133303' target='_blank'><div>ISRCTN39133303</div></a></td>
+      <td>Sildenafil therapy in dismal prognosis early-onset intrauterine growth rest...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>112</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN05696887' target='_blank'><div>ISRCTN05696887</div></a></td>
+      <td>Duration of luteal support with progesterone pessaries to improve the succe...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>460</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN28090716' target='_blank'><div>ISRCTN28090716</div></a></td>
+      <td>A randomised controlled trial of prednisolone for women with recurrent misc...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>136</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN57007037' target='_blank'><div>ISRCTN57007037</div></a></td>
+      <td>A randomised trial to evaluate misoprostol for induction of labour followin...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>1890</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN78346801' target='_blank'><div>ISRCTN78346801</div></a></td>
+      <td>Partogram Action Line Study (PALS2)</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>3000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13204258' target='_blank'><div>ISRCTN13204258</div></a></td>
+      <td>The Release Trial: a randomised trial of umbilical vein oxytocin versus pla...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>600</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN81932589' target='_blank'><div>ISRCTN81932589</div></a></td>
+      <td>Amnio infusion in preterm premature rupture of membranes</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>15</td>
+    </tr>
+  </tbody>
+</table>"
+306,-210807.35611173685,6888256.373032102,Birmingham Children's Hospital,52.4847654,-1.8937147,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN33435996' target='_blank'><div>ISRCTN33435996</div></a></td>
+      <td>Vaginal preparation at caesarean section</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>250</td>
+    </tr>
+  </tbody>
+</table>"
+324,-10270.803762448752,6710352.092322927,Guy's and St Thomas' NHS Foundation Trust,51.5007438,-0.09226419999999999,13.0,16.936926411670825,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10809239' target='_blank'><div>ISRCTN10809239</div></a></td>
+      <td>Blood pressure in the postnatal period</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN77258279' target='_blank'><div>ISRCTN77258279</div></a></td>
+      <td>When to induce labour to limit risk in pregnancy hypertension</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>1080</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13364447' target='_blank'><div>ISRCTN13364447</div></a></td>
+      <td>Stitch, progesterone or pessary: a randomised controlled trial</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>540</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN01879376' target='_blank'><div>ISRCTN01879376</div></a></td>
+      <td>PHOENIX - Pre-eclampsia in HOspital: Early iNductIon or eXpectant managemen...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>900</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN35859078' target='_blank'><div>ISRCTN35859078</div></a></td>
+      <td>TRial of OutPatient HYsteroscopy in in-vitro fertilisation (IVF)</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>756</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16842031' target='_blank'><div>ISRCTN16842031</div></a></td>
+      <td>PlGF as a diagnostic test for pre-eclampsia</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>504</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN19920789' target='_blank'><div>ISRCTN19920789</div></a></td>
+      <td>HYPATIA: A prospective randomised controlled trial of hydroxychloroquine to...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN52175236' target='_blank'><div>ISRCTN52175236</div></a></td>
+      <td>The CIRCLE Trial - Cerclage in Relation to Cervical LEngth.\nA clinical stud...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1890</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN85912420' target='_blank'><div>ISRCTN85912420</div></a></td>
+      <td>Does repeat placental growth factor blood sample testing reduce harm from p...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1280</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN27044628' target='_blank'><div>ISRCTN27044628</div></a></td>
+      <td>A randomised controlled trial comparing the Gonadotrophin Releasing Hormone...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>102</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN27044628' target='_blank'><div>ISRCTN27044628</div></a></td>
+      <td>A randomised controlled trial comparing the Gonadotrophin Releasing Hormone...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>102</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16842031' target='_blank'><div>ISRCTN16842031</div></a></td>
+      <td>PlGF as a diagnostic test for pre-eclampsia</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>504</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17846337' target='_blank'><div>ISRCTN17846337</div></a></td>
+      <td>The EQUIPTT Study: Evaluating whether clinicians using the QUIPP app make m...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>580</td>
+    </tr>
+  </tbody>
+</table>"
+353,-5127.420273734499,6719261.795485378,Homerton Fertility Centre,51.5505401,-0.0460604,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN52911599' target='_blank'><div>ISRCTN52911599</div></a></td>
+      <td>The use of seminal plasma in IVF</td>
+      <td>Biological/Vaccine</td>
+      <td>Adult</td>
+      <td>300</td>
+    </tr>
+  </tbody>
+</table>"
+359,-13140.486651710393,6713447.429110996,Comprehensive Clinical Trials Unit at UCL,51.5180498,-0.118043,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN67698474' target='_blank'><div>ISRCTN67698474</div></a></td>
+      <td>Improving detection of small infants during pregnancy</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>108</td>
+    </tr>
+  </tbody>
+</table>"
+363,169301.62793463597,5099932.415357211,Catalonia Council of Nurses,41.5911589,1.5208624,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17833269' target='_blank'><div>ISRCTN17833269</div></a></td>
+      <td>Midwives’ contribution to normal childbirth care. Cross-sectional study in ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1500</td>
+    </tr>
+  </tbody>
+</table>"
+370,-159727.08305930282,6609866.762357462,Princess Anne Hospital Southampton,50.9353552,-1.4348528,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18335881' target='_blank'><div>ISRCTN18335881</div></a></td>
+      <td>How does hyalobarrier gel influence ovulation and pregnancy outcomes in wom...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+375,-216286.62390002166,6882505.053271695,Birmingham Women's NHS Foundation Trust,52.4532916,-1.9429358,7.0,13.090619551221675,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14300475' target='_blank'><div>ISRCTN14300475</div></a></td>
+      <td>Evaluation of bespoke training to midwifery teams to increase membrane swee...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>2787</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN99841044' target='_blank'><div>ISRCTN99841044</div></a></td>
+      <td>High Or low dose Syntocinon® for delay in labour</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>1500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13114861' target='_blank'><div>ISRCTN13114861</div></a></td>
+      <td>The optimal management in monochorionic twins (OMMIT) study</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>286</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15373349' target='_blank'><div>ISRCTN15373349</div></a></td>
+      <td>Cerclage Suture Type for an Insufficient Cervix and its effect on Health ou...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>2050</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17866773' target='_blank'><div>ISRCTN17866773</div></a></td>
+      <td>Cerclage Outcome by the Type of Suture material (COTS) study</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN20131893' target='_blank'><div>ISRCTN20131893</div></a></td>
+      <td>SOLVE: A trial randomising patients between a medical device (called Dilapa...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>860</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12981869' target='_blank'><div>ISRCTN12981869</div></a></td>
+      <td>C-STICH2: Rescue cervical stitching to prevent miscarriage and premature bi...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>260</td>
+    </tr>
+  </tbody>
+</table>"
+386,-248038.97243982996,7134221.946371764,East Lancashire Hospitals NHS Trust,53.809828,-2.228172,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN27575146' target='_blank'><div>ISRCTN27575146</div></a></td>
+      <td>Self-Hypnosis for Intrapartum Pain management (SHIP) trial</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>600</td>
+    </tr>
+  </tbody>
+</table>"
+422,-246367.07613955488,6983716.517076816,University Hospital of North Staffordshire,53.00388470000001,-2.2131531,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN05754020' target='_blank'><div>ISRCTN05754020</div></a></td>
+      <td>Re-stitching of a broken down perineal wound compared to leaving it to heal...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>250</td>
+    </tr>
+  </tbody>
+</table>"
+431,-13140.0525056963,6713423.546911105,Medical Research Council (MRC),51.5179163,-0.1180391,8.0,13.920296742201792,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN47464599' target='_blank'><div>ISRCTN47464599</div></a></td>
+      <td>Nicotine Replacement Therapy (NRT) for smoking cessation in pregnancy; a mu...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18328134' target='_blank'><div>ISRCTN18328134</div></a></td>
+      <td>Randomised controlled trial of a low-cost intervention to promote self-help...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN41358726' target='_blank'><div>ISRCTN41358726</div></a></td>
+      <td>Growth Restriction Intervention Trial</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>510</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN48614382' target='_blank'><div>ISRCTN48614382</div></a></td>
+      <td>Randomised controlled trial of the clinical impact of an intelligent decisi...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>15000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN53994660' target='_blank'><div>ISRCTN53994660</div></a></td>
+      <td>Overview of the Role of Antibiotics in Curtailing Labour and Early delivery</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>10000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN88271422' target='_blank'><div>ISRCTN88271422</div></a></td>
+      <td>The effect of daily low dose mifepristone on the endometrium - study over f...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11812357' target='_blank'><div>ISRCTN11812357</div></a></td>
+      <td>Effect of vitamin supplementation in pregnancy on infant growth; parallel r...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN98146741' target='_blank'><div>ISRCTN98146741</div></a></td>
+      <td>Leave alone or Induce for the Big BabY</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>144</td>
+    </tr>
+  </tbody>
+</table>"
+453,-78928.39101529343,6804684.215785659,The Open University,52.0252055,-0.7090257999999999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12983949' target='_blank'><div>ISRCTN12983949</div></a></td>
+      <td>Pre-conception care for women with diabetes</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>"
+501,-19506.33626052006,6697097.476211271,St George's Healthcare NHS Trust,51.42656299999999,-0.1752284,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN47846769' target='_blank'><div>ISRCTN47846769</div></a></td>
+      <td>Randomised trial of rapid outpatient rehydration versus hospital admission ...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+530,-9174.852243639894,6712713.928674957,Individual Sponsor (USA),51.51394939999999,-0.0824191,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN56626482' target='_blank'><div>ISRCTN56626482</div></a></td>
+      <td>A comparison of a new automated method with the traditional manual method o...</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+532,-160342.88021847306,6876780.769194723,University Hospitals Coventry and Warwickshire NHS Trust,52.4219434,-1.4403846,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN23947730' target='_blank'><div>ISRCTN23947730</div></a></td>
+      <td>The effect of doxycycline on live birth rates in women with chronic endomet...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>3062</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18229892' target='_blank'><div>ISRCTN18229892</div></a></td>
+      <td>Induction of labour for predicted macrosomia: the Big Baby trial</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>7000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN67932311' target='_blank'><div>ISRCTN67932311</div></a></td>
+      <td>Sitagliptin for implantation</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>34</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17732518' target='_blank'><div>ISRCTN17732518</div></a></td>
+      <td>A cohort study of pregnancy outcome in couples who miscarry\n</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>9000</td>
+    </tr>
+  </tbody>
+</table>"
+552,-9665.170072787947,6710789.564163728,Guy's Hospital,51.5031901,-0.08682369999999999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN67886141' target='_blank'><div>ISRCTN67886141</div></a></td>
+      <td>TRansvaginal Ultrasonography versus Saline sonography Trial in patients hav...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>792</td>
+    </tr>
+  </tbody>
+</table>"
+583,-28507.47443877705,6727376.002196718,National Blood Service,51.595843,-0.256087,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN87736839' target='_blank'><div>ISRCTN87736839</div></a></td>
+      <td>A randomised controlled trial to compare two different platelet count thres...</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>660</td>
+    </tr>
+  </tbody>
+</table>"
+620,-481013.30082958785,7535282.289562013,NHS Greater Glasgow and Clyde,55.883619,-4.321016,10.0,15.306765580733934,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN92184014' target='_blank'><div>ISRCTN92184014</div></a></td>
+      <td>Intranasal oxytocin for treating mother-infant attachment problems in postn...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN35782581' target='_blank'><div>ISRCTN35782581</div></a></td>
+      <td>Double blind randomised placebo controlled trial of progesterone for the pr...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN35782581' target='_blank'><div>ISRCTN35782581</div></a></td>
+      <td>Double blind randomised placebo controlled trial of progesterone for the pr...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN21656568' target='_blank'><div>ISRCTN21656568</div></a></td>
+      <td>Trial of Healthy Relationship Initiatives for the Very Early-years</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN31955576' target='_blank'><div>ISRCTN31955576</div></a></td>
+      <td>Triple P for Baby: an intervention to help parents prepare for the transiti...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>160</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15236311' target='_blank'><div>ISRCTN15236311</div></a></td>
+      <td>The smoking cessation in pregnancy incentives trial</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>940</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN39772441' target='_blank'><div>ISRCTN39772441</div></a></td>
+      <td>Randomised placebo controlled trial of outpatient cervical ripening with is...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN39772441' target='_blank'><div>ISRCTN39772441</div></a></td>
+      <td>Randomised placebo controlled trial of outpatient cervical ripening with is...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN06774126' target='_blank'><div>ISRCTN06774126</div></a></td>
+      <td>The Scottish Pregnancy Intervention Study: The effect of low molecular weig...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>600</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN06774126' target='_blank'><div>ISRCTN06774126</div></a></td>
+      <td>The Scottish Pregnancy Intervention Study: The effect of low molecular weig...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>600</td>
+    </tr>
+  </tbody>
+</table>"
+638,1398918.8564588637,7498119.915388751,Rigshospitalet (Denmark),55.6959269,12.5667019,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN36828561' target='_blank'><div>ISRCTN36828561</div></a></td>
+      <td>The safety and efficacy of growth hormone treatment in children born small ...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>34</td>
+    </tr>
+  </tbody>
+</table>"
+643,-8429547.313582709,5683579.565396877,Ottawa Hospital Research Institute (OHRI) (Canada),45.3928399,-75.72391189999999,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN23781770' target='_blank'><div>ISRCTN23781770</div></a></td>
+      <td>High Dose Folic Acid Supplementation Throughout Pregnancy for Preeclampsia ...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>3656</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN87441504' target='_blank'><div>ISRCTN87441504</div></a></td>
+      <td>Thrombophilia in Pregnancy Prophylaxis Study: a multicentre, multinational,...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>284</td>
+    </tr>
+  </tbody>
+</table>"
+646,-235865.39575320086,6702823.36317234,Alliance Pharmaceuticals Ltd,51.4586233,-2.1188149,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN36773557' target='_blank'><div>ISRCTN36773557</div></a></td>
+      <td>Intravaginal APL202 verus dinoprostone in the induction of labour in multip...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>622</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN27617624' target='_blank'><div>ISRCTN27617624</div></a></td>
+      <td>Intravaginal APL202 versus dinoprostone in the induction of labour in nulli...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>622</td>
+    </tr>
+  </tbody>
+</table>"
+661,-355014.5206675212,7549096.364480496,Lothian NHS Board,55.9531579,-3.1891497,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN82984919' target='_blank'><div>ISRCTN82984919</div></a></td>
+      <td>A feasibility study investigating pravastatin for the prevention of preterm...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12295730' target='_blank'><div>ISRCTN12295730</div></a></td>
+      <td>Feasibility and design of a trial to determine the optimal mode of delivery...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>525</td>
+    </tr>
+  </tbody>
+</table>"
+665,-213734.78042087294,6885624.170336697,Calthorpe Clinic,52.4703636,-1.9200122,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN97410750' target='_blank'><div>ISRCTN97410750</div></a></td>
+      <td>Comparing efficacy of vaginal misoprostol administered at 6-8 hours with 24...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1200</td>
+    </tr>
+  </tbody>
+</table>"
+672,-959095.314563709,5033981.535354654,University of Porto (Universidade do Porto) (Portugal),41.1465479,-8.6156998,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN42314164' target='_blank'><div>ISRCTN42314164</div></a></td>
+      <td>Evaluation of a computer system that alerts heathcare professionals to chan...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>8000</td>
+    </tr>
+  </tbody>
+</table>"
+685,-15781.797605609632,6716922.543376984,Camden NHS Primary Care Trust,51.5374713,-0.1417703,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN83819888' target='_blank'><div>ISRCTN83819888</div></a></td>
+      <td>Does topical anaesthetic gel reduce pain/discomfort during intrauterine dev...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN73812769' target='_blank'><div>ISRCTN73812769</div></a></td>
+      <td>Effect of tailored versus standard use of the combined oral contraceptive o...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>600</td>
+    </tr>
+  </tbody>
+</table>"
+689,-13719681.272126952,6319196.887980215,University of British Columbia (Canada),49.26060520000001,-123.2459938,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN71416914' target='_blank'><div>ISRCTN71416914</div></a></td>
+      <td>The CHIPS trial: Control of Hypertension In Pregnancy Study</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1028</td>
+    </tr>
+  </tbody>
+</table>"
+694,-288915.5228549673,6703083.532206059,United Bristol Healthcare NHS Trust,51.4600795,-2.5953723,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN67906788' target='_blank'><div>ISRCTN67906788</div></a></td>
+      <td>Proof of principle study of the effect of individual and team drill on the ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>144</td>
+    </tr>
+  </tbody>
+</table>"
+708,-662819.1799982543,7283569.048141964,Royal Group of Hospitals Trust,54.59454059999999,-5.954206,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN55055030' target='_blank'><div>ISRCTN55055030</div></a></td>
+      <td>The MOMENTS Study: Improving the outcome of pregnancy and early infancy wit...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>340</td>
+    </tr>
+  </tbody>
+</table>"
+709,-10301.483414111377,6710858.666225254,Royal College of Midwives,51.5035765,-0.09253979999999999,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN28960026' target='_blank'><div>ISRCTN28960026</div></a></td>
+      <td>The PErineal Assessment and Repair Longitudinal Study (PEARLS): a national ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12143325' target='_blank'><div>ISRCTN12143325</div></a></td>
+      <td>The OASI Care Bundle: a quality improvement project to reduce rates of seve...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>20000</td>
+    </tr>
+  </tbody>
+</table>"
+717,-215298.0288981338,6888871.185874165,Heart of Birmingham Primary Care Trust,52.4881286,-1.9340551,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16126175' target='_blank'><div>ISRCTN16126175</div></a></td>
+      <td>An evaluation of community peer support workers within a programme to impro...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>3000</td>
+    </tr>
+  </tbody>
+</table>"
+730,-8896567.476120856,5351764.967717191,McMaster University (Canada),43.260879,-79.9192254,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15233270' target='_blank'><div>ISRCTN15233270</div></a></td>
+      <td>Nasal Intermittent Positive Pressure Ventilation</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>1000</td>
+    </tr>
+  </tbody>
+</table>"
+748,-15834.663231787357,6714550.505244483,Central and North West London NHS Foundation Trust,51.5242155,-0.1422452,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN95282830' target='_blank'><div>ISRCTN95282830</div></a></td>
+      <td>The ACORN study: Coping and Relaxation in Pregnancy</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>66</td>
+    </tr>
+  </tbody>
+</table>"
+779,-366675.0814808295,7544660.4553873325,Department of Public Health,55.9308415,-3.2938983,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN69465542' target='_blank'><div>ISRCTN69465542</div></a></td>
+      <td>The Oxford Conception Study - a randomized controlled trial to determine wh...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>1350</td>
+    </tr>
+  </tbody>
+</table>"
+808,-9769.643414897435,6715011.588346748,Individual Sponsor,51.5267925,-0.0877622,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN71762042' target='_blank'><div>ISRCTN71762042</div></a></td>
+      <td>Scottish Unexplained Infertility Trial: a randomised trial of clomiphene ve...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>570</td>
+    </tr>
+  </tbody>
+</table>"
+833,-8838044.092483306,5413099.454247915,University of Toronto Faculty of Medicine Research Office (Canada),43.66080050000001,-79.39350089999999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN72654148' target='_blank'><div>ISRCTN72654148</div></a></td>
+      <td>MACS: Multiple Courses of Antenatal Corticosteroids for Preterm Birth Study</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>1900</td>
+    </tr>
+  </tbody>
+</table>"
+834,-36524.615110115985,6634006.366566513,Action Medical Research,51.0718125,-0.3281062,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN46614711' target='_blank'><div>ISRCTN46614711</div></a></td>
+      <td>Trial of the effects of antenatal multiple courses of steroids versus a sin...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>600</td>
+    </tr>
+  </tbody>
+</table>"
+837,-16903.853545009515,6713186.428192435,The Sir Jules Thorn Charitable Trust,51.5165908,-0.1518499,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN58088708' target='_blank'><div>ISRCTN58088708</div></a></td>
+      <td>Randomised comparison of the nitric oxide donor isosorbide mononitrate with...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+  </tbody>
+</table>"
+858,-129608.10314400602,4569643.772265448,Fundación para la Formación e Investigación Sanitarias de la Región de Murcia,37.930722,-1.1642894,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16123934' target='_blank'><div>ISRCTN16123934</div></a></td>
+      <td>Randomised controlled trial with pravastatin versus placebo for prevention ...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>1120</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN66445401' target='_blank'><div>ISRCTN66445401</div></a></td>
+      <td>Prevention of preterm birth in twin pregnancies - “Randomised trial of prog...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>1180</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17787139' target='_blank'><div>ISRCTN17787139</div></a></td>
+      <td>Randomised trial of pravastatin versus placebo for the prevention of high b...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>1684</td>
+    </tr>
+  </tbody>
+</table>"
+862,-14794.249006935264,6710120.248742198,CONRAD (USA),51.4994473,-0.132899,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN07760234' target='_blank'><div>ISRCTN07760234</div></a></td>
+      <td>Sperm suppression and contraceptive protection provided by norethisterone e...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+  </tbody>
+</table>"
+868,12713438.435141299,2561981.364414894,Chinese University of Hong Kong,22.419625,114.2067606,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17792989' target='_blank'><div>ISRCTN17792989</div></a></td>
+      <td>Time Lapse Imaging Trial</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1575</td>
+    </tr>
+  </tbody>
+</table>"
+896,-13399.827669411483,6589252.163352294,Brighton and Sussex University Hospitals NHS Trust,50.8185063,-0.1203727,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN58399513' target='_blank'><div>ISRCTN58399513</div></a></td>
+      <td>Health After Birth Trial: using self-help to promote health in women after ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>366</td>
+    </tr>
+  </tbody>
+</table>"
+900,-660848.2684137594,7286371.64180247,Belfast Health and Social Care Trust,54.60912399999999,-5.936501,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN55443431' target='_blank'><div>ISRCTN55443431</div></a></td>
+      <td>Postnatal intervention for women with a history of gestational diabetes mel...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+901,-14506.298880100305,6713958.059816249,London School of Hygiene and Tropical Medicine,51.5209041,-0.1303123,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12524938' target='_blank'><div>ISRCTN12524938</div></a></td>
+      <td>Pilot study to develop and assess the feasibility and acceptability of Posi...</td>
+      <td>Behavioural</td>
+      <td>Child</td>
+      <td>1080</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN76912190' target='_blank'><div>ISRCTN76912190</div></a></td>
+      <td>WOrld Maternal ANtifibrinolytic Trial</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>20000</td>
+    </tr>
+  </tbody>
+</table>"
+912,-214988.64976932114,6889099.229920135,Sandwell and West Birmingham Hospitals NHS Trust,52.489376,-1.9312759,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN46661996' target='_blank'><div>ISRCTN46661996</div></a></td>
+      <td>Local oestrogen treatment in postmenopausal women undergoing pelvic organ p...</td>
+      <td>Biological/Vaccine</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+925,-13162.39432749851,6710238.324521498,King’s College London and Guy’s and St Thomas’ NHS Foundation Trust,51.5001076,-0.1182398,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15068651' target='_blank'><div>ISRCTN15068651</div></a></td>
+      <td>An investigation into the role of previous in-labour caesarean section in f...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>2200</td>
+    </tr>
+  </tbody>
+</table>"
+1005,497359.24335063953,6784028.294315015,"Erasmus MC university medical center, department of Public Health",51.9108848,4.467854099999999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN43171322' target='_blank'><div>ISRCTN43171322</div></a></td>
+      <td>A multicentre randomised controlled trial of low versus high threshold trea...</td>
+      <td>Procedure/Surgery</td>
+      <td>Neonate</td>
+      <td>125</td>
+    </tr>
+  </tbody>
+</table>"
+1042,-20226.95185222124,6707428.985405554,Chelsea and Westminster NHS Foundation Trust,51.4843947,-0.1817018,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN38665751' target='_blank'><div>ISRCTN38665751</div></a></td>
+      <td>Preventing fever in women with labour epidurals using a neck warmer</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN24659467' target='_blank'><div>ISRCTN24659467</div></a></td>
+      <td>Hyperemesis In Pregnancy (HIP) Trial: Inpatient versus outpatient managemen...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+  </tbody>
+</table>"
+1052,16600423.240729248,-4202313.198595031,National Health and Medical Research Council (NHMRC) (Australia),-35.2823156,149.1241392,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN44485060' target='_blank'><div>ISRCTN44485060</div></a></td>
+      <td>Immediate delivery versus expectant care in women with ruptured membranes c...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1812</td>
+    </tr>
+  </tbody>
+</table>"
+1053,-16012.073104264598,6714334.519061956,Centre for Reproductive and Genetic Health,51.5230083,-0.1438389,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN74967568' target='_blank'><div>ISRCTN74967568</div></a></td>
+      <td>Measuring levels of maternal cell microRNAs to predict adverse pregnancy ou...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>209</td>
+    </tr>
+  </tbody>
+</table>"
+1097,-630343.1879765951,7295802.987620213,South Eastern Health and Social Care Trust (SEHSCT),54.658162,-5.662469199999999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN61829137' target='_blank'><div>ISRCTN61829137</div></a></td>
+      <td>Physical activity in pregnancy: the Active Pregnancy Profile (APP) trial</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>"
+1109,-170678.32720922545,7366610.941901791,NHS Service Delivery and Organisation Programme (SDO),55.0244404,-1.5332295,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11168521' target='_blank'><div>ISRCTN11168521</div></a></td>
+      <td>Improving care at the primary/secondary interface: a trial of community-bas...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>"
+1124,-26434.605332664585,6713146.285955423,Queen Charlotte's and Chelsea Hospital (QCCH),51.5163664,-0.2374661,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN78483537' target='_blank'><div>ISRCTN78483537</div></a></td>
+      <td>Prostaglandin E2 vaginal gel or tablets for induction of labour at term</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>220</td>
+    </tr>
+  </tbody>
+</table>"
+1140,8538672.942115327,1110907.5503509385,Mother and Child Foundation,9.9293744,76.7042041,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN24068733' target='_blank'><div>ISRCTN24068733</div></a></td>
+      <td>Maternal Fish Oil Supplementation Study in high risk pregnancies</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>300</td>
+    </tr>
+  </tbody>
+</table>"
+1144,540910.2779279326,6861137.253952521,VU University Medical Center (Netherlands),52.33616019999999,4.8590797,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN70595832' target='_blank'><div>ISRCTN70595832</div></a></td>
+      <td>Vitamin D and lifestyle Intervention for gestational diabetes mellitus (GDM...</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>880</td>
+    </tr>
+  </tbody>
+</table>"
+1192,-14827.812031357762,6709852.226837003,Department of Health,51.49794844005473,-0.13320050177820006,27.0,21.478185834579563,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN23019866' target='_blank'><div>ISRCTN23019866</div></a></td>
+      <td>Building Blocks - a trial of home visits for first time mothers</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1600</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN48074413' target='_blank'><div>ISRCTN48074413</div></a></td>
+      <td>A randomised controlled trial (RCT) to evaluate the efficiency of ultrasoun...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN71286562' target='_blank'><div>ISRCTN71286562</div></a></td>
+      <td>Randomised controlled trial of prophylactic antibiotics at the time of oocy...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>350</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN70152691' target='_blank'><div>ISRCTN70152691</div></a></td>
+      <td>A comparison of the effectiveness of prostaglandin gel and tablet preparati...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>165</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN41730576' target='_blank'><div>ISRCTN41730576</div></a></td>
+      <td>A randomised controlled trial of the effect of ambulation in the first stag...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN72773405' target='_blank'><div>ISRCTN72773405</div></a></td>
+      <td>A physiological approach to stimulating labour pulse: a randomised controll...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN60326156' target='_blank'><div>ISRCTN60326156</div></a></td>
+      <td>Which mask for facial oxygen at awake caesarean section?</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN07823656' target='_blank'><div>ISRCTN07823656</div></a></td>
+      <td>A randomised preference trial of medical versus surgical termination of pre...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN98448646' target='_blank'><div>ISRCTN98448646</div></a></td>
+      <td>Using moxibustion to turn the breech baby</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>210</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN95867389' target='_blank'><div>ISRCTN95867389</div></a></td>
+      <td>Non-surgical management of delayed miscarriage: a randomised trial</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN42749317' target='_blank'><div>ISRCTN42749317</div></a></td>
+      <td>A comparison of speed of action of phenylephrine and ephedrine</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14476388' target='_blank'><div>ISRCTN14476388</div></a></td>
+      <td>Out-patient management of missed miscarriage: a randomised trial of medical...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN57835722' target='_blank'><div>ISRCTN57835722</div></a></td>
+      <td>The effect of pharmacological agents on uterine junctional zone contraction...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN59759835' target='_blank'><div>ISRCTN59759835</div></a></td>
+      <td>Randomised trial of intrapartum tractocile versus placebo in the management...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>240</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12864149' target='_blank'><div>ISRCTN12864149</div></a></td>
+      <td>A study to determine the efficacy of acupressure in the management of nause...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN47171724' target='_blank'><div>ISRCTN47171724</div></a></td>
+      <td>Efficacy of double intrauterine insemination in controlled ovarian hypersti...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12014186' target='_blank'><div>ISRCTN12014186</div></a></td>
+      <td>To evaluate the effect of the contrast material used in hysterosalpingograp...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN54492836' target='_blank'><div>ISRCTN54492836</div></a></td>
+      <td>A comparison of transcutaneous electrical stimulation (TES) with touch sens...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN67835859' target='_blank'><div>ISRCTN67835859</div></a></td>
+      <td>Is ropivacaine (Rop) faster than bupivacaine (Bvp) for extending low dose a...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN88229446' target='_blank'><div>ISRCTN88229446</div></a></td>
+      <td>Effect of acupressure at P6 on nausea and vomiting during labour</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN79246957' target='_blank'><div>ISRCTN79246957</div></a></td>
+      <td>The use of ultrasound guidance in embryo transfer to improve success rates ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>2000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN74323479' target='_blank'><div>ISRCTN74323479</div></a></td>
+      <td>What shall we do with the postdates woman who is not in labour?</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN86892369' target='_blank'><div>ISRCTN86892369</div></a></td>
+      <td>Prospective, randomised, blind study to compare two flushing media on oocyt...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15493767' target='_blank'><div>ISRCTN15493767</div></a></td>
+      <td>The costs and benefits of post-natal midwifery support - a randomised contr...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN89169926' target='_blank'><div>ISRCTN89169926</div></a></td>
+      <td>Extending Midwife/nurse Roles in the routine Examination of the Newborn: ra...</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>2000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN79350792' target='_blank'><div>ISRCTN79350792</div></a></td>
+      <td>Redesigning postnatal care: a randomised controlled trial of protocol-based...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>2064</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN54376052' target='_blank'><div>ISRCTN54376052</div></a></td>
+      <td>Amniocentesis Results: Investigation of Anxiety</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>226</td>
+    </tr>
+  </tbody>
+</table>"

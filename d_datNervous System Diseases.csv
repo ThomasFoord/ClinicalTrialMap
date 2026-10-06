@@ -1,0 +1,5088 @@
+,merclng,merclat,locations,latitude,longitude,number,radius,HTML
+0,-139635.47344398804,6755913.94771293,University of Oxford,51.7548164,-1.2543668,12.0,16.439593106327717,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12684957' target='_blank'><div>ISRCTN12684957</div></a></td>
+      <td>Investigating the relationship between movement initiation and beta bursts ...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>82</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN56186994' target='_blank'><div>ISRCTN56186994</div></a></td>
+      <td>Investigating the possibility and benefit of closed-loop deep brain stimula...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN51601294' target='_blank'><div>ISRCTN51601294</div></a></td>
+      <td>Finding brain signals that might guide the delivery of deep brain stimulati...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>38</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN56202806' target='_blank'><div>ISRCTN56202806</div></a></td>
+      <td>Understanding the sources of tremor variability in patients with essential ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>75</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18006597' target='_blank'><div>ISRCTN18006597</div></a></td>
+      <td>The effects of sleep restriction therapy for insomnia on sleep-related mela...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>22</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10974094' target='_blank'><div>ISRCTN10974094</div></a></td>
+      <td>Mechanisms of Sleep Restriction Therapy in Insomnia</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>56</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN40062191' target='_blank'><div>ISRCTN40062191</div></a></td>
+      <td>Diabetic peripheral neuropathy treatment with dorsal root ganglion stimulat...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>56</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14040914' target='_blank'><div>ISRCTN14040914</div></a></td>
+      <td>NeoCLEAR: optimising lumbar punctures in newborns</td>
+      <td>Procedure/Surgery</td>
+      <td>Neonate</td>
+      <td>1020</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN60530898' target='_blank'><div>ISRCTN60530898</div></a></td>
+      <td>Digital insomnia therapy to assist your life as well as your sleep</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15791925' target='_blank'><div>ISRCTN15791925</div></a></td>
+      <td>IgNiTE: Immunoglobulin in the treatment of encephalitis</td>
+      <td>Biological/Vaccine</td>
+      <td>Adult</td>
+      <td>308</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN78082983' target='_blank'><div>ISRCTN78082983</div></a></td>
+      <td>Obstructive sleep apnoea and retinal vasculature reactivity</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN90464927' target='_blank'><div>ISRCTN90464927</div></a></td>
+      <td>Positive airway pressure in older people: a randomised controlled trial</td>
+      <td>Other</td>
+      <td>Senior</td>
+      <td>278</td>
+    </tr>
+  </tbody>
+</table>"
+2,-181976.75458703414,7363080.99091819,Newcastle upon Tyne Hospitals NHS Foundation Trust,55.0062592,-1.634725,13.0,16.936926411670825,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10454425' target='_blank'><div>ISRCTN10454425</div></a></td>
+      <td>FEEDS: Focus on Early Eating, Drinking and Swallowing</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>604</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13217913' target='_blank'><div>ISRCTN13217913</div></a></td>
+      <td>Improving Parkinson's related overactive bladder</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>144</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12418919' target='_blank'><div>ISRCTN12418919</div></a></td>
+      <td>Paramedic acute stroke treatment assessment (PASTA)</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>3640</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN82916961' target='_blank'><div>ISRCTN82916961</div></a></td>
+      <td>Standing Frames in Cerebral Palsy</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN72904618' target='_blank'><div>ISRCTN72904618</div></a></td>
+      <td>A randomized, double-blind, placebo-controlled trial of deferiprone in pati...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>90</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN40214749' target='_blank'><div>ISRCTN40214749</div></a></td>
+      <td>Biomedical Research Unit: Acute and Chronic effects of transcranial Direct ...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN75287237' target='_blank'><div>ISRCTN75287237</div></a></td>
+      <td>Trial of Glycopyrronium versus Hyoscine to treat drooling in children - DRI...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>90</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN91944190' target='_blank'><div>ISRCTN91944190</div></a></td>
+      <td>Limbs Alive: Use of video games to provide motivating, child centred therap...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>70</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN41918400' target='_blank'><div>ISRCTN41918400</div></a></td>
+      <td>Can taping improve hand posture and use in infants with brain lesions?</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN95411896' target='_blank'><div>ISRCTN95411896</div></a></td>
+      <td>Continuous positive airway pressure (CPAP) in patients with impaired vision...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>150</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN30151023' target='_blank'><div>ISRCTN30151023</div></a></td>
+      <td>Donepezil in early dementia associated with Parkinson's disease</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN89726128' target='_blank'><div>ISRCTN89726128</div></a></td>
+      <td>Home Orthostatic Training in Chronic Fatigue Syndrome</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN50395346' target='_blank'><div>ISRCTN50395346</div></a></td>
+      <td>A double-blind randomised multi-centre, placebo-controlled trial of combine...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>140</td>
+    </tr>
+  </tbody>
+</table>"
+4,-14921.27567787947,6714611.999375625,University College London,51.52455920000001,-0.1340401,15.0,17.826061944859852,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN72646265' target='_blank'><div>ISRCTN72646265</div></a></td>
+      <td>Optimizing epilepsy surgery</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN47591507' target='_blank'><div>ISRCTN47591507</div></a></td>
+      <td>Treating auditory impairment and cognition pilot trial</td>
+      <td>Behavioural</td>
+      <td>Mixed</td>
+      <td>76</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN51996779' target='_blank'><div>ISRCTN51996779</div></a></td>
+      <td>A clinical trial to explore the potential of ondansetron for treating hallu...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>216</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14552789' target='_blank'><div>ISRCTN14552789</div></a></td>
+      <td>Phase 3 trial of exenatide for Parkinson’s disease</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN82598726' target='_blank'><div>ISRCTN82598726</div></a></td>
+      <td>MS-STAT2 : Multiple Sclerosis - Simvastatin Trial 2</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1050</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13656673' target='_blank'><div>ISRCTN13656673</div></a></td>
+      <td>Depletion of serum Amyloid P Component in Alzheimer's Disease</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN19867168' target='_blank'><div>ISRCTN19867168</div></a></td>
+      <td>Investigating the feasibility of a group self-management program after stro...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17209025' target='_blank'><div>ISRCTN17209025</div></a></td>
+      <td>A randomised control trial of SEEG electrode placement methods</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>32</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN41638605' target='_blank'><div>ISRCTN41638605</div></a></td>
+      <td>Evaluating dietary intervention before surgical treatment for epilepsy</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN75891427' target='_blank'><div>ISRCTN75891427</div></a></td>
+      <td>A trial of Exenatide for the treatment of moderate severity Parkinson's dis...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN28440672' target='_blank'><div>ISRCTN28440672</div></a></td>
+      <td>MS-SMART: MS-Secondary Progressive Multi-Arm Randomisation Trial</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>440</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13036842' target='_blank'><div>ISRCTN13036842</div></a></td>
+      <td>Development of novel magnetic resonance imaging (MRI) techniques for neurol...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>150</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN22636071' target='_blank'><div>ISRCTN22636071</div></a></td>
+      <td>Efficacy of donepezil in the posterior variant of Alzheimer's disease (post...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN03330837' target='_blank'><div>ISRCTN03330837</div></a></td>
+      <td>A pilot study of a palliative care intervention for people with advanced de...</td>
+      <td>Other</td>
+      <td>Senior</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN33042138' target='_blank'><div>ISRCTN33042138</div></a></td>
+      <td>Intravenous immunoglobulin in the treatment of primary trigeminal neuralgia...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>32</td>
+    </tr>
+  </tbody>
+</table>"
+7,-173105.45946283842,7133628.765905515,University of Leeds,53.8066815,-1.5550328,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18662143' target='_blank'><div>ISRCTN18662143</div></a></td>
+      <td>Comparison of omega-3 fatty acid supplement formulations.</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN26206379' target='_blank'><div>ISRCTN26206379</div></a></td>
+      <td>To evaluate increased benefits to upper limb function of home based assisti...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>58</td>
+    </tr>
+  </tbody>
+</table>"
+11,-214903.77978954036,6882052.998582191,University of Birmingham,52.4508168,-1.9305135,11.0,15.898961024049783,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11016312' target='_blank'><div>ISRCTN11016312</div></a></td>
+      <td>Activity to reduce obstructive sleep apnoea</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN83738603' target='_blank'><div>ISRCTN83738603</div></a></td>
+      <td>A study to explore the safety and acceptability of a treatment called ILB i...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>15</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12678718' target='_blank'><div>ISRCTN12678718</div></a></td>
+      <td>IIH Pressure - a new treatment for raised brain pressure in Idiopathic Intr...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12421382' target='_blank'><div>ISRCTN12421382</div></a></td>
+      <td>PD COMM Study</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>546</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN40152829' target='_blank'><div>ISRCTN40152829</div></a></td>
+      <td>Bariatric surgery versus a community weight loss programme for the sustaine...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>90</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN58484608' target='_blank'><div>ISRCTN58484608</div></a></td>
+      <td>Constraint induced movement therapy: A randomised controlled Trial in Child...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17452402' target='_blank'><div>ISRCTN17452402</div></a></td>
+      <td>Randomised controlled trial to assess the clinical- and cost-effectiveness ...</td>
+      <td>Other</td>
+      <td>All</td>
+      <td>750</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN49416618' target='_blank'><div>ISRCTN49416618</div></a></td>
+      <td>Taurine and painful diabetic neuropathy</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>180</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN27871743' target='_blank'><div>ISRCTN27871743</div></a></td>
+      <td>A pilot randomised controlled trial of occupational therapy to optimise ind...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN69812316' target='_blank'><div>ISRCTN69812316</div></a></td>
+      <td>An assessment of the relative cost-effectiveness of different classes of dr...</td>
+      <td>Drug</td>
+      <td>Senior</td>
+      <td>1500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN34111222' target='_blank'><div>ISRCTN34111222</div></a></td>
+      <td>A large randomised long-term assessment of the relative effectiveness of su...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>600</td>
+    </tr>
+  </tbody>
+</table>"
+12,-132804.10798857908,6971867.107989617,University of Nottingham,52.93978269999999,-1.1929996,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN09697576' target='_blank'><div>ISRCTN09697576</div></a></td>
+      <td>Cognitive Rehabilitation for Attention and Memory in people with Multiple S...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN29381417' target='_blank'><div>ISRCTN29381417</div></a></td>
+      <td>Evaluation of adjustment groups for people with Multiple Sclerosis</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>160</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN97360154' target='_blank'><div>ISRCTN97360154</div></a></td>
+      <td>Preventing migraine in children and young people</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>600</td>
+    </tr>
+  </tbody>
+</table>"
+14,-331970.6179688271,7650185.350090201,University of Dundee,56.45824469999999,-2.9821428,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN59927814' target='_blank'><div>ISRCTN59927814</div></a></td>
+      <td>Vitamin D and vascular health of chronic fatigue syndrome patients</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN71548196' target='_blank'><div>ISRCTN71548196</div></a></td>
+      <td>Bell's palsy: Early aciclovir and/or prednisolone in Scotland</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>720</td>
+    </tr>
+  </tbody>
+</table>"
+15,-288495.2695133245,6709912.247835172,North Bristol NHS Trust,51.4982841,-2.5915971,7.0,13.090619551221675,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11038397' target='_blank'><div>ISRCTN11038397</div></a></td>
+      <td>Early beta-blockade in severe traumatic brain injury (EBB-TBI)</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>24</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN77817048' target='_blank'><div>ISRCTN77817048</div></a></td>
+      <td>Optimising pelvic floor muscle training to improve quality of life outcomes...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>90</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN93682878' target='_blank'><div>ISRCTN93682878</div></a></td>
+      <td>Reducing pathology in Alzheimer's disease through angiotensin targeting</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>228</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN72645894' target='_blank'><div>ISRCTN72645894</div></a></td>
+      <td>Early intervention in fatigue: a feasibility study</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN27232902' target='_blank'><div>ISRCTN27232902</div></a></td>
+      <td>Assessment of bone marrow-derived Cellular Therapy in progressive Multiple ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16511360' target='_blank'><div>ISRCTN16511360</div></a></td>
+      <td>Deep brain stimulation of the pedunculopontine nucleus for Parkinson's Dise...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN87039596' target='_blank'><div>ISRCTN87039596</div></a></td>
+      <td>Zoledronate to prevent bone loss in acute multiple sclerosis</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+16,-460816.4052398808,6511629.516833119,Plymouth University,50.3758892,-4.1395842,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN80878394' target='_blank'><div>ISRCTN80878394</div></a></td>
+      <td>Does a 10-week physiotherapy programme, using interactive exercise equipmen...</td>
+      <td>Device</td>
+      <td>Child</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN89158865' target='_blank'><div>ISRCTN89158865</div></a></td>
+      <td>Investigating the use of taping for children with cerebral palsy</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>35</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN27374299' target='_blank'><div>ISRCTN27374299</div></a></td>
+      <td>VEstibular Rehabilitation in MultIple Sclerosis</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>140</td>
+    </tr>
+  </tbody>
+</table>"
+17,-173822.0898167692,6868991.812706135,University of Warwick,52.3792525,-1.5614704,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13180641' target='_blank'><div>ISRCTN13180641</div></a></td>
+      <td>Comparing health outcomes in people living with chronic headache (questionn...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17294365' target='_blank'><div>ISRCTN17294365</div></a></td>
+      <td>Using talking therapies in general practice to treat pain-related insomnia</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>48</td>
+    </tr>
+  </tbody>
+</table>"
+18,-330095.57472980337,7058225.529810573,University of Liverpool,53.40478239999999,-2.965299,6.0,12.132827525593784,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN71955516' target='_blank'><div>ISRCTN71955516</div></a></td>
+      <td>Prophylactic antibiotics to prevent chest infections in children with neuro...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13871327' target='_blank'><div>ISRCTN13871327</div></a></td>
+      <td>Seizure first Aid training For Epilepsy: intervention development and pilot...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>207</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN62125126' target='_blank'><div>ISRCTN62125126</div></a></td>
+      <td>The formation of carbamazepine metabolites and carbamazepine-protein conjug...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>158</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN56839387' target='_blank'><div>ISRCTN56839387</div></a></td>
+      <td>Evaluation of a mobile transcranial direct current stimulation device in ch...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>24</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN42179756' target='_blank'><div>ISRCTN42179756</div></a></td>
+      <td>Low-dose intravenous immunoglobulin treatment for Complex Regional Pain Syn...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>108</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN30294119' target='_blank'><div>ISRCTN30294119</div></a></td>
+      <td>Trial comparing the effectiveness and cost effectiveness of levetiracetam a...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>1510</td>
+    </tr>
+  </tbody>
+</table>"
+20,-155375.22567792505,6609823.30843706,University of Southampton,50.9351092,-1.3957594,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12472821' target='_blank'><div>ISRCTN12472821</div></a></td>
+      <td>A study examining the effect of etanercept on inflammation in the brain</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>46</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14719805' target='_blank'><div>ISRCTN14719805</div></a></td>
+      <td>PDSAFE Stage 1 Pilot Trial</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN63088686' target='_blank'><div>ISRCTN63088686</div></a></td>
+      <td>PD Dance: Dancing with Parkinson's disease (PD)</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN37780318' target='_blank'><div>ISRCTN37780318</div></a></td>
+      <td>A spectral analysis of human brain tissue</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>"
+21,-248674.7959753939,7069823.728924356,University of Manchester,53.4668498,-2.2338837,5.0,11.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN88395268' target='_blank'><div>ISRCTN88395268</div></a></td>
+      <td>A feasibility study for attention loss after stroke</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>142</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN76169309' target='_blank'><div>ISRCTN76169309</div></a></td>
+      <td>Assessing the effects of maternal seizures during pregnancy on the brain de...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>180</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11184024' target='_blank'><div>ISRCTN11184024</div></a></td>
+      <td>Action Imagery and Observation in Neurorehabilitation for Parkinson’s Disea...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN35019114' target='_blank'><div>ISRCTN35019114</div></a></td>
+      <td>SENSE-Cog Field Trial: Dementia and Sensory Impairment</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>48</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12961797' target='_blank'><div>ISRCTN12961797</div></a></td>
+      <td>Can IL-1ra reduce inflammation and improve clinical outcome following aneur...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1000</td>
+    </tr>
+  </tbody>
+</table>"
+22,-52626.211348876524,6715968.262466871,Brunel University London,51.5321389,-0.4727493,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN60291412' target='_blank'><div>ISRCTN60291412</div></a></td>
+      <td>RHOMBUS: Rehabilitation via HOMe Based gaming exercise for the Upper-limb p...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15343862' target='_blank'><div>ISRCTN15343862</div></a></td>
+      <td>Changing physical activity behaviour in people with MS: the iStep-MS trial</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN90378161' target='_blank'><div>ISRCTN90378161</div></a></td>
+      <td>Feasibility and efficacy of resistance training in cerebral palsy (CP)</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>"
+23,-12912.726973547356,6712273.366431493,King's College London,51.5114864,-0.115997,24.0,20.746358687061647,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN58998320' target='_blank'><div>ISRCTN58998320</div></a></td>
+      <td>A novel online program for fatigue; a feasibility study</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12424734' target='_blank'><div>ISRCTN12424734</div></a></td>
+      <td>A study of the safety and effect of food on absorption of KCL-286 in health...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>88</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN51225587' target='_blank'><div>ISRCTN51225587</div></a></td>
+      <td>A feasibility study of magnetic stimulation (using TMS - Transcranial Magne...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN57997252' target='_blank'><div>ISRCTN57997252</div></a></td>
+      <td>Does the use of a specific cognitive intervention for children with movemen...</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>36</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12137158' target='_blank'><div>ISRCTN12137158</div></a></td>
+      <td>Does early targeted trunk training improve mobility outcome at 6 months for...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN71271888' target='_blank'><div>ISRCTN71271888</div></a></td>
+      <td>Care augmentation by location-linked messaging</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN34471493' target='_blank'><div>ISRCTN34471493</div></a></td>
+      <td>Control of periodontal inflammation, systemic inflammatory responses and co...</td>
+      <td>Other</td>
+      <td>Senior</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16105064' target='_blank'><div>ISRCTN16105064</div></a></td>
+      <td>Minocycline in Alzheimer's disease</td>
+      <td>Drug</td>
+      <td>Senior</td>
+      <td>480</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13311697' target='_blank'><div>ISRCTN13311697</div></a></td>
+      <td>Can exercise reduce disability in peripheral neuropathy?</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>70</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN93263909' target='_blank'><div>ISRCTN93263909</div></a></td>
+      <td>Mindfulness Intervention for Multiple Sclerosis (MIMS)</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN72895114' target='_blank'><div>ISRCTN72895114</div></a></td>
+      <td>Can brain training lead to short term and sustained improvements in cogniti...</td>
+      <td>Other</td>
+      <td>Other</td>
+      <td>100000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN21346995' target='_blank'><div>ISRCTN21346995</div></a></td>
+      <td>Caring for carers of people with Parkinson's disease</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>146</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN83178718' target='_blank'><div>ISRCTN83178718</div></a></td>
+      <td>Lithium carbonate for patients with amyotrophic lateral sclerosis</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>220</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN82636004' target='_blank'><div>ISRCTN82636004</div></a></td>
+      <td>A nurse-led intervention to reduce dopamine dysregulation syndrome in Parki...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN68407918' target='_blank'><div>ISRCTN68407918</div></a></td>
+      <td>Memantine for the long term management of neuropsychiatric symptoms in Alzh...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN72727460' target='_blank'><div>ISRCTN72727460</div></a></td>
+      <td>European trial of Minocycline IN Amyotrophic Lateral Sclerosis</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN58368984' target='_blank'><div>ISRCTN58368984</div></a></td>
+      <td>Psychological and Electrophysiological Correlates of dementia with Lewy bod...</td>
+      <td>Other</td>
+      <td>Senior</td>
+      <td>64</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN74681449' target='_blank'><div>ISRCTN74681449</div></a></td>
+      <td>Efficacy of Quetiapine in Parkinson's Psychosis</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN47562898' target='_blank'><div>ISRCTN47562898</div></a></td>
+      <td>Efficacy and Safety of Memantine Hydrochloride, a low affinity antagonist t...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>180</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN62185868' target='_blank'><div>ISRCTN62185868</div></a></td>
+      <td>A Randomised Placebo Controlled Trial of a Cholinesterase Inhibitor in the ...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>285</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN05681227' target='_blank'><div>ISRCTN05681227</div></a></td>
+      <td>Cognitive behavioural therapy vs standardised medical care for dissociative...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>298</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18337380' target='_blank'><div>ISRCTN18337380</div></a></td>
+      <td>Clinical and cost­ effectiveness of short-­term integrated palliative care ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>356</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN30903446' target='_blank'><div>ISRCTN30903446</div></a></td>
+      <td>Finding out the genetic cause of Juvenile Myoclonic Epilepsy</td>
+      <td>Biological/Vaccine</td>
+      <td>Mixed</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12839803' target='_blank'><div>ISRCTN12839803</div></a></td>
+      <td>Changing agendas on sleep, treatment and learning in childhood epilepsy</td>
+      <td>Mixed</td>
+      <td>Child</td>
+      <td>330</td>
+    </tr>
+  </tbody>
+</table>"
+24,15764.29818165693,6831813.114718777,Cambridge University Hospitals NHS Foundation Trust,52.1749083,0.1416131,9.0,14.652123889719707,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN47912798' target='_blank'><div>ISRCTN47912798</div></a></td>
+      <td>Brain complications of COVID-19 in hospitalised patients and its consequenc...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1400</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN46299660' target='_blank'><div>ISRCTN46299660</div></a></td>
+      <td>Understanding how increasing some of the brain's chemicals can help thinkin...</td>
+      <td>Drug</td>
+      <td>Mixed</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16682024' target='_blank'><div>ISRCTN16682024</div></a></td>
+      <td>Assessing the efficacy of Ibudilast as an adjuvant treatment to decompressi...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>362</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14616801' target='_blank'><div>ISRCTN14616801</div></a></td>
+      <td>A trial investigating whether suppressing the immune system with azathiopri...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN68734605' target='_blank'><div>ISRCTN68734605</div></a></td>
+      <td>Assessing the potential of ivabradine and related drugs for the treatment o...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13200656' target='_blank'><div>ISRCTN13200656</div></a></td>
+      <td>Comparing anti-epileptic treatments for seizures following traumatic brain ...</td>
+      <td>Drug</td>
+      <td>Mixed</td>
+      <td>1649</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14265371' target='_blank'><div>ISRCTN14265371</div></a></td>
+      <td>A trial to determine bexarotene's safety and tolerability and its ability t...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14996072' target='_blank'><div>ISRCTN14996072</div></a></td>
+      <td>Investigating the optimal time for surgical repair of the skull by craniopl...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14996072' target='_blank'><div>ISRCTN14996072</div></a></td>
+      <td>Investigating the optimal time for surgical repair of the skull by craniopl...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+25,-169496.79326589472,7133925.454259742,Leeds Teaching Hospitals NHS Trust,53.8082553,-1.5226156,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14056874' target='_blank'><div>ISRCTN14056874</div></a></td>
+      <td>Pilot trial of an online Acceptance and Commitment Therapy course to help P...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>92</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10133661' target='_blank'><div>ISRCTN10133661</div></a></td>
+      <td>Comparing the clinical and cost effectiveness of two types of neck surgery,...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>252</td>
+    </tr>
+  </tbody>
+</table>"
+26,-136281.6843531646,6755938.296665334,Oxford Brookes University,51.7549518,-1.2242392,5.0,11.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN74235136' target='_blank'><div>ISRCTN74235136</div></a></td>
+      <td>Brain stimulation to improve movement in children with cerebral palsy</td>
+      <td>Procedure/Surgery</td>
+      <td>Child</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN84098935' target='_blank'><div>ISRCTN84098935</div></a></td>
+      <td>Standing up for cerebral palsy</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>36</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14760402' target='_blank'><div>ISRCTN14760402</div></a></td>
+      <td>The First Steps pathway for taking control after a diagnosis of Parkinson’s</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN69897291' target='_blank'><div>ISRCTN69897291</div></a></td>
+      <td>A study to determine whether the daily consumption of flavonoid-rich pure c...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN89009719' target='_blank'><div>ISRCTN89009719</div></a></td>
+      <td>Effective exercise for people with Multiple Sclerosis</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>"
+27,-289762.31908948265,6702786.54140238,University of Bristol,51.4584172,-2.6029792,6.0,12.132827525593784,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11452969' target='_blank'><div>ISRCTN11452969</div></a></td>
+      <td>PRIME Parkinson: a cross-sectional study of patients with parkinsonism in t...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>900</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13762177' target='_blank'><div>ISRCTN13762177</div></a></td>
+      <td>Is it feasible to conduct a trial of a new intervention to help children wi...</td>
+      <td>Mixed</td>
+      <td>Child</td>
+      <td>3840</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN41639809' target='_blank'><div>ISRCTN41639809</div></a></td>
+      <td>A trial of rivastigmine to prevent falls in Parkinson's</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>600</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18020851' target='_blank'><div>ISRCTN18020851</div></a></td>
+      <td>How effective is FITNET-NHS for children and young adults with CFS/ME?</td>
+      <td>Behavioural</td>
+      <td>Child</td>
+      <td>314</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN19880883' target='_blank'><div>ISRCTN19880883</div></a></td>
+      <td>The ReSPonD study - Rivastigmine to Stabilise gait in Parkinsons Disease</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>130</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN66730162' target='_blank'><div>ISRCTN66730162</div></a></td>
+      <td>Sleep disturbance and learning in children with Benign Epilepsy of Childhoo...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>"
+31,-19466.828973237527,6710008.469052965,Imperial College London,51.49882220000001,-0.1748735,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14254122' target='_blank'><div>ISRCTN14254122</div></a></td>
+      <td>The Capsaicin 8% patch for pain relief in diabetic peripheral neuropathy</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN03683971' target='_blank'><div>ISRCTN03683971</div></a></td>
+      <td>The role of striatal serotonergic terminals in L-dopa induced-dyskinesia in...</td>
+      <td>Other</td>
+      <td>Senior</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN75786983' target='_blank'><div>ISRCTN75786983</div></a></td>
+      <td>Cerebral venous drainage in multiple sclerosis</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16535836' target='_blank'><div>ISRCTN16535836</div></a></td>
+      <td>Neural mechanisms of movement, balance and spatial orientation in health an...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>225</td>
+    </tr>
+  </tbody>
+</table>"
+32,-353869.5329130179,6707828.061418129,Cardiff University,51.48662710000001,-3.1788641,7.0,13.090619551221675,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12103732' target='_blank'><div>ISRCTN12103732</div></a></td>
+      <td>An observational study providing new insights into lifestyle and genetic ri...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN52651778' target='_blank'><div>ISRCTN52651778</div></a></td>
+      <td>A single site, open label, phase I study to assess the safety and feasibili...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN65378754' target='_blank'><div>ISRCTN65378754</div></a></td>
+      <td>Supporting activity engagement in people with Huntington's disease</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>62</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11392629' target='_blank'><div>ISRCTN11392629</div></a></td>
+      <td>Exercise rehabilitation trial in Huntington's disease</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>26</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN90741776' target='_blank'><div>ISRCTN90741776</div></a></td>
+      <td>Inspiratory muscle training in people with Huntington's disease</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN09739757' target='_blank'><div>ISRCTN09739757</div></a></td>
+      <td>A randomised, double blind, placebo-controlled study of RAD001 (Everolimus)...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>48</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN72770961' target='_blank'><div>ISRCTN72770961</div></a></td>
+      <td>Respiratory function in people with Huntington's disease</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+  </tbody>
+</table>"
+35,-166122.46572901995,7053444.597670693,Sheffield Teaching Hospitals NHS Foundation Trust,53.379171,-1.4923035,9.0,14.652123889719707,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN30588041' target='_blank'><div>ISRCTN30588041</div></a></td>
+      <td>A randomised study of nutritional management in patients with amyotrophic l...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>334</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN88667898' target='_blank'><div>ISRCTN88667898</div></a></td>
+      <td>Autologous stem cell transplantation versus alemtuzumab or ocrelizumab in r...</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>198</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN77188216' target='_blank'><div>ISRCTN77188216</div></a></td>
+      <td>HighCALS Study - A programme to develop and test an online resource which a...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN73371260' target='_blank'><div>ISRCTN73371260</div></a></td>
+      <td>Trial of ursodeoxycholic acid for Parkinson’s disease</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17545443' target='_blank'><div>ISRCTN17545443</div></a></td>
+      <td>Optimal pathway for treatIng neuropathic pain in diabetes mellitus (OPTION-...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>392</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17560073' target='_blank'><div>ISRCTN17560073</div></a></td>
+      <td>EncoreAnywhere use in motor neurone disease</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN26675465' target='_blank'><div>ISRCTN26675465</div></a></td>
+      <td>Telehealth in Motor Neurone Disease: a single-centre, randomised controlled...</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN53817913' target='_blank'><div>ISRCTN53817913</div></a></td>
+      <td>Diaphragm Pacing in motor neurone disease/ Amyotrophic Lateral Sclerosis</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>108</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN41541516' target='_blank'><div>ISRCTN41541516</div></a></td>
+      <td>Exercise Intervention for Multiple Sclerosis: the Sheffield ExIMS trial</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+  </tbody>
+</table>"
+43,-659946.2020520652,7285291.2192702135,University of Ulster,54.6035026,-5.928397599999999,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN88026375' target='_blank'><div>ISRCTN88026375</div></a></td>
+      <td>Post-stroke hand rehabilitation with MEG-based brain-robot interface</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN24454186' target='_blank'><div>ISRCTN24454186</div></a></td>
+      <td>An observational study of factors influencing age of onset of Alzheimer’s d...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>600</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN22105243' target='_blank'><div>ISRCTN22105243</div></a></td>
+      <td>Constraint Induced Movement Therapy (CIMT) for acquired brain injury: a cli...</td>
+      <td>Procedure/Surgery</td>
+      <td>Mixed</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN78227711' target='_blank'><div>ISRCTN78227711</div></a></td>
+      <td>Group exercise therapy for mobility and balance in people with multiple scl...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>160</td>
+    </tr>
+  </tbody>
+</table>"
+44,-211322.04177741954,6576048.441885881,Bournemouth University,50.7435102,-1.8983382,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN24811371' target='_blank'><div>ISRCTN24811371</div></a></td>
+      <td>Auto-regulation & cerebral blood flow in  transient ischaemic attack (TIA) ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>"
+46,12791.555707818878,6837144.079148998,University of Cambridge,52.2042666,0.1149085,5.0,11.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14643514' target='_blank'><div>ISRCTN14643514</div></a></td>
+      <td>The feasibility and practicality of dementia risk reduction</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>765</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13200656' target='_blank'><div>ISRCTN13200656</div></a></td>
+      <td>Comparing anti-epileptic treatments for seizures following traumatic brain ...</td>
+      <td>Drug</td>
+      <td>Mixed</td>
+      <td>1649</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14265371' target='_blank'><div>ISRCTN14265371</div></a></td>
+      <td>A trial to determine bexarotene's safety and tolerability and its ability t...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15705814' target='_blank'><div>ISRCTN15705814</div></a></td>
+      <td>Sound therapy for tinnitus relief for adult cochlear-implant users</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15705814' target='_blank'><div>ISRCTN15705814</div></a></td>
+      <td>Sound therapy for tinnitus relief for adult cochlear-implant users</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>"
+49,120964.14468390832,6668518.098329724,East Kent Hospitals University NHS Foundation Trust,51.2662051,1.0866394,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN24953404' target='_blank'><div>ISRCTN24953404</div></a></td>
+      <td>Memantine for AGitation in Dementia</td>
+      <td>Drug</td>
+      <td>Senior</td>
+      <td>164</td>
+    </tr>
+  </tbody>
+</table>"
+54,-168073.3732010193,7365882.694883192,Northumbria Healthcare NHS Foundation Trust,55.0206902,-1.5098288,5.0,11.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN35516780' target='_blank'><div>ISRCTN35516780</div></a></td>
+      <td>PARAS: A feasibility study of an intervention targeting Physical Activity R...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>57</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN75458559' target='_blank'><div>ISRCTN75458559</div></a></td>
+      <td>Is a high intensity exercise intervention for people with Parkinson's disea...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>24</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11045864' target='_blank'><div>ISRCTN11045864</div></a></td>
+      <td>Drooling in Parkinson’s disease: a case for divided attention</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN26683545' target='_blank'><div>ISRCTN26683545</div></a></td>
+      <td>Parkinson's Pen Project</td>
+      <td>Device</td>
+      <td>All</td>
+      <td>202</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13611537' target='_blank'><div>ISRCTN13611537</div></a></td>
+      <td>The effects of an exercise intervention on pulmonary function, respiratory ...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+55,137944.45245519464,6913367.5528388275,University of East Anglia,52.6219215,1.2391761,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN76069316' target='_blank'><div>ISRCTN76069316</div></a></td>
+      <td>The impact of cranberries on microbiome and brain in healthy ageing</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN01872582' target='_blank'><div>ISRCTN01872582</div></a></td>
+      <td>Working memory training for children who have survived a brain injury</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>138</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN07830951' target='_blank'><div>ISRCTN07830951</div></a></td>
+      <td>Is Carer Assisted Adherence Therapy beneficial for improving medication adh...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN30848329' target='_blank'><div>ISRCTN30848329</div></a></td>
+      <td>Sensory Re-learning after Carpal Tunnel syndrome</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+56,7242.969272617108,6711582.4310722845,University of East London,51.5076234,0.0650647,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN92358992' target='_blank'><div>ISRCTN92358992</div></a></td>
+      <td>Brain-based predictors of the ability to learn a new skill in stroke</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>44</td>
+    </tr>
+  </tbody>
+</table>"
+68,-159707.9806346827,6609566.652367846,Southampton University Hospitals NHS Trust,50.93365619999999,-1.4346812,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN48152791' target='_blank'><div>ISRCTN48152791</div></a></td>
+      <td>Effectiveness of PDSAFE to prevent falls among people with Parkinson’s dise...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>600</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN91377356' target='_blank'><div>ISRCTN91377356</div></a></td>
+      <td>Cognitive behavioural therapy (CBT) for adjustment to early stage multiple ...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN91377356' target='_blank'><div>ISRCTN91377356</div></a></td>
+      <td>Cognitive behavioural therapy (CBT) for adjustment to early stage multiple ...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+69,-19408.40850446922,6713404.673761457,Imperial College Healthcare NHS Trust,51.5178108,-0.1743487,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16535836' target='_blank'><div>ISRCTN16535836</div></a></td>
+      <td>Neural mechanisms of movement, balance and spatial orientation in health an...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>225</td>
+    </tr>
+  </tbody>
+</table>"
+71,-117082.70120672479,7159956.564079147,University of York,53.9461089,-1.0517718,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN89559672' target='_blank'><div>ISRCTN89559672</div></a></td>
+      <td>Effectiveness of the enzyme linked immuno-sorbent assay (ELISA) test for th...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>172</td>
+    </tr>
+  </tbody>
+</table>"
+76,-4494.468781033024,6714523.953950477,Queen Mary University of London,51.5240671,-0.0403745,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN82487767' target='_blank'><div>ISRCTN82487767</div></a></td>
+      <td>A phase II baseline versus treatment study to determine the efficacy of ral...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>24</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN22975026' target='_blank'><div>ISRCTN22975026</div></a></td>
+      <td>Graded Exercise Therapy guided SElf-help Treatment for CFS/ME</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>211</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN01253916' target='_blank'><div>ISRCTN01253916</div></a></td>
+      <td>Antiepileptic drug monitoring In pregnancy</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1000</td>
+    </tr>
+  </tbody>
+</table>"
+77,-527498.2385103808,6528117.734682793,Cornwall Partnership NHS Foundation Trust,50.470256,-4.738597299999999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN56117572' target='_blank'><div>ISRCTN56117572</div></a></td>
+      <td>Influence on quality of life of various treatment choices of people with dr...</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>150</td>
+    </tr>
+  </tbody>
+</table>"
+79,-143876.69038346637,6569156.758993853,Strong Room Technology Pty Ltd,50.7043182,-1.2924663,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11241743' target='_blank'><div>ISRCTN11241743</div></a></td>
+      <td>Assessment of dementia diagnosis using 3D facial mapping technology</td>
+      <td>Device</td>
+      <td>Senior</td>
+      <td>75</td>
+    </tr>
+  </tbody>
+</table>"
+82,-258694.8637167799,7073682.91178754,Salford Royal NHS Foundation Trust,53.487482,-2.3238955,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN74236229' target='_blank'><div>ISRCTN74236229</div></a></td>
+      <td>Subcutaneous interleukin-1 receptor antagonist (SC IL-1RA) in Stroke Study</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN95151471' target='_blank'><div>ISRCTN95151471</div></a></td>
+      <td>Antidyskinetic properties of topiramate: a double-blind, placebo-controlled...</td>
+      <td>Drug</td>
+      <td>Other</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+84,-252923.78301532974,6983633.7531679515,Keele University,53.00343729999999,-2.272053000000001,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14167992' target='_blank'><div>ISRCTN14167992</div></a></td>
+      <td>Can exercise improve heart and lung function in people with Parkinson’s? Th...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN09392969' target='_blank'><div>ISRCTN09392969</div></a></td>
+      <td>The clinical and cost effectiveness of of a steroid injection versus a nigh...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>240</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN67208261' target='_blank'><div>ISRCTN67208261</div></a></td>
+      <td>How can Lycra® sleeves improve upper limb functioning in hemiplegic cerebra...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>35</td>
+    </tr>
+  </tbody>
+</table>"
+85,-443046.2745494671,6729773.218704072,Swansea University,51.6092184,-3.9799524,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN48133332' target='_blank'><div>ISRCTN48133332</div></a></td>
+      <td>Nurse-led medication monitoring for patients with dementia and adverse even...</td>
+      <td>Other</td>
+      <td>Senior</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+89,576625.2886454072,6815792.603583772,University Medical Center Utrecht,52.0865646,5.179913099999999,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN42686094' target='_blank'><div>ISRCTN42686094</div></a></td>
+      <td>RESCUE ESES: a Randomized European trial of Steroids versus Clobazam Usage ...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>130</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN88423240' target='_blank'><div>ISRCTN88423240</div></a></td>
+      <td>Time to Stop (TTS) Trial: a trial to investigate early antiepileptic drug w...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>180</td>
+    </tr>
+  </tbody>
+</table>"
+93,-355024.71753287787,7547378.240693045,University of Edinburgh,55.9445158,-3.1892413,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN71291784' target='_blank'><div>ISRCTN71291784</div></a></td>
+      <td>A study to investigate the prevalence of pituitary gland dysfunction and it...</td>
+      <td>Biological/Vaccine</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN48783995' target='_blank'><div>ISRCTN48783995</div></a></td>
+      <td>Effect of continuous positive airway pressure (CPAP) therapy on arterial st...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN77452114' target='_blank'><div>ISRCTN77452114</div></a></td>
+      <td>Retinal scanning for biomarker discovery in multiple sclerosis</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+97,-174952.83980840005,7362681.212442565,Northumbria University,55.0041996,-1.5716281,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN05891695' target='_blank'><div>ISRCTN05891695</div></a></td>
+      <td>Testing the efficacy of an early intervention for acute insomnia</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>114</td>
+    </tr>
+  </tbody>
+</table>"
+99,-15299.205349122634,6714813.893758078,University College London Hospitals NHS Foundation Trust,51.5256876,-0.1374351,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN35734205' target='_blank'><div>ISRCTN35734205</div></a></td>
+      <td>A feasibility study of real-time displays of brain activity as a treatment ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>32</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12655391' target='_blank'><div>ISRCTN12655391</div></a></td>
+      <td>A trial of acceptance and commitment therapy for people with motor neuron d...</td>
+      <td>Behavioural</td>
+      <td>Mixed</td>
+      <td>216</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN96803614' target='_blank'><div>ISRCTN96803614</div></a></td>
+      <td>The natural history of inclusion body myositis</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN87551289' target='_blank'><div>ISRCTN87551289</div></a></td>
+      <td>Strengthening hip muscles to improve walking distance in people with Charco...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>32</td>
+    </tr>
+  </tbody>
+</table>"
+102,-237986.04318476183,7784468.383156934,Robert Gordon University,57.1189422,-2.137865,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11672329' target='_blank'><div>ISRCTN11672329</div></a></td>
+      <td>Feasibility and acceptability of a specialist exercise programme for people...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+103,-135684.81150742923,6757635.9259120105,Oxford Radcliffe Hospitals NHS Trust,51.764391,-1.2188774,6.0,12.132827525593784,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12698674' target='_blank'><div>ISRCTN12698674</div></a></td>
+      <td>Better outcomes for older people with spinal trouble</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>438</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN39264076' target='_blank'><div>ISRCTN39264076</div></a></td>
+      <td>Optimising nutrition to improve growth and reduce neurodisabilities in neon...</td>
+      <td>Drug</td>
+      <td>Neonate</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN73047833' target='_blank'><div>ISRCTN73047833</div></a></td>
+      <td>Oxidative stress and obstructive sleep apnoea; effect of withdrawing contin...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>42</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN34164388' target='_blank'><div>ISRCTN34164388</div></a></td>
+      <td>Multi-centre randomised controlled trial to investigate the efficacy of nas...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN37562266' target='_blank'><div>ISRCTN37562266</div></a></td>
+      <td>The effects of Modafinil on functional magnetic resonance imaging (fMRI) br...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN49866681' target='_blank'><div>ISRCTN49866681</div></a></td>
+      <td>International Subarachnoid Aneurysm Trial</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>2143</td>
+    </tr>
+  </tbody>
+</table>"
+105,15126.059013142776,6831543.32168535,Papworth Hospital NHS Foundation Trust,52.173422,0.1358797,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN02309506' target='_blank'><div>ISRCTN02309506</div></a></td>
+      <td>Oral mandibular advancement devices for obstructive sleep apnoea-hypopnoea</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>90</td>
+    </tr>
+  </tbody>
+</table>"
+107,-65619.09948774411,6664416.1057942845,University of Surrey,51.2431429,-0.5894664,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17396879' target='_blank'><div>ISRCTN17396879</div></a></td>
+      <td>A pilot trial of devices monitoring symptoms of Parkinson’s disease</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN44577970' target='_blank'><div>ISRCTN44577970</div></a></td>
+      <td>Specialist Parkinson's Integrated Rehabilitation Team Trial</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>270</td>
+    </tr>
+  </tbody>
+</table>"
+113,-357660.29553300125,7544532.960093776,NHS Lothian,55.9301999,-3.2129171,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16828522' target='_blank'><div>ISRCTN16828522</div></a></td>
+      <td>Understanding cauda equina syndrome (UCES)</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1000</td>
+    </tr>
+  </tbody>
+</table>"
+117,2849.4561377845034,6726254.0404829895,North East London NHS Foundation Trust,51.5895816,0.0255971,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN46521766' target='_blank'><div>ISRCTN46521766</div></a></td>
+      <td>'I can't forget to worry': cognitive behavioural therapy (CBT) for anxiety ...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+123,-12216.412426686351,6713476.660303367,Cognetivity Ltd.,51.5182132,-0.1097419,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16596456' target='_blank'><div>ISRCTN16596456</div></a></td>
+      <td>Accelerating dementia pathway technologies</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>140</td>
+    </tr>
+  </tbody>
+</table>"
+129,-15949.099668322844,6713249.343139148,University of Westminster,51.5169425,-0.1432732,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11339389' target='_blank'><div>ISRCTN11339389</div></a></td>
+      <td>The short term effects of coffee and caffeine on the cardiovascular and aut...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>105</td>
+    </tr>
+  </tbody>
+</table>"
+130,-253081.24443505672,7073603.847066523,University of Salford,53.4870594,-2.2734675,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN59243785' target='_blank'><div>ISRCTN59243785</div></a></td>
+      <td>A clinical investigation of a novel functional electrical stimulation syste...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+137,-459748.0832186868,7025566.362075045,Bangor University,53.2295205,-4.1299873,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12565492' target='_blank'><div>ISRCTN12565492</div></a></td>
+      <td>Computer-based treatment to reduce slowing of movement and fatigue in Parki...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN20278495' target='_blank'><div>ISRCTN20278495</div></a></td>
+      <td>One language or two - does language use affect wellbeing?</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN59507580' target='_blank'><div>ISRCTN59507580</div></a></td>
+      <td>An awareness-based intervention to enhance quality of life in severe dement...</td>
+      <td>Other</td>
+      <td>Other</td>
+      <td>80</td>
+    </tr>
+  </tbody>
+</table>"
+144,-10435.022275266989,6704483.374082789,King's College Hospital NHS Foundation Trust,51.4679138,-0.0937394,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18337380' target='_blank'><div>ISRCTN18337380</div></a></td>
+      <td>Clinical and cost­ effectiveness of short-­term integrated palliative care ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>356</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN30903446' target='_blank'><div>ISRCTN30903446</div></a></td>
+      <td>Finding out the genetic cause of Juvenile Myoclonic Epilepsy</td>
+      <td>Biological/Vaccine</td>
+      <td>Mixed</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12839803' target='_blank'><div>ISRCTN12839803</div></a></td>
+      <td>Changing agendas on sleep, treatment and learning in childhood epilepsy</td>
+      <td>Mixed</td>
+      <td>Child</td>
+      <td>330</td>
+    </tr>
+  </tbody>
+</table>"
+145,-325895.9133562383,7341065.344468118,Cumbria Partnership NHS Foundation Trust,54.89268029999999,-2.927572800000001,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10430251' target='_blank'><div>ISRCTN10430251</div></a></td>
+      <td>Patient reported outcomes after GON block</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>84</td>
+    </tr>
+  </tbody>
+</table>"
+149,-177353.03274524107,7362485.32925916,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,55.0031904,-1.5931894,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN24515760' target='_blank'><div>ISRCTN24515760</div></a></td>
+      <td>Developing technology-based hand and arm activity tracking for children wit...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN80717736' target='_blank'><div>ISRCTN80717736</div></a></td>
+      <td>Phase 1 study of use of 5% Carbogen in treatment of paediatric nonconvulsiv...</td>
+      <td>Procedure/Surgery</td>
+      <td>Child</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN65947097' target='_blank'><div>ISRCTN65947097</div></a></td>
+      <td>Can play-based therapy improve hand function in hemiplegia?</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>58</td>
+    </tr>
+  </tbody>
+</table>"
+151,-266136.1597941943,6690894.71626981,Royal United Hospitals Bath NHS Foundation Trust,51.3918072,-2.3907418,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN33817530' target='_blank'><div>ISRCTN33817530</div></a></td>
+      <td>Collecting COMPACT data for CRPS clinical studies 1.0</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>240</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN54363174' target='_blank'><div>ISRCTN54363174</div></a></td>
+      <td>International Collaborative Infantile Spasms Study</td>
+      <td>Drug</td>
+      <td>Neonate</td>
+      <td>410</td>
+    </tr>
+  </tbody>
+</table>"
+159,-660575.3464181816,7281622.521041222,Queen's University Belfast,54.5844087,-5.9340493,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN94143260' target='_blank'><div>ISRCTN94143260</div></a></td>
+      <td>Developing a way of improving how medicines are managed by community pharma...</td>
+      <td>Behavioural</td>
+      <td>Mixed</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>"
+163,-1008747.9708064647,7034801.879333427,"National University of Ireland, Galway",53.27915489999999,-9.0617372,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11615285' target='_blank'><div>ISRCTN11615285</div></a></td>
+      <td>MIA-MS: The effectiveness of an online mindfulness based cognitive therapy ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>64</td>
+    </tr>
+  </tbody>
+</table>"
+164,-458162.2034889477,6518740.385367721,Plymouth Hospitals NHS Trust,50.4166098,-4.1157411,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13587999' target='_blank'><div>ISRCTN13587999</div></a></td>
+      <td>Balance right in multiple sclerosis</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN69614598' target='_blank'><div>ISRCTN69614598</div></a></td>
+      <td>SUMS: Standing up in people with multiple sclerosis</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>140</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16108482' target='_blank'><div>ISRCTN16108482</div></a></td>
+      <td>Simvastatin as a neuroprotective treatment for moderate Parkinson's disease</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>198</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN62942668' target='_blank'><div>ISRCTN62942668</div></a></td>
+      <td>Cannabinoids in progressive inflammatory brain disease (CUPID)</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>500</td>
+    </tr>
+  </tbody>
+</table>"
+165,-240641.65869322798,7790655.39373056,NHS Grampian,57.1491035,-2.1617208,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17116445' target='_blank'><div>ISRCTN17116445</div></a></td>
+      <td>Randomised controlled trial comparing the clinical and cost-effectiveness o...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>600</td>
+    </tr>
+  </tbody>
+</table>"
+171,-322518.53566531563,7021901.093929497,Countess of Chester NHS Foundation Trust,53.2098063,-2.8972333,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16608742' target='_blank'><div>ISRCTN16608742</div></a></td>
+      <td>The VIRTUE study: Can virtual reality games help people with cognitive impa...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>"
+173,-15190.167907890624,6714706.415329954,UCLH,51.5250869,-0.1364556,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN61074476' target='_blank'><div>ISRCTN61074476</div></a></td>
+      <td>Randomised, double blind, placebo-controlled, trial of long-term ascorbic a...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN61074476' target='_blank'><div>ISRCTN61074476</div></a></td>
+      <td>Randomised, double blind, placebo-controlled, trial of long-term ascorbic a...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+176,-126341.62192981176,6914257.025768537,University Hospitals of Leicester NHS Trust,52.62677189999999,-1.1349461,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN39889125' target='_blank'><div>ISRCTN39889125</div></a></td>
+      <td>Leicester Sleep and Sugar Study</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+177,-39883.53602946498,7121862.737414685,Hull and East Yorkshire Hospitals NHS Trust,53.74422029999999,-0.3582799,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN03090939' target='_blank'><div>ISRCTN03090939</div></a></td>
+      <td>A comparison of high cocoa solid with absent cocoa solid chocolate in patie...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>10</td>
+    </tr>
+  </tbody>
+</table>"
+182,-163237.19811104724,6967189.358494778,Derby Hospitals NHS Foundation Trust,52.91445119999999,-1.4663847,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN26618585' target='_blank'><div>ISRCTN26618585</div></a></td>
+      <td>Prospective clinical trial comparing C-Trac™ splint with conventional resti...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+184,-38419.796045024224,6757310.120189646,Hertfordshire Partnership Foundation NHS Trust,51.7625796,-0.3451309,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN80067039' target='_blank'><div>ISRCTN80067039</div></a></td>
+      <td>A randomised controlled feasibility trial of the Books Beyond Words interve...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+187,-322481.12118446006,7060800.051357996,Alder Hey Children's NHS Foundation Trust,53.4185677,-2.8968972,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN49474281' target='_blank'><div>ISRCTN49474281</div></a></td>
+      <td>The British Antibiotic and Silver Impregnated Catheters for ventriculoperit...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>1200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN05534585' target='_blank'><div>ISRCTN05534585</div></a></td>
+      <td>The use of melatonin in children with neuro-developmental disorders and imp...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>114</td>
+    </tr>
+  </tbody>
+</table>"
+198,-3942.60240542537,6705620.570739751,"Goldsmiths, University of London",51.4742772,-0.035417,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12969079' target='_blank'><div>ISRCTN12969079</div></a></td>
+      <td>Sonic Sleeve: investigating whether music feedback can help reduce compensa...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>45</td>
+    </tr>
+  </tbody>
+</table>"
+200,-6553.233707661985,6713415.407300916,Barts and The London NHS Trust,51.5178708,-0.0588687,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN28270972' target='_blank'><div>ISRCTN28270972</div></a></td>
+      <td>Disease biomarkers in amyotrophic lateral sclerosis/motor neuron disease</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+207,1827177.3607957596,6145622.664787434,EMTensor GmbH,48.2325035,16.4138135,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18134070' target='_blank'><div>ISRCTN18134070</div></a></td>
+      <td>A study to demonstrate the ability of the EMTensor brain-imaging scanner to...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+217,35864.18996708673,6850022.292811619,TdeltaS Ltd,52.2751086,0.3221735,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN64294760' target='_blank'><div>ISRCTN64294760</div></a></td>
+      <td>Can a ketone drink reduce the severity of symptoms of Parkinson’s disease?</td>
+      <td>Supplement</td>
+      <td>Mixed</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10531043' target='_blank'><div>ISRCTN10531043</div></a></td>
+      <td>Can a ketone drink increase ATP in the brains of patients with Parkinson's ...</td>
+      <td>Supplement</td>
+      <td>Mixed</td>
+      <td>12</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16599164' target='_blank'><div>ISRCTN16599164</div></a></td>
+      <td>Can a ketone drink improve exercise performance in patients with Parkinson'...</td>
+      <td>Supplement</td>
+      <td>Mixed</td>
+      <td>15</td>
+    </tr>
+  </tbody>
+</table>"
+222,-389286.28531881014,7033341.626065807,Betsi Cadwaladr University Health Board,53.2713109,-3.4970182,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16783092' target='_blank'><div>ISRCTN16783092</div></a></td>
+      <td>ENact-PD: EEG Neuro-feedback to improve motor function in Parkinson’s</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+225,-18348.64695211725,6719793.827113766,Royal Free Hospital,51.5535119,-0.1648287,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN87024790' target='_blank'><div>ISRCTN87024790</div></a></td>
+      <td>High dose Coenzyme Q10 and vitamin E therapy in Friedreich's ataxia</td>
+      <td>Supplement</td>
+      <td>Not Specified</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+227,-220.1788208400158,6645224.208730207,Queen Victoria Hospital NHS Foundation Trust,51.1350886,-0.0019779,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN21782066' target='_blank'><div>ISRCTN21782066</div></a></td>
+      <td>An inconspicuous, non-invasive, mobile sensor device for real-time control ...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>150</td>
+    </tr>
+  </tbody>
+</table>"
+229,-219718.50361363654,6572151.6785112135,Poole Hospital NHS Foundation Trust,50.7213539,-1.9737649,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN49286846' target='_blank'><div>ISRCTN49286846</div></a></td>
+      <td>Mii-vitaliSe: a pilot randomised controlled trial of a home gaming system (...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN76517470' target='_blank'><div>ISRCTN76517470</div></a></td>
+      <td>A randomised controlled trial of a self-management programme for fatigue in...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>180</td>
+    </tr>
+  </tbody>
+</table>"
+230,-424589.458448146,6730584.303541024,Abertawe Bro Morgannwg University Health Board,51.613743,-3.814152,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN59206964' target='_blank'><div>ISRCTN59206964</div></a></td>
+      <td>Prevalence and risk factors of hair-loss in survivors of critical illness</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+  </tbody>
+</table>"
+238,-337638.20493968687,7651395.375952595,NHS Tayside,56.4642503,-3.0330556,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN31319378' target='_blank'><div>ISRCTN31319378</div></a></td>
+      <td>A randomised, placebo controlled trial of levobupivacaine or the combinatio...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>180</td>
+    </tr>
+  </tbody>
+</table>"
+243,-473103.4053556791,7531948.501503367,Glasgow Caledonian University,55.8668183,-4.249960199999999,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN32522341' target='_blank'><div>ISRCTN32522341</div></a></td>
+      <td>Early versus later extra physiotherapy compared with usual care to improve ...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>75</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12437878' target='_blank'><div>ISRCTN12437878</div></a></td>
+      <td>Stimulation of the Tibial nerve – A Randomised Trial for Urinary problems a...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>208</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN85007023' target='_blank'><div>ISRCTN85007023</div></a></td>
+      <td>Abdominal massage for bowel dysfunction in people with multiple sclerosis</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN46706125' target='_blank'><div>ISRCTN46706125</div></a></td>
+      <td>Intermittent self catheterisation in people with multiple sclerosis</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>250</td>
+    </tr>
+  </tbody>
+</table>"
+253,-198659.46083163374,6722173.3028083015,Medical Research Council,51.56680069999999,-1.7845883,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN65226825' target='_blank'><div>ISRCTN65226825</div></a></td>
+      <td>Performance-based selective training for robot-mediated upper limb rehabili...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>24</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN06722585' target='_blank'><div>ISRCTN06722585</div></a></td>
+      <td>PRION-1: Quinacrine for human prion disease. A partially randomised patient...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>160</td>
+    </tr>
+  </tbody>
+</table>"
+257,-14693.438076072878,6716737.168907866,NOCLOR,51.5364355,-0.1319934,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11185706' target='_blank'><div>ISRCTN11185706</div></a></td>
+      <td>Problem adaptation therapy for depression in dementia (PATHFINDER)</td>
+      <td>Behavioural</td>
+      <td>Senior</td>
+      <td>334</td>
+    </tr>
+  </tbody>
+</table>"
+259,-310328.61727743805,7172125.076875081,Lancaster University,54.0103942,-2.7877294,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN45514614' target='_blank'><div>ISRCTN45514614</div></a></td>
+      <td>Assessment and post-treatment evaluation of absence epilepsy seizures</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>27</td>
+    </tr>
+  </tbody>
+</table>"
+261,-12328.266251035431,6713290.612888939,Physiotherapy Research Foundation,51.51717319999999,-0.1107467,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN42717948' target='_blank'><div>ISRCTN42717948</div></a></td>
+      <td>Voices of children and young people with cerebral palsy about participation...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>8</td>
+    </tr>
+  </tbody>
+</table>"
+264,-13609721.983059734,4514254.354893765,Nevro Corp,37.5372138,-122.2582127,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13548270' target='_blank'><div>ISRCTN13548270</div></a></td>
+      <td>HF10 therapy for the treatment of chronic pain resulting from spinal cord i...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN94247798' target='_blank'><div>ISRCTN94247798</div></a></td>
+      <td>HF10™ spinal cord stimulation in the treatment of refractory chronic migrai...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>"
+266,-301491.69761199935,7125682.763301293,University of Central Lancashire,53.7645095,-2.708346,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14005026' target='_blank'><div>ISRCTN14005026</div></a></td>
+      <td>ICONS II: Identifying Continence OptioNs after Stroke</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>818</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12868810' target='_blank'><div>ISRCTN12868810</div></a></td>
+      <td>Accelerating delivery of psychological therapies after stroke</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>608</td>
+    </tr>
+  </tbody>
+</table>"
+270,552056.6874091139,6853441.084203458,Academic Medical Centre (AMC) (Netherlands),52.2938961,4.959209599999999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15893334' target='_blank'><div>ISRCTN15893334</div></a></td>
+      <td>Intravenous immunoglobulin and intravenous methylprednisolone as optimal fi...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>96</td>
+    </tr>
+  </tbody>
+</table>"
+278,-183532.22183188857,7356888.979741109,Alzheimer's Society,54.97434699999999,-1.648698,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN98321871' target='_blank'><div>ISRCTN98321871</div></a></td>
+      <td>Aromatherapy in Alzheimer's Disease</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>150</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN55477154' target='_blank'><div>ISRCTN55477154</div></a></td>
+      <td>Dementia: Diagnosis and management in primary care - a primary care based e...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN84429490' target='_blank'><div>ISRCTN84429490</div></a></td>
+      <td>Can cognitive therapy reduce emotional burden in depressed carers of people...</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN45577048' target='_blank'><div>ISRCTN45577048</div></a></td>
+      <td>Randomised double-blind placebo controlled trial of effect of Ginkgo biloba...</td>
+      <td>Drug</td>
+      <td>Senior</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>"
+282,-472260.99510910106,7531014.683548528,University of Strathclyde,55.862111,-4.2423927,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17619184' target='_blank'><div>ISRCTN17619184</div></a></td>
+      <td>Effectiveness of speech therapy for people with Friedreich's ataxia</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>"
+286,337821.6038007688,6552752.895726325,Centre Hospitalier Regional et Universitaire de Lille,50.6108999,3.0347031,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN84188565' target='_blank'><div>ISRCTN84188565</div></a></td>
+      <td>Conservative iron chelation as a disease-modifying strategy in Parkinson’s ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>372</td>
+    </tr>
+  </tbody>
+</table>"
+319,-69241.04609993947,6739353.738278273,Buckinghamshire Healthcare NHS Trust,51.6626341,-0.6220029,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN98677526' target='_blank'><div>ISRCTN98677526</div></a></td>
+      <td>Soft extra muscle glove study for spinal cord injury</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>15</td>
+    </tr>
+  </tbody>
+</table>"
+324,-10270.803762448752,6710352.092322927,Guy's and St Thomas' NHS Foundation Trust,51.5007438,-0.09226419999999999,5.0,11.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN07743794' target='_blank'><div>ISRCTN07743794</div></a></td>
+      <td>External peripheral neuromodulation for the relief of chronic pain</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12127581' target='_blank'><div>ISRCTN12127581</div></a></td>
+      <td>Intravenous immunoglobulin (IVIg) treatment of transverse myelitis in adult...</td>
+      <td>Drug</td>
+      <td>All</td>
+      <td>170</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN35114412' target='_blank'><div>ISRCTN35114412</div></a></td>
+      <td>Clopidogrel as prophylactic treatment for migraine</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>286</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN35709311' target='_blank'><div>ISRCTN35709311</div></a></td>
+      <td>A study looking at a new walking intervention for stroke survivors</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN92655217' target='_blank'><div>ISRCTN92655217</div></a></td>
+      <td>Snuggledown - Use of sensory blankets for children with autistic spectrum d...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+326,-342153.2566945676,7544658.329123699,Queen Margaret University,55.9308308,-3.073615,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN50570295' target='_blank'><div>ISRCTN50570295</div></a></td>
+      <td>Treadmill training in sub-acute stroke</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN58085997' target='_blank'><div>ISRCTN58085997</div></a></td>
+      <td>The impacts of core stability exercise (Pilates) on posture, pain, function...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN49706672' target='_blank'><div>ISRCTN49706672</div></a></td>
+      <td>The effects of a community-based exercise therapy programme for young peopl...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13668166' target='_blank'><div>ISRCTN13668166</div></a></td>
+      <td>A double-blind multi-centre randomised controlled trial to investigate the ...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>150</td>
+    </tr>
+  </tbody>
+</table>"
+329,-199080.40435411944,6629303.459308616,Salisbury NHS Foundation Trust,51.0452592,-1.7883697,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17609599' target='_blank'><div>ISRCTN17609599</div></a></td>
+      <td>Can electrical stimulation of muscles be used to improve walking for people...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>68</td>
+    </tr>
+  </tbody>
+</table>"
+349,-253587.2583124066,7065780.915091414,Manchester Mental Health and Social Care Trust,53.44522509999999,-2.2780131,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11455062' target='_blank'><div>ISRCTN11455062</div></a></td>
+      <td>A psychosocial therapy to benefit people with Parkinson’s-related dementia ...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>186</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11720842' target='_blank'><div>ISRCTN11720842</div></a></td>
+      <td>A pilot study of a sleep hygiene education program in Parkinsons disease s...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN32476322' target='_blank'><div>ISRCTN32476322</div></a></td>
+      <td>Randomised controlled trial of memantine versus placebo in Parkinson's dise...</td>
+      <td>Drug</td>
+      <td>Senior</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+352,-36404.91326166598,6700756.652418542,National Institute for Health Research,51.447054,-0.3270309,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN53460881' target='_blank'><div>ISRCTN53460881</div></a></td>
+      <td>Self-management migraine Headache Education (SHE)</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>80</td>
+    </tr>
+  </tbody>
+</table>"
+355,481025.5014457788,5438227.814710595,CHU de Nimes,43.8238818,4.3211256,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN40093015' target='_blank'><div>ISRCTN40093015</div></a></td>
+      <td>Analysing neuroinflammation and neurodegeneration in amyotrophic lateral sc...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+380,-250571.37953588617,6775502.602084843,Gloucestershire Hospitals NHS Foundation Trust,51.8636141,-2.250921,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN59894749' target='_blank'><div>ISRCTN59894749</div></a></td>
+      <td>Steroid injection versus surgical decompression for carpal tunnel syndrome</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+384,-326264.28068322217,7069746.198632579,The Walton Centre NHS Foundation Trust,53.46643520000001,-2.9308819,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN53432663' target='_blank'><div>ISRCTN53432663</div></a></td>
+      <td>External peripheral nerve stimulation for the treatment of neuropathic pain...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>76</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN36818685' target='_blank'><div>ISRCTN36818685</div></a></td>
+      <td>Spinal cord stimulation for the treatment of central pain in Multiple Scler...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+396,-137509.30456568376,7278984.851181683,Teesside University,54.5706753,-1.2352671,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN85766784' target='_blank'><div>ISRCTN85766784</div></a></td>
+      <td>The long-term effects of textured shoe insoles on balance, walking ability ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>90</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN48768534' target='_blank'><div>ISRCTN48768534</div></a></td>
+      <td>Transcutaneous electrical nerve stimulation (TENS) for patients with upper ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13924231' target='_blank'><div>ISRCTN13924231</div></a></td>
+      <td>Virtual reality augmented exercise in multiple sclerosis patients</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>66</td>
+    </tr>
+  </tbody>
+</table>"
+406,-477848.38751879334,7533287.522498265,Clinical Trials and Research Governance,55.8735672,-4.2925851,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15239951' target='_blank'><div>ISRCTN15239951</div></a></td>
+      <td>Optimising nutrition to improve growth and reduce neurodisabilities in chil...</td>
+      <td>Supplement</td>
+      <td>Child</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>"
+409,-12910.021909921079,6710873.312933118,uMotif Ltd,51.5036584,-0.1159727,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN45824264' target='_blank'><div>ISRCTN45824264</div></a></td>
+      <td>To determine whether smartphone and internet assisted self-management tools...</td>
+      <td>Other</td>
+      <td>Senior</td>
+      <td>266</td>
+    </tr>
+  </tbody>
+</table>"
+412,-266071.91731605754,6690662.675864719,Royal National Hospital for Rheumatic Diseases,51.3905065,-2.3901647,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN23962803' target='_blank'><div>ISRCTN23962803</div></a></td>
+      <td>MAGENTA: Managed activity graded exercise in teenagers and pre-adolescents</td>
+      <td>Behavioural</td>
+      <td>Child</td>
+      <td>222</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN81456207' target='_blank'><div>ISRCTN81456207</div></a></td>
+      <td>Specialist Medical Intervention & Lightning Evaluation: Comparing specialis...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+  </tbody>
+</table>"
+422,-246367.07613955488,6983716.517076816,University Hospital of North Staffordshire,53.00388470000001,-2.2131531,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN39374171' target='_blank'><div>ISRCTN39374171</div></a></td>
+      <td>A phase IV acceptability and feasibility trial of the effects of medication...</td>
+      <td>Drug</td>
+      <td>Senior</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+431,-13140.0525056963,6713423.546911105,Medical Research Council (MRC),51.5179163,-0.1180391,6.0,12.132827525593784,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN46552426' target='_blank'><div>ISRCTN46552426</div></a></td>
+      <td>Medical Research Council Trial of Immediate versus Deferred Treatment for I...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN42791812' target='_blank'><div>ISRCTN42791812</div></a></td>
+      <td>Randomised controlled trial of azathioprine in multifocal motor neuropathy</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN19976990' target='_blank'><div>ISRCTN19976990</div></a></td>
+      <td>International Surgical Trial in IntraCerebral Haemorrhage</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN98767960' target='_blank'><div>ISRCTN98767960</div></a></td>
+      <td>Multicentre study of early Epilepsy and Single Seizures</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1800</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN39371386' target='_blank'><div>ISRCTN39371386</div></a></td>
+      <td>A multiple randomised controlled trial of cannabinoids on spasticity in mul...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>660</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN95945958' target='_blank'><div>ISRCTN95945958</div></a></td>
+      <td>A pragmatic randomised controlled trial of botulinum toxin and functional e...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>"
+442,-12774.913443945283,6591502.633947955,Sussex Community NHS Trust,50.8312768,-0.114759,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17624388' target='_blank'><div>ISRCTN17624388</div></a></td>
+      <td>Wii Fit and cerebral palsy feasibility study</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN37572029' target='_blank'><div>ISRCTN37572029</div></a></td>
+      <td>The Introduction of Petra Running-bikes: A Pilot Study</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>12</td>
+    </tr>
+  </tbody>
+</table>"
+452,-19356.355510574285,6697166.855111391,St George's University of London,51.4269516,-0.1738811,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN42534180' target='_blank'><div>ISRCTN42534180</div></a></td>
+      <td>A feasibility study of a self-management stroke management programme</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN56136713' target='_blank'><div>ISRCTN56136713</div></a></td>
+      <td>Specialist physiotherapy for functional motor disorder</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>264</td>
+    </tr>
+  </tbody>
+</table>"
+478,-165937.14104074732,7053724.33980908,Sheffield Children's Hospital,53.38066999999999,-1.4906387,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN41002956' target='_blank'><div>ISRCTN41002956</div></a></td>
+      <td>What is the clinical effectiveness of hydrotherapy in maintaining physical ...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+479,-175563.0821249797,7350231.428662039,"Northumberland, Tyne and Wear NHS Foundation Trust",54.9400072,-1.57711,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11083027' target='_blank'><div>ISRCTN11083027</div></a></td>
+      <td>DIAMOND-Lewy: A pilot study of care provided by NHS services</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+  </tbody>
+</table>"
+501,-19506.33626052006,6697097.476211271,St George's Healthcare NHS Trust,51.42656299999999,-0.1752284,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN97967360' target='_blank'><div>ISRCTN97967360</div></a></td>
+      <td>Randomised study of neurocognitive outcome and cerebral embolic events in p...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>"
+509,-15251.482683419557,6709696.86734591,Dainippon Sumitomo Pharma Europe Ltd,51.4970796,-0.1370064,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN02543559' target='_blank'><div>ISRCTN02543559</div></a></td>
+      <td>The effect of DSP-2230/placebo on renal function</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>44</td>
+    </tr>
+  </tbody>
+</table>"
+553,-690697.93308498,7041221.403447013,Novartis Pharmaceuticals Ltd,53.3136214,-6.2046451,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN66678006' target='_blank'><div>ISRCTN66678006</div></a></td>
+      <td>A descriptive study of Relapsing-Remitting Multiple Sclerosis (RRMS) treate...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>150</td>
+    </tr>
+  </tbody>
+</table>"
+557,-8641287.159672974,5331864.518783185,University of Rochester (USA),43.1305531,-77.6260033,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN46102316' target='_blank'><div>ISRCTN46102316</div></a></td>
+      <td>Duchenne muscular dystrophy: double-blind randomized trial to find optimum ...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>300</td>
+    </tr>
+  </tbody>
+</table>"
+559,-10194.338404222854,6710868.484345202,Southwark Vocational Service,51.5036314,-0.0915773,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17767032' target='_blank'><div>ISRCTN17767032</div></a></td>
+      <td>Individual CAReer Management support to improve Education, Employment and R...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>184</td>
+    </tr>
+  </tbody>
+</table>"
+569,-6463.866420453144,6696337.417758752,St Christopher's Hospice,51.42230559999999,-0.0580659,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN76029577' target='_blank'><div>ISRCTN76029577</div></a></td>
+      <td>Last year of life in nursing care homes study</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>2311</td>
+    </tr>
+  </tbody>
+</table>"
+575,-40915.044695053606,6588718.9816298755,Sussex NHS Research Consortium,50.8154802,-0.3675461,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN81214142' target='_blank'><div>ISRCTN81214142</div></a></td>
+      <td>Effectiveness and feasibility of intensive short-term graded exercise progr...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>36</td>
+    </tr>
+  </tbody>
+</table>"
+580,-8370908.00182745,4859672.802345562,Avid Radiopharmaceuticals Inc. (USA),39.956843,-75.197146,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN58435532' target='_blank'><div>ISRCTN58435532</div></a></td>
+      <td>Amyloid imaging in Alzheimer's disease, frontotemporal dementia and healthy...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+591,1258323.564101358,5362995.778969272,Siena Biotech (Italy),43.3343055,11.3037129,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN26193242' target='_blank'><div>ISRCTN26193242</div></a></td>
+      <td>A multicentre, multinational prospective observational imaging biomarker st...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>"
+600,-9994.341807063656,6704913.579403634,Institute of Psychiatry,51.4703212,-0.08978069999999999,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN43007027' target='_blank'><div>ISRCTN43007027</div></a></td>
+      <td>Functional anatomy and impact of cognitive training on chunking within work...</td>
+      <td>Other</td>
+      <td>Senior</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN49545035' target='_blank'><div>ISRCTN49545035</div></a></td>
+      <td>Donepezil and memantine in moderate to severe Alzheimer's disease</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>800</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN31786019' target='_blank'><div>ISRCTN31786019</div></a></td>
+      <td>Cognitive behaviour therapy for epilepsy: improving seizure control and qua...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+620,-481013.30082958785,7535282.289562013,NHS Greater Glasgow and Clyde,55.883619,-4.321016,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15999892' target='_blank'><div>ISRCTN15999892</div></a></td>
+      <td>The effect of cycling using active-passive trainers on spasticity, cardiova...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+630,-377627.91749947047,7546115.315046059,Multiple Sclerosis Society,55.9381621,-3.3922893,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN02778739' target='_blank'><div>ISRCTN02778739</div></a></td>
+      <td>Wearing textured insoles in shoes to help selfmanagement for people with MS...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+640,-8099559.206689319,5084802.311192909,Philips Respironics (France),41.4894272,-72.7595783,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN62161274' target='_blank'><div>ISRCTN62161274</div></a></td>
+      <td>Therapy-efficacy of a new mode of Automatic Servo-Ventilation in patients w...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>36</td>
+    </tr>
+  </tbody>
+</table>"
+661,-355014.5206675212,7549096.364480496,Lothian NHS Board,55.9531579,-3.1891497,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN43085025' target='_blank'><div>ISRCTN43085025</div></a></td>
+      <td>Variable-pressure versus fixed-pressure continuous positive airway pressure...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>"
+663,-7912439.268988652,5215815.936928693,Genzyme Corporation (USA),42.36502309999999,-71.07865129999999,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN21534255' target='_blank'><div>ISRCTN21534255</div></a></td>
+      <td>Comparison of Alemtuzumab and Rebif® Efficacy in Multiple Sclerosis, Study ...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>581</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN70702834' target='_blank'><div>ISRCTN70702834</div></a></td>
+      <td>Comparison of Alemtuzumab and Rebif® Efficacy in Multiple Sclerosis, Study ...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>700</td>
+    </tr>
+  </tbody>
+</table>"
+667,-238733.2530028135,6703527.153666698,Vectura Limited,51.4625624,-2.1445773,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN41929673' target='_blank'><div>ISRCTN41929673</div></a></td>
+      <td>Efficacy and safety of orally inhaled apomorphine in patients with Parkinso...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>66</td>
+    </tr>
+  </tbody>
+</table>"
+682,-20604.38058575583,6709346.387776023,Daval International Ltd,51.49511949999999,-0.1850923,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17551402' target='_blank'><div>ISRCTN17551402</div></a></td>
+      <td>AIMSPRO® and the bladder in multiple sclerosis (MS)</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>"
+706,-457586.62606180104,6518587.628347009,Peninsula Medical School,50.4157354,-4.1105706,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN50793425' target='_blank'><div>ISRCTN50793425</div></a></td>
+      <td>The effect of targeted exercise on falls and function for people with Parki...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>248</td>
+    </tr>
+  </tbody>
+</table>"
+724,959181.2420786524,6472548.001220027,Institute for Clinical Research (Institut fur klinische Forschung) (Germany),50.151463,8.6164717,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN42223114' target='_blank'><div>ISRCTN42223114</div></a></td>
+      <td>MUltiple Sclerosis and Extract of Cannabis (MUSEC): a randomised, double-bl...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+  </tbody>
+</table>"
+731,-330037.36576806754,7059192.934205879,Royal Liverpool and Broadgreen University Hospitals NHS Trust,53.4099629,-2.9647761,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN00131154' target='_blank'><div>ISRCTN00131154</div></a></td>
+      <td>Pharmacokinetic investigation into the formation of carbamazepine metabolit...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>8</td>
+    </tr>
+  </tbody>
+</table>"
+739,-174043.22598523006,7340998.178686819,BOC Ltd,54.8923333,-1.5634569,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN94092997' target='_blank'><div>ISRCTN94092997</div></a></td>
+      <td>Double-blind, placebo-controlled crossover trial of inhaled oxygen in the t...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>55</td>
+    </tr>
+  </tbody>
+</table>"
+742,-8841821.90864651,5473624.008307146,BioMS Medical (Canada),44.0528469,-79.42743759999999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN31894936' target='_blank'><div>ISRCTN31894936</div></a></td>
+      <td>An open-label follow-on study to assess the ongoing safety of MBP8298 in su...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>600</td>
+    </tr>
+  </tbody>
+</table>"
+750,15683.324384053903,6831704.256147514,Cambridge University Hospitals NHS Foundation Trust and University of Cambridge,52.1743086,0.1408857,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10616794' target='_blank'><div>ISRCTN10616794</div></a></td>
+      <td>Understanding how increasing some of the brain's chemicals can help thinkin...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10616794' target='_blank'><div>ISRCTN10616794</div></a></td>
+      <td>Understanding how increasing some of the brain's chemicals can help thinkin...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>80</td>
+    </tr>
+  </tbody>
+</table>"
+761,-82656.55868560373,6712484.1822415255,Biogen Idec (USA),51.512665,-0.7425165,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12870393' target='_blank'><div>ISRCTN12870393</div></a></td>
+      <td>A randomised, double-blind, placebo-controlled, dose escalation study of si...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>110</td>
+    </tr>
+  </tbody>
+</table>"
+775,638484.3942204232,8170367.81697838,Stavanger Helseforskning AS (Norway),58.9536139,5.7356029,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN89624516' target='_blank'><div>ISRCTN89624516</div></a></td>
+      <td>A double-blind, placebo-controlled multicentre trial of memantine in patien...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>74</td>
+    </tr>
+  </tbody>
+</table>"
+791,-889217.7102195664,7061065.594669029,Elan Pharma Ltd,53.4199893,-7.9879786,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17517446' target='_blank'><div>ISRCTN17517446</div></a></td>
+      <td>A Multicentre, Randomised, Double Blind, Placebo Controlled, Multiple Ascen...</td>
+      <td>Other</td>
+      <td>Senior</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+801,259425.85428502303,6244127.837281824,Pfizer Inc. (USA),48.818543,2.3304621,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18044132' target='_blank'><div>ISRCTN18044132</div></a></td>
+      <td>A randomized double blind placebo controlled study to evaluate the modulati...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+803,-7382.007316617906,6712803.743332599,Diabetes UK,51.5144515,-0.0663137,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN28644636' target='_blank'><div>ISRCTN28644636</div></a></td>
+      <td>Obstructive Sleep Apnoea (OSA) in patients with type 2 diabetes and the eff...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+819,-8931851.880784044,3016918.5236307294,ReceptoPharm Inc. (USA),26.1439323,-80.2361906,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN48334111' target='_blank'><div>ISRCTN48334111</div></a></td>
+      <td>Randomised, Double-Blind, Placebo Controlled, Cross Over Trial of a Parente...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>"
+821,-399916.2948141506,6517802.749097766,NMT Medical Inc. (USA),50.4112424,-3.5925092,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN45687883' target='_blank'><div>ISRCTN45687883</div></a></td>
+      <td>A prospective multicentre double blind placebo controlled trial to evaluate...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>150</td>
+    </tr>
+  </tbody>
+</table>"
+824,-3064.569921793425,6688993.114235685,South London and Maudsley NHS Foundation Trust,51.3811467,-0.0275295,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN59388875' target='_blank'><div>ISRCTN59388875</div></a></td>
+      <td>Family focused cognitive behaviour therapy versus behaviourally oriented ps...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>58</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN05681227' target='_blank'><div>ISRCTN05681227</div></a></td>
+      <td>Cognitive behavioural therapy vs standardised medical care for dissociative...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>298</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN06469947' target='_blank'><div>ISRCTN06469947</div></a></td>
+      <td>Management and delivery of special neurological rehab</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>170</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16045700' target='_blank'><div>ISRCTN16045700</div></a></td>
+      <td>A couple-based psychological intervention for chronic fatigue syndrome</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>"
+831,250088.2974736397,6256417.944857134,Biogen Idec,48.8911853,2.2465814,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN68218781' target='_blank'><div>ISRCTN68218781</div></a></td>
+      <td>A Multi-center, Double Blind, Randomized, Placebo Controlled, Parallel Grou...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+  </tbody>
+</table>"
+834,-36524.615110115985,6634006.366566513,Action Medical Research,51.0718125,-0.3281062,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN63503875' target='_blank'><div>ISRCTN63503875</div></a></td>
+      <td>Randomised controlled trial of a home-based exercise programme to reduce fa...</td>
+      <td>Other</td>
+      <td>Other</td>
+      <td>140</td>
+    </tr>
+  </tbody>
+</table>"
+836,-441664.86646041705,7582691.153308775,Laxdale Ltd,56.1217512,-3.967543,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN79170611' target='_blank'><div>ISRCTN79170611</div></a></td>
+      <td>A multicentre, multinational, double blind, randomised, parallel group, pla...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>"
+840,-280666.7597191348,6710184.034127921,The Frenchay Hydrocephalus Research Fund,51.499804,-2.5212724,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN29863839' target='_blank'><div>ISRCTN29863839</div></a></td>
+      <td>A prospective, randomised, controlled trial to evaluate the efficacy and sa...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>"
+861,-354995.05088858143,7547017.173517287,NHS Lothian; University of Edinburgh,55.9426994,-3.1889748,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN77452114' target='_blank'><div>ISRCTN77452114</div></a></td>
+      <td>Retinal scanning for biomarker discovery in multiple sclerosis</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+880,13392800.314860584,2589269.3164324295,Kaohsiung Medical University Hospital (Taiwan),22.6460433,120.3095722,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN61998123' target='_blank'><div>ISRCTN61998123</div></a></td>
+      <td>Napping behaviour in sleep apnoea: a transcultural study in older people</td>
+      <td>Device</td>
+      <td>Senior</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN61998123' target='_blank'><div>ISRCTN61998123</div></a></td>
+      <td>Napping behaviour in sleep apnoea: a transcultural study in older people</td>
+      <td>Device</td>
+      <td>Senior</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>"
+881,13426545.994730333,2589029.2620580792,Department of International Cooperation (Taiwan),22.6440531,120.6127148,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN61998123' target='_blank'><div>ISRCTN61998123</div></a></td>
+      <td>Napping behaviour in sleep apnoea: a transcultural study in older people</td>
+      <td>Device</td>
+      <td>Senior</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>"
+896,-13399.827669411483,6589252.163352294,Brighton and Sussex University Hospitals NHS Trust,50.8185063,-0.1203727,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN54901925' target='_blank'><div>ISRCTN54901925</div></a></td>
+      <td>Cognitive rehabilitation in multiple sclerosis</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+898,-390131.96835841757,6571487.683851399,Royal Devon and Exeter NHS Foundation Trust,50.7175775,-3.5046151,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN45840554' target='_blank'><div>ISRCTN45840554</div></a></td>
+      <td>Osteopathy for children with Cerebral Palsy</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>150</td>
+    </tr>
+  </tbody>
+</table>"
+901,-14506.298880100305,6713958.059816249,London School of Hygiene and Tropical Medicine,51.5209041,-0.1303123,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN54195799' target='_blank'><div>ISRCTN54195799</div></a></td>
+      <td>Older People and Enhanced Neurocognitive function study</td>
+      <td>Supplement</td>
+      <td>Senior</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>"
+914,-355137.86266332015,6711434.414331684,Cardiff and Vale University Health Board,51.50679580000001,-3.1902577,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN49657745' target='_blank'><div>ISRCTN49657745</div></a></td>
+      <td>A Question Prompt Sheet for patients attending an epilepsy clinic</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>"
+920,-14685.701371462746,6716733.446428423,Camden and Islington NHS Foundation Trust,51.53641469999999,-0.1319239,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13072268' target='_blank'><div>ISRCTN13072268</div></a></td>
+      <td>A parallel multi-centre randomised controlled trial to determine the clinic...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>740</td>
+    </tr>
+  </tbody>
+</table>"
+921,-285233.5082455399,6696134.409476945,Avon and Wiltshire Mental Health Partnership NHS Trust,51.4211684,-2.5622962,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN05413972' target='_blank'><div>ISRCTN05413972</div></a></td>
+      <td>Living well with dementia groups in primary care</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>16</td>
+    </tr>
+  </tbody>
+</table>"
+923,503519.3188807179,6784994.898621774,Erasmus School of Health Policy and Management,51.916241,4.523191,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN78466206' target='_blank'><div>ISRCTN78466206</div></a></td>
+      <td>The quality of life of multiple sclerosis patients in Europe</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>250</td>
+    </tr>
+  </tbody>
+</table>"
+934,-15139.606595172318,6714277.338788002,UCL Partners,51.5226887,-0.1360014,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11312093' target='_blank'><div>ISRCTN11312093</div></a></td>
+      <td>Brain health in retired athletes</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>250</td>
+    </tr>
+  </tbody>
+</table>"
+971,496217.79555594356,6599938.287426857,Cyberonics Europe SA/NV (Belgium),50.8791146,4.4576003,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN51185809' target='_blank'><div>ISRCTN51185809</div></a></td>
+      <td>Study comparing best medical practice with or without vagus nerve stimulati...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>366</td>
+    </tr>
+  </tbody>
+</table>"
+973,-13726065.211153017,5551270.1784300655,"AVI Biopharma, Inc (USA)",44.5520226,-123.3033417,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN28347032' target='_blank'><div>ISRCTN28347032</div></a></td>
+      <td>Dose-ranging study of AVI-4658 to induce dystrophin expression in selected ...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>16</td>
+    </tr>
+  </tbody>
+</table>"
+988,-62679.830784787606,6696938.581828267,"Royal Holloway, University of London",51.425673,-0.5630625,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17318966' target='_blank'><div>ISRCTN17318966</div></a></td>
+      <td>Benefit and risk information for medications in multiple sclerosis</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>24</td>
+    </tr>
+  </tbody>
+</table>"
+1019,-322561.71649579436,7060650.957985356,University of Liverpool and Alder Hey Children's NHS Foundation Trust,53.4177695,-2.8976212,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN22567894' target='_blank'><div>ISRCTN22567894</div></a></td>
+      <td>Emergency treatment with levetiracetam or phenytoin in status epilepticus</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>308</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN22567894' target='_blank'><div>ISRCTN22567894</div></a></td>
+      <td>Emergency treatment with levetiracetam or phenytoin in status epilepticus</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>308</td>
+    </tr>
+  </tbody>
+</table>"
+1043,-283579.01118167577,6710334.478059256,University of the West of England,51.5006453,-2.5474336,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN30485698' target='_blank'><div>ISRCTN30485698</div></a></td>
+      <td>Mnemic neglect in dementia</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>110</td>
+    </tr>
+  </tbody>
+</table>"
+1061,-436049.866817008,7586959.736206614,Nursing Midwifery and Allied Health Professions Research Unit,56.1431201,-3.9171026,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN01328898' target='_blank'><div>ISRCTN01328898</div></a></td>
+      <td>Feasibility of abdominal massage for the alleviation of the symptoms of con...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+1067,20893.555226989516,6833633.214348623,Cambridgeshire and Peterborough NHS Foundation Trust,52.184934,0.18769,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN96895428' target='_blank'><div>ISRCTN96895428</div></a></td>
+      <td>Epilepsy nurse trial for adults with intellectual disabilities</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>408</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN96895428' target='_blank'><div>ISRCTN96895428</div></a></td>
+      <td>Epilepsy nurse trial for adults with intellectual disabilities</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>408</td>
+    </tr>
+  </tbody>
+</table>"
+1072,-15167.358544227081,6714313.693659143,UCL and UCLH Clinical Research Facility,51.5228919,-0.1362507,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN99826269' target='_blank'><div>ISRCTN99826269</div></a></td>
+      <td>Efficacy of aerobic training of people with neuromuscular diseases</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>"
+1099,-168305.49660322143,6967862.982189752,West Midlands NHS Research and Development Executive,52.9181,-1.511914,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN96337233' target='_blank'><div>ISRCTN96337233</div></a></td>
+      <td>A reliable assessment of the efficacy and safety of donepezil and aspirin i...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>310</td>
+    </tr>
+  </tbody>
+</table>"
+1126,974630.3947818736,5975147.376232184,Xytis Pharmaceuticals Sàrl (Switzerland),47.2022393,8.7552538,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN23625128' target='_blank'><div>ISRCTN23625128</div></a></td>
+      <td>A phase II, randomised, double-blind, placebo-controlled, dose-finding, saf...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>500</td>
+    </tr>
+  </tbody>
+</table>"
+1130,-700924.6320651764,7046007.8890177095,St James Hospital (Ireland),53.339302,-6.296513099999999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14485052' target='_blank'><div>ISRCTN14485052</div></a></td>
+      <td>A trial of Nilvadipine in mild to moderate Alzheimer's disease</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>500</td>
+    </tr>
+  </tbody>
+</table>"
+1133,-11194.265730273433,6710744.372733879,Guy's and St Thomas' Charity,51.50293740000001,-0.1005598,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN73774524' target='_blank'><div>ISRCTN73774524</div></a></td>
+      <td>A Pilot Randomised controlled trial of Methotrexate for Chronic Inflammator...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>62</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN73774524' target='_blank'><div>ISRCTN73774524</div></a></td>
+      <td>A Pilot Randomised controlled trial of Methotrexate for Chronic Inflammator...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>62</td>
+    </tr>
+  </tbody>
+</table>"
+1154,840058.3774322101,6033484.69689714,Actelion Pharmaceuticals Ltd (Switzerland),47.5570932,7.546372799999999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN26761144' target='_blank'><div>ISRCTN26761144</div></a></td>
+      <td>A phase I/II randomised control study of OGT 918 in patients with Niemann-P...</td>
+      <td>Drug</td>
+      <td>Other</td>
+      <td>41</td>
+    </tr>
+  </tbody>
+</table>"
+1173,523865.87239384744,6852356.249087712,Numico Research B.V. (Netherlands),52.28793539999999,4.7059672,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN72254645' target='_blank'><div>ISRCTN72254645</div></a></td>
+      <td>The use of food for special medical purposes (product ID 4804/4805) in pati...</td>
+      <td>Other</td>
+      <td>Senior</td>
+      <td>214</td>
+    </tr>
+  </tbody>
+</table>"
+1187,-197482.71362640715,6875944.239443836,Birmingham and Solihull Mental Health Trust,52.4173604,-1.7740174,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16782845' target='_blank'><div>ISRCTN16782845</div></a></td>
+      <td>A randomised, double-blind, placebo-controlled, cross-over pilot study usin...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>"
+1192,-14827.812031357762,6709852.226837003,Department of Health,51.49794844005473,-0.13320050177820006,22.0,20.205726604783713,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN95992791' target='_blank'><div>ISRCTN95992791</div></a></td>
+      <td>Long term Individual Fitness Enablement</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN69035158' target='_blank'><div>ISRCTN69035158</div></a></td>
+      <td>Nurse education to improve knowledge and attitude towards patients with cog...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>150</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN94187624' target='_blank'><div>ISRCTN94187624</div></a></td>
+      <td>The effect of two different ankle-foot-orthoses on walking and quality of l...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN58811572' target='_blank'><div>ISRCTN58811572</div></a></td>
+      <td>Randomised, double-blind, placebo controlled, study to evaluate the safety ...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN95746400' target='_blank'><div>ISRCTN95746400</div></a></td>
+      <td>A study to investigate whether provision of a short term, exercise and educ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>44</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN47648806' target='_blank'><div>ISRCTN47648806</div></a></td>
+      <td>A randomised crossover study to determine the effect of glucose enriched di...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN33368770' target='_blank'><div>ISRCTN33368770</div></a></td>
+      <td>A randomised, double blind, placebo-controlled clinical trial to compare th...</td>
+      <td>Drug</td>
+      <td>Senior</td>
+      <td>220</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN34844778' target='_blank'><div>ISRCTN34844778</div></a></td>
+      <td>A Preliminary Investigation Into The Effect Of Home Standing Programs On Lo...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN94385228' target='_blank'><div>ISRCTN94385228</div></a></td>
+      <td>Exercise Training and Weight Loss in Overweight Patients With Obstructive S...</td>
+      <td>Mixed</td>
+      <td>Not Specified</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN92582254' target='_blank'><div>ISRCTN92582254</div></a></td>
+      <td>Rehabilitation of Memory in Neurological Disabilities - Pilot study</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>180</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN92729017' target='_blank'><div>ISRCTN92729017</div></a></td>
+      <td>A comparison of the effectiveness of botulinum toxin A and B in the treatme...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN34438724' target='_blank'><div>ISRCTN34438724</div></a></td>
+      <td>A prospective randomised double blind study of dosage efficacy of Botox® Vs...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN59442621' target='_blank'><div>ISRCTN59442621</div></a></td>
+      <td>Effectiveness of a cognitive behavioural treatment (CBT) and a self-help ma...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN82121210' target='_blank'><div>ISRCTN82121210</div></a></td>
+      <td>A pilot study of the effect of a hypertonic saline/dextran solution compare...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN21473455' target='_blank'><div>ISRCTN21473455</div></a></td>
+      <td>Expiratory muscle training in motor neurone disease</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>24</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14235435' target='_blank'><div>ISRCTN14235435</div></a></td>
+      <td>Double-blind parallel study of Omega-3 fatty acid supplement in patients wi...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>52</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN31542578' target='_blank'><div>ISRCTN31542578</div></a></td>
+      <td>A blinded randomised cross-over study of the effect of melatonin treatment ...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14725356' target='_blank'><div>ISRCTN14725356</div></a></td>
+      <td>A randomised controlled trial investigating the effectiveness of regular gr...</td>
+      <td>Behavioural</td>
+      <td>Not Specified</td>
+      <td>96</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN38354748' target='_blank'><div>ISRCTN38354748</div></a></td>
+      <td>A randomised controlled trial of longer-term clinical outcomes and cost-eff...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>3000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN96537534' target='_blank'><div>ISRCTN96537534</div></a></td>
+      <td>Acupuncture for migraine and headache in primary care: a pragmatic, randomi...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>401</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN08130075' target='_blank'><div>ISRCTN08130075</div></a></td>
+      <td>Does befriending by trained lay workers improve psychological well-being an...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>236</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN94684735' target='_blank'><div>ISRCTN94684735</div></a></td>
+      <td>A randomised controlled trial (RCT) and economic evaluation of direct versu...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>"
+1194,-15549.303072546925,6716278.93059565,British Heart Foundation,51.53387494245585,-0.13968176607475538,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN98608799' target='_blank'><div>ISRCTN98608799</div></a></td>
+      <td>Cardiac pacing for the prevention of falls in carotid sinus hypersensitivit...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>"

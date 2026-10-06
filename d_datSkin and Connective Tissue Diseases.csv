@@ -1,0 +1,1606 @@
+,merclng,merclat,locations,latitude,longitude,number,radius,HTML
+0,-139635.47344398804,6755913.94771293,University of Oxford,51.7548164,-1.2543668,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN27786905' target='_blank'><div>ISRCTN27786905</div></a></td>
+      <td>Repurposing anti-TNF for treating Dupuytren’s disease</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>178</td>
+    </tr>
+  </tbody>
+</table>"
+2,-181976.75458703414,7363080.99091819,Newcastle upon Tyne Hospitals NHS Foundation Trust,55.0062592,-1.634725,8.0,13.920296742201792,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN19434288' target='_blank'><div>ISRCTN19434288</div></a></td>
+      <td>Optimisation of acne treatment via mobile phone app assisted management</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN44977207' target='_blank'><div>ISRCTN44977207</div></a></td>
+      <td>Personalised ultraviolet B treatment of psoriasis</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>135</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18225522' target='_blank'><div>ISRCTN18225522</div></a></td>
+      <td>Study comparing the response of psoriasis to narrow-band UVB phototherapy i...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN75715723' target='_blank'><div>ISRCTN75715723</div></a></td>
+      <td>Tropomyosin receptor kinase antagonism in cylindromatosis</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>28</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN51510007' target='_blank'><div>ISRCTN51510007</div></a></td>
+      <td>Predicting remission of psoriasis after phototherapy</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18213910' target='_blank'><div>ISRCTN18213910</div></a></td>
+      <td>Study comparing localised hand psoralen immersion combined with ultraviolet...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>76</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN43688684' target='_blank'><div>ISRCTN43688684</div></a></td>
+      <td>Investigation of the effects and mechanisms of action of different waveleng...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>121</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN38471512' target='_blank'><div>ISRCTN38471512</div></a></td>
+      <td>Role of epidermal apoptosis in the clearance of psoriatic plaques</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+7,-173105.45946283842,7133628.765905515,University of Leeds,53.8066815,-1.5550328,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN80206075' target='_blank'><div>ISRCTN80206075</div></a></td>
+      <td>Comparing treatments for severe chronic hand eczema</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>455</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN01151335' target='_blank'><div>ISRCTN01151335</div></a></td>
+      <td>Pressure RElieving Support SUrfaces: a Randomised Evaluation 2</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>2030</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN68894794' target='_blank'><div>ISRCTN68894794</div></a></td>
+      <td>REmoval of Treatment for patients in REmission in psoriatic ArThritis - a F...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18043449' target='_blank'><div>ISRCTN18043449</div></a></td>
+      <td>A study of pre-clinical joint disease in psoriasis and the imaging response...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+12,-132804.10798857908,6971867.107989617,University of Nottingham,52.93978269999999,-1.1929996,9.0,14.652123889719707,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN98851260' target='_blank'><div>ISRCTN98851260</div></a></td>
+      <td>Developing diagnostic criteria for psoriasis in children</td>
+      <td>Not Specified</td>
+      <td>Child</td>
+      <td>320</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17160087' target='_blank'><div>ISRCTN17160087</div></a></td>
+      <td>Home interventions and light therapy for the treatment of vitiligo</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>516</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN21528841' target='_blank'><div>ISRCTN21528841</div></a></td>
+      <td>Barrier Enhancement for Eczema Prevention</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>1400</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN81883379' target='_blank'><div>ISRCTN81883379</div></a></td>
+      <td>Systemic therapy for vulval erosive lichen planus</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>96</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN77261365' target='_blank'><div>ISRCTN77261365</div></a></td>
+      <td>CLOTHES Trial: Clothing for the relief of eczema symptoms</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>150</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13704604' target='_blank'><div>ISRCTN13704604</div></a></td>
+      <td>The Bullous Pemphigoid Steroids and Tetracyclines Study</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>256</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN03813200' target='_blank'><div>ISRCTN03813200</div></a></td>
+      <td>Randomised controlled trial to investigate whether prophylactic antibiotics...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN71423189' target='_blank'><div>ISRCTN71423189</div></a></td>
+      <td>Multi-centre randomised controlled trial of ion-exchange water softeners fo...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>310</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN34716921' target='_blank'><div>ISRCTN34716921</div></a></td>
+      <td>Prophylactic Antibiotics for the Treatment of Cellulitis at Home I</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>260</td>
+    </tr>
+  </tbody>
+</table>"
+20,-155375.22567792505,6609823.30843706,University of Southampton,50.9351092,-1.3957594,5.0,11.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN79282252' target='_blank'><div>ISRCTN79282252</div></a></td>
+      <td>Eczema care online</td>
+      <td>Behavioural</td>
+      <td>Mixed</td>
+      <td>400</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12892056' target='_blank'><div>ISRCTN12892056</div></a></td>
+      <td>Spironolactone for adult female acne</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>434</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN78626638' target='_blank'><div>ISRCTN78626638</div></a></td>
+      <td>Feasibility trial of intervention for acne</td>
+      <td>Behavioural</td>
+      <td>Mixed</td>
+      <td>65</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN84102309' target='_blank'><div>ISRCTN84102309</div></a></td>
+      <td>Bath Additives for the Treatment of Childhood Eczema</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>405</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN98560867' target='_blank'><div>ISRCTN98560867</div></a></td>
+      <td>Supporting Parents and Carer's management of Childhood Eczema</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>180</td>
+    </tr>
+  </tbody>
+</table>"
+21,-248674.7959753939,7069823.728924356,University of Manchester,53.4668498,-2.2338837,13.0,16.936926411670825,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN70155584' target='_blank'><div>ISRCTN70155584</div></a></td>
+      <td>The role of an over-the-counter green tea extract in scarring: Priming the ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15867502' target='_blank'><div>ISRCTN15867502</div></a></td>
+      <td>The development of a Psoriasis Rapid Access Clinic (P-RAC)</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18643079' target='_blank'><div>ISRCTN18643079</div></a></td>
+      <td>The role of an over the counter topical containing green tea extract in sca...</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>62</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16551998' target='_blank'><div>ISRCTN16551998</div></a></td>
+      <td>How Does an Over the Counter Topical called MEBO Scar™ Cosmetically Improve...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14201277' target='_blank'><div>ISRCTN14201277</div></a></td>
+      <td>Sunlight exposure and vitamin D in the ageing population</td>
+      <td>Other</td>
+      <td>Senior</td>
+      <td>125</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN93416541' target='_blank'><div>ISRCTN93416541</div></a></td>
+      <td>Hands and face exposure for vitamin D production</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN91255549' target='_blank'><div>ISRCTN91255549</div></a></td>
+      <td>Limited skin areas and vitamin D</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN44480072' target='_blank'><div>ISRCTN44480072</div></a></td>
+      <td>An investigation into the barrier function and barrier forming proteins of ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN97738113' target='_blank'><div>ISRCTN97738113</div></a></td>
+      <td>Biomarkers of ultraviolet radiation exposure</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>75</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN47896115' target='_blank'><div>ISRCTN47896115</div></a></td>
+      <td>Lipid mediators of ultraviolet radiation (UVR) induced skin inflammation</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>125</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN86207019' target='_blank'><div>ISRCTN86207019</div></a></td>
+      <td>Baby Skin Care Research Programme: Baby wipes study</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>280</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN07565297' target='_blank'><div>ISRCTN07565297</div></a></td>
+      <td>Sun exposure for vitamin D sufficiency in skin type V</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>185</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN04778461' target='_blank'><div>ISRCTN04778461</div></a></td>
+      <td>Omega 3 fatty acids in skin cell protection from ultraviolet damage</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>64</td>
+    </tr>
+  </tbody>
+</table>"
+23,-12912.726973547356,6712273.366431493,King's College London,51.5114864,-0.115997,5.0,11.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN70866724' target='_blank'><div>ISRCTN70866724</div></a></td>
+      <td>Development of a manual to guide care for people with incontinence to preve...</td>
+      <td>Behavioural</td>
+      <td>Mixed</td>
+      <td>288</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN26169429' target='_blank'><div>ISRCTN26169429</div></a></td>
+      <td>Development of a manual to guide care for people with incontinence to preve...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15837754' target='_blank'><div>ISRCTN15837754</div></a></td>
+      <td>The treatment of severe atopic eczema trial (TREAT)</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>98</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN46615946' target='_blank'><div>ISRCTN46615946</div></a></td>
+      <td>Study to evaluate the use of allogeneic mesenchymal stromal cells for the t...</td>
+      <td>Biological/Vaccine</td>
+      <td>Child</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11210918' target='_blank'><div>ISRCTN11210918</div></a></td>
+      <td>The UK-Irish Eczema Register</td>
+      <td>Other</td>
+      <td>All</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>"
+27,-289762.31908948265,6702786.54140238,University of Bristol,51.4584172,-2.6029792,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15397185' target='_blank'><div>ISRCTN15397185</div></a></td>
+      <td>Trial of eczema allergy screening tests</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN84540529' target='_blank'><div>ISRCTN84540529</div></a></td>
+      <td>Best emollients for eczema</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>520</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN21828118' target='_blank'><div>ISRCTN21828118</div></a></td>
+      <td>Choice Of Moisturiser in Eczema Treatment (COMET)</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>160</td>
+    </tr>
+  </tbody>
+</table>"
+31,-19466.828973237527,6710008.469052965,Imperial College London,51.49882220000001,-0.1748735,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN65865773' target='_blank'><div>ISRCTN65865773</div></a></td>
+      <td>Temperature controlled airflow (air shower) treatment in children with seve...</td>
+      <td>Device</td>
+      <td>Child</td>
+      <td>15</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN84054592' target='_blank'><div>ISRCTN84054592</div></a></td>
+      <td>RITUXILUP - A study to assess if the combination of Rituximab, mycophenolat...</td>
+      <td>Drug</td>
+      <td>Mixed</td>
+      <td>25</td>
+    </tr>
+  </tbody>
+</table>"
+32,-353869.5329130179,6707828.061418129,Cardiff University,51.48662710000001,-3.1788641,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN69985145' target='_blank'><div>ISRCTN69985145</div></a></td>
+      <td>An observational study of medical and surgical treatments for hidradenitis ...</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>150</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN96705420' target='_blank'><div>ISRCTN96705420</div></a></td>
+      <td>Children with eczema, antibiotic management study</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>510</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN52474223' target='_blank'><div>ISRCTN52474223</div></a></td>
+      <td>A comparison of the clinical efficacies of Intense Pulsed Light (IPL), Phot...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+  </tbody>
+</table>"
+38,-119174.39443873038,6594754.863302128,Portsmouth Hospitals NHS Trust,50.8497257,-1.0705618,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13971661' target='_blank'><div>ISRCTN13971661</div></a></td>
+      <td>Balneum Plus cream for the treatment of itchy skin in renal patients</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>58</td>
+    </tr>
+  </tbody>
+</table>"
+39,-129447.76968141648,6981081.701203768,Nottingham University Hospitals NHS Trust,52.9896393,-1.1628491,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN84854178' target='_blank'><div>ISRCTN84854178</div></a></td>
+      <td>Feasibility study of Barrier Enhancement for Eczema Prevention</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN35898459' target='_blank'><div>ISRCTN35898459</div></a></td>
+      <td>Study of treatments for pyoderma gangrenosum</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>140</td>
+    </tr>
+  </tbody>
+</table>"
+40,-27641.675967183288,6757107.276128035,University of Hertfordshire,51.7614518,-0.2483094,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15136969' target='_blank'><div>ISRCTN15136969</div></a></td>
+      <td>An investigation to determine the absorption of magnesium through the skin ...</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+46,12791.555707818878,6837144.079148998,University of Cambridge,52.2042666,0.1149085,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14966097' target='_blank'><div>ISRCTN14966097</div></a></td>
+      <td>Exploring whether patients with lupus and related autoimmune diseases find ...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>180</td>
+    </tr>
+  </tbody>
+</table>"
+71,-117082.70120672479,7159956.564079147,University of York,53.9461089,-1.0517718,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN69032034' target='_blank'><div>ISRCTN69032034</div></a></td>
+      <td>A pilot randomised controlled trial of topical negative pressure therapy fo...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+82,-258694.8637167799,7073682.91178754,Salford Royal NHS Foundation Trust,53.487482,-2.3238955,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN66736089' target='_blank'><div>ISRCTN66736089</div></a></td>
+      <td>The use of heated wax bath treatments for the hands in people with sclerode...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>36</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN01714240' target='_blank'><div>ISRCTN01714240</div></a></td>
+      <td>Randomised controlled trial of a web-based cognitive behavioural interventi...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN84211155' target='_blank'><div>ISRCTN84211155</div></a></td>
+      <td>Iontophoresis as a possible therapy for digital ischaemia</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>6</td>
+    </tr>
+  </tbody>
+</table>"
+92,-288970.57034316455,6702900.955636583,University Hospitals Bristol NHS Foundation Trust,51.45905759999999,-2.5958668,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13292620' target='_blank'><div>ISRCTN13292620</div></a></td>
+      <td>Evaluating whether surgical reconstruction is better than non-surgical trea...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>245000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13825483' target='_blank'><div>ISRCTN13825483</div></a></td>
+      <td>Laboratory observational Ex-Vivo study to investigate the sensitivity and s...</td>
+      <td>Biological/Vaccine</td>
+      <td>Mixed</td>
+      <td>422</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN82599687' target='_blank'><div>ISRCTN82599687</div></a></td>
+      <td>Can skin grafting success rates in burn patients be improved by using a low...</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN86329346' target='_blank'><div>ISRCTN86329346</div></a></td>
+      <td>Adjunctive Clindamycin For Cellulitis clinical trial (C4C)</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>450</td>
+    </tr>
+  </tbody>
+</table>"
+95,-179743.21805985976,7357827.800864691,Newcastle University,54.9791871,-1.6146608,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN63943558' target='_blank'><div>ISRCTN63943558</div></a></td>
+      <td>The miskin trial for holidaymakers sun protection</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>"
+102,-237986.04318476183,7784468.383156934,Robert Gordon University,57.1189422,-2.137865,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN67700775' target='_blank'><div>ISRCTN67700775</div></a></td>
+      <td>Community pharmacists optimising treatment for patients with psoriasis</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+119,-9995.555189513303,6715108.585518302,Moorfields Eye Hospital NHS Foundation Trust,51.5273346,-0.0897916,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN51714283' target='_blank'><div>ISRCTN51714283</div></a></td>
+      <td>A randomised trial of pulsed intravenous methylprednisolone for severe ocul...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>"
+130,-253081.24443505672,7073603.847066523,University of Salford,53.4870594,-2.2734675,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN63765263' target='_blank'><div>ISRCTN63765263</div></a></td>
+      <td>A study evaluating three treatments for cracked heel skin</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14751843' target='_blank'><div>ISRCTN14751843</div></a></td>
+      <td>A study evaluating three treatments for foot callus</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>"
+145,-325895.9133562383,7341065.344468118,Cumbria Partnership NHS Foundation Trust,54.89268029999999,-2.927572800000001,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17337965' target='_blank'><div>ISRCTN17337965</div></a></td>
+      <td>Effectiveness and acceptableness of a portable device to deliver oxygen dir...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>24</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN75319519' target='_blank'><div>ISRCTN75319519</div></a></td>
+      <td>A multicentre randomised research trial assessing the effectiveness and acc...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>48</td>
+    </tr>
+  </tbody>
+</table>"
+151,-266136.1597941943,6690894.71626981,Royal United Hospitals Bath NHS Foundation Trust,51.3918072,-2.3907418,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN38877516' target='_blank'><div>ISRCTN38877516</div></a></td>
+      <td>Total burden of psoriasis</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>2384</td>
+    </tr>
+  </tbody>
+</table>"
+176,-126341.62192981176,6914257.025768537,University Hospitals of Leicester NHS Trust,52.62677189999999,-1.1349461,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN23684477' target='_blank'><div>ISRCTN23684477</div></a></td>
+      <td>Antibody Profiles in Pemphigoid (APP)</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>22</td>
+    </tr>
+  </tbody>
+</table>"
+177,-39883.53602946498,7121862.737414685,Hull and East Yorkshire Hospitals NHS Trust,53.74422029999999,-0.3582799,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12761776' target='_blank'><div>ISRCTN12761776</div></a></td>
+      <td>Surgical wounds healing by secondary intention</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+224,2224611.453604202,6458939.543258964,Klinika Młodości,50.0730679,19.9840247,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10288390' target='_blank'><div>ISRCTN10288390</div></a></td>
+      <td>Investigating effects of laser hair removal in people from different ethnic...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>500</td>
+    </tr>
+  </tbody>
+</table>"
+227,-220.1788208400158,6645224.208730207,Queen Victoria Hospital NHS Foundation Trust,51.1350886,-0.0019779,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN27023864' target='_blank'><div>ISRCTN27023864</div></a></td>
+      <td>Scar study</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>300</td>
+    </tr>
+  </tbody>
+</table>"
+228,-13365.685981585186,6714388.318265595,Institute of Child Health,51.523309,-0.120066,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN81030001' target='_blank'><div>ISRCTN81030001</div></a></td>
+      <td>Double blind, placebo controlled crossover study of the efficacy and side e...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+238,-337638.20493968687,7651395.375952595,NHS Tayside,56.4642503,-3.0330556,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN84614024' target='_blank'><div>ISRCTN84614024</div></a></td>
+      <td>Starting dose of ultraviolet B to treat psoriasis</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>210</td>
+    </tr>
+  </tbody>
+</table>"
+274,-329470.4044695083,7057130.743059783,Liverpool Women's NHS Foundation Trust,53.398919,-2.959683,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN72285670' target='_blank'><div>ISRCTN72285670</div></a></td>
+      <td>Baby Skin Care Trial: a study comparing an infant skin-cleansing product wi...</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>280</td>
+    </tr>
+  </tbody>
+</table>"
+285,264561.40088158543,6249739.559452767,Enteromed Ltd,48.8517249,2.3765955,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12307286' target='_blank'><div>ISRCTN12307286</div></a></td>
+      <td>Enterosgel® in the treatment of atopic dermatitis in adults</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>44</td>
+    </tr>
+  </tbody>
+</table>"
+309,1007035.142329425,5714974.094445646,Difa Cooper,45.5905405,9.0463506,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15111614' target='_blank'><div>ISRCTN15111614</div></a></td>
+      <td>Efficacy of a novel cream with antiedema function in the treatment of cellu...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>"
+324,-10270.803762448752,6710352.092322927,Guy's and St Thomas' NHS Foundation Trust,51.5007438,-0.09226419999999999,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13127147' target='_blank'><div>ISRCTN13127147</div></a></td>
+      <td>APRICOT - Anakinra for pustular psoriasis</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>64</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN53303171' target='_blank'><div>ISRCTN53303171</div></a></td>
+      <td>The SCIN (Skin Care Intervention in Nurses) Trial</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>2240</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11210918' target='_blank'><div>ISRCTN11210918</div></a></td>
+      <td>The UK-Irish Eczema Register</td>
+      <td>Other</td>
+      <td>All</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>"
+373,-67620.69072390166,6707618.527986541,Biotherapy Services Ltd,51.48545499999999,-0.607447,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN55474813' target='_blank'><div>ISRCTN55474813</div></a></td>
+      <td>Are diabetic foot ulcers more likely to heal and heal faster when treated w...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>66</td>
+    </tr>
+  </tbody>
+</table>"
+467,-395619.2511500395,6530228.177926505,South Devon Healthcare NHS Foundation Trust,50.4823211,-3.5539082,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN63003238' target='_blank'><div>ISRCTN63003238</div></a></td>
+      <td>A randomised controlled pilot study to assess the benefit of using Reiki to...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+555,-196450.292140994,6949624.328447713,Activa Healthcare Ltd,52.8191986,-1.764743,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN47349949' target='_blank'><div>ISRCTN47349949</div></a></td>
+      <td>Comparison of cleaning of leg ulcers using pads or wound dressings</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>66</td>
+    </tr>
+  </tbody>
+</table>"
+563,542114.3206723017,6861835.741528584,Bracco Healthcare (USA),52.339994,4.8698958,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN74608958' target='_blank'><div>ISRCTN74608958</div></a></td>
+      <td>Evaluation of a treatment for incontinence associated dermatitis</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>32</td>
+    </tr>
+  </tbody>
+</table>"
+572,-123520.52999828137,7081784.485567878,Doncaster and Bassetlaw Hospitals NHS Foundation Trust,53.53076249999999,-1.1096038,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN07508485' target='_blank'><div>ISRCTN07508485</div></a></td>
+      <td>Evaluation of vibro-pulse in the treatment of cellulitis of the lower limb</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+745,-692107.3491579137,7050330.346165724,Plethora Solutions Ltd,53.36247969999999,-6.2173061,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18863931' target='_blank'><div>ISRCTN18863931</div></a></td>
+      <td>Phase II, multi-centre, randomised, two-part pilot study (Part 1 open, unco...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>38</td>
+    </tr>
+  </tbody>
+</table>"
+772,-255195.59118343872,7055272.63588593,Wythenshawe Hospital,53.3889656,-2.292461,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN41490500' target='_blank'><div>ISRCTN41490500</div></a></td>
+      <td>Probiotics in Atopic Dermatitis in Infancy</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>250</td>
+    </tr>
+  </tbody>
+</table>"
+785,-313931.67297204584,7483403.505277301,ProStrakan Pharmaceuticals,55.6213501,-2.8200962,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN43187439' target='_blank'><div>ISRCTN43187439</div></a></td>
+      <td>A randomised, single centre, phase IV crossover study to assess the accepta...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>65</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN72179764' target='_blank'><div>ISRCTN72179764</div></a></td>
+      <td>An observer blind, parallel group, randomised multicentre study to compare ...</td>
+      <td>Drug</td>
+      <td>Other</td>
+      <td>270</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN71083772' target='_blank'><div>ISRCTN71083772</div></a></td>
+      <td>A multi-centre, double-blind, randomised, vehicle-controlled study for a qu...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+  </tbody>
+</table>"
+794,-177379.03697829036,7362371.105163078,The Newcastle upon Tyne Hospitals NHS Trust,55.00260189999999,-1.593423,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN58943280' target='_blank'><div>ISRCTN58943280</div></a></td>
+      <td>Randomised, double-blind, placebo-controlled trial of azathioprine in moder...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>62</td>
+    </tr>
+  </tbody>
+</table>"
+812,-643340.3396519602,7278525.547983321,TG Eakin Limited,54.5682834,-5.7792246,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN60271166' target='_blank'><div>ISRCTN60271166</div></a></td>
+      <td>A preliminary single-centre, randomised, comparative study of the Eakin wou...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+816,-24426.34605900853,6708155.413437701,West London Research Network (WeLReN),51.4884582,-0.2194256,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN78675673' target='_blank'><div>ISRCTN78675673</div></a></td>
+      <td>Laser versus conventional treatment for active acne in primary care</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+828,-10389.49260353254,6691453.909549779,Herba Naturelle Ltd,51.3949416,-0.0933304,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN28536368' target='_blank'><div>ISRCTN28536368</div></a></td>
+      <td>Derma Cal Plus, herbal skin cream for children aged between 2 months to 5 y...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>"
+891,-89189.35413475605,6689995.723537456,Johnson and Johnson Ltd,51.3867677,-0.8012016,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN91126037' target='_blank'><div>ISRCTN91126037</div></a></td>
+      <td>Eczema and dry skin – observational analysis of patients prescription patte...</td>
+      <td>Mixed</td>
+      <td>All</td>
+      <td>1570</td>
+    </tr>
+  </tbody>
+</table>"
+898,-390131.96835841757,6571487.683851399,Royal Devon and Exeter NHS Foundation Trust,50.7175775,-3.5046151,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN96565376' target='_blank'><div>ISRCTN96565376</div></a></td>
+      <td>A feasibility study of protective socks against usual care to reduce skin t...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>90</td>
+    </tr>
+  </tbody>
+</table>"
+915,-206868.0821590862,7099471.808663857,Thornton and Ross Ltd,53.6250988,-1.8583276,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN02084571' target='_blank'><div>ISRCTN02084571</div></a></td>
+      <td>A clinical trial to evaluate the efficacy and safety of Altoderm™, a topica...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>180</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN43865436' target='_blank'><div>ISRCTN43865436</div></a></td>
+      <td>A trial of topical sodium cromoglicate in atopic dermatitis in children</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>174</td>
+    </tr>
+  </tbody>
+</table>"
+922,-233061.40249545636,7166813.962913694,Johnson and Johnson Wound Management,53.9823482,-2.0936262,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN35502943' target='_blank'><div>ISRCTN35502943</div></a></td>
+      <td>PROtease modulating dressings in the treatment of chronic wounds: finding b...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+  </tbody>
+</table>"
+1021,-169219.07340026367,7061249.309660955,Sheffield Health and Social Research Consortium,53.42097279999999,-1.5201208,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13166839' target='_blank'><div>ISRCTN13166839</div></a></td>
+      <td>The long-term effectiveness of 40% salicylic acid plasters on corns</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>308</td>
+    </tr>
+  </tbody>
+</table>"
+1067,20893.555226989516,6833633.214348623,Cambridgeshire and Peterborough NHS Foundation Trust,52.184934,0.18769,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN79932379' target='_blank'><div>ISRCTN79932379</div></a></td>
+      <td>The MoleMate™ UK Trial: The management of suspicious pigmented lesions in p...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1800</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN79932379' target='_blank'><div>ISRCTN79932379</div></a></td>
+      <td>The MoleMate™ UK Trial: The management of suspicious pigmented lesions in p...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1800</td>
+    </tr>
+  </tbody>
+</table>"
+1095,-198869.9771206729,6722178.478363504,Biotechnology and Biological Sciences Research Council (BBSRC),51.5668296,-1.7864794,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN97515110' target='_blank'><div>ISRCTN97515110</div></a></td>
+      <td>Investigating whether topical application of a non toxic molecule improves ...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>"
+1109,-170678.32720922545,7366610.941901791,NHS Service Delivery and Organisation Programme (SDO),55.0244404,-1.5332295,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN31962758' target='_blank'><div>ISRCTN31962758</div></a></td>
+      <td>The evaluation of a primary care based dermatology service</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>544</td>
+    </tr>
+  </tbody>
+</table>"
+1192,-14827.812031357762,6709852.226837003,Department of Health,51.49794844005473,-0.13320050177820006,19.0,19.294828004351505,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN73616060' target='_blank'><div>ISRCTN73616060</div></a></td>
+      <td>A preliminary observational study on the effect of pulsed dye laser treatme...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>96</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17548228' target='_blank'><div>ISRCTN17548228</div></a></td>
+      <td>A controlled trial of group behavioural therapy in the management of atopic...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN63870786' target='_blank'><div>ISRCTN63870786</div></a></td>
+      <td>A randomised controlled trial of pain experienced during the injection of i...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN29111144' target='_blank'><div>ISRCTN29111144</div></a></td>
+      <td>Improving the quality of information dermatologists receive from primary ca...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>12</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN78267267' target='_blank'><div>ISRCTN78267267</div></a></td>
+      <td>Cryotherapy versus Salicylic Acid with Monochloracetic Acid for the Treatme...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>266</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN74129767' target='_blank'><div>ISRCTN74129767</div></a></td>
+      <td>A randomised controlled trial investigating the effect of debridement of pa...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>38</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN27411543' target='_blank'><div>ISRCTN27411543</div></a></td>
+      <td>A randomised double-blinded cross-over trial comparing betamethasone valera...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN31511062' target='_blank'><div>ISRCTN31511062</div></a></td>
+      <td>A pilot study to compare the role of antibiotics and topical antiseptics in...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN82800078' target='_blank'><div>ISRCTN82800078</div></a></td>
+      <td>The effects of angiotensin 2 blockade on arterial stiffness in patients wit...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN60732049' target='_blank'><div>ISRCTN60732049</div></a></td>
+      <td>A placebo-controlled double blind preliminary trial to study the efficacy a...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN51850035' target='_blank'><div>ISRCTN51850035</div></a></td>
+      <td>A randomised, controlled, single blind pilot study to evaluate the efficacy...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN87513270' target='_blank'><div>ISRCTN87513270</div></a></td>
+      <td>A randomised controlled trial of the benefits of using an electronic referr...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN51633881' target='_blank'><div>ISRCTN51633881</div></a></td>
+      <td>A prospective within-patient randomised controlled trial of the treatment o...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>48</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN06147166' target='_blank'><div>ISRCTN06147166</div></a></td>
+      <td>Bruner versus Z-Plasty: a comparative trial of two incisions in the treatme...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN34213833' target='_blank'><div>ISRCTN34213833</div></a></td>
+      <td>A study to investigate whether topical tacrolimus can prevent delayed-type ...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN61943529' target='_blank'><div>ISRCTN61943529</div></a></td>
+      <td>A randomised comparison of narrow-band (TL01) and broad-band (UV6) photothe...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN38440823' target='_blank'><div>ISRCTN38440823</div></a></td>
+      <td>Randomised Controlled Trial of Asynchronous and Synchronous Telemedicine In...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>208</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN21526350' target='_blank'><div>ISRCTN21526350</div></a></td>
+      <td>Identification of the most cost effective, microbiologically safe antimicro...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>649</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN78646179' target='_blank'><div>ISRCTN78646179</div></a></td>
+      <td>Randomised controlled trial comparing alternating pressure overlays with al...</td>
+      <td>Other</td>
+      <td>Senior</td>
+      <td>1972</td>
+    </tr>
+  </tbody>
+</table>"

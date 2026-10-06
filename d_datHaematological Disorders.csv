@@ -1,0 +1,1149 @@
+,merclng,merclat,locations,latitude,longitude,number,radius,HTML
+0,-139635.47344398804,6755913.94771293,University of Oxford,51.7548164,-1.2543668,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13721808' target='_blank'><div>ISRCTN13721808</div></a></td>
+      <td>Intravenous iron to treat anaemia following critical care</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>130</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN01222004' target='_blank'><div>ISRCTN01222004</div></a></td>
+      <td>Iron supplementation in iron deficiency</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>48</td>
+    </tr>
+  </tbody>
+</table>"
+2,-181976.75458703414,7363080.99091819,Newcastle upon Tyne Hospitals NHS Foundation Trust,55.0062592,-1.634725,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN79841657' target='_blank'><div>ISRCTN79841657</div></a></td>
+      <td>Reversal of over-anticoagulation with vitamin K</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>186</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN64826232' target='_blank'><div>ISRCTN64826232</div></a></td>
+      <td>Improving the safety and efficacy of anticoagulation therapy</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>180</td>
+    </tr>
+  </tbody>
+</table>"
+4,-14921.27567787947,6714611.999375625,University College London,51.52455920000001,-0.1340401,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN55032357' target='_blank'><div>ISRCTN55032357</div></a></td>
+      <td>An observational study to determine the impact and effect of preoperative a...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>432</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN63190358' target='_blank'><div>ISRCTN63190358</div></a></td>
+      <td>Cardiopulmonary Assessment at Rest and during Exercise in patients with Sic...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN67322816' target='_blank'><div>ISRCTN67322816</div></a></td>
+      <td>PREoperative intraVENous iron To Treat anaemia in major surgery (PREVENTT)</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>500</td>
+    </tr>
+  </tbody>
+</table>"
+7,-173105.45946283842,7133628.765905515,University of Leeds,53.8066815,-1.5550328,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN31882639' target='_blank'><div>ISRCTN31882639</div></a></td>
+      <td>Cemdisiran and eculizumab dose-ranging study for paroxysmal nocturnal haemo...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>9</td>
+    </tr>
+  </tbody>
+</table>"
+11,-214903.77978954036,6882052.998582191,University of Birmingham,52.4508168,-1.9305135,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN32667607' target='_blank'><div>ISRCTN32667607</div></a></td>
+      <td>A study using a response-based combination therapy of rituximab and ibrutin...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN77951167' target='_blank'><div>ISRCTN77951167</div></a></td>
+      <td>Mild bleeding disorders caused by platelet defects</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>800</td>
+    </tr>
+  </tbody>
+</table>"
+23,-12912.726973547356,6712273.366431493,King's College London,51.5114864,-0.115997,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN57167465' target='_blank'><div>ISRCTN57167465</div></a></td>
+      <td>The effect of long-term iron treatment on plasma isoprostanes in anaemic wo...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>16</td>
+    </tr>
+  </tbody>
+</table>"
+27,-289762.31908948265,6702786.54140238,University of Bristol,51.4584172,-2.6029792,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN95606674' target='_blank'><div>ISRCTN95606674</div></a></td>
+      <td>The low platelet blood study</td>
+      <td>NaN</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+29,-436122.32467356534,7587553.341563439,University of Stirling,56.1460908,-3.9177535,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN50989296' target='_blank'><div>ISRCTN50989296</div></a></td>
+      <td>Understanding the role of potassium on hydration and fluid balance</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>12</td>
+    </tr>
+  </tbody>
+</table>"
+39,-129447.76968141648,6981081.701203768,Nottingham University Hospitals NHS Trust,52.9896393,-1.1628491,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13370767' target='_blank'><div>ISRCTN13370767</div></a></td>
+      <td>Intravenous iron for cancer-related anaemia symptoms</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+49,120964.14468390832,6668518.098329724,East Kent Hospitals University NHS Foundation Trust,51.2662051,1.0866394,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13911947' target='_blank'><div>ISRCTN13911947</div></a></td>
+      <td>Development of a haemophilia physiotherapy intervention for optimum musculo...</td>
+      <td>Behavioural</td>
+      <td>Child</td>
+      <td>132</td>
+    </tr>
+  </tbody>
+</table>"
+68,-159707.9806346827,6609566.652367846,Southampton University Hospitals NHS Trust,50.93365619999999,-1.4346812,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN46012373' target='_blank'><div>ISRCTN46012373</div></a></td>
+      <td>Improvement of pain and quality of life in patients with sickle cell diseas...</td>
+      <td>Procedure/Surgery</td>
+      <td>Mixed</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN46078697' target='_blank'><div>ISRCTN46078697</div></a></td>
+      <td>Improvement of pain and quality of life in patients with sickle cell diseas...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN99656583' target='_blank'><div>ISRCTN99656583</div></a></td>
+      <td>Prebiotics and immunity trial</td>
+      <td>Drug</td>
+      <td>Senior</td>
+      <td>105</td>
+    </tr>
+  </tbody>
+</table>"
+72,-691905.3933377165,7033833.119185386,Eleven,53.2739512,-6.2154919,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16126140' target='_blank'><div>ISRCTN16126140</div></a></td>
+      <td>Patient benefits of a digital data platform for sickle cell disease</td>
+      <td>Device</td>
+      <td>Mixed</td>
+      <td>300</td>
+    </tr>
+  </tbody>
+</table>"
+96,-233940.7708129778,7793869.012440783,University of Aberdeen,57.16475999999999,-2.1015257,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN98371961' target='_blank'><div>ISRCTN98371961</div></a></td>
+      <td>Oral iron, intravenous iron or discontinuation of therapy for older adults ...</td>
+      <td>Other</td>
+      <td>Senior</td>
+      <td>84</td>
+    </tr>
+  </tbody>
+</table>"
+103,-135684.81150742923,6757635.9259120105,Oxford Radcliffe Hospitals NHS Trust,51.764391,-1.2188774,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN95296852' target='_blank'><div>ISRCTN95296852</div></a></td>
+      <td>Global assays for haemophilia</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+105,15126.059013142776,6831543.32168535,Papworth Hospital NHS Foundation Trust,52.173422,0.1358797,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN49461366' target='_blank'><div>ISRCTN49461366</div></a></td>
+      <td>Aetiology of preoperative anaemia in cardiac surgery</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>"
+107,-65619.09948774411,6664416.1057942845,University of Surrey,51.2431429,-0.5894664,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17873610' target='_blank'><div>ISRCTN17873610</div></a></td>
+      <td>Viral hepatitis case-finding in primary care</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>540</td>
+    </tr>
+  </tbody>
+</table>"
+136,-35927.02981963953,6723721.029958438,North West London Hospitals NHS Trust,51.57544230000001,-0.322738,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN97241637' target='_blank'><div>ISRCTN97241637</div></a></td>
+      <td>Ibuprofen and morphine for acute pain in sickle cell disease</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>320</td>
+    </tr>
+  </tbody>
+</table>"
+165,-240641.65869322798,7790655.39373056,NHS Grampian,57.1491035,-2.1617208,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN98371961' target='_blank'><div>ISRCTN98371961</div></a></td>
+      <td>Oral iron, intravenous iron or discontinuation of therapy for older adults ...</td>
+      <td>Other</td>
+      <td>Senior</td>
+      <td>84</td>
+    </tr>
+  </tbody>
+</table>"
+195,771992.8762869968,6643157.944304095,Octapharma AG,51.12344,6.93493,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11492145' target='_blank'><div>ISRCTN11492145</div></a></td>
+      <td>Octapharma’s FVIII concentrates in previously untreated and minimally treat...</td>
+      <td>Biological/Vaccine</td>
+      <td>All</td>
+      <td>140</td>
+    </tr>
+  </tbody>
+</table>"
+197,121324.41908391168,6670883.039074487,Canterbury Christ Church University,51.27949599999999,1.0898758,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN63283043' target='_blank'><div>ISRCTN63283043</div></a></td>
+      <td>Nurse-facilitated adherence therapy for haemophilia</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>158</td>
+    </tr>
+  </tbody>
+</table>"
+200,-6553.233707661985,6713415.407300916,Barts and The London NHS Trust,51.5178708,-0.0588687,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11830961' target='_blank'><div>ISRCTN11830961</div></a></td>
+      <td>Randomised controlled study of iron supplementation to support the response...</td>
+      <td>Supplement</td>
+      <td>Not Specified</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN66395033' target='_blank'><div>ISRCTN66395033</div></a></td>
+      <td>The effect of treating patients with anaemia in diabetic nephropathy to dif...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>160</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN41687085' target='_blank'><div>ISRCTN41687085</div></a></td>
+      <td>A randomised, open label controlled trial of Epoetin Beta in the treatment ...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+  </tbody>
+</table>"
+222,-389286.28531881014,7033341.626065807,Betsi Cadwaladr University Health Board,53.2713109,-3.4970182,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN99378804' target='_blank'><div>ISRCTN99378804</div></a></td>
+      <td>Feasibility pilot of anticoagulation self-testing</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>"
+225,-18348.64695211725,6719793.827113766,Royal Free Hospital,51.5535119,-0.1648287,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11966493' target='_blank'><div>ISRCTN11966493</div></a></td>
+      <td>Post haematopoietic stem cell transplant follow-up</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>238</td>
+    </tr>
+  </tbody>
+</table>"
+228,-13365.685981585186,6714388.318265595,Institute of Child Health,51.523309,-0.120066,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN29004071' target='_blank'><div>ISRCTN29004071</div></a></td>
+      <td>Prevention Of Morbidity In Sickle cell disease pilot phase\n</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>22</td>
+    </tr>
+  </tbody>
+</table>"
+277,-355251.8315579943,6711485.905108917,University Hospital of Wales,51.5070837,-3.1912815,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN71445600' target='_blank'><div>ISRCTN71445600</div></a></td>
+      <td>Study to see if steroids reduce kidney problems in Henoch Schonlein purpura</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>368</td>
+    </tr>
+  </tbody>
+</table>"
+324,-10270.803762448752,6710352.092322927,Guy's and St Thomas' NHS Foundation Trust,51.5007438,-0.09226419999999999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN52684446' target='_blank'><div>ISRCTN52684446</div></a></td>
+      <td>Transfusion antenatally in pregnant women with sickle cell disease</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+335,-180232.4115621508,7358025.390370238,Royal Victoria Hospital,54.98020570000001,-1.6190553,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN27615323' target='_blank'><div>ISRCTN27615323</div></a></td>
+      <td>Cardiopulmonary exercise testing before and after blood transfusion</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>28</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN49531007' target='_blank'><div>ISRCTN49531007</div></a></td>
+      <td>Non-invasive, bedside assessment of systemic endothelial function: a predic...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>182</td>
+    </tr>
+  </tbody>
+</table>"
+337,-233193.76137000957,6909028.732870431,Royal Wolverhampton Hospitals NHS Trust,52.5982537,-2.0948152,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN22158788' target='_blank'><div>ISRCTN22158788</div></a></td>
+      <td>Can administration of iron supplement injection reduce blood transfusion ra...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13007439' target='_blank'><div>ISRCTN13007439</div></a></td>
+      <td>Treatment of iron deficiency anaemia in pregnancy study</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+  </tbody>
+</table>"
+366,-37234.78893358075,6698837.018645172,St Mary's University,51.43630539999999,-0.3344858,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14032359' target='_blank'><div>ISRCTN14032359</div></a></td>
+      <td>IRONWOMAN: the impact of iron deficiency in exercising women</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>35</td>
+    </tr>
+  </tbody>
+</table>"
+413,1823066.5546397457,6130766.833206843,Octapharma Pharmazeutika Prod.Ges.m.b.H.,48.1435325,16.3768855,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN55938644' target='_blank'><div>ISRCTN55938644</div></a></td>
+      <td>Comparison of quality of life and satisfaction in primary immunodeficient p...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+431,-13140.0525056963,6713423.546911105,Medical Research Council (MRC),51.5179163,-0.1180391,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN35571063' target='_blank'><div>ISRCTN35571063</div></a></td>
+      <td>QAASM: an evaluation of three methods of external quality assurance for pat...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>260</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN19313375' target='_blank'><div>ISRCTN19313375</div></a></td>
+      <td>A randomised controlled trial of patient self management of oral anticoagul...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>512</td>
+    </tr>
+  </tbody>
+</table>"
+488,-322616.53021306096,7021608.621165295,Countess of Chester Hospital,53.2082328,-2.8981136,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN86576368' target='_blank'><div>ISRCTN86576368</div></a></td>
+      <td>Development of a screening tool for cardiac involvement in the Sarcoidosis ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+562,-25220.510438276826,6712699.403872117,Novartis Pharmaceuticals Corporation (USA),51.5138682,-0.2265597,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN05896089' target='_blank'><div>ISRCTN05896089</div></a></td>
+      <td>A randomised, multicentre, open label, phase Il study to evaluate the safet...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>195</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN93355192' target='_blank'><div>ISRCTN93355192</div></a></td>
+      <td>A randomised, comparative, open label phase III trial on efficacy and safet...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>586</td>
+    </tr>
+  </tbody>
+</table>"
+566,-326548.2455722867,7069605.090208877,Aintree University Hospitals NHS Foundation Trust,53.4656806,-2.9334328,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN54312363' target='_blank'><div>ISRCTN54312363</div></a></td>
+      <td>A randomised double blind controlled trial of oral ephedrine/etilefrine in ...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>320</td>
+    </tr>
+  </tbody>
+</table>"
+583,-28507.47443877705,6727376.002196718,National Blood Service,51.595843,-0.256087,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN49080246' target='_blank'><div>ISRCTN49080246</div></a></td>
+      <td>Platelet Process Improvement Project</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+598,272689.8944395649,6210687.1804700615,Genethon (France),48.6203538,2.449615,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN46087965' target='_blank'><div>ISRCTN46087965</div></a></td>
+      <td>Gene therapy for Wiskott-Aldrich Syndrome (WAS)</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>5</td>
+    </tr>
+  </tbody>
+</table>"
+613,-8150.724060290857,6713527.877755577,FerroKin BioSciences Inc. (USA),51.5184995,-0.0732192,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17052121' target='_blank'><div>ISRCTN17052121</div></a></td>
+      <td>Assessing the safety, tolerability, and pharmacodynamics of FBS0701 in the ...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+749,-16113.663271562542,6685172.074000916,Royal Marsden Hospital,51.3597182,-0.1447515,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN41980964' target='_blank'><div>ISRCTN41980964</div></a></td>
+      <td>A Randomized Controlled Study in Newly Diagnosed Severe Aplastic Anemia Pat...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>340</td>
+    </tr>
+  </tbody>
+</table>"
+901,-14506.298880100305,6713958.059816249,London School of Hygiene and Tropical Medicine,51.5209041,-0.1303123,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11225767' target='_blank'><div>ISRCTN11225767</div></a></td>
+      <td>Haemorrhage ALleviation with Tranexamic acid  IntesTinal system</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>12000</td>
+    </tr>
+  </tbody>
+</table>"
+908,-319264.52223409025,7047186.863898789,NHS Blood and Transplant (NHSBT),53.34562510000001,-2.868002,6.0,12.132827525593784,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN81226121' target='_blank'><div>ISRCTN81226121</div></a></td>
+      <td>Risk factors for bleeding in haematology patients with low platelet counts</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN95084335' target='_blank'><div>ISRCTN95084335</div></a></td>
+      <td>Study to identify novel drivers of platelet production in platelet apheresi...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN50516147' target='_blank'><div>ISRCTN50516147</div></a></td>
+      <td>The intensive care study of coagulopathy part 2</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN00862331' target='_blank'><div>ISRCTN00862331</div></a></td>
+      <td>Transfusion Alternatives Pre-operatively in Sickle cell disease</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>400</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15490813' target='_blank'><div>ISRCTN15490813</div></a></td>
+      <td>Two cluster randomised controlled trials to evaluate feedback in blood tran...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>152</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN05026912' target='_blank'><div>ISRCTN05026912</div></a></td>
+      <td>Intracranial haemorrhage in thrombocytopenic haematology patients</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>156</td>
+    </tr>
+  </tbody>
+</table>"
+926,-288837.61034336104,6703046.584195771,University Hospitals Bristol NHS Foundation Trust R&D Office,51.4598727,-2.5946724,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN55439761' target='_blank'><div>ISRCTN55439761</div></a></td>
+      <td>The Decision Study</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>"
+951,-88026.59978952215,6730348.871592317,Janssen-Cilag Ltd,51.6124297,-0.7907563999999999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN98318971' target='_blank'><div>ISRCTN98318971</div></a></td>
+      <td>A double-blind, placebo controlled study to assess the effects of early int...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>"
+952,-354378.75279170263,7547285.328483634,UK Co-ordinating Committee for Cancer Research (UKCCCR),55.9440484,-3.1834385,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN57679341' target='_blank'><div>ISRCTN57679341</div></a></td>
+      <td>LCH-II Langerhans cell histiocytosis: treatment protocol of the second inte...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>193</td>
+    </tr>
+  </tbody>
+</table>"
+958,-8195904.3112756545,5701049.616399747,Sainte-Justine Hospital - Research Centre (Canada),45.5029396,-73.6250611,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN37246456' target='_blank'><div>ISRCTN37246456</div></a></td>
+      <td>Transfusion Requirements in Paediatric Intensive Care Unit</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>626</td>
+    </tr>
+  </tbody>
+</table>"
+1075,-309471.02305231575,6682582.447387034,NHS Blood and Transplant Research and Development,51.3451898,-2.7800255,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN23996532' target='_blank'><div>ISRCTN23996532</div></a></td>
+      <td>A comparison of human leucocyte antigens (HLA) epitope-matched with standar...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+1096,985630.2744173238,5973392.231375378,Octapharma AG (Switzerland),47.1915261,8.8540674,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN50040185' target='_blank'><div>ISRCTN50040185</div></a></td>
+      <td>NuProtect: Immunogenicity, efficacy and safety of treatment with Human-cl r...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN99606748' target='_blank'><div>ISRCTN99606748</div></a></td>
+      <td>Clinical study in which the long term effect of Human-cl rhFVIII is investi...</td>
+      <td>Biological/Vaccine</td>
+      <td>Child</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN02245668' target='_blank'><div>ISRCTN02245668</div></a></td>
+      <td>The tolerability of Octagam® 5% and Octagam® 10%</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN71212110' target='_blank'><div>ISRCTN71212110</div></a></td>
+      <td>Prospective clinical study in children with severe haemophilia A to investi...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>"
+1103,-64100.289751207936,6663551.777041765,Guildford and Waverley CCG,51.238282,-0.5758227,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN72491207' target='_blank'><div>ISRCTN72491207</div></a></td>
+      <td>Testing a new stepwise strategy for the management of renal anaemia</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>24</td>
+    </tr>
+  </tbody>
+</table>"
+1123,-329894.95474349573,7058820.8603244005,NHS Blood and Transplant,53.4079705,-2.9634968,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12845429' target='_blank'><div>ISRCTN12845429</div></a></td>
+      <td>DRIVE - Desmopressin for procedures or radiological interventions</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN74679473' target='_blank'><div>ISRCTN74679473</div></a></td>
+      <td>VWF platelet study: a pilot study of von Willebrand factor for moderate or ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>"
+1192,-14827.812031357762,6709852.226837003,Department of Health,51.49794844005473,-0.13320050177820006,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN63224732' target='_blank'><div>ISRCTN63224732</div></a></td>
+      <td>Acute effects of smoking and oral nicotine on blood haemostatis using throm...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN00677850' target='_blank'><div>ISRCTN00677850</div></a></td>
+      <td>Antenatal screening for haemoglobinopathies in primary care: a cluster rand...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1320</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN24180077' target='_blank'><div>ISRCTN24180077</div></a></td>
+      <td>Evaluation of two models of delivering anticoagulant care to house bound pa...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>"

@@ -1,0 +1,4706 @@
+,merclng,merclat,locations,latitude,longitude,number,radius,HTML
+0,-139635.47344398804,6755913.94771293,University of Oxford,51.7548164,-1.2543668,35.0,23.09061955122168,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN37254291' target='_blank'><div>ISRCTN37254291</div></a></td>
+      <td>In the general population, do specific forms of COVID-19 vaccine informatio...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>15000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11713182' target='_blank'><div>ISRCTN11713182</div></a></td>
+      <td>Testing the effectiveness of almitrine bismesylate in the treatment of COVI...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>116</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN21086382' target='_blank'><div>ISRCTN21086382</div></a></td>
+      <td>COVID-19 infection survey of the UK general population</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>500000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN33260034' target='_blank'><div>ISRCTN33260034</div></a></td>
+      <td>Adalimumab for coronavirus in community care</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>750</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN60033461' target='_blank'><div>ISRCTN60033461</div></a></td>
+      <td>Neonatal complications of coronavirus disease (COVID-19) study</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>10000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10207947' target='_blank'><div>ISRCTN10207947</div></a></td>
+      <td>Study of chloroquine/hydroxychloroquine and coronavirus disease (COVID-19) ...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>40000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14226970' target='_blank'><div>ISRCTN14226970</div></a></td>
+      <td>Rapid community testing for COVID-19</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>2000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11952463' target='_blank'><div>ISRCTN11952463</div></a></td>
+      <td>What’s the STORY: serum testing of representative youngsters including SARS...</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>3800</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN90906759' target='_blank'><div>ISRCTN90906759</div></a></td>
+      <td>Investigating a vaccine against COVID-19</td>
+      <td>Biological/Vaccine</td>
+      <td>Mixed</td>
+      <td>12390</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN66726260' target='_blank'><div>ISRCTN66726260</div></a></td>
+      <td>Clinical characterisation protocol for severe emerging infection</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15281137' target='_blank'><div>ISRCTN15281137</div></a></td>
+      <td>A phase I/II study to determine efficacy, safety and immunogenicity of the ...</td>
+      <td>Biological/Vaccine</td>
+      <td>Adult</td>
+      <td>1112</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN50189673' target='_blank'><div>ISRCTN50189673</div></a></td>
+      <td>A randomised trial of treatments to prevent death in patients hospitalised ...</td>
+      <td>Drug</td>
+      <td>All</td>
+      <td>15000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN86534580' target='_blank'><div>ISRCTN86534580</div></a></td>
+      <td>PRINCIPLE: A trial evaluating treatments for suspected COVID-19 in people a...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>3000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17271364' target='_blank'><div>ISRCTN17271364</div></a></td>
+      <td>A study exploring whooping cough protection in infants following vaccinatio...</td>
+      <td>Biological/Vaccine</td>
+      <td>Child</td>
+      <td>114</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN85819697' target='_blank'><div>ISRCTN85819697</div></a></td>
+      <td>The 6-in-1 Vaccine Study</td>
+      <td>Biological/Vaccine</td>
+      <td>Neonate</td>
+      <td>240</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10481319' target='_blank'><div>ISRCTN10481319</div></a></td>
+      <td>Re-evaluating Optimal Vaccine Schedules Against Ebola (REVOLVE)</td>
+      <td>Biological/Vaccine</td>
+      <td>Adult</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16774163' target='_blank'><div>ISRCTN16774163</div></a></td>
+      <td>Meningococcal B Booster Vaccine in Young People</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>113</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN86418238' target='_blank'><div>ISRCTN86418238</div></a></td>
+      <td>The effect of audit & feedback on prescribing behaviour and engagement with...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1400</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN75858406' target='_blank'><div>ISRCTN75858406</div></a></td>
+      <td>Be on the TEAM: Teenagers Against Meningitis</td>
+      <td>Biological/Vaccine</td>
+      <td>Child</td>
+      <td>24000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN46336916' target='_blank'><div>ISRCTN46336916</div></a></td>
+      <td>Investigating a new Vaccine Against Meningitis B (in Oxford)</td>
+      <td>Biological/Vaccine</td>
+      <td>Adult</td>
+      <td>90</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12674243' target='_blank'><div>ISRCTN12674243</div></a></td>
+      <td>Antibiotic Review Kit for Hospitals (ARK-Hospital)</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN27908921' target='_blank'><div>ISRCTN27908921</div></a></td>
+      <td>Antivirals for influenza-like illness? Are they effective?</td>
+      <td>Drug</td>
+      <td>Mixed</td>
+      <td>675</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN72009783' target='_blank'><div>ISRCTN72009783</div></a></td>
+      <td>Understanding meningococcal carriage and disease in healthy teenagers</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>18000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN08234512' target='_blank'><div>ISRCTN08234512</div></a></td>
+      <td>Evaluating aerosol administration of a candidate TB vaccine, MVA85A</td>
+      <td>Biological/Vaccine</td>
+      <td>Adult</td>
+      <td>36</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN34508212' target='_blank'><div>ISRCTN34508212</div></a></td>
+      <td>Mild induced hypothermia for severe falciparum malaria</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN69736109' target='_blank'><div>ISRCTN69736109</div></a></td>
+      <td>CRP study: The value of C-reactive protein (CRP) testing in acutely ill chi...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>700</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN57878347' target='_blank'><div>ISRCTN57878347</div></a></td>
+      <td>A phase III randomised, open label clinical trial evaluating the immunogeni...</td>
+      <td>Biological/Vaccine</td>
+      <td>Child</td>
+      <td>168</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN34189114' target='_blank'><div>ISRCTN34189114</div></a></td>
+      <td>A phase I study evaluating the safety and immunogenicity of a new tuberculo...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12385972' target='_blank'><div>ISRCTN12385972</div></a></td>
+      <td>A phase I study to assess the safety and immunogenicity of new tuberculosis...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>36</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN46804531' target='_blank'><div>ISRCTN46804531</div></a></td>
+      <td>A phase I study to compare the safety and immunogenicity of candidate tuber...</td>
+      <td>Biological/Vaccine</td>
+      <td>Adult</td>
+      <td>24</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN89141709' target='_blank'><div>ISRCTN89141709</div></a></td>
+      <td>Swine Flu (Novel Influenza A H1N1) Vaccine Study</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN72858898' target='_blank'><div>ISRCTN72858898</div></a></td>
+      <td>Persistence of antibodies six years after priming immunisation with Meningo...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>250</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN78768849' target='_blank'><div>ISRCTN78768849</div></a></td>
+      <td>A single centre randomised clinical trial to assess the antibody response t...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>348</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN30087513' target='_blank'><div>ISRCTN30087513</div></a></td>
+      <td>Research to improve economical anti-rabies treatment</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>220</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN94984750' target='_blank'><div>ISRCTN94984750</div></a></td>
+      <td>International Neonatal Immunotherapy Study</td>
+      <td>Drug</td>
+      <td>Neonate</td>
+      <td>5000</td>
+    </tr>
+  </tbody>
+</table>"
+1,-67739.89163464309,6664057.162404566,Royal Surrey County Hospital NHS Foundation Trust,51.2411243,-0.6085178,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13447477' target='_blank'><div>ISRCTN13447477</div></a></td>
+      <td>A pilot study of the ability of povidone-iodine (PVP-I) 0.5% aqueous soluti...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>22</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18001753' target='_blank'><div>ISRCTN18001753</div></a></td>
+      <td>Does an educational film encourage members of the South Asian community to ...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>"
+2,-181976.75458703414,7363080.99091819,Newcastle upon Tyne Hospitals NHS Foundation Trust,55.0062592,-1.634725,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN73411795' target='_blank'><div>ISRCTN73411795</div></a></td>
+      <td>Efficacy of switch to lopinavir/ritonavir in improving cognitive function i...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN48248159' target='_blank'><div>ISRCTN48248159</div></a></td>
+      <td>A randomised, controlled, factorial pilot study investigating omacor and/or...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>72</td>
+    </tr>
+  </tbody>
+</table>"
+3,19078.88054782297,6713991.228751599,"Genentech, Inc",51.5210895,0.1713885,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13593711' target='_blank'><div>ISRCTN13593711</div></a></td>
+      <td>A study to evaluate the safety and efficacy of tocilizumab in patients with...</td>
+      <td>Drug</td>
+      <td>Mixed</td>
+      <td>450</td>
+    </tr>
+  </tbody>
+</table>"
+4,-14921.27567787947,6714611.999375625,University College London,51.52455920000001,-0.1340401,18.0,18.958889470453634,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14447421' target='_blank'><div>ISRCTN14447421</div></a></td>
+      <td>COVID-19 in care homes (VIVALDI)</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>11000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN99916292' target='_blank'><div>ISRCTN99916292</div></a></td>
+      <td>A trial assessing the effectiveness of candidate interventions in preventin...</td>
+      <td>Biological/Vaccine</td>
+      <td>Adult</td>
+      <td>30000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN50212645' target='_blank'><div>ISRCTN50212645</div></a></td>
+      <td>How effective are infection prevention and control measures that are inform...</td>
+      <td>Other</td>
+      <td>All</td>
+      <td>2000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN86811077' target='_blank'><div>ISRCTN86811077</div></a></td>
+      <td>Feasibility study to reduce avoidable hospitalisations and promote Better H...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>41</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16022198' target='_blank'><div>ISRCTN16022198</div></a></td>
+      <td>Fever pilot trial</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>205</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN20312003' target='_blank'><div>ISRCTN20312003</div></a></td>
+      <td>An HIV self-testing public health intervention</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>10000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN72136061' target='_blank'><div>ISRCTN72136061</div></a></td>
+      <td>Does offering girls a reward increase the number of vaccination consent for...</td>
+      <td>Behavioural</td>
+      <td>Mixed</td>
+      <td>600</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16738765' target='_blank'><div>ISRCTN16738765</div></a></td>
+      <td>Feasibility of a trial of risk reduction in sexual health clinics</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>16000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN32729817' target='_blank'><div>ISRCTN32729817</div></a></td>
+      <td>Human papillomavirus infection: a randomised controlled trial of Imiquimod ...</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17270334' target='_blank'><div>ISRCTN17270334</div></a></td>
+      <td>Evaluation of the effect of peer educators on uptake of mobile x-ray unit (...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>2800</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN26184967' target='_blank'><div>ISRCTN26184967</div></a></td>
+      <td>TB Reach 5: to compare the efficacy of video observed treatment (VOT) versu...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN80214280' target='_blank'><div>ISRCTN80214280</div></a></td>
+      <td>Pandemic Influenza: Population susceptibility, severity and spread: Rapid R...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>3216</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18649610' target='_blank'><div>ISRCTN18649610</div></a></td>
+      <td>The Men's Safer Sex (MenSS) Trial: a website to increase condom use</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>172</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN04379941' target='_blank'><div>ISRCTN04379941</div></a></td>
+      <td>The HALT Latent Tuberculosis study</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN24707359' target='_blank'><div>ISRCTN24707359</div></a></td>
+      <td>The HALT Hepatitis study</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>660</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN65246961' target='_blank'><div>ISRCTN65246961</div></a></td>
+      <td>The Feedback Intervention Trial (FIT) - improving hand hygiene compliance i...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN97674664' target='_blank'><div>ISRCTN97674664</div></a></td>
+      <td>Face-to-face versus self-interview methods in sexual health clinics (CASHI ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>2292</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN36307479' target='_blank'><div>ISRCTN36307479</div></a></td>
+      <td>The clinical and cost-effectiveness of early, goal-directed, protocolised r...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1260</td>
+    </tr>
+  </tbody>
+</table>"
+5,-19154.466482071603,6719549.4513150705,Royal Free London NHS Foundation Trust,51.5521469,-0.1720675,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN26073192' target='_blank'><div>ISRCTN26073192</div></a></td>
+      <td>Investigating sleepiness in the HIV population in UK</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>325</td>
+    </tr>
+  </tbody>
+</table>"
+7,-173105.45946283842,7133628.765905515,University of Leeds,53.8066815,-1.5550328,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN58667920' target='_blank'><div>ISRCTN58667920</div></a></td>
+      <td>COVID-19 effects on the heart</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>370</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN74929588' target='_blank'><div>ISRCTN74929588</div></a></td>
+      <td>Randomised controlled trial of swab versus tissue sampling for infected dia...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>730</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN72521372' target='_blank'><div>ISRCTN72521372</div></a></td>
+      <td>The DECIDA study: Detailed Evaluation of a Childhood Immunisation Decision ...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>576</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN84500365' target='_blank'><div>ISRCTN84500365</div></a></td>
+      <td>Understanding and using self-generated validity to promote behaviour change...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>15000</td>
+    </tr>
+  </tbody>
+</table>"
+10,-125193.51722956625,6913224.121171489,University of Leicester,52.6211393,-1.1246325,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11811602' target='_blank'><div>ISRCTN11811602</div></a></td>
+      <td>UK-REACH: United Kingdom research study into ethnicity and COVID-19 outcome...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1530180</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10980107' target='_blank'><div>ISRCTN10980107</div></a></td>
+      <td>Long-term follow up of adults hospitalised with COVID-19</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>10000</td>
+    </tr>
+  </tbody>
+</table>"
+11,-214903.77978954036,6882052.998582191,University of Birmingham,52.4508168,-1.9305135,6.0,12.132827525593784,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN63911163' target='_blank'><div>ISRCTN63911163</div></a></td>
+      <td>Analysis of the immunological response to coronavirus infection</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>600</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN32090191' target='_blank'><div>ISRCTN32090191</div></a></td>
+      <td>Best Foods For your heart trial: dietary intervention to reduce cardiovascu...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN95588307' target='_blank'><div>ISRCTN95588307</div></a></td>
+      <td>Response to routine immunisations in human immunodeficiency virus (HIV) inf...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1115</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18467252' target='_blank'><div>ISRCTN18467252</div></a></td>
+      <td>A prospective randomised phase III trial of early hospital discharge versus...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN52111708' target='_blank'><div>ISRCTN52111708</div></a></td>
+      <td>Hepatitis B immunoglobulin (HBIg) withdrawal from combination lamivudine (L...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17599457' target='_blank'><div>ISRCTN17599457</div></a></td>
+      <td>Single use negative pressure dressing for reduction in surgical site infect...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>840</td>
+    </tr>
+  </tbody>
+</table>"
+12,-132804.10798857908,6971867.107989617,University of Nottingham,52.93978269999999,-1.1929996,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN49639731' target='_blank'><div>ISRCTN49639731</div></a></td>
+      <td>Routine testing for Group B Streptococcus in pregnancy (GBS3 trial)</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>320000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN65163992' target='_blank'><div>ISRCTN65163992</div></a></td>
+      <td>RAPID study: Rifaximin for preventing relapse of Clostridium associated dia...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>180</td>
+    </tr>
+  </tbody>
+</table>"
+14,-331970.6179688271,7650185.350090201,University of Dundee,56.45824469999999,-2.9821428,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN72038467' target='_blank'><div>ISRCTN72038467</div></a></td>
+      <td>What is the impact of antiviral treatment for people who inject drugs on th...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN27564683' target='_blank'><div>ISRCTN27564683</div></a></td>
+      <td>Eradicate Hepatitis C Virus: a treatment to prevent hepatitis C in active d...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN30564012' target='_blank'><div>ISRCTN30564012</div></a></td>
+      <td>STOP-COVID19: Superiority Trial Of Protease inhibition in COVID-19 (coronav...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+  </tbody>
+</table>"
+15,-288495.2695133245,6709912.247835172,North Bristol NHS Trust,51.4982841,-2.5915971,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN21447815' target='_blank'><div>ISRCTN21447815</div></a></td>
+      <td>Studying aerosol emission of the COVID-19 virus in healthcare settings</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>600</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN59449699' target='_blank'><div>ISRCTN59449699</div></a></td>
+      <td>Visualising blood vessel disease in the eye in COVID-19</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN97107018' target='_blank'><div>ISRCTN97107018</div></a></td>
+      <td>A prospective randomised, multicentre trial to assess the impact of laborat...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>4536</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN09804912' target='_blank'><div>ISRCTN09804912</div></a></td>
+      <td>Blood Stream Infection: Focus On Outcomes - An observational study in patie...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>2635</td>
+    </tr>
+  </tbody>
+</table>"
+17,-173822.0898167692,6868991.812706135,University of Warwick,52.3792525,-1.5614704,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10773579' target='_blank'><div>ISRCTN10773579</div></a></td>
+      <td>Assessment of the safety of a medieval antibiotic used to treat infected di...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+18,-330095.57472980337,7058225.529810573,University of Liverpool,53.40478239999999,-2.965299,10.0,15.306765580733934,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14945050' target='_blank'><div>ISRCTN14945050</div></a></td>
+      <td>Using procalcitonin to guide duration of antibiotics - further evaluation o...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>266</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN27106947' target='_blank'><div>ISRCTN27106947</div></a></td>
+      <td>A study to assess several different treatments that may be useful for patie...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>180</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN54006056' target='_blank'><div>ISRCTN54006056</div></a></td>
+      <td>A point of care test to aid in diagnosis of suspected sepsis and optimal us...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>7676</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11369832' target='_blank'><div>ISRCTN11369832</div></a></td>
+      <td>Using procalcitonin to guide duration of antibiotics</td>
+      <td>Biological/Vaccine</td>
+      <td>Child</td>
+      <td>1942</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11774734' target='_blank'><div>ISRCTN11774734</div></a></td>
+      <td>Does dexamethasone improve outcomes in adults with HSV encephalitis?</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>180</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN83902726' target='_blank'><div>ISRCTN83902726</div></a></td>
+      <td>An adaptive pharmacological approach for the individualisation of voriconaz...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>33</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN06886935' target='_blank'><div>ISRCTN06886935</div></a></td>
+      <td>Cluster randomised trial of an intervention to promote implementation of cl...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1680</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN51069819' target='_blank'><div>ISRCTN51069819</div></a></td>
+      <td>TAILoR - (TelmisArtan and InsuLin Resistance in HIV): A dose-ranging phase ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>370</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN81110147' target='_blank'><div>ISRCTN81110147</div></a></td>
+      <td>Pharmacogenetics of human immunodeficiency virus therapy</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>900</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN65117827' target='_blank'><div>ISRCTN65117827</div></a></td>
+      <td>The Liverpool human immunodeficiency virus (HIV) therapeutic drug monitorin...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>10000</td>
+    </tr>
+  </tbody>
+</table>"
+19,-247990.80449616374,7068684.4314735355,Manchester University NHS Foundation Trust,53.4607569,-2.2277393,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN86124626' target='_blank'><div>ISRCTN86124626</div></a></td>
+      <td>Evaluating new point-of-care diagnostic tests for COVID-19</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11133689' target='_blank'><div>ISRCTN11133689</div></a></td>
+      <td>Do food supplements containing live bacteria (probiotics) reduce or stop a ...</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+20,-155375.22567792505,6609823.30843706,University of Southampton,50.9351092,-1.3957594,5.0,11.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11400820' target='_blank'><div>ISRCTN11400820</div></a></td>
+      <td>Evaluating HIS-UK, a condom promotion intervention to reduce chlamydia infe...</td>
+      <td>Behavioural</td>
+      <td>Mixed</td>
+      <td>2231</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17672884' target='_blank'><div>ISRCTN17672884</div></a></td>
+      <td>HATRIC - Herbal Alternative Treatment (Pelargonium) for lower Respiratory t...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>160</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN43397016' target='_blank'><div>ISRCTN43397016</div></a></td>
+      <td>Alternative treatments of adult female urinary tract infection</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>376</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN95402719' target='_blank'><div>ISRCTN95402719</div></a></td>
+      <td>Chinese herbal medicine in the treatment of women with recurrent urinary tr...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN75058295' target='_blank'><div>ISRCTN75058295</div></a></td>
+      <td>A PRimary care trial of a website based Infection control intervention to M...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>15000</td>
+    </tr>
+  </tbody>
+</table>"
+21,-248674.7959753939,7069823.728924356,University of Manchester,53.4668498,-2.2338837,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN86837685' target='_blank'><div>ISRCTN86837685</div></a></td>
+      <td>Evaluating the influence of abnormalities in immunity due to an extreme rea...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>180</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN47473244' target='_blank'><div>ISRCTN47473244</div></a></td>
+      <td>Biomarker-guided duration of antibiotic treatment for sepsis</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>2760</td>
+    </tr>
+  </tbody>
+</table>"
+23,-12912.726973547356,6712273.366431493,King's College London,51.5114864,-0.115997,5.0,11.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN69709352' target='_blank'><div>ISRCTN69709352</div></a></td>
+      <td>Exploring cervical screening without a speculum in women aged 50-64</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>250</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN40930724' target='_blank'><div>ISRCTN40930724</div></a></td>
+      <td>Preparing a telephone survey for use in the next flu pandemic (Flu TElephon...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1157</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16561225' target='_blank'><div>ISRCTN16561225</div></a></td>
+      <td>CovPall: Improving palliative care for people affected by the COVID-19 pand...</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15090567' target='_blank'><div>ISRCTN15090567</div></a></td>
+      <td>Atopic dermatitis anti-IgE paediatric trial</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>62</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN08265004' target='_blank'><div>ISRCTN08265004</div></a></td>
+      <td>Studying the effect of vitamin D supplementation in human immunodeficiency ...</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>48</td>
+    </tr>
+  </tbody>
+</table>"
+24,15764.29818165693,6831813.114718777,Cambridge University Hospitals NHS Foundation Trust,52.1749083,0.1416131,8.0,13.920296742201792,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN40310490' target='_blank'><div>ISRCTN40310490</div></a></td>
+      <td>A paediatric intensive care study comparing the use of non-absorbable antib...</td>
+      <td>Drug</td>
+      <td>Mixed</td>
+      <td>324</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11188345' target='_blank'><div>ISRCTN11188345</div></a></td>
+      <td>A therapeutic study in pre-ICU patients admitted with coronavirus using rep...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>375</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN59966745' target='_blank'><div>ISRCTN59966745</div></a></td>
+      <td>Surveillance of healthcare associated pathogens in hospital/community setti...</td>
+      <td>Other</td>
+      <td>All</td>
+      <td>65250</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN51644023' target='_blank'><div>ISRCTN51644023</div></a></td>
+      <td>Study of MRSA (Methicillin-resistant Staphylococcus aureus) carriage and in...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>3300</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN89573163' target='_blank'><div>ISRCTN89573163</div></a></td>
+      <td>BEAT-CORONA: Building evidence to advance treatments for COVID-19</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>10000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN88057279' target='_blank'><div>ISRCTN88057279</div></a></td>
+      <td>Preventative treatment for patients at risk of COVID-19 infection (PROTECT)</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13493757' target='_blank'><div>ISRCTN13493757</div></a></td>
+      <td>A study of multidrug resistant organisms in the adult intensive care unit a...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15309500' target='_blank'><div>ISRCTN15309500</div></a></td>
+      <td>Study of antimicrobial resistance in patients receiving outpatient parenter...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+25,-169496.79326589472,7133925.454259742,Leeds Teaching Hospitals NHS Trust,53.8082553,-1.5226156,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN42867448' target='_blank'><div>ISRCTN42867448</div></a></td>
+      <td>Self-taken vaginal swabs and gonorrhoea detection</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>4000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN89902973' target='_blank'><div>ISRCTN89902973</div></a></td>
+      <td>Bacteraemia post-urological instrumentation: endocarditis risk?</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>750</td>
+    </tr>
+  </tbody>
+</table>"
+27,-289762.31908948265,6702786.54140238,University of Bristol,51.4584172,-2.6029792,8.0,13.920296742201792,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11946807' target='_blank'><div>ISRCTN11946807</div></a></td>
+      <td>Characterisation of COVID-19 long-term immunity</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>250</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN82901740' target='_blank'><div>ISRCTN82901740</div></a></td>
+      <td>COVID-19 testing and infection control in schools</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>6000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14602359' target='_blank'><div>ISRCTN14602359</div></a></td>
+      <td>COVID-19 Germ Defence: a website to improve infection control during the CO...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>6822</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN44324934' target='_blank'><div>ISRCTN44324934</div></a></td>
+      <td>The symptoms, virology and immunity of COVID in healthcare workers</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>135</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10720581' target='_blank'><div>ISRCTN10720581</div></a></td>
+      <td>The transmission of pneumococcus in family units study</td>
+      <td>Biological/Vaccine</td>
+      <td>Mixed</td>
+      <td>500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15017985' target='_blank'><div>ISRCTN15017985</div></a></td>
+      <td>Quality of life effects of chickenpox on children and their families</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11405239' target='_blank'><div>ISRCTN11405239</div></a></td>
+      <td>The CHIldren with COugh Randomised Controlled Trial</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>310</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN49086105' target='_blank'><div>ISRCTN49086105</div></a></td>
+      <td>Self-consent for the HPV vaccine</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>112</td>
+    </tr>
+  </tbody>
+</table>"
+30,1825874.3661560244,6138344.541400984,Valneva (Austria),48.1889344,16.4021085,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN82411169' target='_blank'><div>ISRCTN82411169</div></a></td>
+      <td>A phase I/II study to evaluate the safety of and immunological response to ...</td>
+      <td>Biological/Vaccine</td>
+      <td>Adult</td>
+      <td>150</td>
+    </tr>
+  </tbody>
+</table>"
+31,-19466.828973237527,6710008.469052965,Imperial College London,51.49882220000001,-0.1748735,19.0,19.294828004351505,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13953727' target='_blank'><div>ISRCTN13953727</div></a></td>
+      <td>Assessing patients’ risk of COVID-19 severe infection: developing a risk pr...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>2870</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13773960' target='_blank'><div>ISRCTN13773960</div></a></td>
+      <td>Schools Transmission Study (COVID-19 and scarlet fever)</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>344</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11364482' target='_blank'><div>ISRCTN11364482</div></a></td>
+      <td>Evaluating a new test of the immune system to better understand recovery fr...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>600</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN36352994' target='_blank'><div>ISRCTN36352994</div></a></td>
+      <td>Sickness absence in NHS staff during the time of COVID-19</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>800000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12394803' target='_blank'><div>ISRCTN12394803</div></a></td>
+      <td>DIAMONDS-SEARCH study: Designing new tests that can diagnose the causes of ...</td>
+      <td>Genetic</td>
+      <td>All</td>
+      <td>5000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17072692' target='_blank'><div>ISRCTN17072692</div></a></td>
+      <td>Clinical trial to assess the safety of a coronavirus vaccine in healthy men...</td>
+      <td>Biological/Vaccine</td>
+      <td>Adult</td>
+      <td>320</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN69546370' target='_blank'><div>ISRCTN69546370</div></a></td>
+      <td>Best available treatment study for inflammatory conditions associated with ...</td>
+      <td>Other</td>
+      <td>All</td>
+      <td>1800</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN68026880' target='_blank'><div>ISRCTN68026880</div></a></td>
+      <td>A global registry of women affected by COVID-19 in pregnancy and their babi...</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN84346215' target='_blank'><div>ISRCTN84346215</div></a></td>
+      <td>Nucleos(t)ide withdrawal in Hepatitis B virus infection (NUC-B)</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>240</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN37915093' target='_blank'><div>ISRCTN37915093</div></a></td>
+      <td>STOP HCV-1 – Stratified Treatment Optimisation for HCV-1</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>408</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18166185' target='_blank'><div>ISRCTN18166185</div></a></td>
+      <td>The AVICCI study: a feasibility study to assess the effects of AntiretroVir...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10430191' target='_blank'><div>ISRCTN10430191</div></a></td>
+      <td>A novel urine test to monitor antiretroviral treatment efficacy in HIV pati...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN89747147' target='_blank'><div>ISRCTN89747147</div></a></td>
+      <td>C34-PEG-4-Chol - a new fusion inhibitor for the treatment of HIV</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>42</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN83717528' target='_blank'><div>ISRCTN83717528</div></a></td>
+      <td>RIVER - Research In Viral Eradication of HIV Reservoirs</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>52</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12504151' target='_blank'><div>ISRCTN12504151</div></a></td>
+      <td>Warfarin anticoagulation for liver fibrosis in patients transplanted for he...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>90</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN68071690' target='_blank'><div>ISRCTN68071690</div></a></td>
+      <td>A phase I study of NYVAC C in healthy volunteers at low risk of human immun...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>24</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN76742797' target='_blank'><div>ISRCTN76742797</div></a></td>
+      <td>The SPARTAC trial: a multicentre randomised trial of therapeutic interventi...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>360</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN42553489' target='_blank'><div>ISRCTN42553489</div></a></td>
+      <td>Prophylactic granulocyte-macrophage colony-stimulating factor (GM-CSF) to r...</td>
+      <td>Drug</td>
+      <td>Neonate</td>
+      <td>320</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15410818' target='_blank'><div>ISRCTN15410818</div></a></td>
+      <td>Investigating the impact of Maraviroc on liver inflammation in patients wit...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+32,-353869.5329130179,6707828.061418129,Cardiff University,51.48662710000001,-3.1788641,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN25647404' target='_blank'><div>ISRCTN25647404</div></a></td>
+      <td>Measurement of the effect of mouthwash against COVID-19</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>104</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16392920' target='_blank'><div>ISRCTN16392920</div></a></td>
+      <td>Probiotics to reduce infections in care home residents</td>
+      <td>Other</td>
+      <td>Senior</td>
+      <td>330</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN99754654' target='_blank'><div>ISRCTN99754654</div></a></td>
+      <td>Analysis of geNe Expression and bioMarkers fOr poiNt-of-care dEcision suppo...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN63355948' target='_blank'><div>ISRCTN63355948</div></a></td>
+      <td>Stemming the Tide of Antibiotic Resistance: a trial of an intervention addr...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>180</td>
+    </tr>
+  </tbody>
+</table>"
+35,-166122.46572901995,7053444.597670693,Sheffield Teaching Hospitals NHS Foundation Trust,53.379171,-1.4923035,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN28342533' target='_blank'><div>ISRCTN28342533</div></a></td>
+      <td>Evaluation of COVID-19 assessment in emergency departments and ambulance se...</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>20000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN95551898' target='_blank'><div>ISRCTN95551898</div></a></td>
+      <td>Pilonidal sinus treatment: studying the options</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>800</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN56149622' target='_blank'><div>ISRCTN56149622</div></a></td>
+      <td>Evaluation of current emergency department triage methods during a flu pand...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>20500</td>
+    </tr>
+  </tbody>
+</table>"
+38,-119174.39443873038,6594754.863302128,Portsmouth Hospitals NHS Trust,50.8497257,-1.0705618,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10378358' target='_blank'><div>ISRCTN10378358</div></a></td>
+      <td>Reducing the risk of COVID-19 spread in hospitals, by stopping droplets fro...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+  </tbody>
+</table>"
+46,12791.555707818878,6837144.079148998,University of Cambridge,52.2042666,0.1149085,6.0,12.132827525593784,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN55886926' target='_blank'><div>ISRCTN55886926</div></a></td>
+      <td>Investigation of COVID-19 symptoms and potential immunity in the general po...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>90000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10474633' target='_blank'><div>ISRCTN10474633</div></a></td>
+      <td>CARRIAGE study: investigating Staphylococcus aureus nasal carriage</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>22250</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN89573163' target='_blank'><div>ISRCTN89573163</div></a></td>
+      <td>BEAT-CORONA: Building evidence to advance treatments for COVID-19</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>10000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN88057279' target='_blank'><div>ISRCTN88057279</div></a></td>
+      <td>Preventative treatment for patients at risk of COVID-19 infection (PROTECT)</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13493757' target='_blank'><div>ISRCTN13493757</div></a></td>
+      <td>A study of multidrug resistant organisms in the adult intensive care unit a...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15309500' target='_blank'><div>ISRCTN15309500</div></a></td>
+      <td>Study of antimicrobial resistance in patients receiving outpatient parenter...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+48,-167396.25013437108,6874085.366556519,Coventry University,52.4071747,-1.5037461,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN54091015' target='_blank'><div>ISRCTN54091015</div></a></td>
+      <td>Evaluation of a sex education lesson on chlamydia to see whether it increas...</td>
+      <td>Behavioural</td>
+      <td>Child</td>
+      <td>770</td>
+    </tr>
+  </tbody>
+</table>"
+50,-13612329.09666606,4518431.267212365,Gilead Sciences (United States),37.5669611,-122.2816328,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15874265' target='_blank'><div>ISRCTN15874265</div></a></td>
+      <td>Study to assess the safety and effectiveness of remdesivir in people with s...</td>
+      <td>Drug</td>
+      <td>Other</td>
+      <td>6000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN85762140' target='_blank'><div>ISRCTN85762140</div></a></td>
+      <td>Study to assess the safety and effectiveness of remdesivir in people with m...</td>
+      <td>Drug</td>
+      <td>Mixed</td>
+      <td>1600</td>
+    </tr>
+  </tbody>
+</table>"
+52,-13179391.310929516,4025741.141836586,Pregistry LLC,33.9772014,-118.3924865,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13539303' target='_blank'><div>ISRCTN13539303</div></a></td>
+      <td>An international registry of coronavirus exposure in pregnancy</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>25000</td>
+    </tr>
+  </tbody>
+</table>"
+61,-13441.40549922277,6714129.541447256,Great Ormond Street Hospital for Children NHS Foundation Trust,51.5218626,-0.1207462,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN54742344' target='_blank'><div>ISRCTN54742344</div></a></td>
+      <td>Microbial invasion during parenteral nutrition in surgical infants receivin...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>"
+64,-361811.15444180265,7543693.920445839,Nuffield Health,55.9259773,-3.2502049,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14707226' target='_blank'><div>ISRCTN14707226</div></a></td>
+      <td>Evaluating a new model of rehabilitation for individuals recovering from CO...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>500</td>
+    </tr>
+  </tbody>
+</table>"
+66,-330515.80580754793,7058929.899845879,Liverpool School of Tropical Medicine,53.40855440000001,-2.969074,9.0,14.652123889719707,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN89159899' target='_blank'><div>ISRCTN89159899</div></a></td>
+      <td>Evaluation of a rapid COVID-19 test (FASTER)</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12884329' target='_blank'><div>ISRCTN12884329</div></a></td>
+      <td>Examining exhaled breath for the presence of the bacteria pneumococcus</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>48</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12287744' target='_blank'><div>ISRCTN12287744</div></a></td>
+      <td>Lifebuoy bar soap hand wash RCT</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>141</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN22467293' target='_blank'><div>ISRCTN22467293</div></a></td>
+      <td>Streptococcus pneumoniae nasopharyngeal experimental carriage study of atte...</td>
+      <td>Biological/Vaccine</td>
+      <td>Adult</td>
+      <td>150</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN75415747' target='_blank'><div>ISRCTN75415747</div></a></td>
+      <td>Experimental human pneumococcal challenge in chronic obstructive pulmonary ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>70</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN52738220' target='_blank'><div>ISRCTN52738220</div></a></td>
+      <td>Hand wash study</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>170</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN76456378' target='_blank'><div>ISRCTN76456378</div></a></td>
+      <td>Nasal samples from healthy children: towards prevention of pneumonia</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12909224' target='_blank'><div>ISRCTN12909224</div></a></td>
+      <td>Experimental human Pneumococcal carriage: Investigating the transmission of...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10948363' target='_blank'><div>ISRCTN10948363</div></a></td>
+      <td>Experimental human Pneumococcal carriage: Aging and immunity</td>
+      <td>Biological/Vaccine</td>
+      <td>Adult</td>
+      <td>74</td>
+    </tr>
+  </tbody>
+</table>"
+68,-159707.9806346827,6609566.652367846,Southampton University Hospitals NHS Trust,50.93365619999999,-1.4346812,9.0,14.652123889719707,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN57085639' target='_blank'><div>ISRCTN57085639</div></a></td>
+      <td>A platform to investigate the safety and effectiveness of several new medic...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>1800</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10175886' target='_blank'><div>ISRCTN10175886</div></a></td>
+      <td>Coronavirus infection in immunosuppressed children</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>400</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14966673' target='_blank'><div>ISRCTN14966673</div></a></td>
+      <td>Does point-of-care testing for coronavirus in hospital improve patient care...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17197293' target='_blank'><div>ISRCTN17197293</div></a></td>
+      <td>Molecular point-of-care 'test and treat' for influenza (FluPOC)</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>840</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN88918395' target='_blank'><div>ISRCTN88918395</div></a></td>
+      <td>Point-of-care testing for gastrointestinal pathogens</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18249297' target='_blank'><div>ISRCTN18249297</div></a></td>
+      <td>Tamiflu prescribing by doctors in hospitals</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN65108429' target='_blank'><div>ISRCTN65108429</div></a></td>
+      <td>A national feasibility study for children's bone and joint infections</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN93815412' target='_blank'><div>ISRCTN93815412</div></a></td>
+      <td>The CHildrens INterval Appendicectomy (CHINA) Study</td>
+      <td>Procedure/Surgery</td>
+      <td>Child</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12861513' target='_blank'><div>ISRCTN12861513</div></a></td>
+      <td>Investigating the clinical use of 13-valent pneumococcal conjugate vaccine ...</td>
+      <td>Biological/Vaccine</td>
+      <td>Child</td>
+      <td>120</td>
+    </tr>
+  </tbody>
+</table>"
+69,-19408.40850446922,6713404.673761457,Imperial College Healthcare NHS Trust,51.5178108,-0.1743487,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15244462' target='_blank'><div>ISRCTN15244462</div></a></td>
+      <td>Pilot trial comparing different fluid amounts given in the earliest stages ...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>108</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN64847145' target='_blank'><div>ISRCTN64847145</div></a></td>
+      <td>Exploring the effect of disturbance in insulin metabolism on the treatment ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>22</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN64847145' target='_blank'><div>ISRCTN64847145</div></a></td>
+      <td>Exploring the effect of disturbance in insulin metabolism on the treatment ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>22</td>
+    </tr>
+  </tbody>
+</table>"
+71,-117082.70120672479,7159956.564079147,University of York,53.9461089,-1.0517718,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN20019630' target='_blank'><div>ISRCTN20019630</div></a></td>
+      <td>UNITING: UNderstanding uptake of Immunisations in TravellIng aNd Gypsy comm...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>224</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN88319802' target='_blank'><div>ISRCTN88319802</div></a></td>
+      <td>Magnetic Resonance Imaging (MRI) scan of the vagina to measure how well the...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18994246' target='_blank'><div>ISRCTN18994246</div></a></td>
+      <td>Cryotherapy versus salicylic acid for the treatment of verrucae</td>
+      <td>Mixed</td>
+      <td>Mixed</td>
+      <td>266</td>
+    </tr>
+  </tbody>
+</table>"
+73,-393530.8195791141,6574927.341954702,University of Exeter,50.7371369,-3.5351475,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13177364' target='_blank'><div>ISRCTN13177364</div></a></td>
+      <td>The development, testing and evaluation of a COVID-19 fundamental nursing c...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>1080</td>
+    </tr>
+  </tbody>
+</table>"
+76,-4494.468781033024,6714523.953950477,Queen Mary University of London,51.5240671,-0.0403745,5.0,11.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN93266696' target='_blank'><div>ISRCTN93266696</div></a></td>
+      <td>Studying the immune response and long-term morbidity of COVID-19 infection ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16857338' target='_blank'><div>ISRCTN16857338</div></a></td>
+      <td>Selecting treatment duration based on early response to Epclusa in patients...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN35286331' target='_blank'><div>ISRCTN35286331</div></a></td>
+      <td>Human Papillomavirus (HPV) testing on self-collected samples to increase up...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN82598401' target='_blank'><div>ISRCTN82598401</div></a></td>
+      <td>Screening for viral hepatitis in migrants in East London</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN63473710' target='_blank'><div>ISRCTN63473710</div></a></td>
+      <td>Trial of human immunodeficiency virus (HIV) screening in Primary Care</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>23000</td>
+    </tr>
+  </tbody>
+</table>"
+80,-477560.7156906854,7533061.006069123,University of Glasgow,55.8724256,-4.2900009,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN97369178' target='_blank'><div>ISRCTN97369178</div></a></td>
+      <td>STASH (STis and Sexual Health): a peer-led intervention to prevent and redu...</td>
+      <td>Behavioural</td>
+      <td>Child</td>
+      <td>1400</td>
+    </tr>
+  </tbody>
+</table>"
+81,930124.7510432319,6453511.254108253,Abbott (Germany),50.041761,8.3554528,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN60400862' target='_blank'><div>ISRCTN60400862</div></a></td>
+      <td>Evaluation of a COVID-19 antibody test: What is the performance of the Panb...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>206</td>
+    </tr>
+  </tbody>
+</table>"
+85,-443046.2745494671,6729773.218704072,Swansea University,51.6092184,-3.9799524,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN70017204' target='_blank'><div>ISRCTN70017204</div></a></td>
+      <td>Probiotics in the prevention of antibiotic-associated and C. difficile diar...</td>
+      <td>Supplement</td>
+      <td>Senior</td>
+      <td>2974</td>
+    </tr>
+  </tbody>
+</table>"
+86,-213032.22085057845,7275826.920385022,GlaxoSmithKline (United Kingdom),54.554227,-1.913701,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18205700' target='_blank'><div>ISRCTN18205700</div></a></td>
+      <td>Otilimab in patients with severe coronavirus-related lung disease</td>
+      <td>Biological/Vaccine</td>
+      <td>Adult</td>
+      <td>800</td>
+    </tr>
+  </tbody>
+</table>"
+87,-10378063.264433559,5617427.673025302,University of Minnesota,44.97399,-93.2277285,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13035264' target='_blank'><div>ISRCTN13035264</div></a></td>
+      <td>Adaptive COVID-19 treatment trial in the EU & UK</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+  </tbody>
+</table>"
+88,-159559.1464754921,6609066.893764963,Synairgen Research Ltd,50.9308268,-1.4333442,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14241621' target='_blank'><div>ISRCTN14241621</div></a></td>
+      <td>Trial of inhaled anti-viral (SNG001) for SARS-CoV-2 (COVID-19) infection</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>220</td>
+    </tr>
+  </tbody>
+</table>"
+89,576625.2886454072,6815792.603583772,University Medical Center Utrecht,52.0865646,5.179913099999999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN67000769' target='_blank'><div>ISRCTN67000769</div></a></td>
+      <td>An international platform trial for severely ill patients with community-ac...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>1000</td>
+    </tr>
+  </tbody>
+</table>"
+93,-355024.71753287787,7547378.240693045,University of Edinburgh,55.9445158,-3.1892413,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN28026496' target='_blank'><div>ISRCTN28026496</div></a></td>
+      <td>LASER: assisted staphylococcal eradication</td>
+      <td>Drug</td>
+      <td>Mixed</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+96,-233940.7708129778,7793869.012440783,University of Aberdeen,57.16475999999999,-2.1015257,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17088991' target='_blank'><div>ISRCTN17088991</div></a></td>
+      <td>Dose escAlation study of Melatonin in Sepsis: healthy voLunteers</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN70688534' target='_blank'><div>ISRCTN70688534</div></a></td>
+      <td>Dose assessment of melatonin in sepsis trial</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+99,-15299.205349122634,6714813.893758078,University College London Hospitals NHS Foundation Trust,51.5256876,-0.1374351,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17325124' target='_blank'><div>ISRCTN17325124</div></a></td>
+      <td>Effect of exclusion of bacteremia on antibiotic treatment</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN09270496' target='_blank'><div>ISRCTN09270496</div></a></td>
+      <td>Reducing contamination of computer keyboards on hospital wards</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN02681602' target='_blank'><div>ISRCTN02681602</div></a></td>
+      <td>Ward assessment of Smart Ideas Project: bringing source isolation to the</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>53</td>
+    </tr>
+  </tbody>
+</table>"
+100,-9745.932363358466,6597926.835537341,University of Sussex,50.8677123,-0.0875492,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17508886' target='_blank'><div>ISRCTN17508886</div></a></td>
+      <td>A study looking at the effects of switching anti-HIV therapy in people with...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>46</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN44453201' target='_blank'><div>ISRCTN44453201</div></a></td>
+      <td>Will HIV-positive individuals who have drug resistance and have suppressed ...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN24160819' target='_blank'><div>ISRCTN24160819</div></a></td>
+      <td>Different approaches to partner notification in primary care</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>3300</td>
+    </tr>
+  </tbody>
+</table>"
+103,-135684.81150742923,6757635.9259120105,Oxford Radcliffe Hospitals NHS Trust,51.764391,-1.2188774,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN21841117' target='_blank'><div>ISRCTN21841117</div></a></td>
+      <td>Broader Protection Against Pneumococcal Disease</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN92093279' target='_blank'><div>ISRCTN92093279</div></a></td>
+      <td>Simvastatin and severe sepsis</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>104</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN57454527' target='_blank'><div>ISRCTN57454527</div></a></td>
+      <td>The second multi-centre intra-pleural sepsis trial (MIST2), to assess wheth...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>210</td>
+    </tr>
+  </tbody>
+</table>"
+104,-126888.23402545397,6914819.672328286,De Montfort University,52.6298398,-1.1398564,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15657586' target='_blank'><div>ISRCTN15657586</div></a></td>
+      <td>A Germ’s Journey Soaper Heroes: Interactive educational handwashing interve...</td>
+      <td>Behavioural</td>
+      <td>Mixed</td>
+      <td>70</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN25160191' target='_blank'><div>ISRCTN25160191</div></a></td>
+      <td>Whole body washing to reduce skin-surface bacteria: pilot study in healthy ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>"
+109,1327924.094232916,5683892.568842579,PENTA Foundation (Italy),45.3948144,11.9289451,8.0,13.920296742201792,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17157458' target='_blank'><div>ISRCTN17157458</div></a></td>
+      <td>Comparing a two-drug fixed dose combination containing dolutegravir and lam...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>370</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN66872125' target='_blank'><div>ISRCTN66872125</div></a></td>
+      <td>Community-acquired sepsis-like syndrome and paediatric acute respiratory tr...</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11193709' target='_blank'><div>ISRCTN11193709</div></a></td>
+      <td>SMILE: Strategy for Maintenance of HIV suppression with dolutegravir + daru...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN97755073' target='_blank'><div>ISRCTN97755073</div></a></td>
+      <td>PENTA 16 Trial: short-cycle therapy (SCT) (5 days on/2 days off) in young p...</td>
+      <td>Drug</td>
+      <td>Other</td>
+      <td>160</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN02452400' target='_blank'><div>ISRCTN02452400</div></a></td>
+      <td>PENTA18: Pharmacokinetics, safety and efficacy of lopinavir/ritonavir table...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>160</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN38147516' target='_blank'><div>ISRCTN38147516</div></a></td>
+      <td>Plasma pharmacokinetic study of once versus twice daily abacavir as part of...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>18</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN36694210' target='_blank'><div>ISRCTN36694210</div></a></td>
+      <td>Treatment Interruption in Children with Chronic Human immunodeficiency viru...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN73318385' target='_blank'><div>ISRCTN73318385</div></a></td>
+      <td>A phase II/III randomised, open-label study of combination antiretroviral r...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>263</td>
+    </tr>
+  </tbody>
+</table>"
+113,-357660.29553300125,7544532.960093776,NHS Lothian,55.9301999,-3.2129171,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN28026496' target='_blank'><div>ISRCTN28026496</div></a></td>
+      <td>LASER: assisted staphylococcal eradication</td>
+      <td>Drug</td>
+      <td>Mixed</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+121,-329339.0808662195,7341845.845533036,North Cumbria Integrated Care NHS Foundation Trust,54.8967124,-2.9585033,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN55795067' target='_blank'><div>ISRCTN55795067</div></a></td>
+      <td>Storage, transport and incubation for N. gonorrhoea samples</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>64</td>
+    </tr>
+  </tbody>
+</table>"
+124,-329201.00016983954,7341741.699359122,North Cumbria University Hospitals NHS Trust,54.8961744,-2.9572629,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16307168' target='_blank'><div>ISRCTN16307168</div></a></td>
+      <td>GONDOLA: Gonorrhoea detection using laboratory assessment</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>"
+125,-19985.73364762129,6697193.457059231,St George’s University Hospitals NHS Foundation Trust,51.4271006,-0.1795349,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN51287266' target='_blank'><div>ISRCTN51287266</div></a></td>
+      <td>Aspergillosis in patients with severe influenza or coronavirus infection</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>180</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN49326091' target='_blank'><div>ISRCTN49326091</div></a></td>
+      <td>Feasibility study for the development of a sero-correlate of protection aga...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>4000</td>
+    </tr>
+  </tbody>
+</table>"
+130,-253081.24443505672,7073603.847066523,University of Salford,53.4870594,-2.2734675,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16429440' target='_blank'><div>ISRCTN16429440</div></a></td>
+      <td>EVerT2: dry needling versus nonsurgical debridement for the treatment of ve...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>58</td>
+    </tr>
+  </tbody>
+</table>"
+133,-122156.44322199876,6584910.858229808,University of Portsmouth,50.7938613,-1.09735,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10378358' target='_blank'><div>ISRCTN10378358</div></a></td>
+      <td>Reducing the risk of COVID-19 spread in hospitals, by stopping droplets fro...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+  </tbody>
+</table>"
+135,-216069.76240000725,6882322.40535961,University Hospitals Birmingham NHS Foundation Trust,52.4522917,-1.9409877,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12600919' target='_blank'><div>ISRCTN12600919</div></a></td>
+      <td>A randomised trial to assess whether the addition of a beta blocker infusio...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>340</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN51783227' target='_blank'><div>ISRCTN51783227</div></a></td>
+      <td>Gentamicin in the treatment of Gonorrhoea (G-TOG)</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>720</td>
+    </tr>
+  </tbody>
+</table>"
+144,-10435.022275266989,6704483.374082789,King's College Hospital NHS Foundation Trust,51.4679138,-0.0937394,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11847553' target='_blank'><div>ISRCTN11847553</div></a></td>
+      <td>King's invasive aspergillosis study II (KIASII)</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10470967' target='_blank'><div>ISRCTN10470967</div></a></td>
+      <td>A controlled clinical trial investigating the impact of point of care testi...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>2262</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13354298' target='_blank'><div>ISRCTN13354298</div></a></td>
+      <td>Can internet-based sexual health services increase diagnoses of sexually tr...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>3000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16561225' target='_blank'><div>ISRCTN16561225</div></a></td>
+      <td>CovPall: Improving palliative care for people affected by the COVID-19 pand...</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>"
+147,-189653.25761654568,6644539.64747324,Defence Science and Technology Laboratory (Dstl),51.1312297,-1.7036842,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17375399' target='_blank'><div>ISRCTN17375399</div></a></td>
+      <td>The pre-symptomatic detection of early extreme response to an infection (se...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>4385</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10278402' target='_blank'><div>ISRCTN10278402</div></a></td>
+      <td>A study of immune responses to a booster dose of the licensed UK anthrax va...</td>
+      <td>Biological/Vaccine</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+  </tbody>
+</table>"
+149,-177353.03274524107,7362485.32925916,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,55.0031904,-1.5931894,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN89553116' target='_blank'><div>ISRCTN89553116</div></a></td>
+      <td>A study of the benefit of a medicine called eculizumab in Shiga-Toxin produ...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>134</td>
+    </tr>
+  </tbody>
+</table>"
+158,-15264.796494518432,6714519.337898758,Joint UCLH and UCL Biomedical Research Unit,51.5240413,-0.137126,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN95243114' target='_blank'><div>ISRCTN95243114</div></a></td>
+      <td>Intervening with a Manualised Package to achieve treatment adherence in peo...</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>80</td>
+    </tr>
+  </tbody>
+</table>"
+159,-660575.3464181816,7281622.521041222,Queen's University Belfast,54.5844087,-5.9340493,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN43895480' target='_blank'><div>ISRCTN43895480</div></a></td>
+      <td>Rapid diagnostic tests and treatment opportunities for fungal infection in ...</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>1720</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10441831' target='_blank'><div>ISRCTN10441831</div></a></td>
+      <td>An evaluation of a new approach to reduce antimicrobial prescribing in care...</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN79334890' target='_blank'><div>ISRCTN79334890</div></a></td>
+      <td>Methicillin-resistant Staphylococcus aureus (MRSA) in nursing homes: can an...</td>
+      <td>Other</td>
+      <td>Senior</td>
+      <td>66</td>
+    </tr>
+  </tbody>
+</table>"
+160,-120620.79084650557,7164473.235862453,York Teaching Hospital NHS Foundation Trust,53.9699817,-1.083555,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN23353517' target='_blank'><div>ISRCTN23353517</div></a></td>
+      <td>Assessing the safety, pharmacokinetics and pharmacodynamics of single and 1...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>24</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN64808733' target='_blank'><div>ISRCTN64808733</div></a></td>
+      <td>A randomised double-blind phase 1 study to assess the pharmacokinetics of C...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN07766359' target='_blank'><div>ISRCTN07766359</div></a></td>
+      <td>LEISH1: A study to assess the safety and immunogenicity of a new Leishmania...</td>
+      <td>Biological/Vaccine</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN07766359' target='_blank'><div>ISRCTN07766359</div></a></td>
+      <td>LEISH1: A study to assess the safety and immunogenicity of a new Leishmania...</td>
+      <td>Biological/Vaccine</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>"
+165,-240641.65869322798,7790655.39373056,NHS Grampian,57.1491035,-2.1617208,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN70688534' target='_blank'><div>ISRCTN70688534</div></a></td>
+      <td>Dose assessment of melatonin in sepsis trial</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+167,-165690.47931304757,7053851.281417849,University of Sheffield,53.3813502,-1.4884229,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11310789' target='_blank'><div>ISRCTN11310789</div></a></td>
+      <td>Do Invasive Dental Procedures Cause Prosthetic Joint Infections (PJI)?</td>
+      <td>Other</td>
+      <td>All</td>
+      <td>100000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11684416' target='_blank'><div>ISRCTN11684416</div></a></td>
+      <td>The invasive dentistry - endocarditis association study</td>
+      <td>Other</td>
+      <td>All</td>
+      <td>1483</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN82617454' target='_blank'><div>ISRCTN82617454</div></a></td>
+      <td>Using the theory of planned behaviour to increase chlamydia testing in youn...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>158</td>
+    </tr>
+  </tbody>
+</table>"
+168,-135503.29394574172,7275518.420243988,South Tees Hospitals NHS Foundation Trust,54.5526198,-1.2172468,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN37255045' target='_blank'><div>ISRCTN37255045</div></a></td>
+      <td>Can brachial artery peak velocity variation and changes in this parameter i...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>35</td>
+    </tr>
+  </tbody>
+</table>"
+173,-15190.167907890624,6714706.415329954,UCLH,51.5250869,-0.1364556,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN45174482' target='_blank'><div>ISRCTN45174482</div></a></td>
+      <td>Automatic monitoring of hand hygiene</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+176,-126341.62192981176,6914257.025768537,University Hospitals of Leicester NHS Trust,52.62677189999999,-1.1349461,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN70837239' target='_blank'><div>ISRCTN70837239</div></a></td>
+      <td>Evaluation of heterosubtypic immune responses in older people</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>520</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN92328241' target='_blank'><div>ISRCTN92328241</div></a></td>
+      <td>Head to head study of influenza H1N1 vaccines in adults</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>360</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN21521552' target='_blank'><div>ISRCTN21521552</div></a></td>
+      <td>Randomised controlled trial to evaluate impact of diagnostic testing for in...</td>
+      <td>Other</td>
+      <td>Senior</td>
+      <td>2750</td>
+    </tr>
+  </tbody>
+</table>"
+179,-357616.0905632072,6709457.818654483,Cardiff Metropolitan University,51.4957427,-3.21252,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17907106' target='_blank'><div>ISRCTN17907106</div></a></td>
+      <td>Point-of-care diagnostic test for neonatal infection</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+200,-6553.233707661985,6713415.407300916,Barts and The London NHS Trust,51.5178708,-0.0588687,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN07774040' target='_blank'><div>ISRCTN07774040</div></a></td>
+      <td>Addressing low treatment rates of chronic hepatitis C in injecting drug use...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>402</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN27312734' target='_blank'><div>ISRCTN27312734</div></a></td>
+      <td>Does Accelerated Partner Therapy"" ( two new models of care which emphasise...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>300</td>
+    </tr>
+  </tbody>
+</table>"
+225,-18348.64695211725,6719793.827113766,Royal Free Hospital,51.5535119,-0.1648287,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13866813' target='_blank'><div>ISRCTN13866813</div></a></td>
+      <td>Investigating chronic breathlessness in people living with HIV</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>"
+238,-337638.20493968687,7651395.375952595,NHS Tayside,56.4642503,-3.0330556,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN30564012' target='_blank'><div>ISRCTN30564012</div></a></td>
+      <td>STOP-COVID19: Superiority Trial Of Protease inhibition in COVID-19 (coronav...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+  </tbody>
+</table>"
+241,-301253.7522004287,7130511.553403362,Lancashire Teaching Hospitals NHS Trust,53.79014249999999,-2.7062085,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN51902376' target='_blank'><div>ISRCTN51902376</div></a></td>
+      <td>Double-blind clinical trial of taurolidine-citrate for the prevention of in...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+253,-198659.46083163374,6722173.3028083015,Medical Research Council,51.56680069999999,-1.7845883,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN04857074' target='_blank'><div>ISRCTN04857074</div></a></td>
+      <td>A randomised controlled trial of a strategy of switching to boosted proteas...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN44582462' target='_blank'><div>ISRCTN44582462</div></a></td>
+      <td>An open randomised trial to evaluate different therapeutic strategies of co...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1000</td>
+    </tr>
+  </tbody>
+</table>"
+279,-376835.34498892055,6757618.694609562,Cwm Taf University Health Board,51.7642952,-3.3851695,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN78293101' target='_blank'><div>ISRCTN78293101</div></a></td>
+      <td>Size of sepsis in Wales</td>
+      <td>NaN</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>"
+285,264561.40088158543,6249739.559452767,Enteromed Ltd,48.8517249,2.3765955,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN20758708' target='_blank'><div>ISRCTN20758708</div></a></td>
+      <td>Enterosgel® in treatment of acute diarrhoea in adults</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>104</td>
+    </tr>
+  </tbody>
+</table>"
+305,-135176.1259623003,7275248.972437932,James Cook University Hospital,54.551216,-1.2143078,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN60931121' target='_blank'><div>ISRCTN60931121</div></a></td>
+      <td>Central venous blood gas and cardiac output</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>28</td>
+    </tr>
+  </tbody>
+</table>"
+313,-438622.2932700044,7512452.6924449615,Daiwa,55.7684231,-3.9402111,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN31318565' target='_blank'><div>ISRCTN31318565</div></a></td>
+      <td>Trial of the functional food Biobran in patients with persistent symptoms a...</td>
+      <td>NaN</td>
+      <td>Adult</td>
+      <td>104</td>
+    </tr>
+  </tbody>
+</table>"
+314,-159687.5757720203,6609482.980336462,Southampton General Hospital,50.9331825,-1.4344979,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN65693049' target='_blank'><div>ISRCTN65693049</div></a></td>
+      <td>Point-of-care testing for respiratory pathogens in critical care</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>300</td>
+    </tr>
+  </tbody>
+</table>"
+319,-69241.04609993947,6739353.738278273,Buckinghamshire Healthcare NHS Trust,51.6626341,-0.6220029,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13119162' target='_blank'><div>ISRCTN13119162</div></a></td>
+      <td>Efficacy of Consuming LcS In Spinal cord injury Patients (ECLISP)</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>360</td>
+    </tr>
+  </tbody>
+</table>"
+321,-436888.75936767703,6736970.884978152,Welsh Ambulance Services NHS Trust,51.6493545,-3.9246385,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN36856873' target='_blank'><div>ISRCTN36856873</div></a></td>
+      <td>Prehospital recognition and antibiotics for 999 patients with severe sepsis</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+324,-10270.803762448752,6710352.092322927,Guy's and St Thomas' NHS Foundation Trust,51.5007438,-0.09226419999999999,9.0,14.652123889719707,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN35178384' target='_blank'><div>ISRCTN35178384</div></a></td>
+      <td>MRSA POC trial</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>10000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11504121' target='_blank'><div>ISRCTN11504121</div></a></td>
+      <td>Metabolic Impact of Darunavir monotherapy vs Atripla in HIV patients</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>70</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN81045654' target='_blank'><div>ISRCTN81045654</div></a></td>
+      <td>Investigating the effect of maraviroc on Microbial Translocation in HIV inf...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15090567' target='_blank'><div>ISRCTN15090567</div></a></td>
+      <td>Atopic dermatitis anti-IgE paediatric trial</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>62</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN58156277' target='_blank'><div>ISRCTN58156277</div></a></td>
+      <td>Prevention of type 2 diabetes in HIV: a pilot study of effectiveness and ac...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>162</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN08265004' target='_blank'><div>ISRCTN08265004</div></a></td>
+      <td>Studying the effect of vitamin D supplementation in human immunodeficiency ...</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>48</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN34467677' target='_blank'><div>ISRCTN34467677</div></a></td>
+      <td>Can restoring the balance of healthy bowel bacteria help to fight antibioti...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11401066' target='_blank'><div>ISRCTN11401066</div></a></td>
+      <td>Vaccination for immune recovery following sepsis</td>
+      <td>Biological/Vaccine</td>
+      <td>Adult</td>
+      <td>214</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN75590122' target='_blank'><div>ISRCTN75590122</div></a></td>
+      <td>A randomised crossover trial of a new, rapid method of detecting methicilli...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>15000</td>
+    </tr>
+  </tbody>
+</table>"
+341,-175470.33072525074,7120202.863111196,Solent NHS Trust,53.7354012,-1.5762768,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17865863' target='_blank'><div>ISRCTN17865863</div></a></td>
+      <td>Investigating the treatment of fungal nail infections with a novel medical ...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>80</td>
+    </tr>
+  </tbody>
+</table>"
+352,-36404.91326166598,6700756.652418542,National Institute for Health Research,51.447054,-0.3270309,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN95232781' target='_blank'><div>ISRCTN95232781</div></a></td>
+      <td>Electronically delivered, multi-component intervention to reduce unnecessar...</td>
+      <td>Other</td>
+      <td>Other</td>
+      <td>120</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN40334843' target='_blank'><div>ISRCTN40334843</div></a></td>
+      <td>Real-time modelling of a pandemic influenza outbreak</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN06298448' target='_blank'><div>ISRCTN06298448</div></a></td>
+      <td>Does targeted and quantified control of the microbiological environment wit...</td>
+      <td>Other</td>
+      <td>Other</td>
+      <td>4000</td>
+    </tr>
+  </tbody>
+</table>"
+361,-332263.6220005441,6725866.566525421,Aneurin Bevan University Health Board,51.587419,-2.9847749,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN86502304' target='_blank'><div>ISRCTN86502304</div></a></td>
+      <td>Defining sepsis on the wards</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>250</td>
+    </tr>
+  </tbody>
+</table>"
+364,-136045.3530742105,6748608.153621418,Vaccitech,51.7141719,-1.2221162,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN60691705' target='_blank'><div>ISRCTN60691705</div></a></td>
+      <td>A pilot study to determine the feasibility and acceptability of the recruit...</td>
+      <td>Other</td>
+      <td>Senior</td>
+      <td>46</td>
+    </tr>
+  </tbody>
+</table>"
+372,26555.66527890227,6810669.278629474,Diagnostics for the Real World (Europe) Ltd.,52.0582755,0.2385536,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12803987' target='_blank'><div>ISRCTN12803987</div></a></td>
+      <td>Performance evaluation of a point-of-care whole blood viral load test (SAMB...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>2300</td>
+    </tr>
+  </tbody>
+</table>"
+374,-329964.8633837139,7059084.65674228,Royal Liverpool University Hospital,53.4093831,-2.9641248,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN85403723' target='_blank'><div>ISRCTN85403723</div></a></td>
+      <td>Experimental human pneumococcal carriage</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN68323432' target='_blank'><div>ISRCTN68323432</div></a></td>
+      <td>Experimental Human Pneumococcal Carriage Model Testing New Strains</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>134</td>
+    </tr>
+  </tbody>
+</table>"
+398,-270438.88075233594,7086129.616771462,Bolton NHS Foundation Trust,53.553957,-2.4293938,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN27386984' target='_blank'><div>ISRCTN27386984</div></a></td>
+      <td>Increasing awareness and adherence to infection control in neonatal intensi...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>128</td>
+    </tr>
+  </tbody>
+</table>"
+405,-496456.95434996375,6806761.310894482,MicroPharm Limited,52.0366851,-4.4597487,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN80902301' target='_blank'><div>ISRCTN80902301</div></a></td>
+      <td>A phase I study into the safety, tolerability, pharmacokinetics and immunog...</td>
+      <td>Biological/Vaccine</td>
+      <td>Adult</td>
+      <td>18</td>
+    </tr>
+  </tbody>
+</table>"
+430,415690.7453333679,6621681.789734615,Oystershell NV,51.0021938,3.7342135,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14615267' target='_blank'><div>ISRCTN14615267</div></a></td>
+      <td>Shampoo to prevent head lice</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>70</td>
+    </tr>
+  </tbody>
+</table>"
+431,-13140.0525056963,6713423.546911105,Medical Research Council (MRC),51.5179163,-0.1180391,13.0,16.936926411670825,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN94465371' target='_blank'><div>ISRCTN94465371</div></a></td>
+      <td>Pre-exposure option for reducing HIV in the UK: an open-label randomisation...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN37666216' target='_blank'><div>ISRCTN37666216</div></a></td>
+      <td>Adjunctive rifampicin to reduce early mortality from Staphylococcus aureus ...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>770</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN30019040' target='_blank'><div>ISRCTN30019040</div></a></td>
+      <td>HCQ-01 Trial: evaluation of the efficacy of hydroxychloroquine in decreasin...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>90</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN64716212' target='_blank'><div>ISRCTN64716212</div></a></td>
+      <td>An international multi-centre, randomised, double-blind, placebo controlled...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>9673</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14367816' target='_blank'><div>ISRCTN14367816</div></a></td>
+      <td>PENTA8/ PERA (Paediatric Evaluation of Resistance Assays)</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>180</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN85996946' target='_blank'><div>ISRCTN85996946</div></a></td>
+      <td>The TILT Study: A pilot trial of antiretroviral Therapy Interruption with a...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>90</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN57857428' target='_blank'><div>ISRCTN57857428</div></a></td>
+      <td>Randomised placebo-controlled trial of adefovir dipivoxil in patients with ...</td>
+      <td>Drug</td>
+      <td>Other</td>
+      <td>307</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN58987964' target='_blank'><div>ISRCTN58987964</div></a></td>
+      <td>An open randomised trial to evaluate the activity and tolerability of combi...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN74775699' target='_blank'><div>ISRCTN74775699</div></a></td>
+      <td>An open, randomised trial to compare desensitisation with rechallenge when ...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>388</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN77444899' target='_blank'><div>ISRCTN77444899</div></a></td>
+      <td>A randomised trial of risks/benefits of a policy of chemoprophylaxis with H...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>750</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN92729667' target='_blank'><div>ISRCTN92729667</div></a></td>
+      <td>A phase II, double blind, placebo controlled, randomised, single centre stu...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>117</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN31541725' target='_blank'><div>ISRCTN31541725</div></a></td>
+      <td>A randomised phase II trial to compare the toxicity, tolerability and activ...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>120</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN19619965' target='_blank'><div>ISRCTN19619965</div></a></td>
+      <td>TNT-1:OPTIMA (Tri-National Trial 1: Options in Management with Anti-retrovi...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>504</td>
+    </tr>
+  </tbody>
+</table>"
+452,-19356.355510574285,6697166.855111391,St George's University of London,51.4269516,-0.1738811,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14943533' target='_blank'><div>ISRCTN14943533</div></a></td>
+      <td>Men B vaccination in preterm infants: a comparison of two schedules</td>
+      <td>Biological/Vaccine</td>
+      <td>Neonate</td>
+      <td>132</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN58038795' target='_blank'><div>ISRCTN58038795</div></a></td>
+      <td>“Test n Treat”: a feasibility trial of rapid STI testing and treatment</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>480</td>
+    </tr>
+  </tbody>
+</table>"
+461,-10057821.078771576,4666167.670007385,KSL Consulting (Denmark),38.611455,-90.350944,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN72989363' target='_blank'><div>ISRCTN72989363</div></a></td>
+      <td>How well does the plastic detection comb (PDC) remove nits?</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>25</td>
+    </tr>
+  </tbody>
+</table>"
+465,-344592.5895643715,7051556.119996657,Wirral University Teaching Hospital,53.3690502,-3.0955279,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN32633497' target='_blank'><div>ISRCTN32633497</div></a></td>
+      <td>Role of antibiotic line locks in the prevention of tunnelled haemodialysis ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>80</td>
+    </tr>
+  </tbody>
+</table>"
+482,-295636.40371576394,7105313.040146196,Health Protection Agency (HPA),53.6562071,-2.655747,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11725083' target='_blank'><div>ISRCTN11725083</div></a></td>
+      <td>Study of the immunogenicity and safety of a single dose of a Live Attenuate...</td>
+      <td>Biological/Vaccine</td>
+      <td>Child</td>
+      <td>500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18766300' target='_blank'><div>ISRCTN18766300</div></a></td>
+      <td>Multiboost - MCC plus pertussis booster in adolescents</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>880</td>
+    </tr>
+  </tbody>
+</table>"
+521,-147458.1389649111,6813645.432578414,Seton Healthcare Group Plc,52.07471090000001,-1.324639,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN73201839' target='_blank'><div>ISRCTN73201839</div></a></td>
+      <td>Comparison of phenothrin mousse, phenothrin lotion and wet-combing for head...</td>
+      <td>Drug</td>
+      <td>Mixed</td>
+      <td>266</td>
+    </tr>
+  </tbody>
+</table>"
+529,-483658.44117397035,7531048.425429793,Health Protection Agency,55.8622811,-4.3447777,5.0,11.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN27374886' target='_blank'><div>ISRCTN27374886</div></a></td>
+      <td>A phase IV study to evaluate the primary and booster immune responses of UK...</td>
+      <td>Biological/Vaccine</td>
+      <td>Neonate</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN84763401' target='_blank'><div>ISRCTN84763401</div></a></td>
+      <td>Responses to booster vaccinations in UK toddlers</td>
+      <td>Drug</td>
+      <td>Neonate</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN05935832' target='_blank'><div>ISRCTN05935832</div></a></td>
+      <td>A study to assess the impact of the pneumococcal conjugate vaccination prog...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN60619753' target='_blank'><div>ISRCTN60619753</div></a></td>
+      <td>Evaluation of resources to promote human immunodeficiency virus (HIV) testi...</td>
+      <td>Other</td>
+      <td>Other</td>
+      <td>1400</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14195036' target='_blank'><div>ISRCTN14195036</div></a></td>
+      <td>The National Knowledge Service Tuberculosis Pilot Evaluation Study</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>180</td>
+    </tr>
+  </tbody>
+</table>"
+532,-160342.88021847306,6876780.769194723,University Hospitals Coventry and Warwickshire NHS Trust,52.4219434,-1.4403846,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11466448' target='_blank'><div>ISRCTN11466448</div></a></td>
+      <td>A randomized trial to assess the effects of physical and mental health reha...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>535</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN53038326' target='_blank'><div>ISRCTN53038326</div></a></td>
+      <td>IMU838 and oseltamivir in the treatment of COVID-19</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+  </tbody>
+</table>"
+587,-23898.335450277875,6769361.058229331,Novacta Biosystems Limited,51.82953149999999,-0.2146824,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN40071144' target='_blank'><div>ISRCTN40071144</div></a></td>
+      <td>Assessment of the safety and distribution of NVB302 in healthy volunteers</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>72</td>
+    </tr>
+  </tbody>
+</table>"
+589,-340878.1030594797,7206057.885174051,GlaxoSmithKline,54.189135,-3.0621601,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN53707238' target='_blank'><div>ISRCTN53707238</div></a></td>
+      <td>A Phase III randomised, double-blind, multicentre study to evaluate the saf...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>90</td>
+    </tr>
+  </tbody>
+</table>"
+594,1311179.1715249121,5629674.652484993,Panin S.R.L (Italy),45.0517659,11.7785229,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN45553737' target='_blank'><div>ISRCTN45553737</div></a></td>
+      <td>Is Liceko® more effective than Nix® / Lyclear® against head lice?</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>44</td>
+    </tr>
+  </tbody>
+</table>"
+599,-463070.268706074,7021757.9138330165,Public Health Wales,53.209036,-4.159831,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN05628482' target='_blank'><div>ISRCTN05628482</div></a></td>
+      <td>Dried blood spot testing in UK prisons</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>"
+613,-8150.724060290857,6713527.877755577,FerroKin BioSciences Inc. (USA),51.5184995,-0.0732192,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14871374' target='_blank'><div>ISRCTN14871374</div></a></td>
+      <td>Development of wound healing therapies: a randomised controlled single-blin...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>16</td>
+    </tr>
+  </tbody>
+</table>"
+620,-481013.30082958785,7535282.289562013,NHS Greater Glasgow and Clyde,55.883619,-4.321016,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN29934637' target='_blank'><div>ISRCTN29934637</div></a></td>
+      <td>Trial of aciclovir in the prophylaxis of herpes infections in critical care</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>500</td>
+    </tr>
+  </tbody>
+</table>"
+684,-466807.41985929135,7857792.337351642,Raigmore Hospital,57.4748147,-4.1934024,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN69944535' target='_blank'><div>ISRCTN69944535</div></a></td>
+      <td>Do steroids speed recovery after drainage of a quinsy: a randomised, placeb...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>102</td>
+    </tr>
+  </tbody>
+</table>"
+689,-13719681.272126952,6319196.887980215,University of British Columbia (Canada),49.26060520000001,-123.2459938,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN19619965' target='_blank'><div>ISRCTN19619965</div></a></td>
+      <td>TNT-1:OPTIMA (Tri-National Trial 1: Options in Management with Anti-retrovi...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>504</td>
+    </tr>
+  </tbody>
+</table>"
+699,396168.5015176135,6613135.438730328,Omega Pharma N.V. (Belgium),50.95385599999999,3.5588422,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN96469780' target='_blank'><div>ISRCTN96469780</div></a></td>
+      <td>Does Lyclear® spray away work better than permethrin to cure head lice?</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+700,-42763.593895268554,6672516.88101538,Iomai Corporation (USA),51.28867590000001,-0.3841519,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN27362371' target='_blank'><div>ISRCTN27362371</div></a></td>
+      <td>Heat-labile toxin (LT) safety study in the elderly</td>
+      <td>Drug</td>
+      <td>Other</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+714,-159553.8142718831,7027006.887407715,Derbyshire Mental Health Services NHS Trust,53.2372661,-1.4332963,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN38526137' target='_blank'><div>ISRCTN38526137</div></a></td>
+      <td>A randomised controlled study of mouth swab testing versus same-day blood t...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>54</td>
+    </tr>
+  </tbody>
+</table>"
+715,-365654.6602365239,7547080.9812280405,Nelsons,55.94302039999999,-3.2847317,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN77673809' target='_blank'><div>ISRCTN77673809</div></a></td>
+      <td>A new treatment for head lice? Efficacy of Nice 'n Clear and 'ClearBrush' f...</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>176</td>
+    </tr>
+  </tbody>
+</table>"
+731,-330037.36576806754,7059192.934205879,Royal Liverpool and Broadgreen University Hospitals NHS Trust,53.4099629,-2.9647761,8.0,13.920296742201792,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10948363' target='_blank'><div>ISRCTN10948363</div></a></td>
+      <td>Experimental human Pneumococcal carriage: Aging and immunity</td>
+      <td>Biological/Vaccine</td>
+      <td>Adult</td>
+      <td>74</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN81110147' target='_blank'><div>ISRCTN81110147</div></a></td>
+      <td>Pharmacogenetics of human immunodeficiency virus therapy</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>900</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN65117827' target='_blank'><div>ISRCTN65117827</div></a></td>
+      <td>The Liverpool human immunodeficiency virus (HIV) therapeutic drug monitorin...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>10000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16993271' target='_blank'><div>ISRCTN16993271</div></a></td>
+      <td>The effect of live attenuated inactivated influenza vaccine on experimental...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>314</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN25948557' target='_blank'><div>ISRCTN25948557</div></a></td>
+      <td>Using scrapings from the inside lining of the nose to investigate carriage ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN45340436' target='_blank'><div>ISRCTN45340436</div></a></td>
+      <td>Does the current pneumococcal vaccine prevent experimental nasal carriage w...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN68323432' target='_blank'><div>ISRCTN68323432</div></a></td>
+      <td>Experimental Human Pneumococcal Carriage Model Testing New Strains</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>134</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN76548641' target='_blank'><div>ISRCTN76548641</div></a></td>
+      <td>Intracellular boosting of human immunodeficiency virus (HIV) protease inhib...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>18</td>
+    </tr>
+  </tbody>
+</table>"
+741,-249541.64085020113,7072593.549351739,EctoPharma Ltd,53.481659,-2.2416707,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN91870666' target='_blank'><div>ISRCTN91870666</div></a></td>
+      <td>A multicentre phase III trial of 1,2-octanediol at 5% (w/v) (KindaPed™) com...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>420</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN66611560' target='_blank'><div>ISRCTN66611560</div></a></td>
+      <td>A phase IIa clinical trial to demonstrate proof of concept of an experiment...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>"
+748,-15834.663231787357,6714550.505244483,Central and North West London NHS Foundation Trust,51.5242155,-0.1422452,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15996256' target='_blank'><div>ISRCTN15996256</div></a></td>
+      <td>LUSTRUM Accelerated Partner Therapy (APT) Chlamydia Trial V1.0</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>5440</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN63350011' target='_blank'><div>ISRCTN63350011</div></a></td>
+      <td>Tolerability and completion of Maraviroc compared to Kaletra® in combinatio...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>280</td>
+    </tr>
+  </tbody>
+</table>"
+824,-3064.569921793425,6688993.114235685,South London and Maudsley NHS Foundation Trust,51.3811467,-0.0275295,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN28553709' target='_blank'><div>ISRCTN28553709</div></a></td>
+      <td>Influenza vaccine in nursing homes - why doesn't it work?</td>
+      <td>Biological/Vaccine</td>
+      <td>Senior</td>
+      <td>277</td>
+    </tr>
+  </tbody>
+</table>"
+855,970234.7888406139,6591494.3679086575,Aventis Behring LLC (USA),50.8312299,8.715767399999999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN22931023' target='_blank'><div>ISRCTN22931023</div></a></td>
+      <td>The KyberSept trial</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>2314</td>
+    </tr>
+  </tbody>
+</table>"
+869,16887631.79051239,-3881079.8469153787,University of Newcastle Australia,-32.8927718,151.7041775,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17599457' target='_blank'><div>ISRCTN17599457</div></a></td>
+      <td>Single use negative pressure dressing for reduction in surgical site infect...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>840</td>
+    </tr>
+  </tbody>
+</table>"
+896,-13399.827669411483,6589252.163352294,Brighton and Sussex University Hospitals NHS Trust,50.8185063,-0.1203727,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN00746242' target='_blank'><div>ISRCTN00746242</div></a></td>
+      <td>An intervention to reduce sexual risk after Post-Exposure Prophylaxis for H...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>250</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN35514212' target='_blank'><div>ISRCTN35514212</div></a></td>
+      <td>Evaluating the impact of an intervention providing support with ART</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>372</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN31461655' target='_blank'><div>ISRCTN31461655</div></a></td>
+      <td>A phase IV, open-label pilot study investigating non-invasive markers of he...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN74612906' target='_blank'><div>ISRCTN74612906</div></a></td>
+      <td>Reducing implant infection in orthopaedics (RIIiO) pilot study</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>700</td>
+    </tr>
+  </tbody>
+</table>"
+898,-390131.96835841757,6571487.683851399,Royal Devon and Exeter NHS Foundation Trust,50.7175775,-3.5046151,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN45176516' target='_blank'><div>ISRCTN45176516</div></a></td>
+      <td>Impact of biologic therapy on SARS-CoV-2 infection and immunity in patients...</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>6970</td>
+    </tr>
+  </tbody>
+</table>"
+899,855995.677234509,6518356.087342295,Wepa Apothekenbedarf GmbH and Co KG (Germany),50.41441,7.689540000000001,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN48669688' target='_blank'><div>ISRCTN48669688</div></a></td>
+      <td>Comparing mosquito® LäuseShampoo with Infectopedicul® lotion</td>
+      <td>Drug</td>
+      <td>Other</td>
+      <td>96</td>
+    </tr>
+  </tbody>
+</table>"
+900,-660848.2684137594,7286371.64180247,Belfast Health and Social Care Trust,54.60912399999999,-5.936501,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN84288963' target='_blank'><div>ISRCTN84288963</div></a></td>
+      <td>Early switch to oral antibiotics in patients with low risk neutropenic seps...</td>
+      <td>Drug</td>
+      <td>Mixed</td>
+      <td>230</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN65190967' target='_blank'><div>ISRCTN65190967</div></a></td>
+      <td>A randomised controlled trial of tea tree oil (5%) body wash versus standar...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>1080</td>
+    </tr>
+  </tbody>
+</table>"
+901,-14506.298880100305,6713958.059816249,London School of Hygiene and Tropical Medicine,51.5209041,-0.1303123,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN64390461' target='_blank'><div>ISRCTN64390461</div></a></td>
+      <td>A randomised controlled trial of a safer sex intervention delivered through...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>6250</td>
+    </tr>
+  </tbody>
+</table>"
+910,-322779.80251020746,7059567.397364316,Liverpool Heart and Chest Hospital NHS Trust,53.41196799999999,-2.8995803,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN82694288' target='_blank'><div>ISRCTN82694288</div></a></td>
+      <td>Randomised Empirical Antibiotic Duration in Intensive Care Unit</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>"
+915,-206868.0821590862,7099471.808663857,Thornton and Ross Ltd,53.6250988,-1.8583276,7.0,13.090619551221675,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN09524995' target='_blank'><div>ISRCTN09524995</div></a></td>
+      <td>Can we prevent head lice?</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>68</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN88144046' target='_blank'><div>ISRCTN88144046</div></a></td>
+      <td>Hedrin® Once vs Lyclear®  against head lice</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>84</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN28722846' target='_blank'><div>ISRCTN28722846</div></a></td>
+      <td>Kindaped™ lotion for treatment of head lice</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>120</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN59227204' target='_blank'><div>ISRCTN59227204</div></a></td>
+      <td>A proof of concept clinical investigation to evaluate the activity of Hedri...</td>
+      <td>Drug</td>
+      <td>Other</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN50373146' target='_blank'><div>ISRCTN50373146</div></a></td>
+      <td>A proof of concept clinical investigation to evaluate the activity of Hedri...</td>
+      <td>Drug</td>
+      <td>Mixed</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN95412572' target='_blank'><div>ISRCTN95412572</div></a></td>
+      <td>A proof of concept clinical investigation to evaluate the activity of Hedri...</td>
+      <td>Drug</td>
+      <td>Other</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN47755726' target='_blank'><div>ISRCTN47755726</div></a></td>
+      <td>A randomised, controlled, assessor-blind, clinical trial to demonstrate sup...</td>
+      <td>Drug</td>
+      <td>Other</td>
+      <td>73</td>
+    </tr>
+  </tbody>
+</table>"
+918,-18378.402652006294,6719748.227644499,Royal Free Biomedical Research Unit,51.5532572,-0.165096,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN03307563' target='_blank'><div>ISRCTN03307563</div></a></td>
+      <td>Determining a viral load threshold for pre-emptive therapy for cytomegalovi...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>178</td>
+    </tr>
+  </tbody>
+</table>"
+919,942205.6653857247,6275030.090629094,Dr. Willmar Schwabe GmbH and Co. KG (Germany),49.0009942,8.4639775,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN35425744' target='_blank'><div>ISRCTN35425744</div></a></td>
+      <td>Safety and intake effect of EPs® 7630 (an extract of the roots of Pelargoni...</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>720</td>
+    </tr>
+  </tbody>
+</table>"
+930,-6749.000164171036,6713387.392792631,Queen Mary University of London and Barts and the London NHS Trust,51.5177142,-0.0606273,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN59318247' target='_blank'><div>ISRCTN59318247</div></a></td>
+      <td>Study to evaluate Pegasys® Sustained Viral Load (SVR) in genotype 3 Hepatit...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>140</td>
+    </tr>
+  </tbody>
+</table>"
+959,135840.41389166008,6912499.007155243,Norfolk and Norwich University Hospitals NHS Foundation Trust,52.6171847,1.2202752,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN82571474' target='_blank'><div>ISRCTN82571474</div></a></td>
+      <td>Skin antiseptic trial for insertion of central venous catheters in neonates</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>110</td>
+    </tr>
+  </tbody>
+</table>"
+988,-62679.830784787606,6696938.581828267,"Royal Holloway, University of London",51.425673,-0.5630625,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN31852047' target='_blank'><div>ISRCTN31852047</div></a></td>
+      <td>Randomised feasibility trial of an onward HIV disclosure intervention</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>119</td>
+    </tr>
+  </tbody>
+</table>"
+1037,-10123.205249605951,6704550.725074519,South London and Maudsley NHS Foundation Trust and Kings College London,51.4682907,-0.0909383,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN66453696' target='_blank'><div>ISRCTN66453696</div></a></td>
+      <td>Feasibility of psychosocial interventions for preventing blood borne virus ...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>128</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN66453696' target='_blank'><div>ISRCTN66453696</div></a></td>
+      <td>Feasibility of psychosocial interventions for preventing blood borne virus ...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>128</td>
+    </tr>
+  </tbody>
+</table>"
+1046,-474346.6325608075,7530502.563009568,Health Protection Scotland,55.8595292,-4.2611283,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN45562523' target='_blank'><div>ISRCTN45562523</div></a></td>
+      <td>Development of a risk prediction model for people with diabetes and COVID-1...</td>
+      <td>Not Specified</td>
+      <td>All</td>
+      <td>5782649</td>
+    </tr>
+  </tbody>
+</table>"
+1051,34321.07918571037,6647741.357768431,Maidstone and Tunbridge Wells NHS Trust,51.1492751,0.3083115,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14376817' target='_blank'><div>ISRCTN14376817</div></a></td>
+      <td>Lung ultrasound as point-of-care evaluation in post-COVID-19 patients</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>"
+1065,576193.2243057912,6816283.172621141,Nutricia Research Foundation (Netherlands),52.0892724,5.1760318,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN22012202' target='_blank'><div>ISRCTN22012202</div></a></td>
+      <td>The effect of a nutritional supplement (NR100103-2) on digestive health in ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>87</td>
+    </tr>
+  </tbody>
+</table>"
+1070,-657279.8442127374,7277406.31211963,Belfast Health and Social Care Trust (BHSCT),54.5624542,-5.9044453,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN97997760' target='_blank'><div>ISRCTN97997760</div></a></td>
+      <td>Point of care testing for sepsis</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>4501</td>
+    </tr>
+  </tbody>
+</table>"
+1102,-7991616.269822735,5248251.628736695,Fulltec AG (Switzerland),42.5799413,-71.7899104,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN79136319' target='_blank'><div>ISRCTN79136319</div></a></td>
+      <td>An investigation of the activity of Fulltec Anti-Lice Protector in the trea...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+1106,-15033.385537057376,6714424.190562544,University of Oxford (and Royal Free and University College Medical School),51.5235095,-0.1350472,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN03307563' target='_blank'><div>ISRCTN03307563</div></a></td>
+      <td>Determining a viral load threshold for pre-emptive therapy for cytomegalovi...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>178</td>
+    </tr>
+  </tbody>
+</table>"
+1110,-18075.92533162281,6660115.120604139,Surrey and Sussex Healthcare NHS Trust,51.2189495,-0.1623788,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13450549' target='_blank'><div>ISRCTN13450549</div></a></td>
+      <td>Investigating the inflammatory process of COVID-19</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>"
+1125,-203570.49827916428,6887054.614756272,Birmingham Heartlands Hospital,52.4781907,-1.8287049,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11910243' target='_blank'><div>ISRCTN11910243</div></a></td>
+      <td>The TARGET feasibility study: Can men and transgender people who have sex w...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>110</td>
+    </tr>
+  </tbody>
+</table>"
+1127,959923.4313876692,6483837.996352659,Fresenius Kabi Deutschland GmbH (Germany),50.2164046,8.623138899999999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN27438588' target='_blank'><div>ISRCTN27438588</div></a></td>
+      <td>Early enteral supply of Intestamin® in severe sepsis and its influence on o...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>52</td>
+    </tr>
+  </tbody>
+</table>"
+1166,551692.7394659144,6854472.438080904,EuroVacc Foundation (Switzerland),52.2995622,4.9559402,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN20946776' target='_blank'><div>ISRCTN20946776</div></a></td>
+      <td>A phase I/II trial to compare the immunogenicity and safety of three DNA C ...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>140</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN26673492' target='_blank'><div>ISRCTN26673492</div></a></td>
+      <td>A phase I trial to assess the safety of 4 ml DNA C (intramuscular [IM]), an...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+1172,496014.0697558428,6830499.866761434,Janssen (Netherlands),52.16767309999999,4.4557702,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14722499' target='_blank'><div>ISRCTN14722499</div></a></td>
+      <td>A study of the Ad26.COV2.S vaccine candidate for the prevention of SARS-CoV...</td>
+      <td>Biological/Vaccine</td>
+      <td>Mixed</td>
+      <td>30000</td>
+    </tr>
+  </tbody>
+</table>"
+1184,-354113.155618619,7552489.185226847,Department of Health and Social Care,55.970218,-3.1810526,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13455972' target='_blank'><div>ISRCTN13455972</div></a></td>
+      <td>Evaluation of coronavirus self-isolation interventions</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>10000</td>
+    </tr>
+  </tbody>
+</table>"
+1192,-14827.812031357762,6709852.226837003,Department of Health,51.49794844005473,-0.13320050177820006,15.0,17.826061944859852,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN84432505' target='_blank'><div>ISRCTN84432505</div></a></td>
+      <td>The evaluation of rapid methicillin-resistant Staphylococcus aureus (MRSA) ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>12000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN99277634' target='_blank'><div>ISRCTN99277634</div></a></td>
+      <td>An investigation into hand decontamination</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>184</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN68138140' target='_blank'><div>ISRCTN68138140</div></a></td>
+      <td>Molecular Diagnosis of Central Venous Catheter (CVC) associated infections</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>330</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN21659163' target='_blank'><div>ISRCTN21659163</div></a></td>
+      <td>A Randomised Comparative Study of Two Different Schedules for the Administr...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN56141572' target='_blank'><div>ISRCTN56141572</div></a></td>
+      <td>Analysis of the duration of combination therapy that is necessary for hepat...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN52566041' target='_blank'><div>ISRCTN52566041</div></a></td>
+      <td>40kD pegylated interferon alpha 2a plus ribavirin compared to 40 kD pegylat...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN63718248' target='_blank'><div>ISRCTN63718248</div></a></td>
+      <td>A phase III, randomised, double blind, multicentre study to evaluate the sa...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17347739' target='_blank'><div>ISRCTN17347739</div></a></td>
+      <td>Randomised open-label cross over study to investigate patient tolerance of ...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN51777318' target='_blank'><div>ISRCTN51777318</div></a></td>
+      <td>The effect of probiotic therapy on nosocomial infections in the critically ...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN07377784' target='_blank'><div>ISRCTN07377784</div></a></td>
+      <td>To investigate the role of folic acid in the management of ribavirin induce...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN34382898' target='_blank'><div>ISRCTN34382898</div></a></td>
+      <td>Efficacy of subcutaneous interleukin-2 (IL-2) in the treament of advanced H...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN03216780' target='_blank'><div>ISRCTN03216780</div></a></td>
+      <td>The influence of venous impulse foot pumps on pin tract infections:  A pros...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN27879030' target='_blank'><div>ISRCTN27879030</div></a></td>
+      <td>Cost benefit evaluation of routine influenza immunisation in subjects 65-74...</td>
+      <td>Other</td>
+      <td>Senior</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN40371436' target='_blank'><div>ISRCTN40371436</div></a></td>
+      <td>A randomised controlled trial of different approaches to universal antenata...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>3024</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN24461054' target='_blank'><div>ISRCTN24461054</div></a></td>
+      <td>Health benefits from anti-viral therapy for mild chronic hepatitis C</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>204</td>
+    </tr>
+  </tbody>
+</table>"
+1196,-12836.506018003305,6724440.634690489,Public Health England,51.57945959103407,-0.11531229550664585,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN32349954' target='_blank'><div>ISRCTN32349954</div></a></td>
+      <td>Contacting GPs to reduce unnecessary prescriptions of antibiotics</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>13300</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN63267760' target='_blank'><div>ISRCTN63267760</div></a></td>
+      <td>Positive Voices: National Survey of People with HIV</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1366</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11041050' target='_blank'><div>ISRCTN11041050</div></a></td>
+      <td>Does the presence of antibodies to SARS-CoV-2 reduce the risk of subsequent...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>10000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN83322985' target='_blank'><div>ISRCTN83322985</div></a></td>
+      <td>A practice level intervention to reduce antibiotic prescribing for self-lim...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>175</td>
+    </tr>
+  </tbody>
+</table>"

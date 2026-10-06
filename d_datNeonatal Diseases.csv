@@ -1,0 +1,842 @@
+,merclng,merclat,locations,latitude,longitude,number,radius,HTML
+0,-139635.47344398804,6755913.94771293,University of Oxford,51.7548164,-1.2543668,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN36848750' target='_blank'><div>ISRCTN36848750</div></a></td>
+      <td>Supporting Parents Of Children with Cleft Lip</td>
+      <td>Behavioural</td>
+      <td>Mixed</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN84264977' target='_blank'><div>ISRCTN84264977</div></a></td>
+      <td>Does selective early treatment of patent ductus arteriosus in extreme prete...</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>730</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN00842661' target='_blank'><div>ISRCTN00842661</div></a></td>
+      <td>Which oxygen saturation level should we use for very premature infants? A r...</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>973</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN87351483' target='_blank'><div>ISRCTN87351483</div></a></td>
+      <td>ADEPT - Abnormal Doppler Enteral Prescription Trial</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>400</td>
+    </tr>
+  </tbody>
+</table>"
+2,-181976.75458703414,7363080.99091819,Newcastle upon Tyne Hospitals NHS Foundation Trust,55.0062592,-1.634725,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12547427' target='_blank'><div>ISRCTN12547427</div></a></td>
+      <td>Early therapy in perinatal stroke study</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>48</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN79583069' target='_blank'><div>ISRCTN79583069</div></a></td>
+      <td>Support at home for infants with feeding tubes (SHIFT)</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN31466133' target='_blank'><div>ISRCTN31466133</div></a></td>
+      <td>North-East Cot (NECOT) Trial: Postnatal care and breastfeeding duration</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>800</td>
+    </tr>
+  </tbody>
+</table>"
+10,-125193.51722956625,6913224.121171489,University of Leicester,52.6211393,-1.1246325,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15915394' target='_blank'><div>ISRCTN15915394</div></a></td>
+      <td>SurfON: Surfactant or not for babies born early with breathing problems</td>
+      <td>Procedure/Surgery</td>
+      <td>Neonate</td>
+      <td>1522</td>
+    </tr>
+  </tbody>
+</table>"
+11,-214903.77978954036,6882052.998582191,University of Birmingham,52.4508168,-1.9305135,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN53328556' target='_blank'><div>ISRCTN53328556</div></a></td>
+      <td>Prenatal treatment of Lower Urinary Tract Obstruction</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>"
+15,-288495.2695133245,6709912.247835172,North Bristol NHS Trust,51.4982841,-2.5915971,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN80286058' target='_blank'><div>ISRCTN80286058</div></a></td>
+      <td>The Drainage, Irrigation and Fibrinolytic Trial for post-haemorrhagic hydro...</td>
+      <td>Mixed</td>
+      <td>Neonate</td>
+      <td>120</td>
+    </tr>
+  </tbody>
+</table>"
+19,-247990.80449616374,7068684.4314735355,Manchester University NHS Foundation Trust,53.4607569,-2.2277393,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13704894' target='_blank'><div>ISRCTN13704894</div></a></td>
+      <td>Pharmacogenetics to avoid loss of hearing</td>
+      <td>Genetic</td>
+      <td>Neonate</td>
+      <td>900</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18921778' target='_blank'><div>ISRCTN18921778</div></a></td>
+      <td>Nasal biphasic positive airway pressure vs. nasal continuous positive airwa...</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>540</td>
+    </tr>
+  </tbody>
+</table>"
+31,-19466.828973237527,6710008.469052965,Imperial College London,51.49882220000001,-0.1748735,5.0,11.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13423963' target='_blank'><div>ISRCTN13423963</div></a></td>
+      <td>Erythropoietin and darbepoetin treatment to reduce brain injury after birth...</td>
+      <td>Mixed</td>
+      <td>Mixed</td>
+      <td>240</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN33458649' target='_blank'><div>ISRCTN33458649</div></a></td>
+      <td>Developing a non-invasive treatment for twin-twin transfusion syndrome</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>13</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN62718241' target='_blank'><div>ISRCTN62718241</div></a></td>
+      <td>Better Use of (electronic patient record infant) Data to improve parent Sat...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>90</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15119574' target='_blank'><div>ISRCTN15119574</div></a></td>
+      <td>Melatonin as a novel neuroprotectant in preterm infants - trial study</td>
+      <td>Drug</td>
+      <td>Neonate</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN62501859' target='_blank'><div>ISRCTN62501859</div></a></td>
+      <td>Withholding enteral feeds around packed red cell transfusion</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>250</td>
+    </tr>
+  </tbody>
+</table>"
+32,-353869.5329130179,6707828.061418129,Cardiff University,51.48662710000001,-3.1788641,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14767962' target='_blank'><div>ISRCTN14767962</div></a></td>
+      <td>Born early, breathe easy</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>"
+61,-13441.40549922277,6714129.541447256,Great Ormond Street Hospital for Children NHS Foundation Trust,51.5218626,-0.1207462,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN81931394' target='_blank'><div>ISRCTN81931394</div></a></td>
+      <td>PREVAIL study - PREVenting infection using Antimicrobial Impregnated Long l...</td>
+      <td>Device</td>
+      <td>Neonate</td>
+      <td>858</td>
+    </tr>
+  </tbody>
+</table>"
+69,-19408.40850446922,6713404.673761457,Imperial College Healthcare NHS Trust,51.5178108,-0.1743487,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN62501859' target='_blank'><div>ISRCTN62501859</div></a></td>
+      <td>Withholding enteral feeds around packed red cell transfusion</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>250</td>
+    </tr>
+  </tbody>
+</table>"
+76,-4494.468781033024,6714523.953950477,Queen Mary University of London,51.5240671,-0.0403745,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN05511098' target='_blank'><div>ISRCTN05511098</div></a></td>
+      <td>The administration of probiotic to premature babies to prevent infection, s...</td>
+      <td>Biological/Vaccine</td>
+      <td>Neonate</td>
+      <td>1300</td>
+    </tr>
+  </tbody>
+</table>"
+82,-258694.8637167799,7073682.91178754,Salford Royal NHS Foundation Trust,53.487482,-2.3238955,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN58085619' target='_blank'><div>ISRCTN58085619</div></a></td>
+      <td>Improving the care of ventilated preterm babies by weighing them within the...</td>
+      <td>NaN</td>
+      <td>Neonate</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+92,-288970.57034316455,6702900.955636583,University Hospitals Bristol NHS Foundation Trust,51.45905759999999,-2.5958668,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10198406' target='_blank'><div>ISRCTN10198406</div></a></td>
+      <td>Development and evaluation of a standard procedure of a cuddling process al...</td>
+      <td>Mixed</td>
+      <td>Mixed</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>"
+149,-177353.03274524107,7362485.32925916,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,55.0031904,-1.5931894,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15469594' target='_blank'><div>ISRCTN15469594</div></a></td>
+      <td>Feeding late and moderately preterm infants</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>250</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16799022' target='_blank'><div>ISRCTN16799022</div></a></td>
+      <td>Interactions between diet and gut microbes in preterm infants</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+168,-135503.29394574172,7275518.420243988,South Tees Hospitals NHS Foundation Trust,54.5526198,-1.2172468,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN36164200' target='_blank'><div>ISRCTN36164200</div></a></td>
+      <td>Non-invasive blood pressure measurement in neonates: comparative analysis o...</td>
+      <td>NaN</td>
+      <td>Neonate</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN94119947' target='_blank'><div>ISRCTN94119947</div></a></td>
+      <td>Automated adjustment of inspired oxygen in premature infants requiring mech...</td>
+      <td>Device</td>
+      <td>Neonate</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+176,-126341.62192981176,6914257.025768537,University Hospitals of Leicester NHS Trust,52.62677189999999,-1.1349461,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN72635512' target='_blank'><div>ISRCTN72635512</div></a></td>
+      <td>Assessing the neuro-protective effect of mild cooling in neonates receiving...</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>118</td>
+    </tr>
+  </tbody>
+</table>"
+182,-163237.19811104724,6967189.358494778,Derby Hospitals NHS Foundation Trust,52.91445119999999,-1.4663847,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN89654042' target='_blank'><div>ISRCTN89654042</div></a></td>
+      <td>Fluids exclusively enteral from day one in premature infants</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>2088</td>
+    </tr>
+  </tbody>
+</table>"
+253,-198659.46083163374,6722173.3028083015,Medical Research Council,51.56680069999999,-1.7845883,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN65859742' target='_blank'><div>ISRCTN65859742</div></a></td>
+      <td>Ultrasound imaging in the management of clinical neonatal hip instability -...</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>629</td>
+    </tr>
+  </tbody>
+</table>"
+274,-329470.4044695083,7057130.743059783,Liverpool Women's NHS Foundation Trust,53.398919,-2.959683,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN76597892' target='_blank'><div>ISRCTN76597892</div></a></td>
+      <td>Standardised, Concentrated and Additional Macronutrients in neonatal Parent...</td>
+      <td>Drug</td>
+      <td>Neonate</td>
+      <td>150</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN89493983' target='_blank'><div>ISRCTN89493983</div></a></td>
+      <td>A randomised controlled trial of thyroxine in preterm infants under 28 week...</td>
+      <td>Drug</td>
+      <td>Neonate</td>
+      <td>150</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN19509258' target='_blank'><div>ISRCTN19509258</div></a></td>
+      <td>Extreme Preterm Nutrition Study</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>140</td>
+    </tr>
+  </tbody>
+</table>"
+294,14967.606849947631,6836976.878644958,Anglia Ruskin University,52.2033461,0.1344563,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN46338401' target='_blank'><div>ISRCTN46338401</div></a></td>
+      <td>Lending a helping hand to very preterm babies by enabling play</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>"
+324,-10270.803762448752,6710352.092322927,Guy's and St Thomas' NHS Foundation Trust,51.5007438,-0.09226419999999999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16542843' target='_blank'><div>ISRCTN16542843</div></a></td>
+      <td>Intelligent Fetal Imaging and Diagnosis (iFIND)</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>20500</td>
+    </tr>
+  </tbody>
+</table>"
+337,-233193.76137000957,6909028.732870431,Royal Wolverhampton Hospitals NHS Trust,52.5982537,-2.0948152,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN74230187' target='_blank'><div>ISRCTN74230187</div></a></td>
+      <td>Optimising neonatal service provision for preterm babies born between 27 an...</td>
+      <td>Behavioural</td>
+      <td>Neonate</td>
+      <td>24000</td>
+    </tr>
+  </tbody>
+</table>"
+415,-8224252.866009374,4973609.338837138,Individual sponsor (Italy),40.7368847,-73.87972049999999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10541833' target='_blank'><div>ISRCTN10541833</div></a></td>
+      <td>A study about the use of whole body cooling for severe respiratory distress...</td>
+      <td>Procedure/Surgery</td>
+      <td>Neonate</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>"
+422,-246367.07613955488,6983716.517076816,University Hospital of North Staffordshire,53.00388470000001,-2.2131531,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN05982584' target='_blank'><div>ISRCTN05982584</div></a></td>
+      <td>Continuous Negative Extrathoracic Pressure in neonatal respiratory failure</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>244</td>
+    </tr>
+  </tbody>
+</table>"
+431,-13140.0525056963,6713423.546911105,Medical Research Council (MRC),51.5179163,-0.1180391,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17821339' target='_blank'><div>ISRCTN17821339</div></a></td>
+      <td>Neonatal ventilation with INhaled Nitric Oxide versus Ventilatory support w...</td>
+      <td>Drug</td>
+      <td>Neonate</td>
+      <td>160</td>
+    </tr>
+  </tbody>
+</table>"
+510,-348889.2770061121,7542851.177623541,Royal Infirmary of Edinburgh,55.9217356,-3.1341257,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN56014081' target='_blank'><div>ISRCTN56014081</div></a></td>
+      <td>Study to examine the effects of different styles of consent documentation o...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+617,1006201.8046213465,6195628.155580398,University Children`s Hospital of Tuebingen (Germany),48.53085,9.0388646,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN80181452' target='_blank'><div>ISRCTN80181452</div></a></td>
+      <td>Neonatal European Study of Inhaled Steroids</td>
+      <td>Drug</td>
+      <td>Neonate</td>
+      <td>850</td>
+    </tr>
+  </tbody>
+</table>"
+770,-247727.37805315052,7068730.072030811,St Mary's Hospital,53.461001,-2.2253729,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN70684741' target='_blank'><div>ISRCTN70684741</div></a></td>
+      <td>Prospective, randomised, double-blind trial of heparin or 0.45% saline infu...</td>
+      <td>Drug</td>
+      <td>Neonate</td>
+      <td>128</td>
+    </tr>
+  </tbody>
+</table>"
+782,-467207.51324115146,7510385.915048429,NHS Lanarkshire Primary Care Operating Division,55.7579775,-4.1969965,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN47065764' target='_blank'><div>ISRCTN47065764</div></a></td>
+      <td>Tolerance of milk feeds in preterm, very low birth-weight babies: the use o...</td>
+      <td>Drug</td>
+      <td>Neonate</td>
+      <td>28</td>
+    </tr>
+  </tbody>
+</table>"
+807,-8896461.010159861,5351653.685709461,McMaster University Faculty of Health Sciences (Canada),43.260151,-79.918269,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN44364365' target='_blank'><div>ISRCTN44364365</div></a></td>
+      <td>Efficacy and safety of methylxanthines in very low birthweight infants</td>
+      <td>Drug</td>
+      <td>Neonate</td>
+      <td>2006</td>
+    </tr>
+  </tbody>
+</table>"
+931,-149977.51054859543,7281255.263659712,North Tees and Hartlepool NHS Foundation Trust,54.58249679999999,-1.3472709,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10302534' target='_blank'><div>ISRCTN10302534</div></a></td>
+      <td>Application of opaque wrap for improving pulse oximeter sensitivity in neon...</td>
+      <td>Device</td>
+      <td>Neonate</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+938,964392.9312069174,6465115.321436694,Milupa GmbH,50.108661,8.6632891,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN77444690' target='_blank'><div>ISRCTN77444690</div></a></td>
+      <td>The Preterm Prebiotic Study</td>
+      <td>Drug</td>
+      <td>Neonate</td>
+      <td>160</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN77444690' target='_blank'><div>ISRCTN77444690</div></a></td>
+      <td>The Preterm Prebiotic Study</td>
+      <td>Drug</td>
+      <td>Neonate</td>
+      <td>160</td>
+    </tr>
+  </tbody>
+</table>"
+958,-8195904.3112756545,5701049.616399747,Sainte-Justine Hospital - Research Centre (Canada),45.5029396,-73.6250611,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN65963042' target='_blank'><div>ISRCTN65963042</div></a></td>
+      <td>A multicentre randomised controlled trial of amnioinfusion</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1998</td>
+    </tr>
+  </tbody>
+</table>"
+1192,-14827.812031357762,6709852.226837003,Department of Health,51.49794844005473,-0.13320050177820006,9.0,14.652123889719707,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN56018683' target='_blank'><div>ISRCTN56018683</div></a></td>
+      <td>The effects of aluminium exposure in the neonatal period on brain, cognitio...</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN71531563' target='_blank'><div>ISRCTN71531563</div></a></td>
+      <td>Randomised controlled trial of different energy formulas in healthy term in...</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13668937' target='_blank'><div>ISRCTN13668937</div></a></td>
+      <td>A prospective, randomised pilot study in the management of neonates at risk...</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN60384118' target='_blank'><div>ISRCTN60384118</div></a></td>
+      <td>Randomised trial of water-filtered infrared A (WIRA) warming during inserti...</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>44</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN71821503' target='_blank'><div>ISRCTN71821503</div></a></td>
+      <td>Validation of analgesic effect of nitrous oxide in neonates and infants</td>
+      <td>Drug</td>
+      <td>Neonate</td>
+      <td>270</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN44873935' target='_blank'><div>ISRCTN44873935</div></a></td>
+      <td>Pressure Support Ventilation (PSV) for ventilation of newborn infants</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN52373519' target='_blank'><div>ISRCTN52373519</div></a></td>
+      <td>Pressure Support ventilation: Short term physiological effects in neonates ...</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN91903265' target='_blank'><div>ISRCTN91903265</div></a></td>
+      <td>Volume controlled ventilation for treatment of respiratory failure in prete...</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN99401619' target='_blank'><div>ISRCTN99401619</div></a></td>
+      <td>Supplementation of very low birthweight (VLBW) babies with probiotic Bifido...</td>
+      <td>Supplement</td>
+      <td>Neonate</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"

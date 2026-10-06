@@ -1,0 +1,268 @@
+,merclng,merclat,locations,latitude,longitude,number,radius,HTML
+11,-214903.77978954036,6882052.998582191,University of Birmingham,52.4508168,-1.9305135,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10176118' target='_blank'><div>ISRCTN10176118</div></a></td>
+      <td>A pivotal, international, randomised, double-blind, efficacy and safety tri...</td>
+      <td>Drug</td>
+      <td>Mixed</td>
+      <td>70</td>
+    </tr>
+  </tbody>
+</table>"
+21,-248674.7959753939,7069823.728924356,University of Manchester,53.4668498,-2.2338837,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN29932826' target='_blank'><div>ISRCTN29932826</div></a></td>
+      <td>The Scandcleft project</td>
+      <td>Procedure/Surgery</td>
+      <td>Child</td>
+      <td>450</td>
+    </tr>
+  </tbody>
+</table>"
+27,-289762.31908948265,6702786.54140238,University of Bristol,51.4584172,-2.6029792,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12415856' target='_blank'><div>ISRCTN12415856</div></a></td>
+      <td>Feeding and Autoimmunity in Down's syndrome Evaluation Study (FADES)</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>"
+35,-166122.46572901995,7053444.597670693,Sheffield Teaching Hospitals NHS Foundation Trust,53.379171,-1.4923035,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13076797' target='_blank'><div>ISRCTN13076797</div></a></td>
+      <td>Adherence to treatment in adults with cystic fibrosis</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>64</td>
+    </tr>
+  </tbody>
+</table>"
+78,-83971.8763929698,6695313.377120131,Berkshire Healthcare NHS Foundation Trust,51.41656889999999,-0.7543322,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13902755' target='_blank'><div>ISRCTN13902755</div></a></td>
+      <td>Social communication intervention for young children with Down syndrome</td>
+      <td>Behavioural</td>
+      <td>Child</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+92,-288970.57034316455,6702900.955636583,University Hospitals Bristol NHS Foundation Trust,51.45905759999999,-2.5958668,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN92545532' target='_blank'><div>ISRCTN92545532</div></a></td>
+      <td>Metformin in Tuberous Sclerosis Complex</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+99,-15299.205349122634,6714813.893758078,University College London Hospitals NHS Foundation Trust,51.5256876,-0.1374351,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN53453484' target='_blank'><div>ISRCTN53453484</div></a></td>
+      <td>Effects of exercise on Pompe disease</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>16</td>
+    </tr>
+  </tbody>
+</table>"
+140,-349417.3989343336,7542951.3872058885,ACCORD,55.92224,-3.1388699,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN65197569' target='_blank'><div>ISRCTN65197569</div></a></td>
+      <td>The effect of parental group sleep education in young children with Down sy...</td>
+      <td>Behavioural</td>
+      <td>Mixed</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>"
+397,-436065.0396636031,7586945.4496400105,medac GmbH,56.14304860000001,-3.9172389,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN36145549' target='_blank'><div>ISRCTN36145549</div></a></td>
+      <td>Pharmacokinetics of terguride in healthy subjects with known CYP2D6 genotyp...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>36</td>
+    </tr>
+  </tbody>
+</table>"
+402,-11406.062193456715,6715222.618165536,City University London,51.5279719,-0.1024624,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15330120' target='_blank'><div>ISRCTN15330120</div></a></td>
+      <td>Rethinking Strategies for Positive Newborn Screening Result Delivery</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>160</td>
+    </tr>
+  </tbody>
+</table>"
+411,958847.7066203376,6485856.237888736,Aerocrine AB,50.2280045,8.6134755,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17820010' target='_blank'><div>ISRCTN17820010</div></a></td>
+      <td>NIOX VERO nasal application in primary ciliary dyskinesia</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>150</td>
+    </tr>
+  </tbody>
+</table>"
+750,15683.324384053903,6831704.256147514,Cambridge University Hospitals NHS Foundation Trust and University of Cambridge,52.1743086,0.1408857,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16794957' target='_blank'><div>ISRCTN16794957</div></a></td>
+      <td>A randomised feasibility trial of high water intake in polycystic kidney di...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16794957' target='_blank'><div>ISRCTN16794957</div></a></td>
+      <td>A randomised feasibility trial of high water intake in polycystic kidney di...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+887,1192797.4497842733,8388445.506592274,Oslo University Hospital Rikshospitalet,59.94924049999999,10.7150818,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN29932826' target='_blank'><div>ISRCTN29932826</div></a></td>
+      <td>The Scandcleft project</td>
+      <td>Procedure/Surgery</td>
+      <td>Child</td>
+      <td>450</td>
+    </tr>
+  </tbody>
+</table>"

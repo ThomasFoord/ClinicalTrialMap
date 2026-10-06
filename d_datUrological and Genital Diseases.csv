@@ -1,0 +1,3877 @@
+,merclng,merclat,locations,latitude,longitude,number,radius,HTML
+0,-139635.47344398804,6755913.94771293,University of Oxford,51.7548164,-1.2543668,8.0,13.920296742201792,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10399299' target='_blank'><div>ISRCTN10399299</div></a></td>
+      <td>Cranberries for urinary tract infection</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>75</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13283516' target='_blank'><div>ISRCTN13283516</div></a></td>
+      <td>D-mannose to prevent recurrent urinary tract infections</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>598</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11038572' target='_blank'><div>ISRCTN11038572</div></a></td>
+      <td>TWO study: cell therapy trial in renal transplantation</td>
+      <td>Biological/Vaccine</td>
+      <td>Adult</td>
+      <td>136</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13725286' target='_blank'><div>ISRCTN13725286</div></a></td>
+      <td>Telemonitoring of blood pressure in chronic kidney disease</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>25</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN68511881' target='_blank'><div>ISRCTN68511881</div></a></td>
+      <td>CONDUCT - Collection devices to reduce urine contamination</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>1260</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11958993' target='_blank'><div>ISRCTN11958993</div></a></td>
+      <td>UK Heart and Renal Protection (UK HARP-III)</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN44522369' target='_blank'><div>ISRCTN44522369</div></a></td>
+      <td>Benefits of Aldosterone Receptor Antagonism in Chronic Kidney Disease (BARA...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>2616</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN70772394' target='_blank'><div>ISRCTN70772394</div></a></td>
+      <td>Treating fibroids with either embolisation or myomectomy to measure the eff...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>216</td>
+    </tr>
+  </tbody>
+</table>"
+2,-181976.75458703414,7363080.99091819,Newcastle upon Tyne Hospitals NHS Foundation Trust,55.0062592,-1.634725,10.0,15.306765580733934,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18295405' target='_blank'><div>ISRCTN18295405</div></a></td>
+      <td>How is urination flow rate, volume and frequency affected in men who have h...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN48381929' target='_blank'><div>ISRCTN48381929</div></a></td>
+      <td>Acupuncture for overactive bladder symptoms</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN88371138' target='_blank'><div>ISRCTN88371138</div></a></td>
+      <td>Contractility: cuff versus urodynamics testing in males with voiding lower ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN67145101' target='_blank'><div>ISRCTN67145101</div></a></td>
+      <td>Antibiotic prophylaxis for clean intermittent catheterisation</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>372</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN07415424' target='_blank'><div>ISRCTN07415424</div></a></td>
+      <td>Frequent, far infra-red (FIR) therapy for newly formed arterio-venous fistu...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>72</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN98009168' target='_blank'><div>ISRCTN98009168</div></a></td>
+      <td>The OPEN Trial: Open Urethroplasty versus Endoscopic Urethrotomy: Clarifyin...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN44785771' target='_blank'><div>ISRCTN44785771</div></a></td>
+      <td>3D Contrast Enhanced UltraSound in perfusion studies of early renal transpl...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>105</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN55761337' target='_blank'><div>ISRCTN55761337</div></a></td>
+      <td>Comparison of haemodialysis and peritoneal dialysis in babies</td>
+      <td>Procedure/Surgery</td>
+      <td>Neonate</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN71327395' target='_blank'><div>ISRCTN71327395</div></a></td>
+      <td>A multicentre pilot study to assess the feasibility of a future randomised ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN66645527' target='_blank'><div>ISRCTN66645527</div></a></td>
+      <td>Randomised comparison of intermittent urethral and indwelling suprapubic ca...</td>
+      <td>Other</td>
+      <td>Other</td>
+      <td>90</td>
+    </tr>
+  </tbody>
+</table>"
+4,-14921.27567787947,6714611.999375625,University College London,51.52455920000001,-0.1340401,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN48651822' target='_blank'><div>ISRCTN48651822</div></a></td>
+      <td>Examining and measuring the pelvic veins on transvaginal ultrasound</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>1500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN74893205' target='_blank'><div>ISRCTN74893205</div></a></td>
+      <td>Study to investigate changes in blood pressure with different types of kidn...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>346</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN74109734' target='_blank'><div>ISRCTN74109734</div></a></td>
+      <td>The better health in residents in care homes study: Pilot study</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>700</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN55651027' target='_blank'><div>ISRCTN55651027</div></a></td>
+      <td>Sexunzipped pilot online trial</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>2000</td>
+    </tr>
+  </tbody>
+</table>"
+7,-173105.45946283842,7133628.765905515,University of Leeds,53.8066815,-1.5550328,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17194896' target='_blank'><div>ISRCTN17194896</div></a></td>
+      <td>A package to support the management of urinary leakage in older women</td>
+      <td>Behavioural</td>
+      <td>Senior</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN31487459' target='_blank'><div>ISRCTN31487459</div></a></td>
+      <td>The efficacy of treatment with St Johns Wort for premenstrual syndrome (PM...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>41</td>
+    </tr>
+  </tbody>
+</table>"
+10,-125193.51722956625,6913224.121171489,University of Leicester,52.6211393,-1.1246325,12.0,16.439593106327717,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18314195' target='_blank'><div>ISRCTN18314195</div></a></td>
+      <td>Online education self-management programme in people with kidney disease</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>432</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN87042063' target='_blank'><div>ISRCTN87042063</div></a></td>
+      <td>Does NIGHT-time dialysis improve quality of LIFE?</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>350</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN53557203' target='_blank'><div>ISRCTN53557203</div></a></td>
+      <td>Home-based resistance exercise training in chronic kidney disease</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>250</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12840463' target='_blank'><div>ISRCTN12840463</div></a></td>
+      <td>Frailty, falls and the role of exercise in haemodialysis patients: a qualit...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12291961' target='_blank'><div>ISRCTN12291961</div></a></td>
+      <td>Evaluation of hydration and bicarbonate to prevent acute renal injury after...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18386427' target='_blank'><div>ISRCTN18386427</div></a></td>
+      <td>The effect of sildenafil (REVATIO®) on post cardiac surgery acute kidney in...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>126</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16672784' target='_blank'><div>ISRCTN16672784</div></a></td>
+      <td>In-centre extended nocturnal haemodialysis: the effects on cardiovascular s...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>24</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11299707' target='_blank'><div>ISRCTN11299707</div></a></td>
+      <td>Improving cardiovascular health in dialysis patients using a structured pro...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>130</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN37719011' target='_blank'><div>ISRCTN37719011</div></a></td>
+      <td>Pharmacokinetic profile, safety and tolerability of Sildenafil (REVATIO®) i...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>36</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN83130211' target='_blank'><div>ISRCTN83130211</div></a></td>
+      <td>Evaluating vaginal closure techniques during colporrhaphy and effects on po...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>110</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN66437627' target='_blank'><div>ISRCTN66437627</div></a></td>
+      <td>Remote Post-Conditioning (RPC) in renal transplantation</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN97337606' target='_blank'><div>ISRCTN97337606</div></a></td>
+      <td>A study to compare bladder function of healthy Asian and Caucasian women</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>70</td>
+    </tr>
+  </tbody>
+</table>"
+11,-214903.77978954036,6882052.998582191,University of Birmingham,52.4508168,-1.9305135,12.0,16.439593106327717,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14566195' target='_blank'><div>ISRCTN14566195</div></a></td>
+      <td>Comparing the complications between open and keyhole hysterectomy</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>3250</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14710507' target='_blank'><div>ISRCTN14710507</div></a></td>
+      <td>FGM Sister Study: Exploring the views of female genital mutilation/cutting ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>170</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12669006' target='_blank'><div>ISRCTN12669006</div></a></td>
+      <td>RePROM pilot/feasibility study in chronic kidney disease</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>66</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN42955626' target='_blank'><div>ISRCTN42955626</div></a></td>
+      <td>Accuracy of glomerular filtration rate (GFR) estimation using creatinine an...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1320</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN80658312' target='_blank'><div>ISRCTN80658312</div></a></td>
+      <td>Spironolactone TO Prevent cardiovascular events in early stage Chronic Kidn...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10900733' target='_blank'><div>ISRCTN10900733</div></a></td>
+      <td>Short course daily prednisolone therapy at the time of upper respiratory tr...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN06495625' target='_blank'><div>ISRCTN06495625</div></a></td>
+      <td>Exercise and menopausal symptoms: a randomised controlled trial</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>165</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN86566246' target='_blank'><div>ISRCTN86566246</div></a></td>
+      <td>Effectiveness and Cost-effectiveness of Levonorgestrel containing Intrauter...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>570</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN41196151' target='_blank'><div>ISRCTN41196151</div></a></td>
+      <td>A randomised controlled trial to assess the efficacy of Laparoscopic Uteros...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>420</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN59586944' target='_blank'><div>ISRCTN59586944</div></a></td>
+      <td>Angioplasty and stent for renal artery lesions</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>750</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN46820623' target='_blank'><div>ISRCTN46820623</div></a></td>
+      <td>Accuracy of Bladder Ultrasound Study (BUS)</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>600</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16645249' target='_blank'><div>ISRCTN16645249</div></a></td>
+      <td>Prednisolone in nephrotic syndrome</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>224</td>
+    </tr>
+  </tbody>
+</table>"
+12,-132804.10798857908,6971867.107989617,University of Nottingham,52.93978269999999,-1.1929996,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12606737' target='_blank'><div>ISRCTN12606737</div></a></td>
+      <td>Antimicrobial urinary catheter safety study</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN94041896' target='_blank'><div>ISRCTN94041896</div></a></td>
+      <td>A study of the effects of the FertilMate - a Scrotal COoling Patch on male ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN82461750' target='_blank'><div>ISRCTN82461750</div></a></td>
+      <td>A trial comparing two commonly used doses of fertility drugs (gonadotrophin...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>128</td>
+    </tr>
+  </tbody>
+</table>"
+14,-331970.6179688271,7650185.350090201,University of Dundee,56.45824469999999,-2.9821428,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN80031108' target='_blank'><div>ISRCTN80031108</div></a></td>
+      <td>Cranberry product versus low dose trimethoprim in the prevention of recurre...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+  </tbody>
+</table>"
+15,-288495.2695133245,6709912.247835172,North Bristol NHS Trust,51.4982841,-2.5915971,6.0,12.132827525593784,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12201059' target='_blank'><div>ISRCTN12201059</div></a></td>
+      <td>Proper understanding of recurrent stress urinary incontinence treatment in ...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>250</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10997319' target='_blank'><div>ISRCTN10997319</div></a></td>
+      <td>A study comparing a form of haemodialysis that filters and replaces high vo...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>1550</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17133653' target='_blank'><div>ISRCTN17133653</div></a></td>
+      <td>Prepare for kidney care</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>512</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN00788389' target='_blank'><div>ISRCTN00788389</div></a></td>
+      <td>UNBLOCS: UriNary oBstruction relieved by Laser Or Conventional Surgery</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>410</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN49212975' target='_blank'><div>ISRCTN49212975</div></a></td>
+      <td>Male synthetic sling versus Artificial urinary Sphincter Trial for men with...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>720</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN38687869' target='_blank'><div>ISRCTN38687869</div></a></td>
+      <td>Melatonin for nocturia in multiple sclerosis (MS)</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+18,-330095.57472980337,7058225.529810573,University of Liverpool,53.40478239999999,-2.965299,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN37846700' target='_blank'><div>ISRCTN37846700</div></a></td>
+      <td>Determining reference values for renal biomarkers in healthy children</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>120</td>
+    </tr>
+  </tbody>
+</table>"
+19,-247990.80449616374,7068684.4314735355,Manchester University NHS Foundation Trust,53.4607569,-2.2277393,6.0,12.132827525593784,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN79284836' target='_blank'><div>ISRCTN79284836</div></a></td>
+      <td>Prospective multi-centre observational pilot study to investigate the safet...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN24741445' target='_blank'><div>ISRCTN24741445</div></a></td>
+      <td>A feasibility study to inform the design of a national multi-centre RCT to ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN57825419' target='_blank'><div>ISRCTN57825419</div></a></td>
+      <td>Manchester Adolescent Varicocele Study</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>126</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN57422410' target='_blank'><div>ISRCTN57422410</div></a></td>
+      <td>Manchester vascular access study</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>250</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN89369862' target='_blank'><div>ISRCTN89369862</div></a></td>
+      <td>Ureteric stent in kidney transplantation</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN35880386' target='_blank'><div>ISRCTN35880386</div></a></td>
+      <td>Management of endometriotic ovarian cyst before in vitro fertilisation (IVF...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+20,-155375.22567792505,6609823.30843706,University of Southampton,50.9351092,-1.3957594,5.0,11.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN45492194' target='_blank'><div>ISRCTN45492194</div></a></td>
+      <td>Development of a new penile clamp to prevent urine leakage in men who have ...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>18</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN20193337' target='_blank'><div>ISRCTN20193337</div></a></td>
+      <td>Urinary catheter valve feasibility study</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN42028483' target='_blank'><div>ISRCTN42028483</div></a></td>
+      <td>MultICath: A multicentre randomised controlled trial comparing mixed cathet...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>520</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN40920200' target='_blank'><div>ISRCTN40920200</div></a></td>
+      <td>ATTACK: Aspirin to prevent a first heart attack or stroke in people with ch...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>25210</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN68472863' target='_blank'><div>ISRCTN68472863</div></a></td>
+      <td>The MultICath Study</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>500</td>
+    </tr>
+  </tbody>
+</table>"
+21,-248674.7959753939,7069823.728924356,University of Manchester,53.4668498,-2.2338837,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13500331' target='_blank'><div>ISRCTN13500331</div></a></td>
+      <td>Evaluation of a new technology for the treatment of bladder leakage in wome...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>330</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN84283190' target='_blank'><div>ISRCTN84283190</div></a></td>
+      <td>The Online Parent Information and Support project</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>120</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN45433299' target='_blank'><div>ISRCTN45433299</div></a></td>
+      <td>Evaluation of the BRIGHT intervention in primary care</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>500</td>
+    </tr>
+  </tbody>
+</table>"
+23,-12912.726973547356,6712273.366431493,King's College London,51.5114864,-0.115997,5.0,11.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN31697115' target='_blank'><div>ISRCTN31697115</div></a></td>
+      <td>Kidney function assessment with finger-prick blood tests in different peopl...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>415</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN24299618' target='_blank'><div>ISRCTN24299618</div></a></td>
+      <td>A prospective cohort study of laparoscopic sleeve gastrectomy for weight lo...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN57302613' target='_blank'><div>ISRCTN57302613</div></a></td>
+      <td>Developing effective interventions to help women to manage menopausal sympt...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN87161129' target='_blank'><div>ISRCTN87161129</div></a></td>
+      <td>Warning Time and Patient Centred Goals with Transdermal Oxybutynin</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>96</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN91238019' target='_blank'><div>ISRCTN91238019</div></a></td>
+      <td>Cognitive Behavioural Therapy (CBT) for Renal Fatigue (BReF): A feasibility...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>25</td>
+    </tr>
+  </tbody>
+</table>"
+24,15764.29818165693,6831813.114718777,Cambridge University Hospitals NHS Foundation Trust,52.1749083,0.1416131,6.0,12.132827525593784,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16948923' target='_blank'><div>ISRCTN16948923</div></a></td>
+      <td>The use of rituximab in the treatment of nephrotic glomerulonephritis (TURI...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>112</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11708741' target='_blank'><div>ISRCTN11708741</div></a></td>
+      <td>Does the introduction of a national pre-implantation biopsy histopathology ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>2306</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15087616' target='_blank'><div>ISRCTN15087616</div></a></td>
+      <td>Natural vitamin D (cholecalciferol) versus standard care in patients receiv...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>4200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN86060133' target='_blank'><div>ISRCTN86060133</div></a></td>
+      <td>The incidence of hand ischaemia following different techniques for formatio...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>70</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN35882618' target='_blank'><div>ISRCTN35882618</div></a></td>
+      <td>Does prophylactic N-AcetylCysteine decrease incidence of contrast nephropat...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15821205' target='_blank'><div>ISRCTN15821205</div></a></td>
+      <td>Improving function of transplanted kidneys</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+  </tbody>
+</table>"
+25,-169496.79326589472,7133925.454259742,Leeds Teaching Hospitals NHS Trust,53.8082553,-1.5226156,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN91800263' target='_blank'><div>ISRCTN91800263</div></a></td>
+      <td>Dequalinium versus usual care antibiotics for the treatment of bacterial va...</td>
+      <td>Drug</td>
+      <td>Mixed</td>
+      <td>904</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12650766' target='_blank'><div>ISRCTN12650766</div></a></td>
+      <td>VITAL: VITamin E and Anaemia in dialysis patients in Leeds</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>348</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN94424606' target='_blank'><div>ISRCTN94424606</div></a></td>
+      <td>Steroid Avoidance in Leeds with Alemtuzumab or Mycophenolate Mofetil (MMF) ...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+  </tbody>
+</table>"
+27,-289762.31908948265,6702786.54140238,University of Bristol,51.4584172,-2.6029792,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10989132' target='_blank'><div>ISRCTN10989132</div></a></td>
+      <td>ASK: Improving access to kidney transplantation</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11669964' target='_blank'><div>ISRCTN11669964</div></a></td>
+      <td>TreatIng urinary symptoms in men in primary healthcare using non-pharmacolo...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>840</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN99959692' target='_blank'><div>ISRCTN99959692</div></a></td>
+      <td>Immunosuppression for progressive membranous nephropathy</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+  </tbody>
+</table>"
+29,-436122.32467356534,7587553.341563439,University of Stirling,56.1460908,-3.9177535,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN62510577' target='_blank'><div>ISRCTN62510577</div></a></td>
+      <td>Treatment of prolapse with self-care pessary: the TOPSY trial</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>330</td>
+    </tr>
+  </tbody>
+</table>"
+31,-19466.828973237527,6710008.469052965,Imperial College London,51.49882220000001,-0.1748735,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17462005' target='_blank'><div>ISRCTN17462005</div></a></td>
+      <td>Trial comparing two diabetes medications (Gliclazide versus Linagliptin) on...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN99963322' target='_blank'><div>ISRCTN99963322</div></a></td>
+      <td>Sexual health and lifestyle advice: a clinical trial</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>320</td>
+    </tr>
+  </tbody>
+</table>"
+32,-353869.5329130179,6707828.061418129,Cardiff University,51.48662710000001,-3.1788641,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10327305' target='_blank'><div>ISRCTN10327305</div></a></td>
+      <td>Primary care management of lower urinary tract symptoms in men</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>880</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN65200697' target='_blank'><div>ISRCTN65200697</div></a></td>
+      <td>Point of care testing for urinary tract infection in primary care: Stages 3...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>614</td>
+    </tr>
+  </tbody>
+</table>"
+35,-166122.46572901995,7053444.597670693,Sheffield Teaching Hospitals NHS Foundation Trust,53.379171,-1.4923035,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN93999549' target='_blank'><div>ISRCTN93999549</div></a></td>
+      <td>A quality improvement collaborative to scale up shared haemodialysis care f...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>586</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN09586238' target='_blank'><div>ISRCTN09586238</div></a></td>
+      <td>Impact of Physiotherapy on sexual function in women with Stress Urinary Inc...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>114</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN37431579' target='_blank'><div>ISRCTN37431579</div></a></td>
+      <td>Nutritional outcomes for a randomised investigation of nutritional suppleme...</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+38,-119174.39443873038,6594754.863302128,Portsmouth Hospitals NHS Trust,50.8497257,-1.0705618,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN58101486' target='_blank'><div>ISRCTN58101486</div></a></td>
+      <td>Improving care for diabetic patients on dialysis: can using a new device to...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN37028168' target='_blank'><div>ISRCTN37028168</div></a></td>
+      <td>Superficial Endometriosis Treatment trial</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>32</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN33329207' target='_blank'><div>ISRCTN33329207</div></a></td>
+      <td>Can increased dietary fibre reduce laxative requirement in PD patients?</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11322777' target='_blank'><div>ISRCTN11322777</div></a></td>
+      <td>Using the oxygen content of venous blood to guide the fluid balance of haem...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>"
+39,-129447.76968141648,6981081.701203768,Nottingham University Hospitals NHS Trust,52.9896393,-1.1628491,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN82322174' target='_blank'><div>ISRCTN82322174</div></a></td>
+      <td>Assessment of the sympathetic nervous system blockade of the upper limb aft...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+40,-27641.675967183288,6757107.276128035,University of Hertfordshire,51.7614518,-0.2483094,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17478654' target='_blank'><div>ISRCTN17478654</div></a></td>
+      <td>Wrapped: A study to identify which strategies work best to recruit and reta...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>230</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN66772971' target='_blank'><div>ISRCTN66772971</div></a></td>
+      <td>Erectile dysfunction and statins: a randomised controlled trial (RCT)</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>170</td>
+    </tr>
+  </tbody>
+</table>"
+46,12791.555707818878,6837144.079148998,University of Cambridge,52.2042666,0.1149085,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15821205' target='_blank'><div>ISRCTN15821205</div></a></td>
+      <td>Improving function of transplanted kidneys</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+  </tbody>
+</table>"
+51,-180404.27772398654,7355467.414859356,MDNA Life Sciences,54.967017,-1.6205992,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13298303' target='_blank'><div>ISRCTN13298303</div></a></td>
+      <td>Investigation of the diagnostic accuracy of a new blood test for endometrio...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>600</td>
+    </tr>
+  </tbody>
+</table>"
+61,-13441.40549922277,6714129.541447256,Great Ormond Street Hospital for Children NHS Foundation Trust,51.5218626,-0.1207462,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN78749497' target='_blank'><div>ISRCTN78749497</div></a></td>
+      <td>Myocardial stunning during paediatric dialysis and the effects of cooling t...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN90413758' target='_blank'><div>ISRCTN90413758</div></a></td>
+      <td>Vitamin D levels in chronic kidney disease (CKD)</td>
+      <td>Supplement</td>
+      <td>Child</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+71,-117082.70120672479,7159956.564079147,University of York,53.9461089,-1.0517718,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN89754756' target='_blank'><div>ISRCTN89754756</div></a></td>
+      <td>Stage 3 Pilot Study: a decision tool to improve the management of urinary i...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>150</td>
+    </tr>
+  </tbody>
+</table>"
+76,-4494.468781033024,6714523.953950477,Queen Mary University of London,51.5240671,-0.0403745,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN95031194' target='_blank'><div>ISRCTN95031194</div></a></td>
+      <td>Kidney injury after major surgery</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1500</td>
+    </tr>
+  </tbody>
+</table>"
+82,-258694.8637167799,7073682.91178754,Salford Royal NHS Foundation Trust,53.487482,-2.3238955,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN34171966' target='_blank'><div>ISRCTN34171966</div></a></td>
+      <td>The UK Calciphylaxis Study</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>"
+84,-252923.78301532974,6983633.7531679515,Keele University,53.00343729999999,-2.272053000000001,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11342007' target='_blank'><div>ISRCTN11342007</div></a></td>
+      <td>Bio-impedance spectroscopy to maintain renal output</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>516</td>
+    </tr>
+  </tbody>
+</table>"
+93,-355024.71753287787,7547378.240693045,University of Edinburgh,55.9445158,-3.1892413,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN23968812' target='_blank'><div>ISRCTN23968812</div></a></td>
+      <td>The effect of a single dose of mifepristone given midcycle on the pattern o...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>400</td>
+    </tr>
+  </tbody>
+</table>"
+96,-233940.7708129778,7793869.012440783,University of Aberdeen,57.16475999999999,-2.1015257,11.0,15.898961024049783,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN93264234' target='_blank'><div>ISRCTN93264234</div></a></td>
+      <td>Adjustable anchored Single-Incision Mini-Slings versus standard tension-fre...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>600</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN86784244' target='_blank'><div>ISRCTN86784244</div></a></td>
+      <td>Vault or uterine prolapse surgery evaluation: the VUE study</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>800</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN69423238' target='_blank'><div>ISRCTN69423238</div></a></td>
+      <td>Spontaneous Urinary Stone Passage ENabled by Drugs</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>1200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN86612493' target='_blank'><div>ISRCTN86612493</div></a></td>
+      <td>A randomised trial of transvaginal tape (TVT) versus transvaginal obturator...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN60695184' target='_blank'><div>ISRCTN60695184</div></a></td>
+      <td>Surgery for women with pelvic organ prolapse</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>4500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN75198618' target='_blank'><div>ISRCTN75198618</div></a></td>
+      <td>Types of urethral catheter for reducing symptomatic urinary tract infection...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>5700</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN86144697' target='_blank'><div>ISRCTN86144697</div></a></td>
+      <td>Feasibility study for a randomised controlled trial evaluating the use of a...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>70</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN87696430' target='_blank'><div>ISRCTN87696430</div></a></td>
+      <td>Conservative treatment for urinary incontinence in men after prostate surge...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>800</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN92289221' target='_blank'><div>ISRCTN92289221</div></a></td>
+      <td>Therapeutic interventions for stones of the ureter</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN98970319' target='_blank'><div>ISRCTN98970319</div></a></td>
+      <td>PUrE: percutaneous nephrolithotomy, flexible ureterorenoscopy and extracorp...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>1044</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN49013893' target='_blank'><div>ISRCTN49013893</div></a></td>
+      <td>Hysterectomy or Endometrial AbLation Trial for Heavy menstrual bleeding</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>648</td>
+    </tr>
+  </tbody>
+</table>"
+99,-15299.205349122634,6714813.893758078,University College London Hospitals NHS Foundation Trust,51.5256876,-0.1374351,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10094287' target='_blank'><div>ISRCTN10094287</div></a></td>
+      <td>Can we predict the risk of cancer or precancer in postmenopausal women with...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>"
+111,-165484.2154285567,7112240.3443078045,Mid Yorkshire Hospitals NHS Trust,53.6930697,-1.48657,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18805212' target='_blank'><div>ISRCTN18805212</div></a></td>
+      <td>Method comparison and bias estimation of point of care creatinine test</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN62796844' target='_blank'><div>ISRCTN62796844</div></a></td>
+      <td>Streamlining cross-sectional imaging pathways (SCIPs)</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>300</td>
+    </tr>
+  </tbody>
+</table>"
+113,-357660.29553300125,7544532.960093776,NHS Lothian,55.9301999,-3.2129171,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN20426843' target='_blank'><div>ISRCTN20426843</div></a></td>
+      <td>Ulipristal acetate versus conventional management of heavy menstrual bleedi...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>220</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN44202346' target='_blank'><div>ISRCTN44202346</div></a></td>
+      <td>Purified fatty acids for endometriosis clinical trial</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN44202346' target='_blank'><div>ISRCTN44202346</div></a></td>
+      <td>Purified fatty acids for endometriosis clinical trial</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+135,-216069.76240000725,6882322.40535961,University Hospitals Birmingham NHS Foundation Trust,52.4522917,-1.9409877,8.0,13.920296742201792,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14161293' target='_blank'><div>ISRCTN14161293</div></a></td>
+      <td>Metronidazole versus lactic acId for treating bacterial vaginosis</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>1900</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14567609' target='_blank'><div>ISRCTN14567609</div></a></td>
+      <td>Drug eluting balloon venoplasty in arterio-­venous fistula stenosis</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>186</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN27017084' target='_blank'><div>ISRCTN27017084</div></a></td>
+      <td>Steroid tape to treat overgranulating peritoneal dialysis catheter exit sit...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN37237454' target='_blank'><div>ISRCTN37237454</div></a></td>
+      <td>The Acute Care QUAliTy in chronIc Kidney disease study</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>4000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN06015076' target='_blank'><div>ISRCTN06015076</div></a></td>
+      <td>Safety and efficacy study of high cut-off haemodialysis as a maintenance th...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>45</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11937028' target='_blank'><div>ISRCTN11937028</div></a></td>
+      <td>Proteinuria in Glomerulonephritis: Myfortic® (GloMY)</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN35254279' target='_blank'><div>ISRCTN35254279</div></a></td>
+      <td>Phosphate binding with sevelamer in stage 3 chronic kidney disease</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN86213744' target='_blank'><div>ISRCTN86213744</div></a></td>
+      <td>A placebo controlled, flexible dose, randomised controlled trial to assess ...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+144,-10435.022275266989,6704483.374082789,King's College Hospital NHS Foundation Trust,51.4679138,-0.0937394,7.0,13.090619551221675,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN91211980' target='_blank'><div>ISRCTN91211980</div></a></td>
+      <td>ORCHARD: Study to prevent progression of kidney disease in pregnancy</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>114</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12609324' target='_blank'><div>ISRCTN12609324</div></a></td>
+      <td>The GFR-Exercise feasibility study</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>90</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN83508514' target='_blank'><div>ISRCTN83508514</div></a></td>
+      <td>Clinical value and cost-effectiveness of intra-dialytic exercise for the im...</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>360</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN43892586' target='_blank'><div>ISRCTN43892586</div></a></td>
+      <td>The effect of resistance training and aerobic exercise on vascular stiffnes...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN40720691' target='_blank'><div>ISRCTN40720691</div></a></td>
+      <td>The effect of fesoterodine flexible dosing regimen on the sexual function o...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>130</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN75436772' target='_blank'><div>ISRCTN75436772</div></a></td>
+      <td>A placebo controlled trial of medical treatment of submucous fibroids with ...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN91238019' target='_blank'><div>ISRCTN91238019</div></a></td>
+      <td>Cognitive Behavioural Therapy (CBT) for Renal Fatigue (BReF): A feasibility...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>25</td>
+    </tr>
+  </tbody>
+</table>"
+149,-177353.03274524107,7362485.32925916,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,55.0031904,-1.5931894,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13787486' target='_blank'><div>ISRCTN13787486</div></a></td>
+      <td>Infant kidney dialysis and filtration: the I-KID study</td>
+      <td>Procedure/Surgery</td>
+      <td>Neonate</td>
+      <td>95</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17503205' target='_blank'><div>ISRCTN17503205</div></a></td>
+      <td>Stopping Eculizumab Treatment Safely in atypical Haemolytic Uraemic Syndro...</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN70219762' target='_blank'><div>ISRCTN70219762</div></a></td>
+      <td>Alternatives to prophylactic antibiotics for the treatment of recurrent uri...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>240</td>
+    </tr>
+  </tbody>
+</table>"
+155,-15570.479816236762,6722139.742367595,The Whittington Hospital NHS Trust,51.5666133,-0.139872,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN31004502' target='_blank'><div>ISRCTN31004502</div></a></td>
+      <td>A randomised, double blind, placebo controlled, crossover trial of the adju...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN20127069' target='_blank'><div>ISRCTN20127069</div></a></td>
+      <td>A randomised, double-blind validation of the significance of occult pyuria ...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>"
+158,-15264.796494518432,6714519.337898758,Joint UCLH and UCL Biomedical Research Unit,51.5240413,-0.137126,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17222161' target='_blank'><div>ISRCTN17222161</div></a></td>
+      <td>Changes in male fertility during chronic illness</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN96450750' target='_blank'><div>ISRCTN96450750</div></a></td>
+      <td>Investigating the regulation of male fertility</td>
+      <td>Genetic</td>
+      <td>Adult</td>
+      <td>2000</td>
+    </tr>
+  </tbody>
+</table>"
+159,-660575.3464181816,7281622.521041222,Queen's University Belfast,54.5844087,-5.9340493,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN06857980' target='_blank'><div>ISRCTN06857980</div></a></td>
+      <td>Palliative care in chronic kidney disease study (PACKS study)</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>244</td>
+    </tr>
+  </tbody>
+</table>"
+160,-120620.79084650557,7164473.235862453,York Teaching Hospital NHS Foundation Trust,53.9699817,-1.083555,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN80601080' target='_blank'><div>ISRCTN80601080</div></a></td>
+      <td>Does bicarbonate of soda affect water balance when it is prescribed to trea...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>"
+165,-240641.65869322798,7790655.39373056,NHS Grampian,57.1491035,-2.1617208,7.0,13.090619551221675,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN97865475' target='_blank'><div>ISRCTN97865475</div></a></td>
+      <td>Preventing recurrence of endometriosis by means of long acting protestogen ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN43442156' target='_blank'><div>ISRCTN43442156</div></a></td>
+      <td>Blind versus visual endometrial ablation: a randomised controlled trial</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>220</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN95516133' target='_blank'><div>ISRCTN95516133</div></a></td>
+      <td>Microwave endometrial ablation without endometrial preparation in the outpa...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>210</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN45882141' target='_blank'><div>ISRCTN45882141</div></a></td>
+      <td>A randomised comparison of microwave endometrial ablation with transcervica...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>263</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN28184453' target='_blank'><div>ISRCTN28184453</div></a></td>
+      <td>Microwave endometrial ablation versus thermal balloon endometrial ablation ...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>320</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN98970319' target='_blank'><div>ISRCTN98970319</div></a></td>
+      <td>PUrE: percutaneous nephrolithotomy, flexible ureterorenoscopy and extracorp...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>1044</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN49013893' target='_blank'><div>ISRCTN49013893</div></a></td>
+      <td>Hysterectomy or Endometrial AbLation Trial for Heavy menstrual bleeding</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>648</td>
+    </tr>
+  </tbody>
+</table>"
+167,-165690.47931304757,7053851.281417849,University of Sheffield,53.3813502,-1.4884229,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN33248724' target='_blank'><div>ISRCTN33248724</div></a></td>
+      <td>The effect of lycopene on semen quality in healthy men</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>"
+168,-135503.29394574172,7275518.420243988,South Tees Hospitals NHS Foundation Trust,54.5526198,-1.2172468,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN68116915' target='_blank'><div>ISRCTN68116915</div></a></td>
+      <td>Self Testing Own Kidneys (STOK) Study</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>15</td>
+    </tr>
+  </tbody>
+</table>"
+170,-1001468.4330811219,7038940.278687847,Vysera Biomedical Ltd,53.3013772,-8.996343999999999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN97824963' target='_blank'><div>ISRCTN97824963</div></a></td>
+      <td>Developmental trial of a new continence device (Vysera valve) that allows b...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>14</td>
+    </tr>
+  </tbody>
+</table>"
+171,-322518.53566531563,7021901.093929497,Countess of Chester NHS Foundation Trust,53.2098063,-2.8972333,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN71562338' target='_blank'><div>ISRCTN71562338</div></a></td>
+      <td>Randomised controlled trial of transvaginal tension-free vaginal tape-obtur...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>320</td>
+    </tr>
+  </tbody>
+</table>"
+173,-15190.167907890624,6714706.415329954,UCLH,51.5250869,-0.1364556,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13247829' target='_blank'><div>ISRCTN13247829</div></a></td>
+      <td>A website to help choose contraception - a pilot trial</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+  </tbody>
+</table>"
+175,-170931.6235785765,6850118.244859828,inFertile Life,52.275636,-1.5355049,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12487925' target='_blank'><div>ISRCTN12487925</div></a></td>
+      <td>Enhanced fertility programme: developing an accessible, safe and cost-effec...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>128</td>
+    </tr>
+  </tbody>
+</table>"
+176,-126341.62192981176,6914257.025768537,University Hospitals of Leicester NHS Trust,52.62677189999999,-1.1349461,19.0,19.294828004351505,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN84422148' target='_blank'><div>ISRCTN84422148</div></a></td>
+      <td>Investigating lifestyle factors in kidney disease</td>
+      <td>Not Specified</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN73106458' target='_blank'><div>ISRCTN73106458</div></a></td>
+      <td>A trial to investigate how newly-discovered factors in the blood may affect...</td>
+      <td>Not Specified</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11596292' target='_blank'><div>ISRCTN11596292</div></a></td>
+      <td>The effect of exercise and the immune system on muscle wasting in chronic k...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>65</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17122775' target='_blank'><div>ISRCTN17122775</div></a></td>
+      <td>Participant acceptability of exercise in kidney disease</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>24</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18308813' target='_blank'><div>ISRCTN18308813</div></a></td>
+      <td>Physical activity, depression and illness perceptions in CKD</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>44</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN87066351' target='_blank'><div>ISRCTN87066351</div></a></td>
+      <td>Physical activity opinions in kidney patients</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>1900</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18221837' target='_blank'><div>ISRCTN18221837</div></a></td>
+      <td>An investigation into why people with kidney disease lose muscle and feel w...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11615440' target='_blank'><div>ISRCTN11615440</div></a></td>
+      <td>Cardiovascular risk and physical condition in kidney patients</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>70</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN38935454' target='_blank'><div>ISRCTN38935454</div></a></td>
+      <td>Physical activity, immune function and inflammation in kidney patients - a ...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>12</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN69257140' target='_blank'><div>ISRCTN69257140</div></a></td>
+      <td>Programmes to encourage exercise and active lifestyles in kidney disease</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>12</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12942806' target='_blank'><div>ISRCTN12942806</div></a></td>
+      <td>Self-Management Programme for Improving Health through Physical Activity in...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>15</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN57743249' target='_blank'><div>ISRCTN57743249</div></a></td>
+      <td>Motivation after eXercise in Chronic Kidney Disease</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN36489137' target='_blank'><div>ISRCTN36489137</div></a></td>
+      <td>Exercise Training in Chronic Kidney Disease</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>54</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN34320210' target='_blank'><div>ISRCTN34320210</div></a></td>
+      <td>The effect of acidosis correction and exercise on tissue wasting and immune...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN45049889' target='_blank'><div>ISRCTN45049889</div></a></td>
+      <td>A study to determine whether a single hormone injection a month before inse...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>90</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN34759911' target='_blank'><div>ISRCTN34759911</div></a></td>
+      <td>Colposuspension or tension free vaginal tape with anterior repair for urina...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>31</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN34377436' target='_blank'><div>ISRCTN34377436</div></a></td>
+      <td>Randomised trial of tension-free vaginal tape and transobturator tape as tr...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN33718483' target='_blank'><div>ISRCTN33718483</div></a></td>
+      <td>A randomised controlled double blind trial comparing thermal balloon endome...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>220</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN26091555' target='_blank'><div>ISRCTN26091555</div></a></td>
+      <td>Randomised trial of detrusor botulinum toxin injection compared to placebo ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>240</td>
+    </tr>
+  </tbody>
+</table>"
+177,-39883.53602946498,7121862.737414685,Hull and East Yorkshire Hospitals NHS Trust,53.74422029999999,-0.3582799,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN62869767' target='_blank'><div>ISRCTN62869767</div></a></td>
+      <td>Angiotensin converting enzyme inhibitor (ACEi)/angiotensin receptor blocker...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>410</td>
+    </tr>
+  </tbody>
+</table>"
+181,-5087.089222220096,6719298.333728903,Homerton University Hospital NHS Foundation Trust,51.5507442,-0.04569810000000001,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN90191687' target='_blank'><div>ISRCTN90191687</div></a></td>
+      <td>Comparison of day 5 and day 6 embryo transfers for slow growing embryos for...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+182,-163237.19811104724,6967189.358494778,Derby Hospitals NHS Foundation Trust,52.91445119999999,-1.4663847,6.0,12.132827525593784,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14552440' target='_blank'><div>ISRCTN14552440</div></a></td>
+      <td>Does salbutamol reduce the pain of kidney stones when used alongside normal...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>118</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN25405995' target='_blank'><div>ISRCTN25405995</div></a></td>
+      <td>The AKI Risk In Derby (ARID) study</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1084</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN84743489' target='_blank'><div>ISRCTN84743489</div></a></td>
+      <td>Consequences of chronic kidney disease (CKD) in older people</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN50938901' target='_blank'><div>ISRCTN50938901</div></a></td>
+      <td>How painful is a urethral swab?</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>121</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN00206012' target='_blank'><div>ISRCTN00206012</div></a></td>
+      <td>Study to compare the effects of cooled dialysis fluid with a normal tempera...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>102</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16275275' target='_blank'><div>ISRCTN16275275</div></a></td>
+      <td>Is it feasible to compare two methods of needle insertions for use in kidne...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+200,-6553.233707661985,6713415.407300916,Barts and The London NHS Trust,51.5178708,-0.0588687,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17109689' target='_blank'><div>ISRCTN17109689</div></a></td>
+      <td>Correction of acidosis in chronic kidney disease (CKD)</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>134</td>
+    </tr>
+  </tbody>
+</table>"
+211,-8838316.925423292,5413116.088182444,University of Toronto,43.66090860000001,-79.39595179999999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13470139' target='_blank'><div>ISRCTN13470139</div></a></td>
+      <td>The effect of starting dialysis earlier than usual in patients with damaged...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>580</td>
+    </tr>
+  </tbody>
+</table>"
+212,-34645.84266815066,6733799.160923695,Royal National Orthopaedic Hospital,51.6316725,-0.3112289,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17182264' target='_blank'><div>ISRCTN17182264</div></a></td>
+      <td>Non-invasive neuromodulation for bladder suppression following spinal cord ...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>12</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN99373118' target='_blank'><div>ISRCTN99373118</div></a></td>
+      <td>Neuromodulation for reducing neurogenic detrusor overactivity in spinal cor...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>"
+225,-18348.64695211725,6719793.827113766,Royal Free Hospital,51.5535119,-0.1648287,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN70556765' target='_blank'><div>ISRCTN70556765</div></a></td>
+      <td>Pilot study to review alternative assessments of adequacy of dialysis in pa...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN51182136' target='_blank'><div>ISRCTN51182136</div></a></td>
+      <td>Calcium balance during haemodiafiltration and high flux haemodialysis</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>15</td>
+    </tr>
+  </tbody>
+</table>"
+230,-424589.458448146,6730584.303541024,Abertawe Bro Morgannwg University Health Board,51.613743,-3.814152,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12542398' target='_blank'><div>ISRCTN12542398</div></a></td>
+      <td>Immune response and pathogen-fertility</td>
+      <td>Procedure/Surgery</td>
+      <td>Mixed</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+241,-301253.7522004287,7130511.553403362,Lancashire Teaching Hospitals NHS Trust,53.79014249999999,-2.7062085,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN87708989' target='_blank'><div>ISRCTN87708989</div></a></td>
+      <td>The EX-FRAIL CKD Trial</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+243,-473103.4053556791,7531948.501503367,Glasgow Caledonian University,55.8668183,-4.249960199999999,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN57746448' target='_blank'><div>ISRCTN57746448</div></a></td>
+      <td>A study comparing pelvic floor muscle exercises with and without the use of...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>600</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN35911035' target='_blank'><div>ISRCTN35911035</div></a></td>
+      <td>A multi-centre randomised controlled trial of a pelvic floor muscle trainin...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>556</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN44995705' target='_blank'><div>ISRCTN44995705</div></a></td>
+      <td>A feasibility study for an RCT of a pelvic floor muscle training interventi...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+252,-168536.9632204279,6966485.703142064,Derby Teaching Hospitals NHS Foundation Trust,52.9106394,-1.5139933,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN89178223' target='_blank'><div>ISRCTN89178223</div></a></td>
+      <td>Pre-emptive rehabilitation to prevent dialysis-associated morbidity</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>"
+261,-12328.266251035431,6713290.612888939,Physiotherapy Research Foundation,51.51717319999999,-0.1107467,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN08203457' target='_blank'><div>ISRCTN08203457</div></a></td>
+      <td>Surgery and physiotherapy for prolapse to avoid recurrence: a feasibility s...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16772662' target='_blank'><div>ISRCTN16772662</div></a></td>
+      <td>Group treatment: an acceptable and effective method of physiotherapy provis...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>150</td>
+    </tr>
+  </tbody>
+</table>"
+265,-255275.07329986515,7055247.716972181,University Hospital of South Manchester NHS Foundation Trust,53.38883209999999,-2.293175,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN71629284' target='_blank'><div>ISRCTN71629284</div></a></td>
+      <td>Does N-Acetylcysteine (Parvolex®) prophylaxis reduce the incidence of renal...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>224</td>
+    </tr>
+  </tbody>
+</table>"
+266,-301491.69761199935,7125682.763301293,University of Central Lancashire,53.7645095,-2.708346,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN42406364' target='_blank'><div>ISRCTN42406364</div></a></td>
+      <td>Randomised controlled open outcome study of treatment of menopausal symptom...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>45</td>
+    </tr>
+  </tbody>
+</table>"
+274,-329470.4044695083,7057130.743059783,Liverpool Women's NHS Foundation Trust,53.398919,-2.959683,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN79955797' target='_blank'><div>ISRCTN79955797</div></a></td>
+      <td>3D/4D ultrasound guided embryo transfer vs clinical touch technique</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>314</td>
+    </tr>
+  </tbody>
+</table>"
+311,-288496.8279861956,6709650.019043383,Southmead Hospital,51.4968176,-2.5916111,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN56164274' target='_blank'><div>ISRCTN56164274</div></a></td>
+      <td>Urodynamics for prostate surgery trial: randomised evaluation of assessment...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>800</td>
+    </tr>
+  </tbody>
+</table>"
+319,-69241.04609993947,6739353.738278273,Buckinghamshire Healthcare NHS Trust,51.6626341,-0.6220029,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11666384' target='_blank'><div>ISRCTN11666384</div></a></td>
+      <td>Prevention of recurrent symptomatic urinary tract Infections in participant...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>48</td>
+    </tr>
+  </tbody>
+</table>"
+324,-10270.803762448752,6710352.092322927,Guy's and St Thomas' NHS Foundation Trust,51.5007438,-0.09226419999999999,8.0,13.920296742201792,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN25006406' target='_blank'><div>ISRCTN25006406</div></a></td>
+      <td>The Hypertension Optimal Treatment in Children with Chronic Kidney Disease ...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN57577615' target='_blank'><div>ISRCTN57577615</div></a></td>
+      <td>Botulinum toxin-A in sensory urgency</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>64</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN09184595' target='_blank'><div>ISRCTN09184595</div></a></td>
+      <td>Transplant ureteric stent removal: early versus standard removal</td>
+      <td>Procedure/Surgery</td>
+      <td>Mixed</td>
+      <td>176</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16995641' target='_blank'><div>ISRCTN16995641</div></a></td>
+      <td>The effects of botulinum toxin A on patients with idiopathic detrusor overa...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>32</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN19254894' target='_blank'><div>ISRCTN19254894</div></a></td>
+      <td>Video information versus approved leaflets - which is better to provide inf...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14333327' target='_blank'><div>ISRCTN14333327</div></a></td>
+      <td>Renoprotective effects of ursodeoxycholic acid</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN23895878' target='_blank'><div>ISRCTN23895878</div></a></td>
+      <td>Understanding barriers and outcomes of unspecified kidney donation</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1085</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN71141360' target='_blank'><div>ISRCTN71141360</div></a></td>
+      <td>A randomised trial of antibiotics in laparoscopic donor nephrectomy</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>284</td>
+    </tr>
+  </tbody>
+</table>"
+342,-341979.164142916,7537246.623139722,Kidney Research UK,55.8935149,-3.0720511,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13701669' target='_blank'><div>ISRCTN13701669</div></a></td>
+      <td>A programme to spread glomerular filtration rate (eGFR) graph surveillance ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>"
+371,76558.06509783225,6719856.023267924,Southend University Hospital NHS Foundation Trust,51.5538593,0.6877327999999999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18080970' target='_blank'><div>ISRCTN18080970</div></a></td>
+      <td>Piloting an intervention for improving treatment adherence</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>270</td>
+    </tr>
+  </tbody>
+</table>"
+375,-216286.62390002166,6882505.053271695,Birmingham Women's NHS Foundation Trust,52.4532916,-1.9429358,6.0,12.132827525593784,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13024603' target='_blank'><div>ISRCTN13024603</div></a></td>
+      <td>Endometriosis and cultural diversity: improving services for minority ethni...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>130</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN46820623' target='_blank'><div>ISRCTN46820623</div></a></td>
+      <td>Accuracy of Bladder Ultrasound Study (BUS)</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>600</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN99859966' target='_blank'><div>ISRCTN99859966</div></a></td>
+      <td>Postal questionnaire data collection pilot study - APPEAL pilot study</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>800</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN65868569' target='_blank'><div>ISRCTN65868569</div></a></td>
+      <td>A randomised controlled trial of outpatient polyp treatment for abnormal ut...</td>
+      <td>Procedure/Surgery</td>
+      <td>Not Specified</td>
+      <td>480</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN65868569' target='_blank'><div>ISRCTN65868569</div></a></td>
+      <td>A randomised controlled trial of outpatient polyp treatment for abnormal ut...</td>
+      <td>Procedure/Surgery</td>
+      <td>Not Specified</td>
+      <td>480</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10833250' target='_blank'><div>ISRCTN10833250</div></a></td>
+      <td>APPEAL: Antenatal preventative pelvic floor muscle exercise intervention le...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>1400</td>
+    </tr>
+  </tbody>
+</table>"
+421,-337883.95384756214,7650883.162850727,Tayside Medical Science Centre,56.4617082,-3.0352632,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN09486651' target='_blank'><div>ISRCTN09486651</div></a></td>
+      <td>Bicarbonate for Chronic Kidney Disease and Acidosis</td>
+      <td>Drug</td>
+      <td>Senior</td>
+      <td>380</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN21444964' target='_blank'><div>ISRCTN21444964</div></a></td>
+      <td>Vitamin K therapy to improve vascular health in patients with chronic kidne...</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>166</td>
+    </tr>
+  </tbody>
+</table>"
+422,-246367.07613955488,6983716.517076816,University Hospital of North Staffordshire,53.00388470000001,-2.2131531,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN50928834' target='_blank'><div>ISRCTN50928834</div></a></td>
+      <td>Helium thermocoagulation versus electrodiathermy for endometriosis</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>158</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN95439739' target='_blank'><div>ISRCTN95439739</div></a></td>
+      <td>Bioimpedance as a tool for fluid management in peritoneal dialysis patients</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+431,-13140.0525056963,6713423.546911105,Medical Research Council (MRC),51.5179163,-0.1180391,9.0,14.652123889719707,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN72253427' target='_blank'><div>ISRCTN72253427</div></a></td>
+      <td>Assisting decision making in menorrhagia in primary care: a randomised cont...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14969683' target='_blank'><div>ISRCTN14969683</div></a></td>
+      <td>A randomised trial of open versus laparoscopic colposuspension for genuine ...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>290</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN28188933' target='_blank'><div>ISRCTN28188933</div></a></td>
+      <td>Evaluation of the efficacy of pelvic floor therapies in the management of g...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>345</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN33778440' target='_blank'><div>ISRCTN33778440</div></a></td>
+      <td>Evaluation of the efficacy of topical oestrogen therapy in the management o...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>432</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN58226681' target='_blank'><div>ISRCTN58226681</div></a></td>
+      <td>Evaluation of the efficacy of oxybutynin and imipramine in the management o...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>345</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN63718836' target='_blank'><div>ISRCTN63718836</div></a></td>
+      <td>Women's International Study of long Duration Oestrogen after Menopause</td>
+      <td>Other</td>
+      <td>Senior</td>
+      <td>34000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN94747416' target='_blank'><div>ISRCTN94747416</div></a></td>
+      <td>Evaluation of services for urinary dysfunction</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>6000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN34841617' target='_blank'><div>ISRCTN34841617</div></a></td>
+      <td>Trial of management of borderline and other low-grade abnormal smears</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>4483</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN55999335' target='_blank'><div>ISRCTN55999335</div></a></td>
+      <td>A randomised placebo-controlled trial of the effect of hormone replacement ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>14240</td>
+    </tr>
+  </tbody>
+</table>"
+452,-19356.355510574285,6697166.855111391,St George's University of London,51.4269516,-0.1738811,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN56023731' target='_blank'><div>ISRCTN56023731</div></a></td>
+      <td>Comparing intervention to lower systolic blood pressure in chronic kidney d...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>105</td>
+    </tr>
+  </tbody>
+</table>"
+469,-16190.217685381074,6713894.853152007,Academy of Medical Sciences,51.5205508,-0.1454392,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN63390185' target='_blank'><div>ISRCTN63390185</div></a></td>
+      <td>Effect of reduced temperature haemodialysis on myocardial function</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>"
+476,-483175.13647274225,7531076.236309555,University of Glasgow; NHS Greater Glasgow and Clyde,55.8624213,-4.3404361,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13630682' target='_blank'><div>ISRCTN13630682</div></a></td>
+      <td>A randomised controlled trial comparing taurolidine-citrate with heparin fo...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>164</td>
+    </tr>
+  </tbody>
+</table>"
+497,-222468.7518212261,6575987.011656948,Albert Medical Devices,50.74316100000001,-1.9984708,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN62635454' target='_blank'><div>ISRCTN62635454</div></a></td>
+      <td>Usability study with the Melio leg bag system</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>12</td>
+    </tr>
+  </tbody>
+</table>"
+509,-15251.482683419557,6709696.86734591,Dainippon Sumitomo Pharma Europe Ltd,51.4970796,-0.1370064,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN63089812' target='_blank'><div>ISRCTN63089812</div></a></td>
+      <td>A ten week randomised, double-blind, parallel-group, placebo-controlled pha...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>710</td>
+    </tr>
+  </tbody>
+</table>"
+517,-247660.28579604943,7068794.784471063,Manchester Royal Infirmary,53.4613471,-2.2247702,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN19907894' target='_blank'><div>ISRCTN19907894</div></a></td>
+      <td>Restorelle for laparoscopic sacrocolpopexy for pelvic organ prolapse</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>260</td>
+    </tr>
+  </tbody>
+</table>"
+539,100071.21284606724,6783843.872626643,Colchester Hospital University NHS Foundation Trust,51.9098628,0.8989549999999998,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN74075972' target='_blank'><div>ISRCTN74075972</div></a></td>
+      <td>Modified Pilates as an adjunct treatment for urinary incontinence</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+548,529550.2463439188,6855836.858013119,Reckitt Benckiser Healthcare,52.307057,4.7570308,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN42521357' target='_blank'><div>ISRCTN42521357</div></a></td>
+      <td>Dysmenorrhoea Efficacy Study: fixed dose combination tablets of ibuprofen a...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>85</td>
+    </tr>
+  </tbody>
+</table>"
+584,-178520.02836307418,7380838.199322613,Femeda Ltd,55.0976351,-1.6036727,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN74508432' target='_blank'><div>ISRCTN74508432</div></a></td>
+      <td>Evaluation of a new technology to treat urinary incontinence in women</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>"
+586,56501.99979592778,6688618.839517667,Rochester Medical Ltd,51.3790482,0.5075661,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN97985616' target='_blank'><div>ISRCTN97985616</div></a></td>
+      <td>Comparison of FemSoft® urethral insert and vaginal tampons for stress urina...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>90</td>
+    </tr>
+  </tbody>
+</table>"
+620,-481013.30082958785,7535282.289562013,NHS Greater Glasgow and Clyde,55.883619,-4.321016,7.0,13.090619551221675,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN99591655' target='_blank'><div>ISRCTN99591655</div></a></td>
+      <td>The Cardiac Uraemic fibrosis Detection in DiaLysis patiEnts study</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>35</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN80588541' target='_blank'><div>ISRCTN80588541</div></a></td>
+      <td>Access Arteriovenous Grafts (AVGs) vs Tunnelled Central Venous Catheters (T...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>118</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN25169606' target='_blank'><div>ISRCTN25169606</div></a></td>
+      <td>The impact of dietary salt intake and kidney disease on aldosterone regulat...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>48</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12301736' target='_blank'><div>ISRCTN12301736</div></a></td>
+      <td>Renal Arterial Spin Labelling in chronic Kidney disease</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>36</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN31272864' target='_blank'><div>ISRCTN31272864</div></a></td>
+      <td>Oxidative stress in patients with chronic kidney disease</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN35753246' target='_blank'><div>ISRCTN35753246</div></a></td>
+      <td>Study of Effects of native renal Artery denervation in Post TRANSPLANT Hype...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10199225' target='_blank'><div>ISRCTN10199225</div></a></td>
+      <td>Does giving kidney donors intravenous fluids the night before kidney donati...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>86</td>
+    </tr>
+  </tbody>
+</table>"
+628,1111548.8266223758,7092571.3368578525,BioGeneriX AG (Germany),53.5883198,9.985213,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN74772901' target='_blank'><div>ISRCTN74772901</div></a></td>
+      <td>Efficacy, safety and tolerability of XM17 compared to Gonal-f® in women und...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>280</td>
+    </tr>
+  </tbody>
+</table>"
+696,68512.93870650789,6636618.516212043,Benenden Hospital Trust,51.0865545,0.6154622,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN69747860' target='_blank'><div>ISRCTN69747860</div></a></td>
+      <td>Mesh vs anterior repair surgery for vaginal prolapse</td>
+      <td>Other</td>
+      <td>All</td>
+      <td>250</td>
+    </tr>
+  </tbody>
+</table>"
+713,-195425.77433942718,7131847.11684441,Plethora Solutions Limited,53.7972294,-1.7555396,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN71916001' target='_blank'><div>ISRCTN71916001</div></a></td>
+      <td>A phase III, multicentre, randomised, double-blind, placebo-controlled stud...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN32847177' target='_blank'><div>ISRCTN32847177</div></a></td>
+      <td>A multi-centre, double-blind, placebo-controlled, multiple-dose crossover p...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>105</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN71613863' target='_blank'><div>ISRCTN71613863</div></a></td>
+      <td>A double-blind, placebo-controlled, pilot study to assess the safety and pr...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>88</td>
+    </tr>
+  </tbody>
+</table>"
+731,-330037.36576806754,7059192.934205879,Royal Liverpool and Broadgreen University Hospitals NHS Trust,53.4099629,-2.9647761,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN74336394' target='_blank'><div>ISRCTN74336394</div></a></td>
+      <td>A randomised prospective trial of daclizumab induction followed by sirolimu...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>80</td>
+    </tr>
+  </tbody>
+</table>"
+737,-8346724.93338362,4883692.214505692,Hoechst Marion Roussel (Shire Pharmaceuticals) (France),40.1220368,-74.9799058,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN68321818' target='_blank'><div>ISRCTN68321818</div></a></td>
+      <td>Safety and efficacy of subcutaneous HMR4396 for the management of anaemia i...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>865</td>
+    </tr>
+  </tbody>
+</table>"
+745,-692107.3491579137,7050330.346165724,Plethora Solutions Ltd,53.36247969999999,-6.2173061,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN97355181' target='_blank'><div>ISRCTN97355181</div></a></td>
+      <td>A double-blind, placebo-controlled study to assess the safety and prelimina...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN39853232' target='_blank'><div>ISRCTN39853232</div></a></td>
+      <td>A phase II, multi-centre, double-blind, placebo-controlled, 2-way cross-ove...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN81647490' target='_blank'><div>ISRCTN81647490</div></a></td>
+      <td>An open-label, escalating dose, proof of concept study to determine the eff...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>18</td>
+    </tr>
+  </tbody>
+</table>"
+750,15683.324384053903,6831704.256147514,Cambridge University Hospitals NHS Foundation Trust and University of Cambridge,52.1743086,0.1408857,6.0,12.132827525593784,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN51276329' target='_blank'><div>ISRCTN51276329</div></a></td>
+      <td>Randomised controlled trial of early versus late ureteric stent removal pos...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>350</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN51276329' target='_blank'><div>ISRCTN51276329</div></a></td>
+      <td>Randomised controlled trial of early versus late ureteric stent removal pos...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>350</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN36033877' target='_blank'><div>ISRCTN36033877</div></a></td>
+      <td>SONAR: Surveillance Of arterioveNous fistulAe using ultRasound</td>
+      <td>Other</td>
+      <td>Other</td>
+      <td>347</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN91315246' target='_blank'><div>ISRCTN91315246</div></a></td>
+      <td>Quality assessment of kidneys by ex-vivo warm perfusion prior to transplant...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>90</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN36033877' target='_blank'><div>ISRCTN36033877</div></a></td>
+      <td>SONAR: Surveillance Of arterioveNous fistulAe using ultRasound</td>
+      <td>Other</td>
+      <td>Other</td>
+      <td>347</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN91315246' target='_blank'><div>ISRCTN91315246</div></a></td>
+      <td>Quality assessment of kidneys by ex-vivo warm perfusion prior to transplant...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>90</td>
+    </tr>
+  </tbody>
+</table>"
+767,-288524.7357825375,6709301.66923343,Bristol Urological Institute,51.4948694,-2.5918618,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN61712514' target='_blank'><div>ISRCTN61712514</div></a></td>
+      <td>Oral desmopressin for treatment of adults with overactive bladder syndrome</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>90</td>
+    </tr>
+  </tbody>
+</table>"
+789,-255917.67619241838,7092951.410925824,Bury Primary Care Trust,53.5903464,-2.2989476,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15411586' target='_blank'><div>ISRCTN15411586</div></a></td>
+      <td>The measurement of urinary incontinence via survey questionnaires</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1430</td>
+    </tr>
+  </tbody>
+</table>"
+834,-36524.615110115985,6634006.366566513,Action Medical Research,51.0718125,-0.3281062,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN56654882' target='_blank'><div>ISRCTN56654882</div></a></td>
+      <td>An evaluation of pelvic floor muscle exercises and electrical muscle stimul...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>27</td>
+    </tr>
+  </tbody>
+</table>"
+835,-215483.25339886473,6882060.140512691,Clinical Trials Unit University of Birmingham,52.4508559,-1.935719,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN01911755' target='_blank'><div>ISRCTN01911755</div></a></td>
+      <td>Randomised Trial of Rectal Prolapse Surgery</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1000</td>
+    </tr>
+  </tbody>
+</table>"
+863,-234420.2572556717,7793977.822882793,NHS Grampian; University of Aberdeen,57.16529,-2.105833,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN92289221' target='_blank'><div>ISRCTN92289221</div></a></td>
+      <td>Therapeutic interventions for stones of the ureter</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1000</td>
+    </tr>
+  </tbody>
+</table>"
+888,-247896.73952644342,7068752.789571091,Central Manchester University Hospitals NHS Foundation Trust; University of Birmingham,53.46112249999999,-2.2268943,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16645249' target='_blank'><div>ISRCTN16645249</div></a></td>
+      <td>Prednisolone in nephrotic syndrome</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>224</td>
+    </tr>
+  </tbody>
+</table>"
+896,-13399.827669411483,6589252.163352294,Brighton and Sussex University Hospitals NHS Trust,50.8185063,-0.1203727,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN51790058' target='_blank'><div>ISRCTN51790058</div></a></td>
+      <td>Azithromycin for the treatment of pelvic inflammatory disease (PID)</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>396</td>
+    </tr>
+  </tbody>
+</table>"
+901,-14506.298880100305,6713958.059816249,London School of Hygiene and Tropical Medicine,51.5209041,-0.1303123,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN02304709' target='_blank'><div>ISRCTN02304709</div></a></td>
+      <td>Can text messages increase safer sexual health behaviours in young people?</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>300</td>
+    </tr>
+  </tbody>
+</table>"
+910,-322779.80251020746,7059567.397364316,Liverpool Heart and Chest Hospital NHS Trust,53.41196799999999,-2.8995803,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN49513454' target='_blank'><div>ISRCTN49513454</div></a></td>
+      <td>Outcomes of intraoperative haemofiltration for patients with impaired kidne...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15027862' target='_blank'><div>ISRCTN15027862</div></a></td>
+      <td>A randomised trial comparing two strategies for preventing kidney failure a...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN48429978' target='_blank'><div>ISRCTN48429978</div></a></td>
+      <td>The impact of continuous haemofiltration during cardiopulmonary bypass on c...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>196</td>
+    </tr>
+  </tbody>
+</table>"
+914,-355137.86266332015,6711434.414331684,Cardiff and Vale University Health Board,51.50679580000001,-3.1902577,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN66441193' target='_blank'><div>ISRCTN66441193</div></a></td>
+      <td>Improving transplant opportunities for patients who are sensitised</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>38</td>
+    </tr>
+  </tbody>
+</table>"
+925,-13162.39432749851,6710238.324521498,King’s College London and Guy’s and St Thomas’ NHS Foundation Trust,51.5001076,-0.1182398,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN88354940' target='_blank'><div>ISRCTN88354940</div></a></td>
+      <td>Effect of continuous haemofiltration on essential micronutrient levels</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14333327' target='_blank'><div>ISRCTN14333327</div></a></td>
+      <td>Renoprotective effects of ursodeoxycholic acid</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14333327' target='_blank'><div>ISRCTN14333327</div></a></td>
+      <td>Renoprotective effects of ursodeoxycholic acid</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+948,991556.9908988521,5717986.497352623,Humanitas Mater Domini - Castellanza,45.609474,8.907308,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN55546280' target='_blank'><div>ISRCTN55546280</div></a></td>
+      <td>The role of  surgical treatment on lower pole renal stones</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>176</td>
+    </tr>
+  </tbody>
+</table>"
+959,135840.41389166008,6912499.007155243,Norfolk and Norwich University Hospitals NHS Foundation Trust,52.6171847,1.2202752,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN21012555' target='_blank'><div>ISRCTN21012555</div></a></td>
+      <td>A randomised trial of group-delivered cognitive behavioural therapy versus ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN64319581' target='_blank'><div>ISRCTN64319581</div></a></td>
+      <td>Shock wave therapy (SWT) vs observation only (sham therapy) for Peyronie's ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+  </tbody>
+</table>"
+977,-10399013.36996187,5606101.471630919,"American Medical Systems, Inc (USA)",44.9019676,-93.4159265,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16280334' target='_blank'><div>ISRCTN16280334</div></a></td>
+      <td>A Randomised Study Comparing Laser Therapy (Greenlight XPS™ Laser System) V...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>252</td>
+    </tr>
+  </tbody>
+</table>"
+1036,-8586685.70641141,4725857.435661976,National Institute of Child Health and Development (NICHD) (USA),39.0292164,-77.13551009999999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN58283041' target='_blank'><div>ISRCTN58283041</div></a></td>
+      <td>Suppression of breakthrough bleeding in levonorgestrel intrauterine system ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>150</td>
+    </tr>
+  </tbody>
+</table>"
+1073,-1001631.1821766617,7039289.329872052,Bio-Medical Research Ltd (Ireland),53.303251,-8.997805999999999,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN27961345' target='_blank'><div>ISRCTN27961345</div></a></td>
+      <td>A study to look at the safety and performance of Neuromuscular Electrical S...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN68358784' target='_blank'><div>ISRCTN68358784</div></a></td>
+      <td>Safety and performance of Neuromuscular Electrical Stimulation (NMES) with ...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>140</td>
+    </tr>
+  </tbody>
+</table>"
+1084,-470404.80939181766,7511951.835509154,Controlled Therapeutics (Scotland) Ltd,55.765892,-4.2257183,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15152571' target='_blank'><div>ISRCTN15152571</div></a></td>
+      <td>A phase I, single-centre, open study to assess the pharmacokinetic profile ...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN33336878' target='_blank'><div>ISRCTN33336878</div></a></td>
+      <td>A phase II, double-blind, randomised, placebo-controlled, multi-centre tria...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>177</td>
+    </tr>
+  </tbody>
+</table>"
+1139,-10201323.746797927,5151862.013525951,DuPont Nutrition and Biosciences (Finland),41.9391049,-91.64005039999999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN29375062' target='_blank'><div>ISRCTN29375062</div></a></td>
+      <td>Vaginal colonization by orally consumed lactobacilli in healthy women</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+1143,-9336105.349938737,4060367.8287692782,North Georgia College and State University (USA),34.2347566,-83.8676613,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN32312996' target='_blank'><div>ISRCTN32312996</div></a></td>
+      <td>Inko-Outside multicentre, controlled, randomised, blinded study for the tre...</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>243</td>
+    </tr>
+  </tbody>
+</table>"
+1170,-697226.631976871,7289374.060094775,Randox Laboratories,54.6247414,-6.263293399999999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN88709771' target='_blank'><div>ISRCTN88709771</div></a></td>
+      <td>Neutrophil Gelatinase Associated Lipocalin as a predictor of acute kidney i...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>300</td>
+    </tr>
+  </tbody>
+</table>"
+1192,-14827.812031357762,6709852.226837003,Department of Health,51.49794844005473,-0.13320050177820006,39.0,23.762988356530677,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN74263041' target='_blank'><div>ISRCTN74263041</div></a></td>
+      <td>A randomised, controlled trial to compare the effects of systemic HRT (tibo...</td>
+      <td>Other</td>
+      <td>Senior</td>
+      <td>120</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN93119886' target='_blank'><div>ISRCTN93119886</div></a></td>
+      <td>The Effect of Subcutaneous Ghrelin On Appetite And Nutritional Status In Pa...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>12</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN35452453' target='_blank'><div>ISRCTN35452453</div></a></td>
+      <td>Exploring end stage renal disease patients' beliefs about phosphate binding...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>90</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN27307877' target='_blank'><div>ISRCTN27307877</div></a></td>
+      <td>Trisodium citrate versus heparin for locking tunnelled haemodialysis cathet...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN32121550' target='_blank'><div>ISRCTN32121550</div></a></td>
+      <td>A randomised controlled crossover trial of biofeedback control of end-dialy...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>32</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN97327133' target='_blank'><div>ISRCTN97327133</div></a></td>
+      <td>The effect on participants, and experience of a psychological group therapy...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN53395152' target='_blank'><div>ISRCTN53395152</div></a></td>
+      <td>Effect of patient's position on the results of urodynamic investigation</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN71503461' target='_blank'><div>ISRCTN71503461</div></a></td>
+      <td>The effect of nerve sparing anterior resection on erectile function and the...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN49628875' target='_blank'><div>ISRCTN49628875</div></a></td>
+      <td>A comparison between the use of transurethral resection of the prostate (TU...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>210</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN49166896' target='_blank'><div>ISRCTN49166896</div></a></td>
+      <td>Abdominal versus vaginal surgery in the management of post hysterectomy vau...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN51782640' target='_blank'><div>ISRCTN51782640</div></a></td>
+      <td>Post-operative levonorgestrel-releasing intra uterine system (IUS) treatmen...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN64387412' target='_blank'><div>ISRCTN64387412</div></a></td>
+      <td>Randomisation to topical corticosteroids or placebo for the treatment of th...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN33984512' target='_blank'><div>ISRCTN33984512</div></a></td>
+      <td>A randomised trial of hysteroscopic resection and ultrasound guided avulsio...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN77877146' target='_blank'><div>ISRCTN77877146</div></a></td>
+      <td>Effect of chemotherapy and ionising radiation on sperm nuclear and mitochon...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN37726767' target='_blank'><div>ISRCTN37726767</div></a></td>
+      <td>A prospective randomised controlled trial of pelvic floor exercises plus bi...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN24675122' target='_blank'><div>ISRCTN24675122</div></a></td>
+      <td>A randomised controlled trial comparing spontaneous ureteric stone passage ...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>206</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN57337356' target='_blank'><div>ISRCTN57337356</div></a></td>
+      <td>To assess two methods of surgical repair of posterior vaginal wall prolapse</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN73816767' target='_blank'><div>ISRCTN73816767</div></a></td>
+      <td>A randomised controlled trial of day-care versus outpatient thermal balloon...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>73</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN42638345' target='_blank'><div>ISRCTN42638345</div></a></td>
+      <td>A pilot study to assess the feasibility of a RCT to compare the effectivene...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>25</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN43562564' target='_blank'><div>ISRCTN43562564</div></a></td>
+      <td>The investigation of functional impact of acute renal colic with assessment...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN06126383' target='_blank'><div>ISRCTN06126383</div></a></td>
+      <td>Antibiotics with catheter withdrawal (a randomised double blind placebo con...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>150</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN75596544' target='_blank'><div>ISRCTN75596544</div></a></td>
+      <td>A randomised controlled cluster trial to evaluate an electronic system for ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN80628681' target='_blank'><div>ISRCTN80628681</div></a></td>
+      <td>Does furosemide improve renal function in patients with renal impairment?</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN86755640' target='_blank'><div>ISRCTN86755640</div></a></td>
+      <td>Does furosemide improve renal function in patients stopping renal replaceme...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN08546448' target='_blank'><div>ISRCTN08546448</div></a></td>
+      <td>Prospective randomised controlled trial of room temperature versus body tem...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN27633617' target='_blank'><div>ISRCTN27633617</div></a></td>
+      <td>A pilot study to evaluate the effectiveness of dynamic lumbo-pelvic stabili...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN48913477' target='_blank'><div>ISRCTN48913477</div></a></td>
+      <td>Randomized controlled clinical trial of oral versus intravenous iron supple...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15520615' target='_blank'><div>ISRCTN15520615</div></a></td>
+      <td>Study of the effects of gentamicin locking on bacteraemia rates and functio...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN74583385' target='_blank'><div>ISRCTN74583385</div></a></td>
+      <td>Study into myocardial stunning during haemodialysis and the effect of biofe...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN62102246' target='_blank'><div>ISRCTN62102246</div></a></td>
+      <td>A pilot study of the introduction of nurse led screening clinics using an e...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN80834259' target='_blank'><div>ISRCTN80834259</div></a></td>
+      <td>A randomised controlled trial of light therapy in the treatment of premenst...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN66668243' target='_blank'><div>ISRCTN66668243</div></a></td>
+      <td>A prospective, randomised, double-blind placebo-controlled trial of effects...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN61444699' target='_blank'><div>ISRCTN61444699</div></a></td>
+      <td>Recognition and expertise in the prevention of anal incontinence from ruptu...</td>
+      <td>Procedure/Surgery</td>
+      <td>All</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN46815629' target='_blank'><div>ISRCTN46815629</div></a></td>
+      <td>A randomised placebo-controlled study of Tamsulosin, Voltarol and the combi...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN84633360' target='_blank'><div>ISRCTN84633360</div></a></td>
+      <td>Permixon (R) 320 mg once a day open label treatment for patients participat...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN85619876' target='_blank'><div>ISRCTN85619876</div></a></td>
+      <td>A multi-centre randomised controlled trial assessing the costs and benefits...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN53810731' target='_blank'><div>ISRCTN53810731</div></a></td>
+      <td>Randomised evaluation of alternative electrosurgical modalities to treat bl...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>530</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN23921450' target='_blank'><div>ISRCTN23921450</div></a></td>
+      <td>A randomised controlled trial comparing the efficacy, safety and cost-effec...</td>
+      <td>Other</td>
+      <td>Senior</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN03525333' target='_blank'><div>ISRCTN03525333</div></a></td>
+      <td>Development and randomised controlled trial of dipsticks and diagnostic alg...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>309</td>
+    </tr>
+  </tbody>
+</table>"

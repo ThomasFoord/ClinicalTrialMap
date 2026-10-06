@@ -1,0 +1,141 @@
+,merclng,merclat,locations,latitude,longitude,number,radius,HTML
+4,-14921.27567787947,6714611.999375625,University College London,51.52455920000001,-0.1340401,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Condition category</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11622375' target='_blank'><div>ISRCTN11622375</div></a></td>
+      <td>WT1 TCR gene therapy for leukaemia: a phase I/II safety and toxicity study ...</td>
+      <td>Cancer</td>
+      <td>Adult</td>
+      <td>18</td>
+    </tr>
+  </tbody>
+</table>"
+11,-214903.77978954036,6882052.998582191,University of Birmingham,52.4508168,-1.9305135,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Condition category</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14218060' target='_blank'><div>ISRCTN14218060</div></a></td>
+      <td>Tessa Jowell BRAIN MATRIX - Platform Study</td>
+      <td>Cancer</td>
+      <td>Adult</td>
+      <td>1000</td>
+    </tr>
+  </tbody>
+</table>"
+19,-247990.80449616374,7068684.4314735355,Manchester University NHS Foundation Trust,53.4607569,-2.2277393,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Condition category</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13704894' target='_blank'><div>ISRCTN13704894</div></a></td>
+      <td>Pharmacogenetics to avoid loss of hearing</td>
+      <td>Neonatal Diseases</td>
+      <td>Neonate</td>
+      <td>900</td>
+    </tr>
+  </tbody>
+</table>"
+21,-248674.7959753939,7069823.728924356,University of Manchester,53.4668498,-2.2338837,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Condition category</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN28639298' target='_blank'><div>ISRCTN28639298</div></a></td>
+      <td>Investigating genes in patients with polymyositis and dermatomyositis</td>
+      <td>Musculoskeletal Diseases</td>
+      <td>Adult</td>
+      <td>600</td>
+    </tr>
+  </tbody>
+</table>"
+31,-19466.828973237527,6710008.469052965,Imperial College London,51.49882220000001,-0.1748735,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Condition category</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12394803' target='_blank'><div>ISRCTN12394803</div></a></td>
+      <td>DIAMONDS-SEARCH study: Designing new tests that can diagnose the causes of ...</td>
+      <td>Infections and Infestations</td>
+      <td>All</td>
+      <td>5000</td>
+    </tr>
+  </tbody>
+</table>"
+76,-4494.468781033024,6714523.953950477,Queen Mary University of London,51.5240671,-0.0403745,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Condition category</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14947350' target='_blank'><div>ISRCTN14947350</div></a></td>
+      <td>Are there genetic markers that can help to predict which patients who have ...</td>
+      <td>Signs and Symptoms</td>
+      <td>Adult</td>
+      <td>1000</td>
+    </tr>
+  </tbody>
+</table>"
+158,-15264.796494518432,6714519.337898758,Joint UCLH and UCL Biomedical Research Unit,51.5240413,-0.137126,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Condition category</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN96450750' target='_blank'><div>ISRCTN96450750</div></a></td>
+      <td>Investigating the regulation of male fertility</td>
+      <td>Urological and Genital Diseases</td>
+      <td>Adult</td>
+      <td>2000</td>
+    </tr>
+  </tbody>
+</table>"

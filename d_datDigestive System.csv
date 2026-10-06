@@ -1,0 +1,3679 @@
+,merclng,merclat,locations,latitude,longitude,number,radius,HTML
+0,-139635.47344398804,6755913.94771293,University of Oxford,51.7548164,-1.2543668,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12900952' target='_blank'><div>ISRCTN12900952</div></a></td>
+      <td>LiFT: Liver fibrosis after low-energy treatment in steatohepatitis</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN88261002' target='_blank'><div>ISRCTN88261002</div></a></td>
+      <td>Enteral LactoFerrin In Neonates</td>
+      <td>Drug</td>
+      <td>Neonate</td>
+      <td>2200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN85156844' target='_blank'><div>ISRCTN85156844</div></a></td>
+      <td>Aspirin esomeprazole chemoprevention trial</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>2513</td>
+    </tr>
+  </tbody>
+</table>"
+2,-181976.75458703414,7363080.99091819,Newcastle upon Tyne Hospitals NHS Foundation Trust,55.0062592,-1.634725,7.0,13.090619551221675,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15878562' target='_blank'><div>ISRCTN15878562</div></a></td>
+      <td>Determining the extent of liver scarring in patients with psoriasis using a...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>250</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN93410321' target='_blank'><div>ISRCTN93410321</div></a></td>
+      <td>Does the presence or absence of the gene for PNPLA3 affect response to a ch...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN85177264' target='_blank'><div>ISRCTN85177264</div></a></td>
+      <td>Is a very low calorie diet an acceptable therapy to achieve a target weight...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN48732084' target='_blank'><div>ISRCTN48732084</div></a></td>
+      <td>Environmental factors in the aetiology of AutoImmune Liver Disease</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN03978701' target='_blank'><div>ISRCTN03978701</div></a></td>
+      <td>Rituximab for the treatment of fatigue in primary biliary cirrhosis</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>58</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN26705810' target='_blank'><div>ISRCTN26705810</div></a></td>
+      <td>Resistance exercise and non-alcoholic fatty liver disease</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>28</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN57849521' target='_blank'><div>ISRCTN57849521</div></a></td>
+      <td>Losartan treatment for non-alcoholic steatohepatitis (NASH)</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>214</td>
+    </tr>
+  </tbody>
+</table>"
+4,-14921.27567787947,6714611.999375625,University College London,51.52455920000001,-0.1340401,12.0,16.439593106327717,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN33225996' target='_blank'><div>ISRCTN33225996</div></a></td>
+      <td>A trial of using antibiotics to prevent infection in patients with advanced...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>548</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN62619436' target='_blank'><div>ISRCTN62619436</div></a></td>
+      <td>Prevention of infection in patients with cirrhosis with probiotic Lactobaci...</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>92</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN76899103' target='_blank'><div>ISRCTN76899103</div></a></td>
+      <td>Using imaging to improve the prediction of disabling Crohn's Disease</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>207</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15346028' target='_blank'><div>ISRCTN15346028</div></a></td>
+      <td>Role of AHT#1 food supplement in symptom control of IBS-D</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>37</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14481560' target='_blank'><div>ISRCTN14481560</div></a></td>
+      <td>MRI for early response prediction to anti-TNF therapy</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>156</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10329248' target='_blank'><div>ISRCTN10329248</div></a></td>
+      <td>Optimising the cardiovascular system following liver transplantation surger...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13314752' target='_blank'><div>ISRCTN13314752</div></a></td>
+      <td>A feasibility study of patient navigation in bowel scope screening</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>384</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14174793' target='_blank'><div>ISRCTN14174793</div></a></td>
+      <td>A trial to investigate whether giving albumin to patients with advanced liv...</td>
+      <td>Biological/Vaccine</td>
+      <td>Adult</td>
+      <td>946</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN39062047' target='_blank'><div>ISRCTN39062047</div></a></td>
+      <td>Periodontitis Vascular Dysfunction</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>284</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN03982913' target='_blank'><div>ISRCTN03982913</div></a></td>
+      <td>METRIC (Magnetic resonance Enterography or ulTRasound In Crohn's disease)</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>334</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN98310189' target='_blank'><div>ISRCTN98310189</div></a></td>
+      <td>Stent Oesophageal Varices: Effective haemostasis using self-expandable cove...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>136</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN77283008' target='_blank'><div>ISRCTN77283008</div></a></td>
+      <td>Bile salt manipulation in Crohn's disease</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>13</td>
+    </tr>
+  </tbody>
+</table>"
+5,-19154.466482071603,6719549.4513150705,Royal Free London NHS Foundation Trust,51.5521469,-0.1720675,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN36077283' target='_blank'><div>ISRCTN36077283</div></a></td>
+      <td>Ward-based goal-directed fluid therapy (GDFT) in acute pancreatitis</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN94834276' target='_blank'><div>ISRCTN94834276</div></a></td>
+      <td>Randomised study for immunosuppression regimen in liver transplantation</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>110</td>
+    </tr>
+  </tbody>
+</table>"
+7,-173105.45946283842,7133628.765905515,University of Leeds,53.8066815,-1.5550328,6.0,12.132827525593784,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16086699' target='_blank'><div>ISRCTN16086699</div></a></td>
+      <td>MODULATE: a study to evaluate the effectiveness of either amitriptyline, on...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>491</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN48075063' target='_blank'><div>ISRCTN48075063</div></a></td>
+      <td>Amitriptyline at low-dose and titrated for irritable bowel syndrome as seco...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>518</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10693903' target='_blank'><div>ISRCTN10693903</div></a></td>
+      <td>Transcutaneous vagal nerve stimulation & postoperative bowel function</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN35449781' target='_blank'><div>ISRCTN35449781</div></a></td>
+      <td>A study to compare carbon dioxide and a fluid as methods of opening the col...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN74815110' target='_blank'><div>ISRCTN74815110</div></a></td>
+      <td>Enhanced Liver fibrosis (ELF) test to Uncover Cirrhosis as an Indication fo...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN78352529' target='_blank'><div>ISRCTN78352529</div></a></td>
+      <td>The Fistula-In-Ano Trial comparing Surgisis® anal fistula plug versus surge...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>306</td>
+    </tr>
+  </tbody>
+</table>"
+10,-125193.51722956625,6913224.121171489,University of Leicester,52.6211393,-1.1246325,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17240262' target='_blank'><div>ISRCTN17240262</div></a></td>
+      <td>Effect of a 12 week supervised exercise programme 12–24 months after weight...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>52</td>
+    </tr>
+  </tbody>
+</table>"
+11,-214903.77978954036,6882052.998582191,University of Birmingham,52.4508168,-1.9305135,12.0,16.439593106327717,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11093445' target='_blank'><div>ISRCTN11093445</div></a></td>
+      <td>A clinical trial of antibody GSK1070806 in the treatment of patients with m...</td>
+      <td>Biological/Vaccine</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN60945764' target='_blank'><div>ISRCTN60945764</div></a></td>
+      <td>ACCURE-UK 2: the effects of appendix removal on ulcerative colitis</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>272</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN73887615' target='_blank'><div>ISRCTN73887615</div></a></td>
+      <td>Carvedilol versus variceal band ligation in primary prevention of variceal ...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>2630</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN73586959' target='_blank'><div>ISRCTN73586959</div></a></td>
+      <td>Selected mesenchymal stromal cells to reduce liver inflammation</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>56</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN74072945' target='_blank'><div>ISRCTN74072945</div></a></td>
+      <td>A research study looking at faecal transplant as a treatment for ulcerative...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN81826545' target='_blank'><div>ISRCTN81826545</div></a></td>
+      <td>ENDCaP-C test accuracy study</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11233255' target='_blank'><div>ISRCTN11233255</div></a></td>
+      <td>BUTEO: a clinical trial of BTT1023 in patients with primary sclerosing chol...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>59</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16202716' target='_blank'><div>ISRCTN16202716</div></a></td>
+      <td>Alginate formulations for enhancing colonic health</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN56523019' target='_blank'><div>ISRCTN56523019</div></a></td>
+      <td>The feasibility of undertaking Appendicectomy to impact upon the Clinical C...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>48</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN39463479' target='_blank'><div>ISRCTN39463479</div></a></td>
+      <td>LiverMultiscan - replacing liver biopsy</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>360</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN85774727' target='_blank'><div>ISRCTN85774727</div></a></td>
+      <td>Liraglutide Efficacy and Action in Non-Alcoholic Steatohepatitis</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN87644265' target='_blank'><div>ISRCTN87644265</div></a></td>
+      <td>A multicentre randomised controlled trial of C13-Urea Breath testing and He...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>2000</td>
+    </tr>
+  </tbody>
+</table>"
+12,-132804.10798857908,6971867.107989617,University of Nottingham,52.93978269999999,-1.1929996,13.0,16.936926411670825,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14328524' target='_blank'><div>ISRCTN14328524</div></a></td>
+      <td>Investigating the effects of resolving intestinal narrowing in Crohn’s dise...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>14</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN83683687' target='_blank'><div>ISRCTN83683687</div></a></td>
+      <td>Cognitive behavioural therapy - irritable bowel syndrome feasibility study</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN99035319' target='_blank'><div>ISRCTN99035319</div></a></td>
+      <td>Endoscopic Ultrasound Guided Tissue Sampling (The ProCore Study)</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>268</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN70595405' target='_blank'><div>ISRCTN70595405</div></a></td>
+      <td>The E.G. Study</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>150</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10134725' target='_blank'><div>ISRCTN10134725</div></a></td>
+      <td>Helicobacter Eradication Aspirin Trial (HEAT)</td>
+      <td>Drug</td>
+      <td>Senior</td>
+      <td>33000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN76612274' target='_blank'><div>ISRCTN76612274</div></a></td>
+      <td>Mesalazine for the treatment of diarrhoea-predominant irritable bowel syndr...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>108</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN81956288' target='_blank'><div>ISRCTN81956288</div></a></td>
+      <td>The effect of omega-3 in non-alcoholic fatty liver disease</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>58</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10958581' target='_blank'><div>ISRCTN10958581</div></a></td>
+      <td>Randomised controlled trial of mesalazine in symptomatic diverticular disea...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN22664524' target='_blank'><div>ISRCTN22664524</div></a></td>
+      <td>Ondansetron for the treatment of irritable bowel syndrome (IBS) with diarrh...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>150</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10740230' target='_blank'><div>ISRCTN10740230</div></a></td>
+      <td>Evaluation of H. pylori infection in aspirin users - pilot study</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>905</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN99666810' target='_blank'><div>ISRCTN99666810</div></a></td>
+      <td>Controlled Assessment of Salicylate and Azathioprine</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>410</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN48965919' target='_blank'><div>ISRCTN48965919</div></a></td>
+      <td>Hookworm infestation as therapy in Crohn's disease</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>56</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN56331683' target='_blank'><div>ISRCTN56331683</div></a></td>
+      <td>Ciclosporin and azathioprine treatment in severe ulcerative colitis: a doub...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>280</td>
+    </tr>
+  </tbody>
+</table>"
+18,-330095.57472980337,7058225.529810573,University of Liverpool,53.40478239999999,-2.965299,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16935761' target='_blank'><div>ISRCTN16935761</div></a></td>
+      <td>RAPID-I</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>290</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN52263879' target='_blank'><div>ISRCTN52263879</div></a></td>
+      <td>Cattell-Warren versus Blumgart techniques of pancreatico-jejunostomy follow...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>506</td>
+    </tr>
+  </tbody>
+</table>"
+19,-247990.80449616374,7068684.4314735355,Manchester University NHS Foundation Trust,53.4607569,-2.2277393,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN50584992' target='_blank'><div>ISRCTN50584992</div></a></td>
+      <td>A randomised controlled trial of a procalcitonin-based algorithm to guide a...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>260</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN93273484' target='_blank'><div>ISRCTN93273484</div></a></td>
+      <td>Postoperative treatment of perianal abscess cavities: comparing the use of ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>526</td>
+    </tr>
+  </tbody>
+</table>"
+20,-155375.22567792505,6609823.30843706,University of Southampton,50.9351092,-1.3957594,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN40804377' target='_blank'><div>ISRCTN40804377</div></a></td>
+      <td>Liver disease early detection study</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>90</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN44427879' target='_blank'><div>ISRCTN44427879</div></a></td>
+      <td>ACTIB: Assessing Cognitive behavioural Therapy in Irritable Bowel</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>495</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN03563761' target='_blank'><div>ISRCTN03563761</div></a></td>
+      <td>LOCATE - LOcal Care And Treatment Evaluation</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN03482154' target='_blank'><div>ISRCTN03482154</div></a></td>
+      <td>Drug treatment of Laryngopharyngeal Reflux (LPR)</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>1500</td>
+    </tr>
+  </tbody>
+</table>"
+21,-248674.7959753939,7069823.728924356,University of Manchester,53.4668498,-2.2338837,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN40592528' target='_blank'><div>ISRCTN40592528</div></a></td>
+      <td>Patient and family experience of the clinical-care pathway for teduglutide ...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN72962272' target='_blank'><div>ISRCTN72962272</div></a></td>
+      <td>Distributed toothpaste and toothbrushing programme for at-risk children</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>882</td>
+    </tr>
+  </tbody>
+</table>"
+23,-12912.726973547356,6712273.366431493,King's College London,51.5114864,-0.115997,14.0,17.397385131955605,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14054186' target='_blank'><div>ISRCTN14054186</div></a></td>
+      <td>The ADDapt diet in reducing Crohn's disease inflammation</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>154</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN26720438' target='_blank'><div>ISRCTN26720438</div></a></td>
+      <td>Measuring the impact of dietary supplementation with prebiotics on markers ...</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>18</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17917944' target='_blank'><div>ISRCTN17917944</div></a></td>
+      <td>MODIFY Fatigue: a cognitive-behavioral therapy intervention study to improv...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17061468' target='_blank'><div>ISRCTN17061468</div></a></td>
+      <td>Dietary Interventions in inflammatory bowel disease (IBD)</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>52</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN47808000' target='_blank'><div>ISRCTN47808000</div></a></td>
+      <td>Liver immunosuppression free trial (""LIFT""), version 1</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>148</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN98226923' target='_blank'><div>ISRCTN98226923</div></a></td>
+      <td>Fermentable dietary carbohydrates as triggers of functional gut symptoms in...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>32</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN50980108' target='_blank'><div>ISRCTN50980108</div></a></td>
+      <td>Nutrition support in inactive Crohn's disease</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>24</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN02275221' target='_blank'><div>ISRCTN02275221</div></a></td>
+      <td>Dietary interventions for irritable bowel syndrome</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN40517475' target='_blank'><div>ISRCTN40517475</div></a></td>
+      <td>Biogut: a study of nutrient bioaccessibility in ileostomy volunteers</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>12</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN42793297' target='_blank'><div>ISRCTN42793297</div></a></td>
+      <td>The effect of fibre and fluids on gut health in adults</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN62040425' target='_blank'><div>ISRCTN62040425</div></a></td>
+      <td>The effect of a low FODMAP diet on luminal microbiota, fermentation and sym...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN21633644' target='_blank'><div>ISRCTN21633644</div></a></td>
+      <td>Can we prevent Crohn's disease: a National study</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16562415' target='_blank'><div>ISRCTN16562415</div></a></td>
+      <td>Dietary interventions in irritable bowel syndrome</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>69</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN97547683' target='_blank'><div>ISRCTN97547683</div></a></td>
+      <td>Treg Immunotherapy in Crohn’s Disease</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>24</td>
+    </tr>
+  </tbody>
+</table>"
+24,15764.29818165693,6831813.114718777,Cambridge University Hospitals NHS Foundation Trust,52.1749083,0.1416131,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11808228' target='_blank'><div>ISRCTN11808228</div></a></td>
+      <td>PROFILE - personalised medicine in Crohn's disease</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN43717130' target='_blank'><div>ISRCTN43717130</div></a></td>
+      <td>Randomised double blind clinical trial in acute severe colitis: The IASO Tr...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>214</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12730505' target='_blank'><div>ISRCTN12730505</div></a></td>
+      <td>Barretts oesophagus screening trial in a case control study</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1400</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN26350966' target='_blank'><div>ISRCTN26350966</div></a></td>
+      <td>A multi-centre prospective controlled trial comparing calcineurin inhibitor...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>120</td>
+    </tr>
+  </tbody>
+</table>"
+27,-289762.31908948265,6702786.54140238,University of Bristol,51.4584172,-2.6029792,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN33433524' target='_blank'><div>ISRCTN33433524</div></a></td>
+      <td>A randomised control clinical trial of two dental bridges replacing teeth, ...</td>
+      <td>Device</td>
+      <td>Mixed</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+29,-436122.32467356534,7587553.341563439,University of Stirling,56.1460908,-3.9177535,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN27934462' target='_blank'><div>ISRCTN27934462</div></a></td>
+      <td>Can mindfulness-based cognitive therapy (a group self-help program) improve...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+31,-19466.828973237527,6710008.469052965,Imperial College London,51.49882220000001,-0.1748735,7.0,13.090619551221675,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18097249' target='_blank'><div>ISRCTN18097249</div></a></td>
+      <td>The effect of chickpea structures on glucose response and appetite regulati...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>15</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN24883155' target='_blank'><div>ISRCTN24883155</div></a></td>
+      <td>Multicentre Cohort Study in Alcoholic Hepatitis</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10994757' target='_blank'><div>ISRCTN10994757</div></a></td>
+      <td>Rifaximin to reduce infection in decompensated cirrhosis</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>268</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN40384680' target='_blank'><div>ISRCTN40384680</div></a></td>
+      <td>Comparing imaging techniques in the management of liver disease</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN75305839' target='_blank'><div>ISRCTN75305839</div></a></td>
+      <td>Methylnaltrexone for the treatment of opioid induced constipation</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>84</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN44000447' target='_blank'><div>ISRCTN44000447</div></a></td>
+      <td>Study of immunological factors in non-inflammatory bowel disease enterocuta...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>42</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11327221' target='_blank'><div>ISRCTN11327221</div></a></td>
+      <td>Fermentable carbohydrate and gut hormone release</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>15</td>
+    </tr>
+  </tbody>
+</table>"
+35,-166122.46572901995,7053444.597670693,Sheffield Teaching Hospitals NHS Foundation Trust,53.379171,-1.4923035,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN85978758' target='_blank'><div>ISRCTN85978758</div></a></td>
+      <td>Location of lesions responsible for blood loss in the GI tract</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+38,-119174.39443873038,6594754.863302128,Portsmouth Hospitals NHS Trust,50.8497257,-1.0705618,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN76437720' target='_blank'><div>ISRCTN76437720</div></a></td>
+      <td>The DYNAMIC Study - comparing standard stitch repair versus mesh-and-stitch...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN19352730' target='_blank'><div>ISRCTN19352730</div></a></td>
+      <td>Role of vinegar in identifying abnormal cells in Barrett’s oesophagus</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>"
+39,-129447.76968141648,6981081.701203768,Nottingham University Hospitals NHS Trust,52.9896393,-1.1628491,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN42273449' target='_blank'><div>ISRCTN42273449</div></a></td>
+      <td>A multicentre pragmatic clinical investigation to assess the efficacy of Tr...</td>
+      <td>Device</td>
+      <td>Child</td>
+      <td>436</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17508514' target='_blank'><div>ISRCTN17508514</div></a></td>
+      <td>Treatment of Irritable bowel syndrome with diarrhoea using titrated ondanse...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+  </tbody>
+</table>"
+40,-27641.675967183288,6757107.276128035,University of Hertfordshire,51.7614518,-0.2483094,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13021107' target='_blank'><div>ISRCTN13021107</div></a></td>
+      <td>Developing a safe and effective exercise programme for people with Crohn’s ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>45</td>
+    </tr>
+  </tbody>
+</table>"
+43,-659946.2020520652,7285291.2192702135,University of Ulster,54.6035026,-5.928397599999999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18076645' target='_blank'><div>ISRCTN18076645</div></a></td>
+      <td>To determine whether taking low doses of daily folic acid and vitamin B12 c...</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>115</td>
+    </tr>
+  </tbody>
+</table>"
+47,-1925.9607741125849,6701974.45014758,University Hospital Lewisham,51.4538715,-0.0173012,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12813363' target='_blank'><div>ISRCTN12813363</div></a></td>
+      <td>Chin tuck against resistance with feedback: swallowing rehabilitation in fr...</td>
+      <td>Device</td>
+      <td>Senior</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>"
+56,7242.969272617108,6711582.4310722845,University of East London,51.5076234,0.0650647,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN67764449' target='_blank'><div>ISRCTN67764449</div></a></td>
+      <td>Treating people with IBS: a randomised double-blind placebo controlled tria...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+62,-301886.18049152347,7092980.874647756,Wrightington Hospital,53.5905035,-2.7118897,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN76017289' target='_blank'><div>ISRCTN76017289</div></a></td>
+      <td>Quality of life measures in Barrett's Oesophagus care pathways</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>750</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN19604441' target='_blank'><div>ISRCTN19604441</div></a></td>
+      <td>Probiotics for the prevention of antibiotic-associated diarrhoea and Clostr...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>445</td>
+    </tr>
+  </tbody>
+</table>"
+68,-159707.9806346827,6609566.652367846,Southampton University Hospitals NHS Trust,50.93365619999999,-1.4346812,7.0,13.090619551221675,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11094929' target='_blank'><div>ISRCTN11094929</div></a></td>
+      <td>Patient experience of transitioning between two brands of adalimumab (Humir...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>150</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15830435' target='_blank'><div>ISRCTN15830435</div></a></td>
+      <td>Non operative treatment of children with appendicitis vs appendectomy – A f...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>65</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13858956' target='_blank'><div>ISRCTN13858956</div></a></td>
+      <td>Drinking a solution prior to gastroscopy improves the view</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>75</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN74013349' target='_blank'><div>ISRCTN74013349</div></a></td>
+      <td>Refeeding risks in patients requiring nutrition support</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>230</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN88782125' target='_blank'><div>ISRCTN88782125</div></a></td>
+      <td>STOPAH: Steroids or pentoxifyline for alcoholic hepatitis</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>1200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN08109872' target='_blank'><div>ISRCTN08109872</div></a></td>
+      <td>A randomised controlled study of patients seen in a special nurse-led clini...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>186</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN88008850' target='_blank'><div>ISRCTN88008850</div></a></td>
+      <td>A phase III, randomised, multicentre, dose escalation, efficacy and safety ...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+69,-19408.40850446922,6713404.673761457,Imperial College Healthcare NHS Trust,51.5178108,-0.1743487,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN79962781' target='_blank'><div>ISRCTN79962781</div></a></td>
+      <td>Patients-reported-outcome for oesophageal achalasia symptom score</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+71,-117082.70120672479,7159956.564079147,University of York,53.9461089,-1.0517718,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN08827905' target='_blank'><div>ISRCTN08827905</div></a></td>
+      <td>Acupuncture for Irritable Bowel Syndrome (IBS)</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>220</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN32823720' target='_blank'><div>ISRCTN32823720</div></a></td>
+      <td>Acupuncture for irritable bowel syndrome: a pilot for a randomised controll...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+76,-4494.468781033024,6714523.953950477,Queen Mary University of London,51.5240671,-0.0403745,9.0,14.652123889719707,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN98760715' target='_blank'><div>ISRCTN98760715</div></a></td>
+      <td>Subsensory sacral neuromodulation for incontinence</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>90</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11093872' target='_blank'><div>ISRCTN11093872</div></a></td>
+      <td>CapaCiTY Study 2 - Chronic Constipation Treatment Pathway</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11747152' target='_blank'><div>ISRCTN11747152</div></a></td>
+      <td>Waiting list controlled trial of surgical treatment for adults with chronic...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>114</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN21461006' target='_blank'><div>ISRCTN21461006</div></a></td>
+      <td>BBaRTS Children's Healthy Teeth Programme</td>
+      <td>Behavioural</td>
+      <td>Child</td>
+      <td>2000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11791740' target='_blank'><div>ISRCTN11791740</div></a></td>
+      <td>CapaCiTY study 1-chronic constipation treatment pathway</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>394</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN54828633' target='_blank'><div>ISRCTN54828633</div></a></td>
+      <td>Chronic viral hepatitis in ethnic minorities</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>19200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN25945941' target='_blank'><div>ISRCTN25945941</div></a></td>
+      <td>The effect of sacral nerve stimulation on the treatment of patients with co...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN94943190' target='_blank'><div>ISRCTN94943190</div></a></td>
+      <td>Stapled mesh stoma reinforcement technique (SMART) to prevent parastomal he...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>116</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN67277406' target='_blank'><div>ISRCTN67277406</div></a></td>
+      <td>Management of idiopathic anal fistula using collagen</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+80,-477560.7156906854,7533061.006069123,University of Glasgow,55.8724256,-4.2900009,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN32863375' target='_blank'><div>ISRCTN32863375</div></a></td>
+      <td>Symptomatic response to proton pump inhibitor (PPI) in patients with non-ul...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>105</td>
+    </tr>
+  </tbody>
+</table>"
+82,-258694.8637167799,7073682.91178754,Salford Royal NHS Foundation Trust,53.487482,-2.3238955,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12259569' target='_blank'><div>ISRCTN12259569</div></a></td>
+      <td>Dedicated Endoscopy for Barrett's Oesophagus (DEBO) compared to current Bar...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+85,-443046.2745494671,6729773.218704072,Swansea University,51.6092184,-3.9799524,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN22663589' target='_blank'><div>ISRCTN22663589</div></a></td>
+      <td>Comparison of infliximab and ciclosporin in steroid resistant ulcerative co...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>250</td>
+    </tr>
+  </tbody>
+</table>"
+91,-58351.762378592364,7025010.928557642,Lincolnshire Community Health Services NHS Trust,53.2265336,-0.5241828,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN87945798' target='_blank'><div>ISRCTN87945798</div></a></td>
+      <td>Novel management of symptoms in patients with irritable bowel syndrome</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>134</td>
+    </tr>
+  </tbody>
+</table>"
+92,-288970.57034316455,6702900.955636583,University Hospitals Bristol NHS Foundation Trust,51.45905759999999,-2.5958668,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN55784442' target='_blank'><div>ISRCTN55784442</div></a></td>
+      <td>A randomised trial of gum chewing to reduce post-operative ileus</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN93280043' target='_blank'><div>ISRCTN93280043</div></a></td>
+      <td>Risedronate for the prevention of bone loss after steroid therapy for a fla...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN57305201' target='_blank'><div>ISRCTN57305201</div></a></td>
+      <td>Clostridium difficile - adjuvant therapy with high dose VSL#3® will shorten...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>114</td>
+    </tr>
+  </tbody>
+</table>"
+93,-355024.71753287787,7547378.240693045,University of Edinburgh,55.9445158,-3.1892413,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN26269039' target='_blank'><div>ISRCTN26269039</div></a></td>
+      <td>Randomised controlled trial of carvedilol versus variceal band ligation in ...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>152</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN50581876' target='_blank'><div>ISRCTN50581876</div></a></td>
+      <td>Resolution of organ injury in acute pancreatitis</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN89489788' target='_blank'><div>ISRCTN89489788</div></a></td>
+      <td>Randomised controlled trial of 6-Mercaptopurine (6MP) versus placebo to pre...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>234</td>
+    </tr>
+  </tbody>
+</table>"
+95,-179743.21805985976,7357827.800864691,Newcastle University,54.9791871,-1.6146608,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN37389799' target='_blank'><div>ISRCTN37389799</div></a></td>
+      <td>Investigating the effects of an eight-week intervention with beetroot on co...</td>
+      <td>Supplement</td>
+      <td>Senior</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN97558933' target='_blank'><div>ISRCTN97558933</div></a></td>
+      <td>Effects of inulin on bowel habit in older people with a low frequency of de...</td>
+      <td>Other</td>
+      <td>Senior</td>
+      <td>22</td>
+    </tr>
+  </tbody>
+</table>"
+96,-233940.7708129778,7793869.012440783,University of Aberdeen,57.16475999999999,-2.1015257,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN55215960' target='_blank'><div>ISRCTN55215960</div></a></td>
+      <td>A randomised controlled trial comparing surgery with watchful waiting for p...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>430</td>
+    </tr>
+  </tbody>
+</table>"
+97,-174952.83980840005,7362681.212442565,Northumbria University,55.0041996,-1.5716281,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11470370' target='_blank'><div>ISRCTN11470370</div></a></td>
+      <td>Resistance training in adults with Crohn’s disease</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+99,-15299.205349122634,6714813.893758078,University College London Hospitals NHS Foundation Trust,51.5256876,-0.1374351,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN58887461' target='_blank'><div>ISRCTN58887461</div></a></td>
+      <td>Effectiveness of an electro-stimulator for the treatment of dry mouth in pa...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN24437812' target='_blank'><div>ISRCTN24437812</div></a></td>
+      <td>Study on a novel medical device for the treatment of reduced salivation (dr...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>84</td>
+    </tr>
+  </tbody>
+</table>"
+103,-135684.81150742923,6757635.9259120105,Oxford Radcliffe Hospitals NHS Trust,51.764391,-1.2188774,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN93472653' target='_blank'><div>ISRCTN93472653</div></a></td>
+      <td>Assessing the length of Crohn's resection on disease recurrence</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>190</td>
+    </tr>
+  </tbody>
+</table>"
+113,-357660.29553300125,7544532.960093776,NHS Lothian,55.9301999,-3.2129171,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN50581876' target='_blank'><div>ISRCTN50581876</div></a></td>
+      <td>Resolution of organ injury in acute pancreatitis</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>500</td>
+    </tr>
+  </tbody>
+</table>"
+116,826517.6415513526,5933471.046094108,University Hospital of Bern,46.9472676,7.4247343,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14384676' target='_blank'><div>ISRCTN14384676</div></a></td>
+      <td>Early Diagnosis of Necrotising EnteroColitis: a prospective observational m...</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+135,-216069.76240000725,6882322.40535961,University Hospitals Birmingham NHS Foundation Trust,52.4522917,-1.9409877,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15717783' target='_blank'><div>ISRCTN15717783</div></a></td>
+      <td>Can vitamin D supplementation in patients with Crohn's disease improve symp...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN91288089' target='_blank'><div>ISRCTN91288089</div></a></td>
+      <td>Repeated autologous infusions of stem cells in cirrhosis</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>81</td>
+    </tr>
+  </tbody>
+</table>"
+136,-35927.02981963953,6723721.029958438,North West London Hospitals NHS Trust,51.57544230000001,-0.322738,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15380317' target='_blank'><div>ISRCTN15380317</div></a></td>
+      <td>Identifying potential medical causes of fatigue, pain and urgency in inflam...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN71618461' target='_blank'><div>ISRCTN71618461</div></a></td>
+      <td>A supported online self-management for symptoms of fatigue, pain and urgenc...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>680</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN58994883' target='_blank'><div>ISRCTN58994883</div></a></td>
+      <td>Does the new disposable distal attachment (Endocuff) improve detection of p...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>154</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN77474635' target='_blank'><div>ISRCTN77474635</div></a></td>
+      <td>St Mark's Conventional Endoscopy versus transNasal endoscopy Trial</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>"
+140,-349417.3989343336,7542951.3872058885,ACCORD,55.92224,-3.1388699,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN52352431' target='_blank'><div>ISRCTN52352431</div></a></td>
+      <td>Does intravenous lidocaine speed up gut recovery after large bowel surgery?</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>562</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN67248113' target='_blank'><div>ISRCTN67248113</div></a></td>
+      <td>The PREdiCCt Study: the prognostic effect of environmental factors in Crohn...</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>3100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10368050' target='_blank'><div>ISRCTN10368050</div></a></td>
+      <td>Macrophage therapy for liver cirrhosis</td>
+      <td>Biological/Vaccine</td>
+      <td>Adult</td>
+      <td>74</td>
+    </tr>
+  </tbody>
+</table>"
+144,-10435.022275266989,6704483.374082789,King's College Hospital NHS Foundation Trust,51.4679138,-0.0937394,5.0,11.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN31320381' target='_blank'><div>ISRCTN31320381</div></a></td>
+      <td>Assessment of a multistrain probiotic in inflammatory bowel disease (IBD)</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>160</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN36658311' target='_blank'><div>ISRCTN36658311</div></a></td>
+      <td>A multicentre study of the safety and efficacy of N-acetylcysteine in the t...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>28</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN77512412' target='_blank'><div>ISRCTN77512412</div></a></td>
+      <td>Assessment of the probiotic symprove as a dietary supplement in patients wi...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>186</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11814003' target='_blank'><div>ISRCTN11814003</div></a></td>
+      <td>Trial of faecal microbiota transplantation in cirrhosis</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>32</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11814003' target='_blank'><div>ISRCTN11814003</div></a></td>
+      <td>Trial of faecal microbiota transplantation in cirrhosis</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>32</td>
+    </tr>
+  </tbody>
+</table>"
+149,-177353.03274524107,7362485.32925916,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,55.0031904,-1.5931894,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11126923' target='_blank'><div>ISRCTN11126923</div></a></td>
+      <td>NED: APRIQOT study of performance feedback emailed to endoscopists and endo...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>480</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12554594' target='_blank'><div>ISRCTN12554594</div></a></td>
+      <td>Mechanisms affecting the gut of preterm infants</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>480</td>
+    </tr>
+  </tbody>
+</table>"
+160,-120620.79084650557,7164473.235862453,York Teaching Hospital NHS Foundation Trust,53.9699817,-1.083555,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14696018' target='_blank'><div>ISRCTN14696018</div></a></td>
+      <td>Stratify methotrexate: a study to investigate the liver function of patient...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>2000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN21365636' target='_blank'><div>ISRCTN21365636</div></a></td>
+      <td>Effect of enzyme rich malt extract (erme) in treatment of Irritable Bowel S...</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>110</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN41882213' target='_blank'><div>ISRCTN41882213</div></a></td>
+      <td>Colloid or crystalloid for goal directed fluid therapy in patients undergoi...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>202</td>
+    </tr>
+  </tbody>
+</table>"
+165,-240641.65869322798,7790655.39373056,NHS Grampian,57.1491035,-2.1617208,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN55215960' target='_blank'><div>ISRCTN55215960</div></a></td>
+      <td>A randomised controlled trial comparing surgery with watchful waiting for p...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>430</td>
+    </tr>
+  </tbody>
+</table>"
+167,-165690.47931304757,7053851.281417849,University of Sheffield,53.3813502,-1.4884229,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13277340' target='_blank'><div>ISRCTN13277340</div></a></td>
+      <td>Can vitamin D improve symptoms and quality of life in people with irritable...</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>160</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN75474149' target='_blank'><div>ISRCTN75474149</div></a></td>
+      <td>Does vitamin D alone, or in combination with probiotics improve symptoms of...</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>150</td>
+    </tr>
+  </tbody>
+</table>"
+173,-15190.167907890624,6714706.415329954,UCLH,51.5250869,-0.1364556,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN67022693' target='_blank'><div>ISRCTN67022693</div></a></td>
+      <td>Can a mindfulness-based stress-reduction course improve symptoms and wellbe...</td>
+      <td>Behavioural</td>
+      <td>Mixed</td>
+      <td>86</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN99001055' target='_blank'><div>ISRCTN99001055</div></a></td>
+      <td>Prevalence of metabolic obesity in patients with Barrett's Oesophagus and i...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>460</td>
+    </tr>
+  </tbody>
+</table>"
+176,-126341.62192981176,6914257.025768537,University Hospitals of Leicester NHS Trust,52.62677189999999,-1.1349461,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN55802603' target='_blank'><div>ISRCTN55802603</div></a></td>
+      <td>Conventional open versus laparoscopic surgery for peritoneal dialysis (PD) ...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN48675191' target='_blank'><div>ISRCTN48675191</div></a></td>
+      <td>Epidermal growth factor enema versus mesalazine enema for the treatment of ...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+177,-39883.53602946498,7121862.737414685,Hull and East Yorkshire Hospitals NHS Trust,53.74422029999999,-0.3582799,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18100919' target='_blank'><div>ISRCTN18100919</div></a></td>
+      <td>A pilot study to determine if the Glyco Liver Profile is a suitable blood t...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+187,-322481.12118446006,7060800.051357996,Alder Hey Children's NHS Foundation Trust,53.4185677,-2.8968972,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN78570360' target='_blank'><div>ISRCTN78570360</div></a></td>
+      <td>Is cows’ ""first milk"" an acceptable and effective way of improving gut heal...</td>
+      <td>Supplement</td>
+      <td>Child</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11314352' target='_blank'><div>ISRCTN11314352</div></a></td>
+      <td>Faecal volatiles in children with inflammatory bowel disease</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>286</td>
+    </tr>
+  </tbody>
+</table>"
+189,4368081.896598256,2450793.5983640687,King Abdulaziz University,21.4932675,39.2391473,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14869733' target='_blank'><div>ISRCTN14869733</div></a></td>
+      <td>Effect of consumption of different legumes on blood glucose</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>25</td>
+    </tr>
+  </tbody>
+</table>"
+200,-6553.233707661985,6713415.407300916,Barts and The London NHS Trust,51.5178708,-0.0588687,5.0,11.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN31981313' target='_blank'><div>ISRCTN31981313</div></a></td>
+      <td>ASTIClite EBMT follow-up</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>99</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17160440' target='_blank'><div>ISRCTN17160440</div></a></td>
+      <td>A randomised controlled trial to assess the safety and effectiveness of ste...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>99</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12838218' target='_blank'><div>ISRCTN12838218</div></a></td>
+      <td>Randomised prospective multicentre trial on the effect of early enteral nut...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>66</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN50422530' target='_blank'><div>ISRCTN50422530</div></a></td>
+      <td>A randomised, double-blind comparison of the microbiological, immunological...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>110</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN19271131' target='_blank'><div>ISRCTN19271131</div></a></td>
+      <td>Gut microbiota in patients with Crohn's disease and their relatives</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>72</td>
+    </tr>
+  </tbody>
+</table>"
+225,-18348.64695211725,6719793.827113766,Royal Free Hospital,51.5535119,-0.1648287,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN36702813' target='_blank'><div>ISRCTN36702813</div></a></td>
+      <td>A low FODMAP diet for diarrhoea predominant functional gastrointestinal dis...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+228,-13365.685981585186,6714388.318265595,Institute of Child Health,51.523309,-0.120066,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18282954' target='_blank'><div>ISRCTN18282954</div></a></td>
+      <td>NET (Necrotising Enterocolitis Trial) - primary peritoneal drainage in necr...</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>208</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18282954' target='_blank'><div>ISRCTN18282954</div></a></td>
+      <td>NET (Necrotising Enterocolitis Trial) - primary peritoneal drainage in necr...</td>
+      <td>Other</td>
+      <td>Neonate</td>
+      <td>208</td>
+    </tr>
+  </tbody>
+</table>"
+229,-219718.50361363654,6572151.6785112135,Poole Hospital NHS Foundation Trust,50.7213539,-1.9737649,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN61603070' target='_blank'><div>ISRCTN61603070</div></a></td>
+      <td>Anal Sphinkeeper in patients with faecal incontinence: a multicentre prospe...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>"
+230,-424589.458448146,6730584.303541024,Abertawe Bro Morgannwg University Health Board,51.613743,-3.814152,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN58082603' target='_blank'><div>ISRCTN58082603</div></a></td>
+      <td>Faecal microbiota transplantation in ulcerative colitis</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+232,-242189.5339488103,7790653.321065799,Gastroenterology Endowment Fund,57.1490934,-2.1756256,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14750381' target='_blank'><div>ISRCTN14750381</div></a></td>
+      <td>Causes and outcomes of internal bleeding in the digestive system</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>9000</td>
+    </tr>
+  </tbody>
+</table>"
+265,-255275.07329986515,7055247.716972181,University Hospital of South Manchester NHS Foundation Trust,53.38883209999999,-2.293175,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN59493612' target='_blank'><div>ISRCTN59493612</div></a></td>
+      <td>Gastro-oesphageal reflux in patients with cystic fibrosis and its effect on...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+285,264561.40088158543,6249739.559452767,Enteromed Ltd,48.8517249,2.3765955,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17149988' target='_blank'><div>ISRCTN17149988</div></a></td>
+      <td>Enterosgel® in the treatment of Irritable Bowel Syndrome with Diarrhoea</td>
+      <td>Device</td>
+      <td>Mixed</td>
+      <td>430</td>
+    </tr>
+  </tbody>
+</table>"
+315,-146353.1260395517,6723649.991694975,BeamLine Diagnostics,51.5750457,-1.3147125,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16956408' target='_blank'><div>ISRCTN16956408</div></a></td>
+      <td>Analysis of tissue samples from gastrointestinal disease screening patients...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+  </tbody>
+</table>"
+316,-158938.67389770853,7356319.178399853,South Tyneside District Hospital,54.9714091,-1.4277704,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN30005319' target='_blank'><div>ISRCTN30005319</div></a></td>
+      <td>Does using Endocuff Vision device increase the ability to find bowel polyps...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>3222</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11821044' target='_blank'><div>ISRCTN11821044</div></a></td>
+      <td>The ADENOMA study - a study of a device to improve detection of polyps duri...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>1772</td>
+    </tr>
+  </tbody>
+</table>"
+322,-16469.23998905442,6713439.82615587,Yaqrit Ltd,51.5180073,-0.1479457,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16926948' target='_blank'><div>ISRCTN16926948</div></a></td>
+      <td>Safety and tolerability of Yaq-001 in patients with cirrhosis</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>56</td>
+    </tr>
+  </tbody>
+</table>"
+324,-10270.803762448752,6710352.092322927,Guy's and St Thomas' NHS Foundation Trust,51.5007438,-0.09226419999999999,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN24020298' target='_blank'><div>ISRCTN24020298</div></a></td>
+      <td>Post-op oesophageal Doppler trial: effect on clinical outcome of extension ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>86</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN72875772' target='_blank'><div>ISRCTN72875772</div></a></td>
+      <td>Gaviscon Advance® versus milk of magnesia pH-impedance study</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16562415' target='_blank'><div>ISRCTN16562415</div></a></td>
+      <td>Dietary interventions in irritable bowel syndrome</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>69</td>
+    </tr>
+  </tbody>
+</table>"
+348,-50361.16027385856,6685627.363058533,GlaxoSmithKline Nutritional Healthcare,51.362272,-0.452402,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN42909440' target='_blank'><div>ISRCTN42909440</div></a></td>
+      <td>An exploratory study to investigate early dental erosion</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+352,-36404.91326166598,6700756.652418542,National Institute for Health Research,51.447054,-0.3270309,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN61738583' target='_blank'><div>ISRCTN61738583</div></a></td>
+      <td>Hypnotherapy for irritable bowel syndrome: streamlining provision</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>300</td>
+    </tr>
+  </tbody>
+</table>"
+356,-28126.706120518662,6719812.177973412,DiagNodus Ltd,51.5536144,-0.2526665,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17818329' target='_blank'><div>ISRCTN17818329</div></a></td>
+      <td>Protein biomarkers for assessing Inflammatory Bowel Disease (IBD) treatment...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>"
+380,-250571.37953588617,6775502.602084843,Gloucestershire Hospitals NHS Foundation Trust,51.8636141,-2.250921,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN54190466' target='_blank'><div>ISRCTN54190466</div></a></td>
+      <td>Randomised controlled trial of surveillance and no surveillance for patient...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>2500</td>
+    </tr>
+  </tbody>
+</table>"
+386,-248038.97243982996,7134221.946371764,East Lancashire Hospitals NHS Trust,53.809828,-2.228172,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN74994614' target='_blank'><div>ISRCTN74994614</div></a></td>
+      <td>A precision and reproducibilty assessment of liver fat measurement by chemi...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14012920' target='_blank'><div>ISRCTN14012920</div></a></td>
+      <td>An assessment of the natural progression of drug associated changes in live...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+403,-107369.45224586323,6701901.046671633,Provexis plc,51.45346060000001,-0.9645162,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN62819212' target='_blank'><div>ISRCTN62819212</div></a></td>
+      <td>Randomised controlled trial of soluble plantain fibre for maintenance of he...</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>64</td>
+    </tr>
+  </tbody>
+</table>"
+431,-13140.0525056963,6713423.546911105,Medical Research Council (MRC),51.5179163,-0.1180391,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN64281544' target='_blank'><div>ISRCTN64281544</div></a></td>
+      <td>Percutaneous versus open necrostomy in the management of infected necrosis ...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12342884' target='_blank'><div>ISRCTN12342884</div></a></td>
+      <td>Clinical trial of oral microemulsion ciclosporin in severe acute ulcerative...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>"
+440,2006384.4196601626,8256018.650068981,Karolinska Institute,59.34814839999999,18.0236579,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11976737' target='_blank'><div>ISRCTN11976737</div></a></td>
+      <td>On demand versus continuous use of omeprazole on reflux symptoms (3)</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>700</td>
+    </tr>
+  </tbody>
+</table>"
+452,-19356.355510574285,6697166.855111391,St George's University of London,51.4269516,-0.1738811,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12619517' target='_blank'><div>ISRCTN12619517</div></a></td>
+      <td>Effects of fermented milk on prevention of antibiotic-associated diarrhoea ...</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>1100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN68739743' target='_blank'><div>ISRCTN68739743</div></a></td>
+      <td>Preventing postoperative relapse of Crohn's disease by using IgG4 guided ex...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+459,-23141.874982541263,6724194.043096181,South West London Urgent Dental Care,51.578083,-0.207887,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14614980' target='_blank'><div>ISRCTN14614980</div></a></td>
+      <td>How well does emergency treatment of dental abscess work in an NHS emergenc...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>"
+467,-395619.2511500395,6530228.177926505,South Devon Healthcare NHS Foundation Trust,50.4823211,-3.5539082,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN75939860' target='_blank'><div>ISRCTN75939860</div></a></td>
+      <td>Comparing soft drink vs Carbex for double contrast upper GI studies</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>"
+532,-160342.88021847306,6876780.769194723,University Hospitals Coventry and Warwickshire NHS Trust,52.4219434,-1.4403846,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14982373' target='_blank'><div>ISRCTN14982373</div></a></td>
+      <td>Can the addition of a stool and urine test rule out significant bowel disea...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1819</td>
+    </tr>
+  </tbody>
+</table>"
+543,-236102.6955117249,7086119.310554523,Pennine Acute Hospitals NHS Trust,53.553902,-2.1209466,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN71177327' target='_blank'><div>ISRCTN71177327</div></a></td>
+      <td>AS Orthana® versus Biotène Oralbalance® for patients with dry mouth</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+547,-165960.2287031378,7113062.004391396,South West Yorkshire Partnership NHS Foundation Trust,53.6974399,-1.4908461,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN44816925' target='_blank'><div>ISRCTN44816925</div></a></td>
+      <td>A population based randomised controlled trial of Helicobacter pylori eradi...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>1550</td>
+    </tr>
+  </tbody>
+</table>"
+548,529550.2463439188,6855836.858013119,Reckitt Benckiser Healthcare,52.307057,4.7570308,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN52169198' target='_blank'><div>ISRCTN52169198</div></a></td>
+      <td>Gaviscon double action versus placebo study using the BRAVO System</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+566,-326548.2455722867,7069605.090208877,Aintree University Hospitals NHS Foundation Trust,53.4656806,-2.9334328,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10768531' target='_blank'><div>ISRCTN10768531</div></a></td>
+      <td>Use of probiotic yoghurt to prevent diarrhoea in critical care: A randomise...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>192</td>
+    </tr>
+  </tbody>
+</table>"
+571,-13919.455920485405,6716216.306768242,Intercept Pharmaceuticals (USA),51.533525,-0.1250406,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN89514817' target='_blank'><div>ISRCTN89514817</div></a></td>
+      <td>Obeticholic acid in patients with primary biliary cirrhosis</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>180</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN68931598' target='_blank'><div>ISRCTN68931598</div></a></td>
+      <td>Study of INT-747 as monotherapy in patients with primary biliary cirrhosis ...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN67465025' target='_blank'><div>ISRCTN67465025</div></a></td>
+      <td>Study of INT-747 in combination with ursodeoxycholic acid (UDCA [URSO®]) in...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>140</td>
+    </tr>
+  </tbody>
+</table>"
+572,-123520.52999828137,7081784.485567878,Doncaster and Bassetlaw Hospitals NHS Foundation Trust,53.53076249999999,-1.1096038,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10184669' target='_blank'><div>ISRCTN10184669</div></a></td>
+      <td>The General practitioner Referral Assessment Facilitator trial</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>180</td>
+    </tr>
+  </tbody>
+</table>"
+579,-166894.00998775903,7086987.478279937,Barnsley Hospital NHS Foundation Trust,53.5585348,-1.4992344,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN90651143' target='_blank'><div>ISRCTN90651143</div></a></td>
+      <td>Homeopathy for Irritable Bowel Syndrome (HIBS)</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>198</td>
+    </tr>
+  </tbody>
+</table>"
+620,-481013.30082958785,7535282.289562013,NHS Greater Glasgow and Clyde,55.883619,-4.321016,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN96975557' target='_blank'><div>ISRCTN96975557</div></a></td>
+      <td>Prevention of oesophageal, gastric, and duodenal lesions in patients taking...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>700</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN69643049' target='_blank'><div>ISRCTN69643049</div></a></td>
+      <td>Carvedilol tablets compared with endoscopic banding treatment in preventing...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>152</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16235737' target='_blank'><div>ISRCTN16235737</div></a></td>
+      <td>International comparison of methods to risk assess patients presenting with...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>3000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN79858945' target='_blank'><div>ISRCTN79858945</div></a></td>
+      <td>Nurse-led intervention with medical support for secondary care referrals of...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>150</td>
+    </tr>
+  </tbody>
+</table>"
+645,-8242874.223450038,4883780.012858143,Exalenz Bioscience Ltd (Israel),40.1226399,-74.046999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN45415158' target='_blank'><div>ISRCTN45415158</div></a></td>
+      <td>Breath test for patients with acute liver disease for early detection of th...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+661,-355014.5206675212,7549096.364480496,Lothian NHS Board,55.9531579,-3.1891497,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN89489788' target='_blank'><div>ISRCTN89489788</div></a></td>
+      <td>Randomised controlled trial of 6-Mercaptopurine (6MP) versus placebo to pre...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>234</td>
+    </tr>
+  </tbody>
+</table>"
+674,190970.14492873193,6902365.341689497,James Paget University Hospital NHS Foundation Trust,52.5618807,1.715514,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN24964455' target='_blank'><div>ISRCTN24964455</div></a></td>
+      <td>Sutureless mesh in inguinal hernia repair</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>80</td>
+    </tr>
+  </tbody>
+</table>"
+677,-104746.84296641726,6694969.905041861,Clasado Ltd,51.4146446,-0.9409569000000001,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN26496022' target='_blank'><div>ISRCTN26496022</div></a></td>
+      <td>A controlled clinical trial to determine the potential of a prebiotic to be...</td>
+      <td>Supplement</td>
+      <td>Senior</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN54052375' target='_blank'><div>ISRCTN54052375</div></a></td>
+      <td>Investigation of the efficacy of a novel galacto-oligosaccharide prebiotic ...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>66</td>
+    </tr>
+  </tbody>
+</table>"
+683,-44819.86526530374,6720465.155328028,Yakult UK Ltd,51.5572615,-0.4026237,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN30654050' target='_blank'><div>ISRCTN30654050</div></a></td>
+      <td>Open label probiotics trial and effects on anxiety/depression in irritable ...</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+710,133370.2009951101,6810607.414555005,The Ipswich Hospital NHS Trust,52.0579338,1.1980849,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN72173144' target='_blank'><div>ISRCTN72173144</div></a></td>
+      <td>Randomised Double Blinded Placebo Controlled Trial of Magnesium Sulphate in...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>108</td>
+    </tr>
+  </tbody>
+</table>"
+721,-7912839.429162208,5213330.197244725,Flexpharm Ltd,42.3485222,-71.082246,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN68855603' target='_blank'><div>ISRCTN68855603</div></a></td>
+      <td>A double-blind comparative study of Predocol 40 and 60 mg per day and predn...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+  </tbody>
+</table>"
+729,245142.51721303255,6226896.84134918,Danone Research (France),48.7165194,2.2021527,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN78863629' target='_blank'><div>ISRCTN78863629</div></a></td>
+      <td>Effect of the consumption of a fermented dairy product on digestive symptom...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>240</td>
+    </tr>
+  </tbody>
+</table>"
+740,-330420.18236495653,7058784.912531394,The University of Liverpool Clinical Trials Unit,53.407778,-2.968215,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN44912429' target='_blank'><div>ISRCTN44912429</div></a></td>
+      <td>Double blind randomised controlled trial to investigate the efficacy of ANT...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>240</td>
+    </tr>
+  </tbody>
+</table>"
+751,-187895.6119125125,7391941.852628894,Pharmanord UK Ltd,55.1546669,-1.687895,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN21047731' target='_blank'><div>ISRCTN21047731</div></a></td>
+      <td>Randomised double-blind, placebo-controlled multicentre trial of antioxidan...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>"
+754,-9770721.366054581,5176945.641575924,Smart Medical Systems Ltd (Israel),42.1064976,-87.7718834,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN87379760' target='_blank'><div>ISRCTN87379760</div></a></td>
+      <td>Safety and efficacy of using NaviAid™ BGE device for endoscopic diagnosis a...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>"
+764,-126510.34888200712,6973905.074338419,Tissue Science Laboratories plc,52.9508143,-1.1364618,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN31730807' target='_blank'><div>ISRCTN31730807</div></a></td>
+      <td>A randomised controlled trial of Permacol® reinforcement of permanent stoma...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>300</td>
+    </tr>
+  </tbody>
+</table>"
+766,964868.9556134475,6346420.512810257,University Hospital Heidelberg (Universitätsklinikum Heidelberg) (Germany),49.4199479,8.6675653,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18452029' target='_blank'><div>ISRCTN18452029</div></a></td>
+      <td>Distal Pancreatectomy: a randomised controlled trial to compare two differe...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>450</td>
+    </tr>
+  </tbody>
+</table>"
+776,-696540.0801493528,7044793.539909722,National Health Service Executive,53.3327882,-6.257126,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN98555764' target='_blank'><div>ISRCTN98555764</div></a></td>
+      <td>Determination of safety of patients drinking before gastroscopy</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>508</td>
+    </tr>
+  </tbody>
+</table>"
+781,1470962.6379063018,7501228.880316232,Gambro Lundia AB (Sweden),55.7116637,13.2138822,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN67377557' target='_blank'><div>ISRCTN67377557</div></a></td>
+      <td>Recompensation of exacerbated liver insufficiency with hyperbilirubinaemia ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>172</td>
+    </tr>
+  </tbody>
+</table>"
+794,-177379.03697829036,7362371.105163078,The Newcastle upon Tyne Hospitals NHS Trust,55.00260189999999,-1.593423,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN63745312' target='_blank'><div>ISRCTN63745312</div></a></td>
+      <td>A controlled trial of Orlistat (Xenical) for patients with non-alcoholic st...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+829,-180513.8272348762,7364003.475199048,Northern Primary Care Research Network (NoReN),55.0110113,-1.6215833,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN67674151' target='_blank'><div>ISRCTN67674151</div></a></td>
+      <td>A nurse-led intervention to enhance medication adherence in ulcerative coli...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>106</td>
+    </tr>
+  </tbody>
+</table>"
+834,-36524.615110115985,6634006.366566513,Action Medical Research,51.0718125,-0.3281062,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN92215924' target='_blank'><div>ISRCTN92215924</div></a></td>
+      <td>Randomised controlled trial of anal electrical stimulation in adults with f...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>90</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN45147456' target='_blank'><div>ISRCTN45147456</div></a></td>
+      <td>Biofeedback for faecal incontinence</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>171</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN87167979' target='_blank'><div>ISRCTN87167979</div></a></td>
+      <td>Treatment of bowel dysfunction in stroke patients: a randomised controlled ...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>146</td>
+    </tr>
+  </tbody>
+</table>"
+843,12705908.528749214,2545456.9925798643,Hong Kong Health Services Research Fund (Hong Kong),22.2823362,114.1391183,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN33848563' target='_blank'><div>ISRCTN33848563</div></a></td>
+      <td>Eradication of Helicobacter pylori and recurrence of bleeding peptic ulcers</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>"
+896,-13399.827669411483,6589252.163352294,Brighton and Sussex University Hospitals NHS Trust,50.8185063,-0.1203727,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN30697116' target='_blank'><div>ISRCTN30697116</div></a></td>
+      <td>Long term abdominal drains in end stage cirrhosis</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>48</td>
+    </tr>
+  </tbody>
+</table>"
+914,-355137.86266332015,6711434.414331684,Cardiff and Vale University Health Board,51.50679580000001,-3.1902577,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN25616490' target='_blank'><div>ISRCTN25616490</div></a></td>
+      <td>Hughes Abdominal Repair Trial - abdominal wall closure techniques to reduce...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>830</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN35600632' target='_blank'><div>ISRCTN35600632</div></a></td>
+      <td>The Colitis Once Daily Asacol® study: efficacy and safety of dosing mesalaz...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>250</td>
+    </tr>
+  </tbody>
+</table>"
+930,-6749.000164171036,6713387.392792631,Queen Mary University of London and Barts and the London NHS Trust,51.5177142,-0.0606273,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN40924266' target='_blank'><div>ISRCTN40924266</div></a></td>
+      <td>The effect of pregabalin on human visceral pain hypersensitivity</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN40924266' target='_blank'><div>ISRCTN40924266</div></a></td>
+      <td>The effect of pregabalin on human visceral pain hypersensitivity</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN81027773' target='_blank'><div>ISRCTN81027773</div></a></td>
+      <td>Pharmacokinetic studies of recombinant human insulin-like growth factor-I (...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>10</td>
+    </tr>
+  </tbody>
+</table>"
+931,-149977.51054859543,7281255.263659712,North Tees and Hartlepool NHS Foundation Trust,54.58249679999999,-1.3472709,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN81466870' target='_blank'><div>ISRCTN81466870</div></a></td>
+      <td>Water assisted flexible sigmoidoscopy in NHS Bowel Scope Screening Programm...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>1100</td>
+    </tr>
+  </tbody>
+</table>"
+955,-10601.47830985017,6704436.287689108,Kings College London - Joint Clinical Trials Office,51.4676503,-0.09523469999999999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN47146067' target='_blank'><div>ISRCTN47146067</div></a></td>
+      <td>Reducing Excess Salivation in clozapine Treatment: hyoscine for the treatme...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>12</td>
+    </tr>
+  </tbody>
+</table>"
+959,135840.41389166008,6912499.007155243,Norfolk and Norwich University Hospitals NHS Foundation Trust,52.6171847,1.2202752,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN33058794' target='_blank'><div>ISRCTN33058794</div></a></td>
+      <td>Laparoscopic cholecystectomy: 5-mm versus 3-mm ports</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN26938218' target='_blank'><div>ISRCTN26938218</div></a></td>
+      <td>The use of Nalcol™ in functional constipation</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN03444046' target='_blank'><div>ISRCTN03444046</div></a></td>
+      <td>Innovative gel aid for administering tablets to stroke and other dysphagic ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>880</td>
+    </tr>
+  </tbody>
+</table>"
+965,-9634.1787265511,6710827.906436065,NIHR Guy's and St Thomas' NHS Foundation Trust (GSTFT),51.50340449999999,-0.08654529999999999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN97547683' target='_blank'><div>ISRCTN97547683</div></a></td>
+      <td>Treg Immunotherapy in Crohn’s Disease</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>24</td>
+    </tr>
+  </tbody>
+</table>"
+969,1067869.2069012674,7344339.593967606,Chr. Hansen A/S,54.9095925,9.5928323,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18128385' target='_blank'><div>ISRCTN18128385</div></a></td>
+      <td>Effect of the probiotic strain BB-12® on the gastrointestinal function of h...</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>1740</td>
+    </tr>
+  </tbody>
+</table>"
+1013,-13550252.149979511,4657123.714270959,"Evolve BioSystems, Inc.",38.5479438,-121.7239861,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11690200' target='_blank'><div>ISRCTN11690200</div></a></td>
+      <td>Promotion of a healthy gut microbiome in elective caesarean section arrival...</td>
+      <td>Supplement</td>
+      <td>Mixed</td>
+      <td>105</td>
+    </tr>
+  </tbody>
+</table>"
+1023,-470951.3101679691,7857005.438280461,University of the Highlands and Islands,57.47101379999999,-4.2306276,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15207595' target='_blank'><div>ISRCTN15207595</div></a></td>
+      <td>Hernia active living trial: HALT</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>"
+1025,-203439.20807172268,6886994.26379817,Heart of England NHS Foundation Trust,52.4778605,-1.8275255,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN73466412' target='_blank'><div>ISRCTN73466412</div></a></td>
+      <td>Comparative study of magnetic resonance defaecography and evacuation procto...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>57</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13039379' target='_blank'><div>ISRCTN13039379</div></a></td>
+      <td>Healing therapy in a gastroenterology outpatients</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>"
+1029,-48689.59793205584,7223651.173962965,Scarborough and North East Yorkshire Healthcare NHS Trust,54.2815045,-0.4373861,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN61157513' target='_blank'><div>ISRCTN61157513</div></a></td>
+      <td>Modulation of gut function using Gut Specific Nutrients in the critically i...</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+1035,-856275.4899065668,7009375.539147161,Trino Therapeutics (Ireland),53.1423672,-7.692053599999999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN90725219' target='_blank'><div>ISRCTN90725219</div></a></td>
+      <td>A study to assess the safety and tolerability of PH46A in healthy volunteer...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>96</td>
+    </tr>
+  </tbody>
+</table>"
+1074,-478175.4107868967,7532026.686837495,NHS Greater Glasgow and Clyde and University of Glasgow,55.8672124,-4.2955228,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12437565' target='_blank'><div>ISRCTN12437565</div></a></td>
+      <td>The effects of anaesthesia on neurodevelopmental outcome and apnoea in infa...</td>
+      <td>Drug</td>
+      <td>Neonate</td>
+      <td>660</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12437565' target='_blank'><div>ISRCTN12437565</div></a></td>
+      <td>The effects of anaesthesia on neurodevelopmental outcome and apnoea in infa...</td>
+      <td>Drug</td>
+      <td>Neonate</td>
+      <td>660</td>
+    </tr>
+  </tbody>
+</table>"
+1113,-354819.87853786914,6706797.393335772,NHS Wales Office of Research and Development,51.48086139999999,-3.1874012,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN08768987' target='_blank'><div>ISRCTN08768987</div></a></td>
+      <td>Self assessment of Health And Illness: Research In Neath Gastroenterology u...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>500</td>
+    </tr>
+  </tbody>
+</table>"
+1117,-174319.52096137893,7271429.293001353,County Durham and Darlington NHS Foundation Trust,54.5313106,-1.5659389,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN44563324' target='_blank'><div>ISRCTN44563324</div></a></td>
+      <td>Tined lead test stimulation to predict long-term benefit from sacral nerve ...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>75</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN05817794' target='_blank'><div>ISRCTN05817794</div></a></td>
+      <td>Stenting in benign oesophageal stricture</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+1192,-14827.812031357762,6709852.226837003,Department of Health,51.49794844005473,-0.13320050177820006,31.0,22.33656214977323,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN91891418' target='_blank'><div>ISRCTN91891418</div></a></td>
+      <td>Evaluation of cutting balloons for treatment of salivary duct strictures</td>
+      <td>Procedure/Surgery</td>
+      <td>Not Specified</td>
+      <td>25</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN54256247' target='_blank'><div>ISRCTN54256247</div></a></td>
+      <td>A randomised controlled trial to evaluate topical 10% metronidazole ointmen...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN24521269' target='_blank'><div>ISRCTN24521269</div></a></td>
+      <td>Randomised controlled trial of injection of botulinum toxin into the intern...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN72696261' target='_blank'><div>ISRCTN72696261</div></a></td>
+      <td>The effect of administration of Lactobacillus casei culture in hospitalised...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>120</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN02258149' target='_blank'><div>ISRCTN02258149</div></a></td>
+      <td>The value of plugging percutaneous biliary drain tracts following drain rem...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN74414962' target='_blank'><div>ISRCTN74414962</div></a></td>
+      <td>Does acupuncture enhance the pain relief of chronic temporomandibular pain ...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN82828072' target='_blank'><div>ISRCTN82828072</div></a></td>
+      <td>Use of transthoracic echocardiography with agitated saline injection to det...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN37515330' target='_blank'><div>ISRCTN37515330</div></a></td>
+      <td>Hypnotherapy in inflammatory bowel disease. A randomised, placebo-controlle...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN97214617' target='_blank'><div>ISRCTN97214617</div></a></td>
+      <td>Constipation in Distal Ulcerative Colitis: A clinico-radiological compariso...</td>
+      <td>Supplement</td>
+      <td>Not Specified</td>
+      <td>146</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN83877765' target='_blank'><div>ISRCTN83877765</div></a></td>
+      <td>A comparison of bethanechol chloride and artificial saliva in the managemen...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>54</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN40276556' target='_blank'><div>ISRCTN40276556</div></a></td>
+      <td>Efficacy of domperidone and/or omeprazole in the treatment of gastroesophag...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN56363424' target='_blank'><div>ISRCTN56363424</div></a></td>
+      <td>Proton pump inhibitor (PPI) treatment of gastro-oesophageal reflux (GOR) as...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN72387688' target='_blank'><div>ISRCTN72387688</div></a></td>
+      <td>Probiotic VSL#3 as a treatment for food intolerant irritable bowel syndrome...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN82416132' target='_blank'><div>ISRCTN82416132</div></a></td>
+      <td>A comparison of a new formulation feed compared with the standard use of em...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN29225711' target='_blank'><div>ISRCTN29225711</div></a></td>
+      <td>Comparative study of laparoscopic management of gastro-oesophageal reflux d...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN83399182' target='_blank'><div>ISRCTN83399182</div></a></td>
+      <td>A randomised controlled pilot study in the use of hyperbaric oxygen therapy...</td>
+      <td>Mixed</td>
+      <td>Not Specified</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN31024562' target='_blank'><div>ISRCTN31024562</div></a></td>
+      <td>A prospective randomised comparison of laparoscopic anterior versus posteri...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN87269559' target='_blank'><div>ISRCTN87269559</div></a></td>
+      <td>Zinc sulphate enema for the management of non-infectious mild to moderate d...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN42476855' target='_blank'><div>ISRCTN42476855</div></a></td>
+      <td>The timings of cholecystectomy in acute pancreatitis</td>
+      <td>Procedure/Surgery</td>
+      <td>Not Specified</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN82131820' target='_blank'><div>ISRCTN82131820</div></a></td>
+      <td>Nutrient modulation of sensory responses of the human oesophagus</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17865479' target='_blank'><div>ISRCTN17865479</div></a></td>
+      <td>The use of misoprostol suppositories to reduce radiotherapy-induced anorect...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN88337776' target='_blank'><div>ISRCTN88337776</div></a></td>
+      <td>Salivary gland protection from iodine-131 therapy; evaluation of salivary s...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN88541159' target='_blank'><div>ISRCTN88541159</div></a></td>
+      <td>Study of effect of gabapentin on persistent pain after open inguinal hernia...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>32</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11016259' target='_blank'><div>ISRCTN11016259</div></a></td>
+      <td>The effect of ghrelin on gastric emptying in gastroparesis</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN73881345' target='_blank'><div>ISRCTN73881345</div></a></td>
+      <td>Diet and lifestyle vs laxatives in the management of chronic constipation i...</td>
+      <td>Other</td>
+      <td>Senior</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN91662361' target='_blank'><div>ISRCTN91662361</div></a></td>
+      <td>Randomised trial comparing the efficacy and costs of endoscopy with Helicob...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>708</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18598681' target='_blank'><div>ISRCTN18598681</div></a></td>
+      <td>Randomised controlled trial to assess the impact of a package comprising a ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>640</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN82765705' target='_blank'><div>ISRCTN82765705</div></a></td>
+      <td>What is the cost-effectiveness of endoscopy undertaken by nurses? A Multi-I...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>1888</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11557289' target='_blank'><div>ISRCTN11557289</div></a></td>
+      <td>STOOL - Stepped Treatment of Older adults On Laxatives</td>
+      <td>Other</td>
+      <td>Senior</td>
+      <td>19</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN51405816' target='_blank'><div>ISRCTN51405816</div></a></td>
+      <td>Cognitive behavioural therapy versus antispasmodic therapy for irritable bo...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>130</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15517081' target='_blank'><div>ISRCTN15517081</div></a></td>
+      <td>The place of minimal access surgery amongst people with gastro-oesophageal ...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>810</td>
+    </tr>
+  </tbody>
+</table>"

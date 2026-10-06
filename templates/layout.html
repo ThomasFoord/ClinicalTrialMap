@@ -1,0 +1,92 @@
+<!DOCTYPE HTML>
+
+<html>
+
+	<head>
+
+		<title>Data Map</title>
+
+		<link rel="stylesheet" href="{{url_for('static',filename='css/main.css')}}">
+
+	</head>
+
+
+
+
+
+	<body>
+
+		<header>
+
+			<div class="container">
+
+				<h1 class="logo">Data Map</h1>
+
+				<strong><nav>
+
+					<div class="navbar">
+
+						<a href="{{ url_for('plot') }}">Map</a>
+
+						<a href="{{ url_for('about') }}">About</a>
+
+						<div class="dropdown1">
+							<button class="dropbtn1">Diseases/Interventions 
+      							<i class="fas fa-caret-down"></i>
+    						</button>
+    						<div class="dropdown-content1">	
+    						<p style="text-align: center">Diseases</p>	
+							<a href="{{ url_for('Cancer') }}">Cancer</a>
+							<a href="{{ url_for('Circulatory_System') }}">Circulatory System</a>
+							<a href="{{ url_for('Digestive_System') }}">Digestive System</a>
+							<a href="{{ url_for('Ear_Nose_and_Throat') }}">Ear, Nose and Throat</a>
+							<a href="{{ url_for('Eye_Diseases') }}">Eye Diseases</a>
+							<a href="{{ url_for('Haematological_Disorders') }}">Haematological Disorders</a>
+							<a href="{{ url_for('Infections_and_Infestations') }}">Infections and Infestations</a>
+							<a href="{{ url_for('Injury_Occupational_Diseases_Poisoning') }}">Injury, Occupational Diseases, Poisoning</a>
+							<a href="{{ url_for('Mental_and_Behavioural_Disorders') }}">Mental and Behavioural Disorders</a>
+							<a href="{{ url_for('Musculoskeletal_Diseases') }}">Musculoskeletal Diseases</a>
+							<a href="{{ url_for('Neonatal_Diseases') }}">Neonatal Diseases</a>
+							<a href="{{ url_for('Nervous_System_Diseases') }}">Nervous System Diseases</a>
+							<a href="{{ url_for('Nutritional_Metabolic_Endocrine') }}">Nutritional, Metabolic, Endocrine</a>
+							<a href="{{ url_for('Oral_Health') }}">Oral Health</a>
+							<a href="{{ url_for('Pregnancy_and_Childbirth') }}">Pregnancy and Childbirth</a>
+							<a href="{{ url_for('Respiratory') }}">Respiratory</a>
+							<a href="{{ url_for('Signs_and_Symptoms') }}">Signs and Symptoms</a>
+							<a href="{{ url_for('Skin_and_Connective_Tissue_Diseases') }}">Skin and Connective Tissue Diseases</a>
+							<a href="{{ url_for('Surgery') }}">Surgery</a>
+							<a href="{{ url_for('Urological_and_Genital_Diseases') }}">Urological and Genital Diseases</a>
+							<p style="text-align: center">Interventions</p>
+							<a href="{{ url_for('Behavioural') }}">Behavioural</a>
+							<a href="{{ url_for('Biological_and_Vaccine') }}">Biological and Vaccine</a>
+							<a href="{{ url_for('Device') }}">Device</a>
+							<a href="{{ url_for('Drug') }}">Drug</a>
+							<a href="{{ url_for('Genetic') }}">Genetic</a>
+							<a href="{{ url_for('Mixed') }}">Mixed</a>
+							<a href="{{ url_for('Procedure_and_Surgery') }}">Procedure and Surgery</a>
+							<a href="{{ url_for('Supplement') }}">Supplement</a>
+    					</div>
+
+					</div>
+					</div>
+
+					</div>
+
+				</nav></strong>
+
+			</div>
+
+		</header>
+		
+		<div class="container2">
+
+			{%block content%}
+
+			{%endblock%}
+
+		</div>
+		
+	</body>
+
+</html>
+

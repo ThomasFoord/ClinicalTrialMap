@@ -1,0 +1,2075 @@
+,merclng,merclat,locations,latitude,longitude,number,radius,HTML
+2,-181976.75458703414,7363080.99091819,Newcastle upon Tyne Hospitals NHS Foundation Trust,55.0062592,-1.634725,7.0,13.090619551221675,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17731903' target='_blank'><div>ISRCTN17731903</div></a></td>
+      <td>Feasibility study of e-cigarettes in periodontitis</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17542282' target='_blank'><div>ISRCTN17542282</div></a></td>
+      <td>A two year clinical follow up of the single visit crown, comparing two diff...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN57210949' target='_blank'><div>ISRCTN57210949</div></a></td>
+      <td>Eliminating periodontal infection in patients with type 2 diabetes</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>160</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN94252698' target='_blank'><div>ISRCTN94252698</div></a></td>
+      <td>Efficacy of articaine infiltration for pulp anaesthesia in adult mandibular...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN21993885' target='_blank'><div>ISRCTN21993885</div></a></td>
+      <td>The efficacy of infiltration anaesthesia for adult mandibular incisor teeth</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>31</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN53304116' target='_blank'><div>ISRCTN53304116</div></a></td>
+      <td>Efficacy of incisive nerve block for pulp anaesthesia in the mandible</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>38</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN55062915' target='_blank'><div>ISRCTN55062915</div></a></td>
+      <td>Efficacy of Anterior Middle Superior Alveolar nerve block (AMSA) versus Inf...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>28</td>
+    </tr>
+  </tbody>
+</table>"
+4,-14921.27567787947,6714611.999375625,University College London,51.52455920000001,-0.1340401,6.0,12.132827525593784,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10276613' target='_blank'><div>ISRCTN10276613</div></a></td>
+      <td>Improving the oral health of older people in care homes</td>
+      <td>Behavioural</td>
+      <td>Senior</td>
+      <td>120</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN52105758' target='_blank'><div>ISRCTN52105758</div></a></td>
+      <td>Salivary electro-stimulation for the treatment of dry mouth in patients wit...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>130</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14233369' target='_blank'><div>ISRCTN14233369</div></a></td>
+      <td>SMART filling for caries in primary teeth</td>
+      <td>Device</td>
+      <td>Child</td>
+      <td>66</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13311671' target='_blank'><div>ISRCTN13311671</div></a></td>
+      <td>Sodium bicarbonate and gingivitis</td>
+      <td>NaN</td>
+      <td>Adult</td>
+      <td>48</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN28863406' target='_blank'><div>ISRCTN28863406</div></a></td>
+      <td>Understanding the factors that affect clinical outcomes (such as tooth surv...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>112</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN67306656' target='_blank'><div>ISRCTN67306656</div></a></td>
+      <td>Effects of root canal treatment with or without manual-dynamic irrigation o...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>300</td>
+    </tr>
+  </tbody>
+</table>"
+7,-173105.45946283842,7133628.765905515,University of Leeds,53.8066815,-1.5550328,11.0,15.898961024049783,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN84598751' target='_blank'><div>ISRCTN84598751</div></a></td>
+      <td>Optimizing clinical workflows for 3-D printed dentures</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10709150' target='_blank'><div>ISRCTN10709150</div></a></td>
+      <td>An oral health intervention delivered by dental teams to parents of young c...</td>
+      <td>Behavioural</td>
+      <td>Child</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13646400' target='_blank'><div>ISRCTN13646400</div></a></td>
+      <td>Treatment in urgent dental care: an ethnographic study</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>192</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17674370' target='_blank'><div>ISRCTN17674370</div></a></td>
+      <td>Accuracy of an optical method for measuring the bite</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>44</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN30662154' target='_blank'><div>ISRCTN30662154</div></a></td>
+      <td>Atraumatic restorative treatment for caries in the elderly - A study to ass...</td>
+      <td>Other</td>
+      <td>Senior</td>
+      <td>34</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN76727312' target='_blank'><div>ISRCTN76727312</div></a></td>
+      <td>A study to determine if the process of warming composite resin restorative ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11415977' target='_blank'><div>ISRCTN11415977</div></a></td>
+      <td>Comparing two local anaesthetic drugs in treatment of children's teeth</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>110</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN04968978' target='_blank'><div>ISRCTN04968978</div></a></td>
+      <td>Biting contacts before and after treatment of worn teeth</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN56080673' target='_blank'><div>ISRCTN56080673</div></a></td>
+      <td>Comparison of denture tooth position using two neutral zone techniques</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>24</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN58467151' target='_blank'><div>ISRCTN58467151</div></a></td>
+      <td>The effectiveness of an internet based computer database for data collectio...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12547356' target='_blank'><div>ISRCTN12547356</div></a></td>
+      <td>The use of laser doppler flowmetry for the assessment of the tooth vitality...</td>
+      <td>Device</td>
+      <td>Child</td>
+      <td>74</td>
+    </tr>
+  </tbody>
+</table>"
+8,-12564.586398040472,6712287.80104109,British American Tobacco (United Kingdom),51.5115671,-0.1128696,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17892113' target='_blank'><div>ISRCTN17892113</div></a></td>
+      <td>Malodour study to judge bad breath in subjects who smoke cigarettes compare...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>137</td>
+    </tr>
+  </tbody>
+</table>"
+11,-214903.77978954036,6882052.998582191,University of Birmingham,52.4508168,-1.9305135,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN93101288' target='_blank'><div>ISRCTN93101288</div></a></td>
+      <td>Therapeutic irrigation procedures to treat apical periodontitis - TIPTAP</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10227738' target='_blank'><div>ISRCTN10227738</div></a></td>
+      <td>Influence of successful periodontal intervention on renal disease</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>140</td>
+    </tr>
+  </tbody>
+</table>"
+12,-132804.10798857908,6971867.107989617,University of Nottingham,52.93978269999999,-1.1929996,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN63382258' target='_blank'><div>ISRCTN63382258</div></a></td>
+      <td>Early intervention dental trial</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>800</td>
+    </tr>
+  </tbody>
+</table>"
+14,-331970.6179688271,7650185.350090201,University of Dundee,56.45824469999999,-2.9821428,8.0,13.920296742201792,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14352531' target='_blank'><div>ISRCTN14352531</div></a></td>
+      <td>Comparison of fixed versus removable bite blocks for correction of prominen...</td>
+      <td>Device</td>
+      <td>Child</td>
+      <td>88</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN76503940' target='_blank'><div>ISRCTN76503940</div></a></td>
+      <td>Comparing complete and partial removal of decay in molar teeth</td>
+      <td>Procedure/Surgery</td>
+      <td>Mixed</td>
+      <td>623</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN56465715' target='_blank'><div>ISRCTN56465715</div></a></td>
+      <td>Improving the Quality of Dentistry (IQuaD): Study comparing oral hygiene ad...</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>1860</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN53698147' target='_blank'><div>ISRCTN53698147</div></a></td>
+      <td>Dental Outreach Oral Hygiene Study</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN29710460' target='_blank'><div>ISRCTN29710460</div></a></td>
+      <td>Are microimplants as effective at providing orthodontic anchorage as conven...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>45</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN77044005' target='_blank'><div>ISRCTN77044005</div></a></td>
+      <td>FiCTION - Filling Children's Teeth: Indicated Or Not? a pilot trial</td>
+      <td>Procedure/Surgery</td>
+      <td>Child</td>
+      <td>1113</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN95933794' target='_blank'><div>ISRCTN95933794</div></a></td>
+      <td>INTERVAL Dental Recalls Trial</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>2288</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN27985754' target='_blank'><div>ISRCTN27985754</div></a></td>
+      <td>The effect of remuneration and education on the implementation of research ...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>"
+18,-330095.57472980337,7058225.529810573,University of Liverpool,53.40478239999999,-2.965299,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10853330' target='_blank'><div>ISRCTN10853330</div></a></td>
+      <td>Interventions to reduce inequalities in the uptake of routine dental care: ...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>72</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12448611' target='_blank'><div>ISRCTN12448611</div></a></td>
+      <td>Sodium valproate for epigenetic reprogramming in the management of high ris...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>110</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN71242343' target='_blank'><div>ISRCTN71242343</div></a></td>
+      <td>The value and cost of different forms of oral health information</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN04899524' target='_blank'><div>ISRCTN04899524</div></a></td>
+      <td>An in situ study to determine the effects of calcium-based toothpaste in or...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>12</td>
+    </tr>
+  </tbody>
+</table>"
+19,-247990.80449616374,7068684.4314735355,Manchester University NHS Foundation Trust,53.4607569,-2.2277393,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11992428' target='_blank'><div>ISRCTN11992428</div></a></td>
+      <td>A randomised controlled trial to evaluate the cost effectiveness of prescri...</td>
+      <td>Drug</td>
+      <td>Senior</td>
+      <td>1174</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN45791053' target='_blank'><div>ISRCTN45791053</div></a></td>
+      <td>ACORN: Improving oraI health in cleft lip and/or palate</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN87342238' target='_blank'><div>ISRCTN87342238</div></a></td>
+      <td>Conventional implants vs mini implants used to retain full lower dentures</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>44</td>
+    </tr>
+  </tbody>
+</table>"
+21,-248674.7959753939,7069823.728924356,University of Manchester,53.4668498,-2.2338837,10.0,15.306765580733934,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12128165' target='_blank'><div>ISRCTN12128165</div></a></td>
+      <td>Can using a manual toothbrush connected to a smartphone app that provides g...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN96479279' target='_blank'><div>ISRCTN96479279</div></a></td>
+      <td>How effective and cost-effective is water fluoridation for adults?</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>8000000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN80200202' target='_blank'><div>ISRCTN80200202</div></a></td>
+      <td>Comparing two devices with visual examination to assess tooth colour</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN29840057' target='_blank'><div>ISRCTN29840057</div></a></td>
+      <td>Impact of a change to remuneration on the technical efficiency of dental pr...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN05771195' target='_blank'><div>ISRCTN05771195</div></a></td>
+      <td>An investigation of two methods of orthodontic space closure: nickel titani...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN72589426' target='_blank'><div>ISRCTN72589426</div></a></td>
+      <td>To measure the benefit of fluoride varnish in preventing dental decay when ...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>2080</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16261913' target='_blank'><div>ISRCTN16261913</div></a></td>
+      <td>Strategies for maximising consent rates for child dental health surveys: a ...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>840</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN56889016' target='_blank'><div>ISRCTN56889016</div></a></td>
+      <td>A randomised controlled trial to examine the effectiveness of single-visit ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN26364810' target='_blank'><div>ISRCTN26364810</div></a></td>
+      <td>The long-term effects of orthodontic growth modification for severe Class I...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>486</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN36180119' target='_blank'><div>ISRCTN36180119</div></a></td>
+      <td>Northern Ireland Caries Prevention In Practice trial</td>
+      <td>Mixed</td>
+      <td>Child</td>
+      <td>1200</td>
+    </tr>
+  </tbody>
+</table>"
+23,-12912.726973547356,6712273.366431493,King's College London,51.5114864,-0.115997,5.0,11.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN59696243' target='_blank'><div>ISRCTN59696243</div></a></td>
+      <td>Goal-setting, planning and self-monitoring (GPS) for gum disease</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17182047' target='_blank'><div>ISRCTN17182047</div></a></td>
+      <td>Changes in the gum condition of smokers who substitute the use of e-cigaret...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN20110108' target='_blank'><div>ISRCTN20110108</div></a></td>
+      <td>Clinical comparison of bioglass air abrasion vs tungsten carbide bur</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>25</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN65719588' target='_blank'><div>ISRCTN65719588</div></a></td>
+      <td>Gum chewing and oral health in older people in the community</td>
+      <td>Drug</td>
+      <td>Senior</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15294714' target='_blank'><div>ISRCTN15294714</div></a></td>
+      <td>A study to determine the effectiveness of a tailor-made prevention programm...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+27,-289762.31908948265,6702786.54140238,University of Bristol,51.4584172,-2.6029792,11.0,15.898961024049783,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13889391' target='_blank'><div>ISRCTN13889391</div></a></td>
+      <td>The effect of toothpaste on tooth cleaning and tooth sensitivity</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>90</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN80682472' target='_blank'><div>ISRCTN80682472</div></a></td>
+      <td>The use of an intra-oral camera to assess gum health</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>210</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15099997' target='_blank'><div>ISRCTN15099997</div></a></td>
+      <td>Does the provision of a personalised oral health report including pictures ...</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11752262' target='_blank'><div>ISRCTN11752262</div></a></td>
+      <td>Can recording a patient-specific video  of oral hygiene instructions to a p...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>64</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN54471768' target='_blank'><div>ISRCTN54471768</div></a></td>
+      <td>Validation of a new dental scoring system to assess the junction in the mou...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>39</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN67624527' target='_blank'><div>ISRCTN67624527</div></a></td>
+      <td>The effect of plasma proteins on periodontal tissue regeneration</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10536130' target='_blank'><div>ISRCTN10536130</div></a></td>
+      <td>Motivational techniques to improve oral hygiene for patients in general den...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>2400</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15573995' target='_blank'><div>ISRCTN15573995</div></a></td>
+      <td>To compare patient experience using two ultrasonic scalers, a magnetostrict...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>140</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN74980794' target='_blank'><div>ISRCTN74980794</div></a></td>
+      <td>Reducing oral bacteria in those with mild dementia</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14300834' target='_blank'><div>ISRCTN14300834</div></a></td>
+      <td>A study to test the effect of a new treatment designed to improve the outco...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN31193447' target='_blank'><div>ISRCTN31193447</div></a></td>
+      <td>A study to test the effect of a new treatment designed to improve the outco...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>"
+32,-353869.5329130179,6707828.061418129,Cardiff University,51.48662710000001,-3.1788641,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12139369' target='_blank'><div>ISRCTN12139369</div></a></td>
+      <td>Brushing reminder for good oral health</td>
+      <td>Mixed</td>
+      <td>Child</td>
+      <td>5760</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18745862' target='_blank'><div>ISRCTN18745862</div></a></td>
+      <td>Feasibility of alcohol screening and treatment in dental settings</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>800</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17029222' target='_blank'><div>ISRCTN17029222</div></a></td>
+      <td>Seal or Varnish? A comparison of the cost and effectiveness of sealants and...</td>
+      <td>Procedure/Surgery</td>
+      <td>Child</td>
+      <td>920</td>
+    </tr>
+  </tbody>
+</table>"
+38,-119174.39443873038,6594754.863302128,Portsmouth Hospitals NHS Trust,50.8497257,-1.0705618,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN68289972' target='_blank'><div>ISRCTN68289972</div></a></td>
+      <td>A comparison of mandibular archwidth changes using two different bracket sy...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>86</td>
+    </tr>
+  </tbody>
+</table>"
+76,-4494.468781033024,6714523.953950477,Queen Mary University of London,51.5240671,-0.0403745,5.0,11.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14479873' target='_blank'><div>ISRCTN14479873</div></a></td>
+      <td>How effective are toothpastes in improving tooth discoloration marks after ...</td>
+      <td>Procedure/Surgery</td>
+      <td>Child</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN89652137' target='_blank'><div>ISRCTN89652137</div></a></td>
+      <td>Holistic approach to investigate dental caries in diabetes patients</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>182</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN49336428' target='_blank'><div>ISRCTN49336428</div></a></td>
+      <td>Effect of dental varnishes on root caries in patients with xerostomia</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12769138' target='_blank'><div>ISRCTN12769138</div></a></td>
+      <td>Patients’ satisfaction when wearing different dentures - a pilot study</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN74268923' target='_blank'><div>ISRCTN74268923</div></a></td>
+      <td>Manual versus powered tooth brushing in orthodontic patients</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>92</td>
+    </tr>
+  </tbody>
+</table>"
+80,-477560.7156906854,7533061.006069123,University of Glasgow,55.8724256,-4.2900009,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN79674187' target='_blank'><div>ISRCTN79674187</div></a></td>
+      <td>Preventing oral cancer: a smoking cessation intervention in a dental settin...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>150</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN33376683' target='_blank'><div>ISRCTN33376683</div></a></td>
+      <td>Randomised clinical trial of the effects of Total Intravenous Anaesthesia (...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>360</td>
+    </tr>
+  </tbody>
+</table>"
+82,-258694.8637167799,7073682.91178754,Salford Royal NHS Foundation Trust,53.487482,-2.3238955,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN24958829' target='_blank'><div>ISRCTN24958829</div></a></td>
+      <td>Dental RECUR Trial</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>224</td>
+    </tr>
+  </tbody>
+</table>"
+99,-15299.205349122634,6714813.893758078,University College London Hospitals NHS Foundation Trust,51.5256876,-0.1374351,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN55278026' target='_blank'><div>ISRCTN55278026</div></a></td>
+      <td>An analysis of the effect of photographic intervention on medical dialogue ...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN67306656' target='_blank'><div>ISRCTN67306656</div></a></td>
+      <td>Effects of root canal treatment with or without manual-dynamic irrigation o...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>300</td>
+    </tr>
+  </tbody>
+</table>"
+103,-135684.81150742923,6757635.9259120105,Oxford Radcliffe Hospitals NHS Trust,51.764391,-1.2188774,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN05296896' target='_blank'><div>ISRCTN05296896</div></a></td>
+      <td>A prospective randomised clinical trial to compare pain levels of two ortho...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>112</td>
+    </tr>
+  </tbody>
+</table>"
+126,-248817.3405833547,7071500.726539547,Manchester Imaging Ltd,53.4758167,-2.2351642,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN45982629' target='_blank'><div>ISRCTN45982629</div></a></td>
+      <td>Using machine learning in the examination of dental X-rays to detect early ...</td>
+      <td>Not Specified</td>
+      <td>Adult</td>
+      <td>1500</td>
+    </tr>
+  </tbody>
+</table>"
+130,-253081.24443505672,7073603.847066523,University of Salford,53.4870594,-2.2734675,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN67452094' target='_blank'><div>ISRCTN67452094</div></a></td>
+      <td>Salford Bright Smiles Baby Study</td>
+      <td>Mixed</td>
+      <td>Mixed</td>
+      <td>732</td>
+    </tr>
+  </tbody>
+</table>"
+133,-122156.44322199876,6584910.858229808,University of Portsmouth,50.7938613,-1.09735,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN67056051' target='_blank'><div>ISRCTN67056051</div></a></td>
+      <td>Use of virtual reality to train dental professionals</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17331229' target='_blank'><div>ISRCTN17331229</div></a></td>
+      <td>Extended dental services to provide oral health promotion text messages for...</td>
+      <td>Other</td>
+      <td>Senior</td>
+      <td>202</td>
+    </tr>
+  </tbody>
+</table>"
+137,-459748.0832186868,7025566.362075045,Bangor University,53.2295205,-4.1299873,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN70032696' target='_blank'><div>ISRCTN70032696</div></a></td>
+      <td>Hygiene-therapists undertaking the RDE of low-risk NHS dental patients (pil...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>216</td>
+    </tr>
+  </tbody>
+</table>"
+143,-65282.469347585255,6664948.735259934,Philips Oral Healthcare,51.2461381,-0.5864423999999999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN29412903' target='_blank'><div>ISRCTN29412903</div></a></td>
+      <td>The effect of a behavioural management tool in adults with mild to moderate...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>"
+144,-10435.022275266989,6704483.374082789,King's College Hospital NHS Foundation Trust,51.4679138,-0.0937394,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18265148' target='_blank'><div>ISRCTN18265148</div></a></td>
+      <td>Preparatory information for children undergoing general anaesthesia</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>210</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN25601281' target='_blank'><div>ISRCTN25601281</div></a></td>
+      <td>Genetic and psychometric role in post-surgical acute pain using ASL/regiona...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>45</td>
+    </tr>
+  </tbody>
+</table>"
+149,-177353.03274524107,7362485.32925916,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,55.0031904,-1.5931894,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15594715' target='_blank'><div>ISRCTN15594715</div></a></td>
+      <td>How do dental injections make your lower teeth go numb?</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>22</td>
+    </tr>
+  </tbody>
+</table>"
+151,-266136.1597941943,6690894.71626981,Royal United Hospitals Bath NHS Foundation Trust,51.3918072,-2.3907418,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN79884739' target='_blank'><div>ISRCTN79884739</div></a></td>
+      <td>Chewing gum and orthodontic pain</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>1000</td>
+    </tr>
+  </tbody>
+</table>"
+158,-15264.796494518432,6714519.337898758,Joint UCLH and UCL Biomedical Research Unit,51.5240413,-0.137126,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14838813' target='_blank'><div>ISRCTN14838813</div></a></td>
+      <td>Periodontitis and obesity</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>114</td>
+    </tr>
+  </tbody>
+</table>"
+200,-6553.233707661985,6713415.407300916,Barts and The London NHS Trust,51.5178708,-0.0588687,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11717011' target='_blank'><div>ISRCTN11717011</div></a></td>
+      <td>Comparison of the fixed versus the removable functional braces in the treat...</td>
+      <td>Device</td>
+      <td>Child</td>
+      <td>80</td>
+    </tr>
+  </tbody>
+</table>"
+258,-85226.75874878421,6669780.581850419,Philips,51.2733007,-0.765605,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN38199132' target='_blank'><div>ISRCTN38199132</div></a></td>
+      <td>Breath freshening effects of mechanical removal of tongue biofilm\n</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>25</td>
+    </tr>
+  </tbody>
+</table>"
+272,-173259.8595965687,7133005.281595342,Leeds Dental Institute,53.803374,-1.5564198,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17122529' target='_blank'><div>ISRCTN17122529</div></a></td>
+      <td>CAD/CAM nitinol bonded retainer versus a chairside bonded retainer: a multi...</td>
+      <td>Device</td>
+      <td>All</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11387019' target='_blank'><div>ISRCTN11387019</div></a></td>
+      <td>The use of speckle contrast imaging technique to assess pulpal blood flow</td>
+      <td>Device</td>
+      <td>Child</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12547356' target='_blank'><div>ISRCTN12547356</div></a></td>
+      <td>The use of laser doppler flowmetry for the assessment of the tooth vitality...</td>
+      <td>Device</td>
+      <td>Child</td>
+      <td>74</td>
+    </tr>
+  </tbody>
+</table>"
+282,-472260.99510910106,7531014.683548528,University of Strathclyde,55.862111,-4.2423927,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15543219' target='_blank'><div>ISRCTN15543219</div></a></td>
+      <td>Visualising speech: ultrasound assessment and speech therapy for children w...</td>
+      <td>Behavioural</td>
+      <td>Child</td>
+      <td>48</td>
+    </tr>
+  </tbody>
+</table>"
+297,-171474.96288118936,7168467.4556292435,Tim Doswell,53.9910817,-1.5403858,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17174308' target='_blank'><div>ISRCTN17174308</div></a></td>
+      <td>Patient satisfaction of friction-grip dental implant supported teeth and si...</td>
+      <td>Device</td>
+      <td>Mixed</td>
+      <td>10</td>
+    </tr>
+  </tbody>
+</table>"
+307,-349456.7392423799,7542895.063856264,The Queen's Medical Research Institute,55.9219565,-3.1392233,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13385593' target='_blank'><div>ISRCTN13385593</div></a></td>
+      <td>Fasting versus non-fasting intravenous sedation in the dental setting</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>732</td>
+    </tr>
+  </tbody>
+</table>"
+324,-10270.803762448752,6710352.092322927,Guy's and St Thomas' NHS Foundation Trust,51.5007438,-0.09226419999999999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15294714' target='_blank'><div>ISRCTN15294714</div></a></td>
+      <td>A study to determine the effectiveness of a tailor-made prevention programm...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+377,-30737.471006144227,6709270.325275265,Southern Implants (Pty) Ltd,51.4946941,-0.2761194,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN57543596' target='_blank'><div>ISRCTN57543596</div></a></td>
+      <td>Rough vs Hybrid-surface implants for maxillary All-on-4 overdentures</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>25</td>
+    </tr>
+  </tbody>
+</table>"
+378,8582544.365319073,3305940.2538098847,GlaxoSmithKline Consumer Healthcare (GSKCH),28.4508876,77.0983078,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN52296479' target='_blank'><div>ISRCTN52296479</div></a></td>
+      <td>Does a new toothpaste act as required to successfully treat dentine hyperse...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>28</td>
+    </tr>
+  </tbody>
+</table>"
+392,-230505.48472294465,7074750.306494579,Tameside Hospital NHS Foundation Trust,53.4931868,-2.070666,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10014340' target='_blank'><div>ISRCTN10014340</div></a></td>
+      <td>Early orthodontic treatment for reverse bite: an orthopaedic facemask treat...</td>
+      <td>Device</td>
+      <td>Child</td>
+      <td>65</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN93900866' target='_blank'><div>ISRCTN93900866</div></a></td>
+      <td>A clinical trial to assess the effectiveness of miniplate surgical treatmen...</td>
+      <td>Procedure/Surgery</td>
+      <td>Child</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN20400513' target='_blank'><div>ISRCTN20400513</div></a></td>
+      <td>The effectiveness of an orthodontic brace for a receding chin</td>
+      <td>Device</td>
+      <td>Child</td>
+      <td>112</td>
+    </tr>
+  </tbody>
+</table>"
+394,598968.7134482847,6828147.818657364,GlaxoSmithKline Consumer Healthcare,52.1547118,5.3806275,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16831120' target='_blank'><div>ISRCTN16831120</div></a></td>
+      <td>A study to investigate the effect of a sensitivity toothpaste in providing ...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>240</td>
+    </tr>
+  </tbody>
+</table>"
+431,-13140.0525056963,6713423.546911105,Medical Research Council (MRC),51.5179163,-0.1180391,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN61138858' target='_blank'><div>ISRCTN61138858</div></a></td>
+      <td>The effectiveness of non-surgical orthodontic treatment for the treatment o...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>480</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN75693275' target='_blank'><div>ISRCTN75693275</div></a></td>
+      <td>A multicentred, practice-based prospective randomised controlled clinical t...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>"
+457,-566886.2580904779,6492318.838168348,Peninsula Dental Social Enterprise CIC,50.2651295,-5.092425899999999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17598447' target='_blank'><div>ISRCTN17598447</div></a></td>
+      <td>Lipid-A project</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>"
+516,-12012931.21777075,4871408.514030514,Grant Dental Technology Corporation (USA),40.0376055,-107.9139972,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN78513432' target='_blank'><div>ISRCTN78513432</div></a></td>
+      <td>Grant Dental Technologys Proximerge™ Implant System post-market clinical s...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+523,-237442.7818057925,7054429.076115557,Stockport NHS Foundation Trust,53.38444610000001,-2.1329848,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN80447398' target='_blank'><div>ISRCTN80447398</div></a></td>
+      <td>Comparison between twin-block and forsus functional appliances</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>64</td>
+    </tr>
+  </tbody>
+</table>"
+564,-291118.78048064595,6705094.342461945,AXA PPP Healthcare,51.4713327,-2.6151645,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN54934084' target='_blank'><div>ISRCTN54934084</div></a></td>
+      <td>A quality improvement programme for panoramic radiography</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+620,-481013.30082958785,7535282.289562013,NHS Greater Glasgow and Clyde,55.883619,-4.321016,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN33376683' target='_blank'><div>ISRCTN33376683</div></a></td>
+      <td>Randomised clinical trial of the effects of Total Intravenous Anaesthesia (...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>360</td>
+    </tr>
+  </tbody>
+</table>"
+706,-457586.62606180104,6518587.628347009,Peninsula Medical School,50.4157354,-4.1105706,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN41442806' target='_blank'><div>ISRCTN41442806</div></a></td>
+      <td>The effects of the use of virtual reality (VR) during dental treatment</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+  </tbody>
+</table>"
+726,-11834.375066232915,6712606.173857521,The Health Foundation,51.513347,-0.10631,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN91585387' target='_blank'><div>ISRCTN91585387</div></a></td>
+      <td>A randomised clinical trial of the impact of implant retained overdentures ...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>"
+731,-330037.36576806754,7059192.934205879,Royal Liverpool and Broadgreen University Hospitals NHS Trust,53.4099629,-2.9647761,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN34934882' target='_blank'><div>ISRCTN34934882</div></a></td>
+      <td>The comparison of two dental techniques used to treat upper front adult tee...</td>
+      <td>Procedure/Surgery</td>
+      <td>Other</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+794,-177379.03697829036,7362371.105163078,The Newcastle upon Tyne Hospitals NHS Trust,55.00260189999999,-1.593423,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18143187' target='_blank'><div>ISRCTN18143187</div></a></td>
+      <td>The efficacy of different local anaesthetic solutions/techniques in produci...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>500</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN51784460' target='_blank'><div>ISRCTN51784460</div></a></td>
+      <td>The efficacy of different local anaesthetic solutions/techniques in patient...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>800</td>
+    </tr>
+  </tbody>
+</table>"
+799,-372133.63271187764,7543236.367816607,Scottish Executive Chief Scientist Office,55.9236744,-3.3429333,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12026431' target='_blank'><div>ISRCTN12026431</div></a></td>
+      <td>Clinical evaluation of the effects of paediatric dental general anaesthesia...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>"
+834,-36524.615110115985,6634006.366566513,Action Medical Research,51.0718125,-0.3281062,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN31348959' target='_blank'><div>ISRCTN31348959</div></a></td>
+      <td>An investigation of the effects of pre-surgical orthodontics (baby plates) ...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+884,-9955.480172827725,6715136.31965717,UCL Biomedical Research Unit,51.5274896,-0.0894316,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14838813' target='_blank'><div>ISRCTN14838813</div></a></td>
+      <td>Periodontitis and obesity</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>114</td>
+    </tr>
+  </tbody>
+</table>"
+895,949645.2026151846,6471239.046406042,The Procter and Gamble Company,50.143928,8.530808,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN66133349' target='_blank'><div>ISRCTN66133349</div></a></td>
+      <td>The protective effect of toothpaste against tooth erosion</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>36</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN55245733' target='_blank'><div>ISRCTN55245733</div></a></td>
+      <td>The anti-erosion effects of two different toothpastes on tooth enamel</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>36</td>
+    </tr>
+  </tbody>
+</table>"
+924,-173111.74901406825,7364716.383247343,Proctor and Gamble Technical Centres Ltd,55.0146834,-1.5550893,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN55537791' target='_blank'><div>ISRCTN55537791</div></a></td>
+      <td>A study to look at the protective effect of two toothpastes against tooth e...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>36</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10406748' target='_blank'><div>ISRCTN10406748</div></a></td>
+      <td>A clinical study to evaluate how effective a dental strip containing an oxa...</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+930,-6749.000164171036,6713387.392792631,Queen Mary University of London and Barts and the London NHS Trust,51.5177142,-0.0606273,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12769138' target='_blank'><div>ISRCTN12769138</div></a></td>
+      <td>Patients’ satisfaction when wearing different dentures - a pilot study</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>"
+936,6158574.075050379,2904157.5584377563,Hamdan Bin Mohammed College of Dental Medicine,25.2311057,55.3234122,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN46437306' target='_blank'><div>ISRCTN46437306</div></a></td>
+      <td>The effect of an inhalation sedation familiarization visit on children’s de...</td>
+      <td>Procedure/Surgery</td>
+      <td>Child</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>"
+940,-14942.470908926509,6714218.262468385,Eastman Dental Institute,51.5223585,-0.1342305,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN28863406' target='_blank'><div>ISRCTN28863406</div></a></td>
+      <td>Understanding the factors that affect clinical outcomes (such as tooth surv...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>112</td>
+    </tr>
+  </tbody>
+</table>"
+965,-9634.1787265511,6710827.906436065,NIHR Guy's and St Thomas' NHS Foundation Trust (GSTFT),51.50340449999999,-0.08654529999999999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN32677164' target='_blank'><div>ISRCTN32677164</div></a></td>
+      <td>A randomised clinical trial of the efficacy of topical and systemic treatme...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+999,-11215.216058440727,6709560.507348515,"NHS Health Research Authority, London Bridge Research Ethics Committee",51.496317,-0.100748,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10620973' target='_blank'><div>ISRCTN10620973</div></a></td>
+      <td>Cone beam computed tomography study to assess endodontic disease</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>500</td>
+    </tr>
+  </tbody>
+</table>"
+1030,-660080.453357962,7283591.682568347,Belfast Health and Social Care Trust; University of Manchester,54.5946584,-5.929603600000001,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN36180119' target='_blank'><div>ISRCTN36180119</div></a></td>
+      <td>Northern Ireland Caries Prevention In Practice trial</td>
+      <td>Mixed</td>
+      <td>Child</td>
+      <td>1200</td>
+    </tr>
+  </tbody>
+</table>"
+1034,899179.1237212535,5951126.324435964,Geistlich Pharma (Switzerland),47.0554298,8.0774635,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN83600326' target='_blank'><div>ISRCTN83600326</div></a></td>
+      <td>Use of pig collagen graft to increase the thickness of tissue around dental...</td>
+      <td>Procedure/Surgery</td>
+      <td>Mixed</td>
+      <td>15</td>
+    </tr>
+  </tbody>
+</table>"
+1048,6158559.247294205,2904361.470129941,Mohammed Bin Rashid University of Medicine and Health Sciences,25.2327627,55.323279,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN46437306' target='_blank'><div>ISRCTN46437306</div></a></td>
+      <td>The effect of an inhalation sedation familiarization visit on children’s de...</td>
+      <td>Procedure/Surgery</td>
+      <td>Child</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>"
+1054,-356392.7561510836,7547642.094422427,NHS Education for Scotland,55.9458431,-3.2015306,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16294743' target='_blank'><div>ISRCTN16294743</div></a></td>
+      <td>Evaluating the effectiveness of behaviour change theory-based training for ...</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>228</td>
+    </tr>
+  </tbody>
+</table>"
+1142,-338927.45162230916,7651359.348041676,Scottish Council for Postgraduate Dental and Medical Education,56.4640715,-3.0446371,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN55563468' target='_blank'><div>ISRCTN55563468</div></a></td>
+      <td>A randomised controlled trial to investigate the effects of enhanced oral h...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>219</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN99609795' target='_blank'><div>ISRCTN99609795</div></a></td>
+      <td>A randomised controlled trial to explore attitudes to routine scale and pol...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>"
+1160,-16258.089178917735,6709551.584842318,"Ministry of Science and Technology, R.O.C.",51.4962671,-0.1460489,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17756516' target='_blank'><div>ISRCTN17756516</div></a></td>
+      <td>The effect of lay health advisor approach of periodontal care intervention ...</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>"
+1162,-474607.1201692638,7531089.764890784,Scottish Council for Postgraduate Dental and Medical Education (SCPMDE),55.8624895,-4.2634683,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15791152' target='_blank'><div>ISRCTN15791152</div></a></td>
+      <td>The effectiveness of evidence-based oral hygiene advice and instruction upo...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>778</td>
+    </tr>
+  </tbody>
+</table>"
+1191,-238398.72680103066,7792067.235629476,NHS Education Scotland,57.1559827,-2.1415722,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15791152' target='_blank'><div>ISRCTN15791152</div></a></td>
+      <td>The effectiveness of evidence-based oral hygiene advice and instruction upo...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>778</td>
+    </tr>
+  </tbody>
+</table>"
+1192,-14827.812031357762,6709852.226837003,Department of Health,51.49794844005473,-0.13320050177820006,27.0,21.478185834579563,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN22535947' target='_blank'><div>ISRCTN22535947</div></a></td>
+      <td>The benefit of prolonged orthodontic retention - a randomised clinical tria...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN34146674' target='_blank'><div>ISRCTN34146674</div></a></td>
+      <td>Experimental pulp capping in healthy human third molars.</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>36</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN36747800' target='_blank'><div>ISRCTN36747800</div></a></td>
+      <td>A pilot study to examine factors associated with excessive gagging in dentu...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN75685248' target='_blank'><div>ISRCTN75685248</div></a></td>
+      <td>A balanced randomised controlled trial to examine the effect of using the a...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN22203853' target='_blank'><div>ISRCTN22203853</div></a></td>
+      <td>A balanced randomised controlled trial to examine the usefulness of alginat...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN66185030' target='_blank'><div>ISRCTN66185030</div></a></td>
+      <td>A prospective randomized trial investigating the alignment efficiency of tw...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN72395027' target='_blank'><div>ISRCTN72395027</div></a></td>
+      <td>The use of pre-operative analgesia and intra-operative intra-crestal anaest...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN98564858' target='_blank'><div>ISRCTN98564858</div></a></td>
+      <td>Clinical and molecular mechanisms of periodontal wound healing following su...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN32707822' target='_blank'><div>ISRCTN32707822</div></a></td>
+      <td>Application of molecular diagnostic methodologies to analyse plaque microbi...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>25</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN35457694' target='_blank'><div>ISRCTN35457694</div></a></td>
+      <td>A randomised controlled trial investigating the orthodontic bracket bond fa...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>33</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12132224' target='_blank'><div>ISRCTN12132224</div></a></td>
+      <td>A RCT investigation: paracetamol and ibruprofen in paediatric patients for ...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>188</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN21720818' target='_blank'><div>ISRCTN21720818</div></a></td>
+      <td>The effect of the intra oral slow release fluoride device in remineralisati...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>25</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN61956550' target='_blank'><div>ISRCTN61956550</div></a></td>
+      <td>The utility of Capnography in Adult dental Patients Consciously Sedated wit...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN52655400' target='_blank'><div>ISRCTN52655400</div></a></td>
+      <td>Prospective comparative study of affects of two functional appliances</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN30207928' target='_blank'><div>ISRCTN30207928</div></a></td>
+      <td>A study of post-extraction bleeding following warm saline mouth washes comp...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN47492454' target='_blank'><div>ISRCTN47492454</div></a></td>
+      <td>Effect of toothbrushing before or after breakfast on enamel in situ</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN83971890' target='_blank'><div>ISRCTN83971890</div></a></td>
+      <td>An investigation into the management of interrupted incisor teeth</td>
+      <td>Procedure/Surgery</td>
+      <td>Not Specified</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17497519' target='_blank'><div>ISRCTN17497519</div></a></td>
+      <td>Use of modified mandibular plate for fractured mandible.</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14198853' target='_blank'><div>ISRCTN14198853</div></a></td>
+      <td>Do information leaflets entitled ""your first visit to the orthodontist"" hel...</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN19566213' target='_blank'><div>ISRCTN19566213</div></a></td>
+      <td>Adjunctive benefits of systemic antibiotics to non-surgical treatment of ge...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN05340070' target='_blank'><div>ISRCTN05340070</div></a></td>
+      <td>The effect of a fluoride releasing, non-primer step required, no mix compos...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN43878832' target='_blank'><div>ISRCTN43878832</div></a></td>
+      <td>A comparison of patient-controlled sedation and operator-controlled intrave...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>64</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN39382961' target='_blank'><div>ISRCTN39382961</div></a></td>
+      <td>Effect of fluoride slow-release devices on enamel remineralisation in situ</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16427142' target='_blank'><div>ISRCTN16427142</div></a></td>
+      <td>Effect of Fluoride Slow-release Devices on salivary and plaque levels of fl...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN86722161' target='_blank'><div>ISRCTN86722161</div></a></td>
+      <td>Randomised controlled trial to evaluate two alternative strategies for the ...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN61972161' target='_blank'><div>ISRCTN61972161</div></a></td>
+      <td>A randomised prospective clinical trial to compare two different methods of...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN54172738' target='_blank'><div>ISRCTN54172738</div></a></td>
+      <td>A comparison of sevoflurane and nitrous oxide as inhalation agents for dent...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>25</td>
+    </tr>
+  </tbody>
+</table>"

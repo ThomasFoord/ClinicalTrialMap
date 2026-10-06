@@ -1,0 +1,2268 @@
+,merclng,merclat,locations,latitude,longitude,number,radius,HTML
+0,-139635.47344398804,6755913.94771293,University of Oxford,51.7548164,-1.2543668,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN83743213' target='_blank'><div>ISRCTN83743213</div></a></td>
+      <td>Transcorneal electrical stimulation for the treatment of retinitis pigmento...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>12</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN99153976' target='_blank'><div>ISRCTN99153976</div></a></td>
+      <td>Amiloride Clinical Trial in Optic Neuritis</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>46</td>
+    </tr>
+  </tbody>
+</table>"
+2,-181976.75458703414,7363080.99091819,Newcastle upon Tyne Hospitals NHS Foundation Trust,55.0062592,-1.634725,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN84503751' target='_blank'><div>ISRCTN84503751</div></a></td>
+      <td>Ranibizumab for DMO PRP trial (RDP trial)</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>70</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN51772481' target='_blank'><div>ISRCTN51772481</div></a></td>
+      <td>To evaluate the safety and effectiveness of human ex vivo expanded autologo...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>24</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN44114892' target='_blank'><div>ISRCTN44114892</div></a></td>
+      <td>An External Pilot Study to Test the Feasibility of a Randomised Controlled ...</td>
+      <td>Procedure/Surgery</td>
+      <td>Child</td>
+      <td>144</td>
+    </tr>
+  </tbody>
+</table>"
+4,-14921.27567787947,6714611.999375625,University College London,51.52455920000001,-0.1340401,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16689192' target='_blank'><div>ISRCTN16689192</div></a></td>
+      <td>The effect of 670 nm light on visual function in ageing and age-related mac...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10751859' target='_blank'><div>ISRCTN10751859</div></a></td>
+      <td>A phase II clinical trial of  Detection of Apoptosing Retinal Cells (DARC I...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN77602616' target='_blank'><div>ISRCTN77602616</div></a></td>
+      <td>FACT: laser-assisted versus standard ultrasound cataract surgery</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>808</td>
+    </tr>
+  </tbody>
+</table>"
+10,-125193.51722956625,6913224.121171489,University of Leicester,52.6211393,-1.1246325,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN85110914' target='_blank'><div>ISRCTN85110914</div></a></td>
+      <td>European Paediatric and Amblyopia Treatment study for Children (EuPATCH): t...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>102</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN51712593' target='_blank'><div>ISRCTN51712593</div></a></td>
+      <td>EuPatch (European Paediatric Amblyopia Treatment Study for Children): the r...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>346</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN80219391' target='_blank'><div>ISRCTN80219391</div></a></td>
+      <td>Optical treatment of nystagmus</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>28</td>
+    </tr>
+  </tbody>
+</table>"
+18,-330095.57472980337,7058225.529810573,University of Liverpool,53.40478239999999,-2.965299,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN31552904' target='_blank'><div>ISRCTN31552904</div></a></td>
+      <td>Determination of corneal biomechanical properties in-vivo using a contact d...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>70</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN87561257' target='_blank'><div>ISRCTN87561257</div></a></td>
+      <td>Individual risk-based Screening for Diabetic Retinopathy</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>5900</td>
+    </tr>
+  </tbody>
+</table>"
+21,-248674.7959753939,7069823.728924356,University of Manchester,53.4668498,-2.2338837,5.0,11.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17082971' target='_blank'><div>ISRCTN17082971</div></a></td>
+      <td>Investigation of eye response to two different contact lens solutions</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>15</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN55788739' target='_blank'><div>ISRCTN55788739</div></a></td>
+      <td>An investigation of the inflammatory response in soft contact lens wear</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN91188805' target='_blank'><div>ISRCTN91188805</div></a></td>
+      <td>Providing glaucoma information as per clinical standard</td>
+      <td>Behavioural</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10419752' target='_blank'><div>ISRCTN10419752</div></a></td>
+      <td>Effect of contact lens replacement and manipulation on comfort</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN53433311' target='_blank'><div>ISRCTN53433311</div></a></td>
+      <td>To promote adherence to two interventions to prevent falls in older people ...</td>
+      <td>Other</td>
+      <td>Senior</td>
+      <td>193</td>
+    </tr>
+  </tbody>
+</table>"
+23,-12912.726973547356,6712273.366431493,King's College London,51.5114864,-0.115997,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14435750' target='_blank'><div>ISRCTN14435750</div></a></td>
+      <td>Study of hallucinations in Parkinson's disease, eye disease and dementia- t...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>90</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12884465' target='_blank'><div>ISRCTN12884465</div></a></td>
+      <td>StereoTactic radiotherapy for wet Age-Related macular degeneration (STAR)</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>411</td>
+    </tr>
+  </tbody>
+</table>"
+24,15764.29818165693,6831813.114718777,Cambridge University Hospitals NHS Foundation Trust,52.1749083,0.1416131,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10578843' target='_blank'><div>ISRCTN10578843</div></a></td>
+      <td>Corneal transplant clinical trial</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>56</td>
+    </tr>
+  </tbody>
+</table>"
+25,-169496.79326589472,7133925.454259742,Leeds Teaching Hospitals NHS Trust,53.8082553,-1.5226156,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN44202629' target='_blank'><div>ISRCTN44202629</div></a></td>
+      <td>Age related macular degeneration pharmacogenetics study</td>
+      <td>Other</td>
+      <td>Senior</td>
+      <td>350</td>
+    </tr>
+  </tbody>
+</table>"
+27,-289762.31908948265,6702786.54140238,University of Bristol,51.4584172,-2.6029792,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN30128134' target='_blank'><div>ISRCTN30128134</div></a></td>
+      <td>Imaging immune cells in the human eye using Indocyanine-Green dye</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>18</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN22471573' target='_blank'><div>ISRCTN22471573</div></a></td>
+      <td>Combined Immunosuppression and Radiotherapy in Thyroid Eye Disease</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+31,-19466.828973237527,6710008.469052965,Imperial College London,51.49882220000001,-0.1748735,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14896403' target='_blank'><div>ISRCTN14896403</div></a></td>
+      <td>Incentives in diabetic eye assessment by screening</td>
+      <td>Behavioural</td>
+      <td>Other</td>
+      <td>1000</td>
+    </tr>
+  </tbody>
+</table>"
+32,-353869.5329130179,6707828.061418129,Cardiff University,51.48662710000001,-3.1788641,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN76140296' target='_blank'><div>ISRCTN76140296</div></a></td>
+      <td>Examining the assumptions, accuracy and acceptance of an electronic monitor...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>18</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN75888393' target='_blank'><div>ISRCTN75888393</div></a></td>
+      <td>The TRIAGE Study: Identifying Non-Responders to Glaucoma Eye Drops</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>163</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN44807874' target='_blank'><div>ISRCTN44807874</div></a></td>
+      <td>Does rehabilitation officer input improve quality of life in individuals wi...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>70</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN82148651' target='_blank'><div>ISRCTN82148651</div></a></td>
+      <td>Age-related macular degeneration (AMD) Light trial</td>
+      <td>Device</td>
+      <td>Senior</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+34,-14025.409811822443,6708868.9079774935,Education Endowment Foundation,51.492449,-0.1259924,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN23508254' target='_blank'><div>ISRCTN23508254</div></a></td>
+      <td>Glasses in classes: A cluster-randomised controlled trial to evaluate the e...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>700</td>
+    </tr>
+  </tbody>
+</table>"
+39,-129447.76968141648,6981081.701203768,Nottingham University Hospitals NHS Trust,52.9896393,-1.1628491,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN56878850' target='_blank'><div>ISRCTN56878850</div></a></td>
+      <td>Treatment of Advanced Glaucoma Study</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>440</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN95654194' target='_blank'><div>ISRCTN95654194</div></a></td>
+      <td>Comparing different dosing regimens of Avastin® in the treatment of wet age...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>811</td>
+    </tr>
+  </tbody>
+</table>"
+68,-159707.9806346827,6609566.652367846,Southampton University Hospitals NHS Trust,50.93365619999999,-1.4346812,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN92746680' target='_blank'><div>ISRCTN92746680</div></a></td>
+      <td>Clinical efficacy and mechanistic evaluation of Eplerenone for central sero...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>104</td>
+    </tr>
+  </tbody>
+</table>"
+69,-19408.40850446922,6713404.673761457,Imperial College Healthcare NHS Trust,51.5178108,-0.1743487,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN35702916' target='_blank'><div>ISRCTN35702916</div></a></td>
+      <td>Perforated punctal plug as an alternative to the three snip punctoplasty fo...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>"
+71,-117082.70120672479,7159956.564079147,University of York,53.9461089,-1.0517718,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN52484108' target='_blank'><div>ISRCTN52484108</div></a></td>
+      <td>Assessing visual cortex in candidates for retinal prosthetics</td>
+      <td>Device</td>
+      <td>Senior</td>
+      <td>5</td>
+    </tr>
+  </tbody>
+</table>"
+92,-288970.57034316455,6702900.955636583,University Hospitals Bristol NHS Foundation Trust,51.45905759999999,-2.5958668,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN31474800' target='_blank'><div>ISRCTN31474800</div></a></td>
+      <td>Treatment of inflammation inside the eye caused by an overactive immune sys...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11309852' target='_blank'><div>ISRCTN11309852</div></a></td>
+      <td>A feasibility study of the use of a cataract surgery decision aid which inc...</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10065623' target='_blank'><div>ISRCTN10065623</div></a></td>
+      <td>The clinical effectiveness, safety and cost effectiveness of adalimumab in ...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>154</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN42639823' target='_blank'><div>ISRCTN42639823</div></a></td>
+      <td>Combination photodynamic treatment and intravitreal ranibizumab versus intr...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>18</td>
+    </tr>
+  </tbody>
+</table>"
+96,-233940.7708129778,7793869.012440783,University of Aberdeen,57.16475999999999,-2.1015257,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN33175422' target='_blank'><div>ISRCTN33175422</div></a></td>
+      <td>Full thickness macular hole and Internal Limiting Membrane (ILM) peeling St...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>150</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN44464607' target='_blank'><div>ISRCTN44464607</div></a></td>
+      <td>The effectiveness of early lens extraction with intraocular lens implantati...</td>
+      <td>Procedure/Surgery</td>
+      <td>Senior</td>
+      <td>400</td>
+    </tr>
+  </tbody>
+</table>"
+98,-8619932.663830457,5316486.7301696995,CooperVision Inc. (USA),43.029655,-77.4341726,9.0,14.652123889719707,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16821484' target='_blank'><div>ISRCTN16821484</div></a></td>
+      <td>Contact lens fitting characteristics study</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14840896' target='_blank'><div>ISRCTN14840896</div></a></td>
+      <td>Effect of eye astigmatism on multifocal contact lenses</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN50917346' target='_blank'><div>ISRCTN50917346</div></a></td>
+      <td>Vision comparison of two multifocal contact lenses</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>150</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14364515' target='_blank'><div>ISRCTN14364515</div></a></td>
+      <td>Comparative performance and acceptance validation study of CVI new multifoc...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN62897847' target='_blank'><div>ISRCTN62897847</div></a></td>
+      <td>Validation of CV multifocal daily disposable contact lenses performance in ...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>150</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN69577753' target='_blank'><div>ISRCTN69577753</div></a></td>
+      <td>Optimizing vision with multifocal contact lens combinations fitting in the ...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>75</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12460884' target='_blank'><div>ISRCTN12460884</div></a></td>
+      <td>Evaluation of Rexon-Eye efficacy for dry eye subjects</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>54</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN26121992' target='_blank'><div>ISRCTN26121992</div></a></td>
+      <td>Effect of sodium hyaluronate eyedrop on contact lens wettability</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17565450' target='_blank'><div>ISRCTN17565450</div></a></td>
+      <td>Analysis of the tear components taken up by contact lenses</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+113,-357660.29553300125,7544532.960093776,NHS Lothian,55.9301999,-3.2129171,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN54055321' target='_blank'><div>ISRCTN54055321</div></a></td>
+      <td>Ex vivo expanded corneal limbal stem cell transplantation</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>"
+119,-9995.555189513303,6715108.585518302,Moorfields Eye Hospital NHS Foundation Trust,51.5273346,-0.0897916,21.0,19.91668149608153,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18106677' target='_blank'><div>ISRCTN18106677</div></a></td>
+      <td>Use of telemedicine and artificial intelligence to improve the way patients...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>794</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN28276860' target='_blank'><div>ISRCTN28276860</div></a></td>
+      <td>Can deep phenotyping using retinal images predict response to intravitreal ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>3000</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN99870008' target='_blank'><div>ISRCTN99870008</div></a></td>
+      <td>Circulating biomarkers to detect sight-threatening diabetic retinopathy</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10447645' target='_blank'><div>ISRCTN10447645</div></a></td>
+      <td>Community care for neovascular age-related macular degeneration</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>742</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12410596' target='_blank'><div>ISRCTN12410596</div></a></td>
+      <td>Positioning in macular hole surgery</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>192</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13623634' target='_blank'><div>ISRCTN13623634</div></a></td>
+      <td>The LEAVO study</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>459</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN30012492' target='_blank'><div>ISRCTN30012492</div></a></td>
+      <td>Adjunctive steroid combination in ocular trauma study</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN32207582' target='_blank'><div>ISRCTN32207582</div></a></td>
+      <td>Clinical efficacy and mechanistic evaluation of aflibercept for proliferati...</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>220</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN49681405' target='_blank'><div>ISRCTN49681405</div></a></td>
+      <td>Evaluating femtosecond laser assisted cataract and lens surgery</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN32038223' target='_blank'><div>ISRCTN32038223</div></a></td>
+      <td>Laser-1st vs Drops-1st for Glaucoma and Ocular Hypertension</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>718</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN35052615' target='_blank'><div>ISRCTN35052615</div></a></td>
+      <td>Subconjunctival bevacizumab on eyes with recent onset of cornea neovascular...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN64155646' target='_blank'><div>ISRCTN64155646</div></a></td>
+      <td>Acri.LISA® bifocal intraocular lens (Carl Zeiss UK) versus AcrySof® IQ ReST...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>188</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN91672666' target='_blank'><div>ISRCTN91672666</div></a></td>
+      <td>Effect of low vision rehabilitation on self-reported visual disability for ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN29378493' target='_blank'><div>ISRCTN29378493</div></a></td>
+      <td>Corneal Collagen Cross-linking with Riboflavin (C3R) with orthokeratology</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN79120387' target='_blank'><div>ISRCTN79120387</div></a></td>
+      <td>A randomised, single-masked, phase IV pilot study of the efficacy and safet...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN88407981' target='_blank'><div>ISRCTN88407981</div></a></td>
+      <td>Axial IntraOcular Lens position and posterior capsule opacification with a ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>35</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN01285948' target='_blank'><div>ISRCTN01285948</div></a></td>
+      <td>Effect of a plate haptic design on intraocular lens rotational-and-axial st...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>25</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN37400841' target='_blank'><div>ISRCTN37400841</div></a></td>
+      <td>A prospective randomised controlled trial comparing bilateral multifocal in...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>212</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN96423140' target='_blank'><div>ISRCTN96423140</div></a></td>
+      <td>The United Kingdom Glaucoma Treatment Study</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>686</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN83325075' target='_blank'><div>ISRCTN83325075</div></a></td>
+      <td>A randomised, double-masked phase III study of the efficacy and safety of A...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>130</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN05434212' target='_blank'><div>ISRCTN05434212</div></a></td>
+      <td>Modernising the low vision clinic: the utility of a trained low vision supp...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>160</td>
+    </tr>
+  </tbody>
+</table>"
+122,-15216.69534254666,6709979.590051145,Ocular Technology Group International,51.49866069999999,-0.1366939,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN43094282' target='_blank'><div>ISRCTN43094282</div></a></td>
+      <td>Comprehensive intermediate and near vision testing with trifocal intraocula...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15794715' target='_blank'><div>ISRCTN15794715</div></a></td>
+      <td>Comprehensive distance vision testing with monofocal intraocular lenses</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+124,-329201.00016983954,7341741.699359122,North Cumbria University Hospitals NHS Trust,54.8961744,-2.9572629,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN41306818' target='_blank'><div>ISRCTN41306818</div></a></td>
+      <td>Health of Patients' Eyes in Glaucoma Clinics: HOPE Glaucoma</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>122</td>
+    </tr>
+  </tbody>
+</table>"
+144,-10435.022275266989,6704483.374082789,King's College Hospital NHS Foundation Trust,51.4679138,-0.0937394,6.0,12.132827525593784,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN87850962' target='_blank'><div>ISRCTN87850962</div></a></td>
+      <td>Efficacy and safety of retinal rejuvenation using Ellex 2RT laser in age-re...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN34037927' target='_blank'><div>ISRCTN34037927</div></a></td>
+      <td>Light and diabetic eye disease</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN34410935' target='_blank'><div>ISRCTN34410935</div></a></td>
+      <td>Combination therapy of Visudyne, Minocycline, Dexamethasone and Ranibizumab...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN33957677' target='_blank'><div>ISRCTN33957677</div></a></td>
+      <td>A pilot study to examine the safety and efficacy of posterior juxta-scleral...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN90646644' target='_blank'><div>ISRCTN90646644</div></a></td>
+      <td>Micropulse diode vs conventional green laser treatment in clinically signif...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12884465' target='_blank'><div>ISRCTN12884465</div></a></td>
+      <td>StereoTactic radiotherapy for wet Age-Related macular degeneration (STAR)</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>411</td>
+    </tr>
+  </tbody>
+</table>"
+149,-177353.03274524107,7362485.32925916,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,55.0031904,-1.5931894,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN70557873' target='_blank'><div>ISRCTN70557873</div></a></td>
+      <td>A pilot randomised masked study of ILM peeling with the new Grieshaber Shar...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>66</td>
+    </tr>
+  </tbody>
+</table>"
+153,801109.9028615105,5413265.148653063,Laboratoires Horus Pharma,43.6618773,7.196492699999999,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17861788' target='_blank'><div>ISRCTN17861788</div></a></td>
+      <td>Evaluation of 0.18% HA emulsion eyedrop for moderate to severe dry eye</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN40779210' target='_blank'><div>ISRCTN40779210</div></a></td>
+      <td>Evaluation of the efficacy and safety of Vismed® eyedrop for the treatment ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18065902' target='_blank'><div>ISRCTN18065902</div></a></td>
+      <td>Evaluation of eyelid cleansing wipes for dry eye management</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12394408' target='_blank'><div>ISRCTN12394408</div></a></td>
+      <td>Evaluation of an eyelid cleansing gel for dry eye management</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+159,-660575.3464181816,7281622.521041222,Queen's University Belfast,54.5844087,-5.9340493,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN79058224' target='_blank'><div>ISRCTN79058224</div></a></td>
+      <td>Monitoring for neovascular AMD reactivation at home</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN48855678' target='_blank'><div>ISRCTN48855678</div></a></td>
+      <td>Early detection of wet age-related macular degeneration (AMD)</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>560</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN07479761' target='_blank'><div>ISRCTN07479761</div></a></td>
+      <td>The effectiveness of community vs. hospital eye service follow-up for patie...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>96</td>
+    </tr>
+  </tbody>
+</table>"
+160,-120620.79084650557,7164473.235862453,York Teaching Hospital NHS Foundation Trust,53.9699817,-1.083555,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN76889861' target='_blank'><div>ISRCTN76889861</div></a></td>
+      <td>An observational study following patients newly diagnosed with neovascular ...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>448</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN58955026' target='_blank'><div>ISRCTN58955026</div></a></td>
+      <td>Treating neovascular age-related macular degeneration with aflibercept</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+165,-240641.65869322798,7790655.39373056,NHS Grampian,57.1491035,-2.1617208,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN44464607' target='_blank'><div>ISRCTN44464607</div></a></td>
+      <td>The effectiveness of early lens extraction with intraocular lens implantati...</td>
+      <td>Procedure/Surgery</td>
+      <td>Senior</td>
+      <td>400</td>
+    </tr>
+  </tbody>
+</table>"
+176,-126341.62192981176,6914257.025768537,University Hospitals of Leicester NHS Trust,52.62677189999999,-1.1349461,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN05346737' target='_blank'><div>ISRCTN05346737</div></a></td>
+      <td>Can patching be improved in lazy eye treatment?</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN58592532' target='_blank'><div>ISRCTN58592532</div></a></td>
+      <td>The pharmacological treatment of nystagmus</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>180</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN65414827' target='_blank'><div>ISRCTN65414827</div></a></td>
+      <td>Pharmacological Treatment of Congenital Nystagmus</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>48</td>
+    </tr>
+  </tbody>
+</table>"
+186,-318246.5722824802,7183955.019482357,Queen Victoria Hospital,54.07279579999999,-2.8588576,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12877117' target='_blank'><div>ISRCTN12877117</div></a></td>
+      <td>Development and validation of a clinical severity scale in persons with wat...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>107</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN28123440' target='_blank'><div>ISRCTN28123440</div></a></td>
+      <td>Nationwide survey of prosthetic eye users</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>500</td>
+    </tr>
+  </tbody>
+</table>"
+209,-51362.76852422011,6683286.740108636,Warneford Healthcare Ltd.,51.34914149999999,-0.4613996,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10063734' target='_blank'><div>ISRCTN10063734</div></a></td>
+      <td>Can eye drops effectively treat dry eye disease?</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>15</td>
+    </tr>
+  </tbody>
+</table>"
+220,-449154.942738697,7524072.790770966,Ocutec Ltd,55.8270996,-4.0348275,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN21794264' target='_blank'><div>ISRCTN21794264</div></a></td>
+      <td>Evaluating the comfort, vision and fit of Ocutec daily disposable contact l...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN28339062' target='_blank'><div>ISRCTN28339062</div></a></td>
+      <td>Evaluating the comfort, vision and fit of soft, spherical contact lenses in...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14481675' target='_blank'><div>ISRCTN14481675</div></a></td>
+      <td>Clinical evaluation of Ocutec daily disposable contact lenses</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN25271353' target='_blank'><div>ISRCTN25271353</div></a></td>
+      <td>Ocutec daily disposable contact lens comfort evaluation</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>25</td>
+    </tr>
+  </tbody>
+</table>"
+253,-198659.46083163374,6722173.3028083015,Medical Research Council,51.56680069999999,-1.7845883,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN72331636' target='_blank'><div>ISRCTN72331636</div></a></td>
+      <td>The OPAL Study: Older People And n-3 Long-chain polyunsaturated fatty acids</td>
+      <td>Other</td>
+      <td>Senior</td>
+      <td>800</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN84737434' target='_blank'><div>ISRCTN84737434</div></a></td>
+      <td>Radiotherapy in the treatment of subfoveal neovascular membranes (CNVM) in ...</td>
+      <td>Other</td>
+      <td>Senior</td>
+      <td>240</td>
+    </tr>
+  </tbody>
+</table>"
+267,-659823.950987276,7285438.338159189,Cathedral Eye Research,54.6042681,-5.9272994,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN11797545' target='_blank'><div>ISRCTN11797545</div></a></td>
+      <td>Evaluation of combined Eyepeace and Eye Nutrients study</td>
+      <td>Mixed</td>
+      <td>Adult</td>
+      <td>225</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN18423965' target='_blank'><div>ISRCTN18423965</div></a></td>
+      <td>Eyelid massager effectiveness in meibomian gland dysfunction</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+295,-210195.399474999,6888638.9802807355,Aston University,52.4868584,-1.8882174,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15954407' target='_blank'><div>ISRCTN15954407</div></a></td>
+      <td>The validity and reliability of intraocular pressure measurement using rebo...</td>
+      <td>Device</td>
+      <td>Child</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN78467674' target='_blank'><div>ISRCTN78467674</div></a></td>
+      <td>The effect of a lutein based nutritional supplement on non-exudative age-re...</td>
+      <td>Supplement</td>
+      <td>Not Specified</td>
+      <td>159</td>
+    </tr>
+  </tbody>
+</table>"
+324,-10270.803762448752,6710352.092322927,Guy's and St Thomas' NHS Foundation Trust,51.5007438,-0.09226419999999999,8.0,13.920296742201792,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN81435288' target='_blank'><div>ISRCTN81435288</div></a></td>
+      <td>Evaluation of the ""Bag-in-the-Lens"" intraocular lens</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>26</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN55089134' target='_blank'><div>ISRCTN55089134</div></a></td>
+      <td>The effect of the dietary antioxidant supplements lutein and zeaxanthin on ...</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>322</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN04451470' target='_blank'><div>ISRCTN04451470</div></a></td>
+      <td>Trans-epithelial corneal cross-linking to halt the progression of keratocon...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>46</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN04247738' target='_blank'><div>ISRCTN04247738</div></a></td>
+      <td>Phacoemulsification and changes in outflow facility</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN44390838' target='_blank'><div>ISRCTN44390838</div></a></td>
+      <td>Evaluation of reading vision after cataract surgery and lens implantation</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN59902040' target='_blank'><div>ISRCTN59902040</div></a></td>
+      <td>Assessment of surgery and standard treatment to treat visual loss from diab...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN52187987' target='_blank'><div>ISRCTN52187987</div></a></td>
+      <td>A randomized, bilateral, controlled, prospective study to investigate the e...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>36</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN09311359' target='_blank'><div>ISRCTN09311359</div></a></td>
+      <td>The contribution of race as a determining factor in the development of glau...</td>
+      <td>Other</td>
+      <td>Other</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>"
+331,3867177.7731188973,3747301.3578355666,BELKIN Laser Ltd,31.877958,34.739449,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14033075' target='_blank'><div>ISRCTN14033075</div></a></td>
+      <td>A study to assess an automated laser device to treat glaucoma</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>124</td>
+    </tr>
+  </tbody>
+</table>"
+345,-302850.57463611284,7065009.946867976,Viewpoint Vision Services Ltd,53.4411,-2.720553,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10869381' target='_blank'><div>ISRCTN10869381</div></a></td>
+      <td>A six month clinical evaluation of the Toric Multifocal Intraocular Implant...</td>
+      <td>NaN</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>"
+357,-14562.882577270526,6714321.905731729,University of London,51.5229378,-0.1308206,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17303768' target='_blank'><div>ISRCTN17303768</div></a></td>
+      <td>A study looking at a comparison between surgical procedure conceived to inc...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN87854656' target='_blank'><div>ISRCTN87854656</div></a></td>
+      <td>A randomised controlled trial comparing the impact of problem-solving treat...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+  </tbody>
+</table>"
+360,-138730.74654646387,6598464.742180134,CooperVision Inc.,50.8707618,-1.2462395,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10092153' target='_blank'><div>ISRCTN10092153</div></a></td>
+      <td>Satisfaction with multifocal contact lenses</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN96782461' target='_blank'><div>ISRCTN96782461</div></a></td>
+      <td>Visual performance and satisfaction with multifocal contact lenses</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16230269' target='_blank'><div>ISRCTN16230269</div></a></td>
+      <td>Evaluation of two different eye drops in symptomatic soft contact lens wear...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>"
+381,-13624953.016352694,4530635.873892791,Verily Life Sciences LLC (USA),37.65381230000001,-122.3950354,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12120712' target='_blank'><div>ISRCTN12120712</div></a></td>
+      <td>A research study to evaluate a novel type of near vision correction with co...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>130</td>
+    </tr>
+  </tbody>
+</table>"
+390,-145697.131412256,6692817.514117343,Topcon Eye Care Company,51.402584,-1.3088196,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16974179' target='_blank'><div>ISRCTN16974179</div></a></td>
+      <td>Comparison between a novel device and conventional sight testing methods to...</td>
+      <td>Device</td>
+      <td>Mixed</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+402,-11406.062193456715,6715222.618165536,City University London,51.5279719,-0.1024624,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12292232' target='_blank'><div>ISRCTN12292232</div></a></td>
+      <td>Personalising Dosing Strategy for Amblyopia Treatment</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>120</td>
+    </tr>
+  </tbody>
+</table>"
+424,1326749.1504034402,5687296.032031763,CenterVue SpA,45.4162798,11.9183904,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13800424' target='_blank'><div>ISRCTN13800424</div></a></td>
+      <td>Clinical performance of Compass in the diagnosis of glaucoma</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>1200</td>
+    </tr>
+  </tbody>
+</table>"
+428,11320797.140803097,349565.4876503971,Ministry of Education Malaysia,3.1386293,101.696451,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16023965' target='_blank'><div>ISRCTN16023965</div></a></td>
+      <td>Home-training for hemianopia (partial blindness)</td>
+      <td>Behavioural</td>
+      <td>Mixed</td>
+      <td>120</td>
+    </tr>
+  </tbody>
+</table>"
+431,-13140.0525056963,6713423.546911105,Medical Research Council (MRC),51.5179163,-0.1180391,4.0,9.613531161467861,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN32956955' target='_blank'><div>ISRCTN32956955</div></a></td>
+      <td>Trial of management strategies for the acute infective conjunctivitis in ge...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN63998948' target='_blank'><div>ISRCTN63998948</div></a></td>
+      <td>Subfoveal choroidal neovascularisation. A collaborative national trial of P...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN81872640' target='_blank'><div>ISRCTN81872640</div></a></td>
+      <td>A trial of intraoperative 5-fluorouracil (5-FU) in primary glaucoma surgery...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>367</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN53474285' target='_blank'><div>ISRCTN53474285</div></a></td>
+      <td>Screening the elderly for impaired vision: a nested trial within the MRC el...</td>
+      <td>Other</td>
+      <td>Senior</td>
+      <td>2000</td>
+    </tr>
+  </tbody>
+</table>"
+467,-395619.2511500395,6530228.177926505,South Devon Healthcare NHS Foundation Trust,50.4823211,-3.5539082,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13156311' target='_blank'><div>ISRCTN13156311</div></a></td>
+      <td>Randomised trial of four to six week follow ups vs no medical follow up aft...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>400</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN43918552' target='_blank'><div>ISRCTN43918552</div></a></td>
+      <td>A randomised controlled study to assess the emotional needs and efficacy of...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>128</td>
+    </tr>
+  </tbody>
+</table>"
+479,-175563.0821249797,7350231.428662039,"Northumberland, Tyne and Wear NHS Foundation Trust",54.9400072,-1.57711,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16758036' target='_blank'><div>ISRCTN16758036</div></a></td>
+      <td>Trial of a non-invasive stimulation method to treat visual hallucinations i...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>"
+494,-61247.23799387081,7025267.004461995,University of Lincoln,53.2279107,-0.5501933,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN90462176' target='_blank'><div>ISRCTN90462176</div></a></td>
+      <td>Can a computer game designed to rehabilitate young people with visual field...</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>10</td>
+    </tr>
+  </tbody>
+</table>"
+506,-252121.91532729843,6983689.360652763,Spectrum Thea Pharmaceuticals,53.0037379,-2.2648497,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN79841039' target='_blank'><div>ISRCTN79841039</div></a></td>
+      <td>Assessing the effects of supplementation with Nutrof® Total on the ability ...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>32</td>
+    </tr>
+  </tbody>
+</table>"
+526,-18147.548291999206,6713962.47875507,London Eye Hospital,51.5209288,-0.1630222,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10524984' target='_blank'><div>ISRCTN10524984</div></a></td>
+      <td>Laser for Early Age related macular Degeneration</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+528,-106664.59949405836,6701156.473722683,Royal Berkshire NHS Foundation Trust,51.4492924,-0.9581843999999999,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN24411195' target='_blank'><div>ISRCTN24411195</div></a></td>
+      <td>Study of toric intraocular lens (IOL) versus limbal relaxing incisions in t...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN64880258' target='_blank'><div>ISRCTN64880258</div></a></td>
+      <td>The use of I-ZIP® Adherent Ocular Bandage to help cataract surgery incision...</td>
+      <td>Other</td>
+      <td>Other</td>
+      <td>50</td>
+    </tr>
+  </tbody>
+</table>"
+549,846575.821923582,6792728.166143293,European Research Council (EU),51.95907,7.604919999999999,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN68270512' target='_blank'><div>ISRCTN68270512</div></a></td>
+      <td>Central Retinal Enrichment Supplementation Trials - enrichment of macular p...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+  </tbody>
+</table>"
+550,118588.43090309277,6673586.613107876,European Research Council (ERC),51.2946853,1.065298,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN13894787' target='_blank'><div>ISRCTN13894787</div></a></td>
+      <td>Central Retinal Enrichment Supplementation Trials - enrichment of macular p...</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>150</td>
+    </tr>
+  </tbody>
+</table>"
+554,-7935938.557460285,5247846.125467768,Menicon Co. Ltd (Japan),42.577259,-71.289749,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN28788224' target='_blank'><div>ISRCTN28788224</div></a></td>
+      <td>Clinical Evaluation of DP037, for contact lens users</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>"
+556,-247682.14894404123,7068577.221135162,Royal Manchester Children's Hospital,53.4601835,-2.2249666,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN34221234' target='_blank'><div>ISRCTN34221234</div></a></td>
+      <td>Greater Manchester Avastin® for choroidal Neovascularisation trial</td>
+      <td>Drug</td>
+      <td>Senior</td>
+      <td>330</td>
+    </tr>
+  </tbody>
+</table>"
+566,-326548.2455722867,7069605.090208877,Aintree University Hospitals NHS Foundation Trust,53.4656806,-2.9334328,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN27801757' target='_blank'><div>ISRCTN27801757</div></a></td>
+      <td>The efficacy of oral transmucosal fentamyl as an analgesic agent during pan...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>38</td>
+    </tr>
+  </tbody>
+</table>"
+620,-481013.30082958785,7535282.289562013,NHS Greater Glasgow and Clyde,55.883619,-4.321016,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14022536' target='_blank'><div>ISRCTN14022536</div></a></td>
+      <td>Perceptual learning in enhanced amblyopia treatment</td>
+      <td>Device</td>
+      <td>Child</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>"
+621,-144593.14262621186,6570148.674658839,Isle of Wight Healthcare NHS Trust,50.7099611,-1.2989023,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN59484478' target='_blank'><div>ISRCTN59484478</div></a></td>
+      <td>Assessment of Detection of Apoptosing Retinal Cells in glaucoma</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>98</td>
+    </tr>
+  </tbody>
+</table>"
+635,-82608.7580962571,6678052.735819444,Frimley Park Hospital NHS Foundation Trust,51.319766,-0.7420871,3.0,7.826061944859854,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN27864936' target='_blank'><div>ISRCTN27864936</div></a></td>
+      <td>A prospective randomised controlled trial assessing the efficacy of Pegatan...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>90</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN02628492' target='_blank'><div>ISRCTN02628492</div></a></td>
+      <td>Prevention of post-cataract surgery macula oedema with prophylactic ketorol...</td>
+      <td>Drug</td>
+      <td>Not Specified</td>
+      <td>1400</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12980412' target='_blank'><div>ISRCTN12980412</div></a></td>
+      <td>Randomised controlled trial of bevacizumab in choroidal neovascularisation ...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>"
+694,-288915.5228549673,6703083.532206059,United Bristol Healthcare NHS Trust,51.4600795,-2.5953723,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN46576063' target='_blank'><div>ISRCTN46576063</div></a></td>
+      <td>Tacrolimus monotherapy for uveitis</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+708,-662819.1799982543,7283569.048141964,Royal Group of Hospitals Trust,54.59454059999999,-5.954206,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN92166560' target='_blank'><div>ISRCTN92166560</div></a></td>
+      <td>A randomised controlled trial of alternative treatments to inhibit VEGF in ...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>600</td>
+    </tr>
+  </tbody>
+</table>"
+726,-11834.375066232915,6712606.173857521,The Health Foundation,51.513347,-0.10631,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN00821605' target='_blank'><div>ISRCTN00821605</div></a></td>
+      <td>A randomised controlled trial of the effectiveness of prism spectacles in r...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>225</td>
+    </tr>
+  </tbody>
+</table>"
+731,-330037.36576806754,7059192.934205879,Royal Liverpool and Broadgreen University Hospitals NHS Trust,53.4099629,-2.9647761,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN87561257' target='_blank'><div>ISRCTN87561257</div></a></td>
+      <td>Individual risk-based Screening for Diabetic Retinopathy</td>
+      <td>Other</td>
+      <td>Mixed</td>
+      <td>5900</td>
+    </tr>
+  </tbody>
+</table>"
+794,-177379.03697829036,7362371.105163078,The Newcastle upon Tyne Hospitals NHS Trust,55.00260189999999,-1.593423,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN81615611' target='_blank'><div>ISRCTN81615611</div></a></td>
+      <td>The safety and efficacy of posterior juxta-scleral (40 mg) or intra-vitreal...</td>
+      <td>Drug</td>
+      <td>Senior</td>
+      <td>400</td>
+    </tr>
+  </tbody>
+</table>"
+824,-3064.569921793425,6688993.114235685,South London and Maudsley NHS Foundation Trust,51.3811467,-0.0275295,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN14435750' target='_blank'><div>ISRCTN14435750</div></a></td>
+      <td>Study of hallucinations in Parkinson's disease, eye disease and dementia- t...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>90</td>
+    </tr>
+  </tbody>
+</table>"
+900,-660848.2684137594,7286371.64180247,Belfast Health and Social Care Trust,54.60912399999999,-5.936501,5.0,11.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16962255' target='_blank'><div>ISRCTN16962255</div></a></td>
+      <td>Use of ARA 290 for the treatment of diabetic macular oedema</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN47403123' target='_blank'><div>ISRCTN47403123</div></a></td>
+      <td>How well does the OriLens (Hubble-type) implant work in improving vision in...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>132</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17742985' target='_blank'><div>ISRCTN17742985</div></a></td>
+      <td>A comparison of standard laser with micropulse laser for the treatment of d...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>266</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN99883695' target='_blank'><div>ISRCTN99883695</div></a></td>
+      <td>Low-dose atropine eye drops to reduce progression of short-sightedness (myo...</td>
+      <td>Drug</td>
+      <td>Child</td>
+      <td>289</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10856638' target='_blank'><div>ISRCTN10856638</div></a></td>
+      <td>Effectiveness of multimodal imaging for the evaluation of retinal oedema an...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>416</td>
+    </tr>
+  </tbody>
+</table>"
+925,-13162.39432749851,6710238.324521498,King’s College London and Guy’s and St Thomas’ NHS Foundation Trust,51.5001076,-0.1182398,2.0,5.306765580733931,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN31806847' target='_blank'><div>ISRCTN31806847</div></a></td>
+      <td>Comparison of the safety of two antibiotics - levofloxacin and cefuroxime -...</td>
+      <td>Drug</td>
+      <td>Other</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN93583656' target='_blank'><div>ISRCTN93583656</div></a></td>
+      <td>Evaluation of cataract surgery and lens implantation in diabetics</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>"
+959,135840.41389166008,6912499.007155243,Norfolk and Norwich University Hospitals NHS Foundation Trust,52.6171847,1.2202752,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN89683704' target='_blank'><div>ISRCTN89683704</div></a></td>
+      <td>Helping adherence with glaucoma treatment: a randomised trial</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>200</td>
+    </tr>
+  </tbody>
+</table>"
+962,-369766.7354347329,7540750.493748074,Heriot-Watt University,55.9111604,-3.3216711,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN16087935' target='_blank'><div>ISRCTN16087935</div></a></td>
+      <td>Effect of head-mounted displays on the ability of individuals with poor eye...</td>
+      <td>Device</td>
+      <td>Adult</td>
+      <td>10</td>
+    </tr>
+  </tbody>
+</table>"
+1002,1466239.8417177026,6897144.947034924,"Dr. Mann Pharma GmbH, Bausch and Lomb Group (Germany)",52.53336340000001,13.1714566,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN94557601' target='_blank'><div>ISRCTN94557601</div></a></td>
+      <td>The putative beneficial effects of supplemental Lutein (L) and Zeaxanthin (...</td>
+      <td>Drug</td>
+      <td>Adult</td>
+      <td>360</td>
+    </tr>
+  </tbody>
+</table>"
+1080,684877.6046408028,5811342.329322406,TRB Chemedica International SA (Switzerland),46.1930659,6.1523602,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN91412460' target='_blank'><div>ISRCTN91412460</div></a></td>
+      <td>A 3-month study of the efficacy and safety of SVS20 in patients with bilate...</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>300</td>
+    </tr>
+  </tbody>
+</table>"
+1120,-156833.1547849464,7343031.216069204,City Hospitals Sunderland NHS Foundation Trust,54.9028353,-1.4088562,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN83135049' target='_blank'><div>ISRCTN83135049</div></a></td>
+      <td>Viscogonioplasty in narrow angle glaucoma</td>
+      <td>Other</td>
+      <td>Other</td>
+      <td>34</td>
+    </tr>
+  </tbody>
+</table>"
+1167,529534.8508583421,6851057.085091457,Bausch and Lomb,52.280796,4.7568925,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN17842302' target='_blank'><div>ISRCTN17842302</div></a></td>
+      <td>The effect of nutritional supplementation on retinal function</td>
+      <td>Supplement</td>
+      <td>Adult</td>
+      <td>120</td>
+    </tr>
+  </tbody>
+</table>"
+1189,-158699.40378419746,6614584.61098057,"NIHR Evaluation, Trials and Studies Coordinating Centre (NETSCC)",50.962056,-1.425621,1.0,1.0,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN15602229' target='_blank'><div>ISRCTN15602229</div></a></td>
+      <td>Gene therapy for treatment of choroideremia</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>"
+1192,-14827.812031357762,6709852.226837003,Department of Health,51.49794844005473,-0.13320050177820006,9.0,14.652123889719707,"<table border=""1"" class=""dataframe"">
+  <thead>
+    <tr style=""text-align: left;"">
+      <th>ISRCTN link</th>
+      <th>Title</th>
+      <th>Intervention type</th>
+      <th>Age group</th>
+      <th>Target number of participants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN66877546' target='_blank'><div>ISRCTN66877546</div></a></td>
+      <td>A prospective, randomised, double-masked, controlled trial of the treatment...</td>
+      <td>Procedure/Surgery</td>
+      <td>Adult</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN12271374' target='_blank'><div>ISRCTN12271374</div></a></td>
+      <td>RCT to assess effects of undercorrection or full correction of hypermetropi...</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN04238743' target='_blank'><div>ISRCTN04238743</div></a></td>
+      <td>Improvement in focus during treatment of amblyopia</td>
+      <td>Other</td>
+      <td>Child</td>
+      <td>180</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN64352175' target='_blank'><div>ISRCTN64352175</div></a></td>
+      <td>The impact of indocyanine green (ICG) angiography in multiple diagnostic im...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>240</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN77268814' target='_blank'><div>ISRCTN77268814</div></a></td>
+      <td>Randomised Controlled Trial of Efficacy of Optometric Interventions</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN55960730' target='_blank'><div>ISRCTN55960730</div></a></td>
+      <td>Double-masked randomised controlled trial of an amblyopia treatment</td>
+      <td>Other</td>
+      <td>Adult</td>
+      <td>64</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN48112269' target='_blank'><div>ISRCTN48112269</div></a></td>
+      <td>An evaluation of the effectiveness of a nurse-run glaucoma support unit in ...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>102</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN10637745' target='_blank'><div>ISRCTN10637745</div></a></td>
+      <td>Evaluation of Lacrimal Stent (mini monoka) for treatment of punctal stenosi...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.isrctn.com/ISRCTN36532888' target='_blank'><div>ISRCTN36532888</div></a></td>
+      <td>A pilot study to determine the feasibility of a glaucoma direct referral sc...</td>
+      <td>Other</td>
+      <td>Not Specified</td>
+      <td>1000</td>
+    </tr>
+  </tbody>
+</table>"
