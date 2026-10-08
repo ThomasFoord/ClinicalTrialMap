@@ -5,7 +5,7 @@ from bokeh.plotting import figure
 from bokeh.models import ColumnDataSource
 from bokeh.io import show
 from bokeh.models import TapTool, CustomJS, HoverTool, Div, Row, Column
-from bokeh.tile_providers import Vendors, get_provider
+from bokeh.models import WMTSTileSource
 from bokeh.embed import components
 from bokeh.resources import CDN
 
@@ -17,7 +17,11 @@ def mapper(disease="All", color="#040a42"):
 
     map_dat = pd.read_csv(os.getcwd() + "/d_dat" + disease + ".csv", index_col=0)
 
-    tile_provider = get_provider(Vendors.CARTODBPOSITRON)
+    tile_provider = WMTSTileSource(
+        url="https://basemaps.cartocdn.com/rastertiles/light_all/{Z}/{X}/{Y}.png?key="
+            + os.environ.get("CARTO_API_KEY", ""),
+        attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors '
+                    '&copy; <a href="https://carto.com/attributions">CARTO</a>')
 
     title = "Data Map of UK " + disease + " Clinical Trial Research and Collaboration"
 
