@@ -44,7 +44,8 @@ header h1.logo {
 
 	height:  6vh;
 
-	width:  10vw;
+	width:  auto;
+			padding: 0 20px;
 
 	display: flex;
   justify-content: center;
