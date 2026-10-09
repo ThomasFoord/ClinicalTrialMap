@@ -23,7 +23,7 @@ def mapper(disease="All", color="#040a42"):
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors '
                     '&copy; <a href="https://carto.com/attributions">CARTO</a>')
 
-    title = "Data Map of UK " + disease + " Clinical Trial Research and Collaboration"
+    title = "Data Map of " + disease + " Clinical Trial Research and Collaboration in the UK registered with ISRCTN"
 
     tools= ['pan,wheel_zoom,zoom_in,zoom_out,save,reset,tap', HoverTool(tooltips=[('Organisation', '@place'), ('No. Studies', '@number')])]
     bok_map = figure(x_range=(-1500000, 350000), y_range=(6500000, 8000000), title=title, tools=tools, active_scroll = "wheel_zoom",
